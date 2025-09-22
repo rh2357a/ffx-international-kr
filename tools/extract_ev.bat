@@ -14,8 +14,8 @@ for %%i in (build\files\*.ev.lz1) do (
 
   echo.  %%i
   tools\ffxcx -d %%i texts\event\!filename!
-  tools\ffxev -e1 -t font\ja.tbs texts\event\!filename! texts\event\!filename!.ev1.ko.txt
-  tools\ffxev -e4 -t font\en.tbs texts\event\!filename! texts\event\!filename!.ev1.en.txt
+  tools\ffxev -e1 -t tables\ja.tbs texts\event\!filename! texts\event\!filename!.ev1.ko.txt
+  tools\ffxev -e4 -t tables\en.tbs texts\event\!filename! texts\event\!filename!.ev1.en.txt
   del texts\event\!filename!
 )
 
@@ -26,8 +26,8 @@ for %%i in (build\files\*.ev.lz2) do (
 
   echo.  %%i
   tools\ffxcx -d %%i texts\event\!filename!
-  tools\ffxev -e1 -t font\ja.tbs texts\event\!filename! texts\event\!filename!.ev2.ko.txt
-  tools\ffxev -e4 -t font\en.tbs texts\event\!filename! texts\event\!filename!.ev2.en.txt
+  tools\ffxev -e1 -t tables\ja.tbs texts\event\!filename! texts\event\!filename!.ev2.ko.txt
+  tools\ffxev -e4 -t tables\en.tbs texts\event\!filename! texts\event\!filename!.ev2.en.txt
   del texts\event\!filename!
 )
 

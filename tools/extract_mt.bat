@@ -15,7 +15,7 @@ for %%i in (build\files\*.mt.lz1) do (
 
   echo.  %%i
   tools\ffxcx -d %%i !target_dir!\!filename!
-  tools\ffxmt -e -t font\ja.tbs !target_dir!\!filename! !target_dir!\!filename!.mt1.txt
+  tools\ffxmt -e -t tables\ja.tbs !target_dir!\!filename! !target_dir!\!filename!.mt1.txt
   del !target_dir!\!filename!
 )
 
@@ -27,7 +27,7 @@ for %%i in (build\files\*.mt.lz2) do (
 
   echo.  %%i
   tools\ffxcx -d %%i !target_dir!\!filename!
-  tools\ffxmt -e -t font\ja.tbs !target_dir!\!filename! !target_dir!\!filename!.mt2.txt
+  tools\ffxmt -e -t tables\ja.tbs !target_dir!\!filename! !target_dir!\!filename!.mt2.txt
   del !target_dir!\!filename!
 )
 

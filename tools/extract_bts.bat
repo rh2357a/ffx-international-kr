@@ -14,11 +14,9 @@ for %%i in (build\files\*.bts) do (
 
   echo.  %%i
   copy %%i !target_dir!\!filename! >nul
-  tools\ffxbts -e2 -w -t font\ja.tbs !target_dir!\!filename! !target_dir!\!filename!.bts.txt
+  tools\ffxbts -e2 -w -t tables\ja.tbs !target_dir!\!filename! !target_dir!\!filename!.bts.txt
   del !target_dir!\!filename!
 )
-
-rem lz1, lz2 ¾øÀ½
 
 popd
 
