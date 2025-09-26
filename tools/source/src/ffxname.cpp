@@ -1,4 +1,4 @@
-#include "utils.h"
+#include "utils/binfile.h"
 
 #include <filesystem>
 #include <fstream>
@@ -35,35 +35,37 @@ int main(int argc, char *argv[])
 	const auto &target_filename = iso_build_dir / (name + ".bin");
 	if (!std::filesystem::exists(target_filename))
 	{
-		std::cout << target_filename << "를 찾을 수 없음" << "\n";
+		std::cout << "Cannot find '" << target_filename << "'\n";
 		return -2;
 	}
 
 	const std::vector<std::filesystem::path> name_files{
-		iso_build_dir / (name + ".6.bin"),
-		iso_build_dir / (name + ".7.bin"),
-		iso_build_dir / (name + ".8.bin"),
-		iso_build_dir / (name + ".9.bin"),
+		iso_build_dir / (name + ".06.bin"),
+		iso_build_dir / (name + ".07.bin"),
+		iso_build_dir / (name + ".08.bin"),
+		iso_build_dir / (name + ".09.bin"),
 		iso_build_dir / (name + ".11.bin"),
 		iso_build_dir / (name + ".13.bin"),
 	};
 
 	if (method == "-e")
 	{
+		using namespace binfile;
+
 		const std::vector<uint64_t> file_offsets{
-			/* 6  */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x18, 4))),
-			/* 7  */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x1c, 4))),
-			/* 8  */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x20, 4))),
-			/* 9  */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x24, 4))),
+			/* 06 */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x18, 4))),
+			/* 07 */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x1c, 4))),
+			/* 08 */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x20, 4))),
+			/* 09 */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x24, 4))),
 			/* 11 */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x2c, 4))),
 			/* 13 */ static_cast<uint64_t>(to_size(read_bytes(target_filename, 0x34, 4))),
 		};
 
 		const std::vector<size_t> file_sizes{
-			/* 6  */ to_size(read_bytes(target_filename, 0x1c, 4)) - to_size(read_bytes(target_filename, 0x18, 4)),
-			/* 7  */ to_size(read_bytes(target_filename, 0x20, 4)) - to_size(read_bytes(target_filename, 0x1c, 4)),
-			/* 8  */ to_size(read_bytes(target_filename, 0x24, 4)) - to_size(read_bytes(target_filename, 0x20, 4)),
-			/* 9  */ to_size(read_bytes(target_filename, 0x2c, 4)) - to_size(read_bytes(target_filename, 0x24, 4)),
+			/* 06 */ to_size(read_bytes(target_filename, 0x1c, 4)) - to_size(read_bytes(target_filename, 0x18, 4)),
+			/* 07 */ to_size(read_bytes(target_filename, 0x20, 4)) - to_size(read_bytes(target_filename, 0x1c, 4)),
+			/* 08 */ to_size(read_bytes(target_filename, 0x24, 4)) - to_size(read_bytes(target_filename, 0x20, 4)),
+			/* 09 */ to_size(read_bytes(target_filename, 0x2c, 4)) - to_size(read_bytes(target_filename, 0x24, 4)),
 			/* 11 */ to_size(read_bytes(target_filename, 0x34, 4)) - to_size(read_bytes(target_filename, 0x2c, 4)),
 			/* 13 */ read_all_bytes(target_filename).size() - to_size(read_bytes(target_filename, 0x34, 4)),
 		};
@@ -79,10 +81,10 @@ int main(int argc, char *argv[])
 	else if (method == "-i")
 	{
 		const std::vector<uint64_t> offset_ptrs{
-			/* 6  */ 0x18,
-			/* 7  */ 0x1c,
-			/* 8  */ 0x20,
-			/* 9  */ 0x24,
+			/* 06 */ 0x18,
+			/* 07 */ 0x1c,
+			/* 08 */ 0x20,
+			/* 09 */ 0x24,
 			/* 11 */ 0x2c,
 			/* 13 */ 0x34,
 		};
@@ -95,11 +97,11 @@ int main(int argc, char *argv[])
 		{
 			if (!std::filesystem::exists(name_files[i]))
 			{
-				std::cout << name_files[i] << "를 찾을 수 없음" << "\n";
+				std::cout << "Cannot find '" << name_files[i] << "'\n";
 				return -3;
 			}
 
-			auto data = read_all_bytes(name_files[i]);
+			auto data = binfile::read_all_bytes(name_files[i]);
 			data_bytes.insert(data_bytes.end(), data.begin(), data.end());
 
 			uint64_t padding = 0;
@@ -123,8 +125,8 @@ int main(int argc, char *argv[])
 			std::filesystem::remove(target_filename);
 
 		std::ofstream output(target_filename, std::ios::binary | std::ios::app);
-		append_bytes(output, header_bytes);
-		append_bytes(output, data_bytes);
+		binfile::append_bytes(output, header_bytes);
+		binfile::append_bytes(output, data_bytes);
 	}
 	else
 	{

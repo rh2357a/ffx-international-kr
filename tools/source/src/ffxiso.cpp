@@ -1,5 +1,5 @@
-#include "extract.h"
-#include "import.h"
+#include "ffxiso/extract.h"
+#include "ffxiso/import.h"
 
 #include <iostream>
 #include <string>
@@ -20,10 +20,10 @@ int main(int argc, char *argv[])
 	}
 
 	if (std::string(argv[1]) == "-e")
-		return extract(argv[2], argv[3]) ? 0 : -2;
+		return ffxiso::extract(argv[2], argv[3]) ? 0 : -2;
 
 	if (std::string(argv[1]) == "-i")
-		return import(argv[2], argv[3]) ? 0 : -3;
+		return ffxiso::import(argv[2], argv[3]) ? 0 : -3;
 
 	print_usage();
 	return -1;

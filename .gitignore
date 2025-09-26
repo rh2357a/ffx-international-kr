@@ -1,5 +1,4 @@
 build/
-test/
 
 *.iso
-ffx_kr.xdelta
+/*.xdelta

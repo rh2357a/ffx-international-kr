@@ -2,10 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "run extract test",
+      "name": "run (ffxiso)",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}\\build\\debug\\bin\\${workspaceFolderBasename}.exe",
+      "program": "${workspaceFolder}\\build\\debug\\bin\\ffxiso.exe",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}\\build\\debug\\bin",
@@ -13,7 +13,7 @@
       "externalConsole": true,
       "MIMode": "gdb",
       "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
-      "preLaunchTask": "Build",
+      "preLaunchTask": "build.ffxiso",
       "internalConsoleOptions": "neverOpen",
       "setupCommands": [
         {
@@ -35,18 +35,51 @@
       ]
     },
     {
-      "name": "run import test",
+      "name": "run (ffxftcx)",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}\\build\\debug\\bin\\${workspaceFolderBasename}.exe",
-      "args": ["-i", "test", "new_ffxkr.iso"],
+      "program": "${workspaceFolder}\\build\\debug\\bin\\ffxftcx.exe",
+      "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}\\build\\debug\\bin",
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",
       "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
-      "preLaunchTask": "Build",
+      "preLaunchTask": "build.ffxftcx",
+      "internalConsoleOptions": "neverOpen",
+      "setupCommands": [
+        {
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "text": "set print unicode on",
+          "ignoreFailures": true
+        },
+        {
+          "text": "set target-charset UTF-8",
+          "ignoreFailures": true
+        },
+        {
+          "text": "set host-charset UTF-8",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "run (ffxname)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}\\build\\debug\\bin\\ffxname.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}\\build\\debug\\bin",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
+      "preLaunchTask": "build.ffxname",
       "internalConsoleOptions": "neverOpen",
       "setupCommands": [
         {

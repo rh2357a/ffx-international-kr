@@ -1,25 +1,14 @@
-#ifndef _UTILS_H_
-#define _UTILS_H_
+#ifndef _UTILS_BINFILE_H_
+#define _UTILS_BINFILE_H_
 
-#include "types.h"
-
-#include <algorithm>
+#include <cstdint>
 #include <fstream>
 #include <filesystem>
-#include <chrono>
-#include <string>
-#include <format>
 #include <vector>
 
-constexpr size_t CHUNK_SIZE = 16 * 1024 * 1024;
+namespace binfile {
 
-inline std::string datetime_str()
-{
-	using namespace std::chrono;
-	auto now = floor<seconds>(system_clock::now());
-	zoned_time zt{locate_zone("Asia/Seoul"), now};
-	return std::format("{:%Y%m%d_%H%M%S}", zt);
-}
+constexpr size_t CHUNK_SIZE = 16 * 1024 * 1024;
 
 inline std::vector<uint8_t> read_bytes(const std::filesystem::path &path, uint64_t index, uint64_t length)
 {
@@ -120,5 +109,45 @@ inline bool has_bytes(const std::vector<uint8_t> &data, uint64_t index, const st
 		correct &= data[i] == find_bytes[j++];
 	return correct;
 }
+
+inline void append_bytes(std::ofstream &fs, const std::vector<uint8_t> &bytes)
+{
+	fs.write(reinterpret_cast<const char *>(bytes.data()), bytes.size());
+}
+
+inline void append_byte(std::ofstream &fs, uint8_t v)
+{
+	std::vector<uint8_t> bytes;
+	bytes.push_back(static_cast<uint8_t>(v & 0xff));
+	append_bytes(fs, bytes);
+}
+
+inline void append_uint16(std::ofstream &fs, uint16_t v)
+{
+	std::vector<uint8_t> bytes;
+	bytes.push_back(static_cast<uint8_t>(v & 0xff));
+	bytes.push_back(static_cast<uint8_t>((v >> 8) & 0xff));
+	append_bytes(fs, bytes);
+}
+
+inline void append_uint32(std::ofstream &fs, uint32_t v)
+{
+	std::vector<uint8_t> bytes;
+	bytes.push_back(static_cast<uint8_t>(v & 0xff));
+	bytes.push_back(static_cast<uint8_t>((v >> 8) & 0xff));
+	bytes.push_back(static_cast<uint8_t>((v >> 16) & 0xff));
+	bytes.push_back(static_cast<uint8_t>((v >> 24) & 0xff));
+	append_bytes(fs, bytes);
+}
+
+inline void append_zero(std::ofstream &fs, size_t len)
+{
+	std::vector<uint8_t> bytes;
+	for (size_t i = 0; i < len; i++)
+		bytes.push_back(0);
+	append_bytes(fs, bytes);
+}
+
+} // namespace binfile
 
 #endif

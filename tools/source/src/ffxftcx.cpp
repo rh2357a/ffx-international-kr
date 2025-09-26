@@ -1,5 +1,5 @@
-#include "bitmap_image.hpp"
-#include "utils.h"
+#include "utils/bitmap_image.hpp"
+#include "utils/binfile.h"
 
 #include <filesystem>
 #include <fstream>
@@ -161,31 +161,31 @@ int main(int argc, char *argv[])
 		std::filesystem::remove(output_path);
 
 	std::ofstream output(output_path, std::ios::binary | std::ios::app);
-	append_bytes(output, FTCX_HEADER);
-	append_uint32(output, glyph_count);
+	binfile::append_bytes(output, FTCX_HEADER);
+	binfile::append_uint32(output, glyph_count);
 
 	// glyph size
-	append_uint16(output, 0xe);
-	append_uint16(output, 0x12);
-	append_zero(output, 8);
+	binfile::append_uint16(output, 0xe);
+	binfile::append_uint16(output, 0x12);
+	binfile::append_zero(output, 8);
 
 	// data address, size
-	append_uint32(output, 0x40);
-	append_uint32(output, static_cast<uint32_t>(code_bytes) + font_bytes_size);
+	binfile::append_uint32(output, 0x40);
+	binfile::append_uint32(output, static_cast<uint32_t>(code_bytes) + font_bytes_size);
 
 	// image size
-	append_uint16(output, 0x80);
-	append_uint16(output, 0x3f0);
-	append_zero(output, 4);
+	binfile::append_uint16(output, 0x80);
+	binfile::append_uint16(output, 0x3f0);
+	binfile::append_zero(output, 4);
 
 	// font width address, size
-	append_uint32(output, 0x40 + static_cast<uint32_t>(code_bytes) + font_bytes_size);
-	append_uint32(output, glyph_count);
-	append_zero(output, 8);
+	binfile::append_uint32(output, 0x40 + static_cast<uint32_t>(code_bytes) + font_bytes_size);
+	binfile::append_uint32(output, glyph_count);
+	binfile::append_zero(output, 8);
 
-	append_zero(output, static_cast<size_t>(code_bytes));
-	append_bytes(output, font_bytes);
-	append_bytes(output, width_bytes);
+	binfile::append_zero(output, static_cast<size_t>(code_bytes));
+	binfile::append_bytes(output, font_bytes);
+	binfile::append_bytes(output, width_bytes);
 
 	return 0;
 }

@@ -1,0 +1,59 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build.ffxiso",
+      "type": "shell",
+      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
+      "args": [
+        "-defterm",
+        "-here",
+        "-no-start",
+        "-mingw64",
+        "-c",
+        "make ffxiso"
+      ],
+      "options": {
+        "env": {
+          "DEBUG": "1"
+        }
+      }
+    },
+    {
+      "label": "build.ffxftcx",
+      "type": "shell",
+      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
+      "args": [
+        "-defterm",
+        "-here",
+        "-no-start",
+        "-mingw64",
+        "-c",
+        "make ffxftcx"
+      ],
+      "options": {
+        "env": {
+          "DEBUG": "1"
+        }
+      }
+    },
+    {
+      "label": "build.ffxname",
+      "type": "shell",
+      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
+      "args": [
+        "-defterm",
+        "-here",
+        "-no-start",
+        "-mingw64",
+        "-c",
+        "make ffxname"
+      ],
+      "options": {
+        "env": {
+          "DEBUG": "1"
+        }
+      }
+    }
+  ]
+}

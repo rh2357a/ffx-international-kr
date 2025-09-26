@@ -1,64 +1,40 @@
 #include "import.h"
 
-#include "types.h"
-#include "utils.h"
-#include "json.hpp"
+#include "mdg.h"
+#include "../utils/binfile.h"
+#include "../utils/json.hpp"
 
 #include <filesystem>
 #include <fstream>
 #include <iostream>
 #include <vector>
 
+// clang-format off
+
 const std::vector<uint8_t> SIZETBL_BYTES{
-	0x13,
-	0x16,
-	0x00,
+	0x13, 0x16, 0x00,
 };
 
 std::vector<uint8_t> make_volume_descriptor(uint32_t sectors)
 {
 	return {
-		0x02,
-		0x00,
-		0x02,
-		0x00,
-		0x14,
-		0x00,
-		0x00,
-		0x00,
-		0x1e,
-		0xB5,
-		0xF0,
-		0x07,
+		0x02, 0x00, 0x02, 0x00,
+		0x14, 0x00, 0x00, 0x00,
+		0x1e, 0xB5, 0xF0, 0x07,
 		static_cast<uint8_t>(sectors & 0xff),
 		static_cast<uint8_t>((sectors >> 8) & 0xff),
 		static_cast<uint8_t>((sectors >> 16) & 0xff),
 		static_cast<uint8_t>((sectors >> 24) & 0xff),
-		0x00,
-		0x80,
-		0x00,
-		0x00,
-		0x20,
-		0x00,
-		0x00,
-		0x00,
-		0x00,
-		0x80,
-		0x00,
-		0x00,
-		0x30,
-		0x00,
-		0x00,
-		0x00,
+		0x00, 0x80, 0x00, 0x00,
+		0x20, 0x00, 0x00, 0x00,
+		0x00, 0x80, 0x00, 0x00,
+		0x30, 0x00, 0x00, 0x00,
 	};
 }
 
-void append_bytes(std::ofstream &fs, const std::vector<uint8_t> &bytes)
-{
-	fs.write(reinterpret_cast<const char *>(bytes.data()), bytes.size());
-}
+// clang-format on
 
-bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
+bool ffxiso::import(std::filesystem::path import_dir, std::filesystem::path output_path)
 {
 	if (std::filesystem::exists(output_path))
 		std::filesystem::remove(output_path);
@@ -72,9 +48,9 @@ bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
 
 	// 0
 	{
-		auto iso_header_bytes = read_all_bytes(import_dir / "iso_header");
-		iso_header_bytes = pad_sector_bytes(iso_header_bytes);
-		append_bytes(output, iso_header_bytes);
+		auto iso_header_bytes = binfile::read_all_bytes(import_dir / "iso_header");
+		iso_header_bytes = binfile::pad_sector_bytes(iso_header_bytes);
+		binfile::append_bytes(output, iso_header_bytes);
 	}
 
 	std::vector<uint8_t> sizetbl;
@@ -127,7 +103,7 @@ bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
 				else
 				{
 					auto file_path = import_dir / "files" / entry["filename"].get<std::string>();
-					auto file_bytes = read_all_bytes(file_path);
+					auto file_bytes = binfile::read_all_bytes(file_path);
 
 					if (is_compressed)
 					{
@@ -159,18 +135,18 @@ bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
 			cdrom_mdg.insert(cdrom_mdg.end(), current_mdg_bytes.begin(), current_mdg_bytes.end());
 		}
 
-		cdrom_mdg = pad_sector_bytes(cdrom_mdg);
-		append_bytes(output, cdrom_mdg);
+		cdrom_mdg = binfile::pad_sector_bytes(cdrom_mdg);
+		binfile::append_bytes(output, cdrom_mdg);
 
 		std::vector<uint8_t> free_sectors(0x20 * 0x800, 0);
-		append_bytes(output, free_sectors);
+		binfile::append_bytes(output, free_sectors);
 	}
 
 	// 0xac000
 	{
-		auto cdrom_fid_bytes = read_all_bytes(import_dir / "cdrom.fid");
-		cdrom_fid_bytes = pad_sector_bytes(cdrom_fid_bytes);
-		append_bytes(output, cdrom_fid_bytes);
+		auto cdrom_fid_bytes = binfile::read_all_bytes(import_dir / "cdrom.fid");
+		cdrom_fid_bytes = binfile::pad_sector_bytes(cdrom_fid_bytes);
+		binfile::append_bytes(output, cdrom_fid_bytes);
 	}
 
 	// 0xac800
@@ -179,8 +155,8 @@ bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
 		{
 			if (i == 15)
 			{
-				sizetbl = pad_sector_bytes(sizetbl);
-				append_bytes(output, sizetbl);
+				sizetbl = binfile::pad_sector_bytes(sizetbl);
+				binfile::append_bytes(output, sizetbl);
 				continue;
 			}
 
@@ -190,9 +166,9 @@ bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
 				continue;
 
 			auto file_path = import_dir / "files" / entry["filename"].get<std::string>();
-			auto file_bytes = read_all_bytes(file_path);
-			file_bytes = pad_sector_bytes(file_bytes);
-			append_bytes(output, file_bytes);
+			auto file_bytes = binfile::read_all_bytes(file_path);
+			file_bytes = binfile::pad_sector_bytes(file_bytes);
+			binfile::append_bytes(output, file_bytes);
 		}
 
 		uint64_t current_addr = output.tellp();
@@ -202,11 +178,11 @@ bool import(std::filesystem::path import_dir, std::filesystem::path output_path)
 
 		std::vector<uint8_t> empty_sector(0x800, 0);
 		for (uint64_t i = 0; i < pad_sectors; i++)
-			append_bytes(output, empty_sector);
+			binfile::append_bytes(output, empty_sector);
 
 		auto volume_descriptor_bytes = make_volume_descriptor(total_sectors + pad_sectors - 1);
-		volume_descriptor_bytes = pad_sector_bytes(volume_descriptor_bytes);
-		append_bytes(output, volume_descriptor_bytes);
+		volume_descriptor_bytes = binfile::pad_sector_bytes(volume_descriptor_bytes);
+		binfile::append_bytes(output, volume_descriptor_bytes);
 	}
 
 	return true;

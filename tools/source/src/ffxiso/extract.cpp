@@ -1,11 +1,12 @@
 #include "extract.h"
 
-#include "types.h"
-#include "utils.h"
-
-#include "json.hpp"
+#include "mdg.h"
+#include "../utils/strings.h"
+#include "../utils/binfile.h"
+#include "../utils/json.hpp"
 
 #include <iostream>
+#include <fstream>
 #include <filesystem>
 #include <format>
 
@@ -34,29 +35,29 @@ uint64_t seek_compressed_size(const std::vector<uint8_t> &data)
 	return (pos + 7) & ~static_cast<uint64_t>(7);
 }
 
-bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
+bool ffxiso::extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 {
 	if (!std::filesystem::exists(iso_path))
 	{
-		std::cout << "'" << iso_path << "'를 찾을 수 없습니다.\n";
+		std::cout << "Cannot find '" << iso_path << "'.\n";
 		return false;
 	}
 
 	if (!std::filesystem::create_directories(output_dir))
 	{
-		std::cout << "'" << output_dir << "'는 이미 생성되어있는 폴더입니다.\n";
+		std::cout << "Folder '" << output_dir << "' already exists.\n";
 		return false;
 	}
 
-	auto iso_header_bytes = read_bytes(iso_path, 0, 0x8c000);
-	write_byte_to_file(output_dir / "iso_header", iso_header_bytes);
+	auto iso_header_bytes = binfile::read_bytes(iso_path, 0, 0x8c000);
+	binfile::write_byte_to_file(output_dir / "iso_header", iso_header_bytes);
 
-	auto fid_bytes = read_bytes(iso_path, 0xac000, 0x800);
-	write_byte_to_file(output_dir / "cdrom.fid", fid_bytes);
+	auto fid_bytes = binfile::read_bytes(iso_path, 0xac000, 0x800);
+	binfile::write_byte_to_file(output_dir / "cdrom.fid", fid_bytes);
 
 	std::vector<mdg> cdrom_mdg;
 	{
-		auto mdg_bytes = read_bytes(iso_path, 0x8c000, 0x20000);
+		auto mdg_bytes = binfile::read_bytes(iso_path, 0x8c000, 0x20000);
 
 		for (int i = 0; i < CDROM_MDG_SIZE; i++)
 		{
@@ -111,7 +112,7 @@ bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 		if ((cdrom_mdg[i].flag & MDG_FLAG_DUMMY_FILE) != 0)
 			continue;
 
-		auto size_bytes = read_bytes(iso_path, begin_size_addr + (i * 3), 3);
+		auto size_bytes = binfile::read_bytes(iso_path, begin_size_addr + (i * 3), 3);
 		uint64_t file_size = (static_cast<uint64_t>(size_bytes[0])
 							  | (static_cast<uint64_t>(size_bytes[1]) << 8)
 							  | (static_cast<uint64_t>(size_bytes[2]) << 16))
@@ -127,33 +128,33 @@ bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 		if (i == 7826)
 			real_file_size = 0x808;
 
-		auto file_bytes = read_bytes(iso_path, cdrom_mdg[i].address, real_file_size);
+		auto file_bytes = binfile::read_bytes(iso_path, cdrom_mdg[i].address, real_file_size);
 
 		std::string ext;
-		if (has_bytes(file_bytes, 5, {0x01, 0x01, 0xc0}) || has_bytes(file_bytes, 5, {0x01, 0x01, 0xb0}))
+		if (binfile::has_bytes(file_bytes, 5, {0x01, 0x01, 0xc0}) || binfile::has_bytes(file_bytes, 5, {0x01, 0x01, 0xb0}))
 			ext = "mt";
-		else if (has_bytes(file_bytes, 0, {0x56, 0x53, 0x00, 0x00}))
+		else if (binfile::has_bytes(file_bytes, 0, {0x56, 0x53, 0x00, 0x00}))
 			ext = "vs";
-		else if (has_bytes(file_bytes, 0, {0x7f, 0x45, 0x4c, 0x46}))
+		else if (binfile::has_bytes(file_bytes, 0, {0x7f, 0x45, 0x4c, 0x46}))
 			ext = "elf";
-		else if (has_bytes(file_bytes, 6, {0x42, 0x47, 0x4d, 0x20}) || has_bytes(file_bytes, 0, {0x42, 0x47, 0x4d, 0x20}))
+		else if (binfile::has_bytes(file_bytes, 6, {0x42, 0x47, 0x4d, 0x20}) || binfile::has_bytes(file_bytes, 0, {0x42, 0x47, 0x4d, 0x20}))
 			ext = "bgm";
-		else if (has_bytes(file_bytes, 5, {0x01, 0x08, 0x80, 0x03, 0x01, 0x30}))
+		else if (binfile::has_bytes(file_bytes, 5, {0x01, 0x08, 0x80, 0x03, 0x01, 0x30}))
 			ext = "bt";
-		else if (has_bytes(file_bytes, 0, {0x08, 0x00, 0x00, 0x00, 0x30, 0x00, 0x00, 0x00}))
+		else if (binfile::has_bytes(file_bytes, 0, {0x08, 0x00, 0x00, 0x00, 0x30, 0x00, 0x00, 0x00}))
 			ext = "bts";
-		else if (has_bytes(file_bytes, 6, {0x45, 0x56, 0x30, 0x31, 0x40}))
+		else if (binfile::has_bytes(file_bytes, 6, {0x45, 0x56, 0x30, 0x31, 0x40}))
 			ext = "ev";
-		else if (has_bytes(file_bytes, 6, {0x4d, 0x41, 0x50, 0x31}))
+		else if (binfile::has_bytes(file_bytes, 6, {0x4d, 0x41, 0x50, 0x31}))
 			ext = "map";
-		else if (has_bytes(file_bytes, 0, {0x46, 0x54, 0x43, 0x58}) || has_bytes(file_bytes, 6, {0x46, 0x54, 0x43, 0x58}))
+		else if (binfile::has_bytes(file_bytes, 0, {0x46, 0x54, 0x43, 0x58}) || binfile::has_bytes(file_bytes, 6, {0x46, 0x54, 0x43, 0x58}))
 			ext = "ftcx";
 		else
 			ext = "bin";
 
 		if ((cdrom_mdg[i].flag & MDG_FLAG_COMPRESSED_FILE) != 0)
 		{
-			auto comp_type = read_bytes(iso_path, cdrom_mdg[i].address, 1)[0];
+			auto comp_type = binfile::read_bytes(iso_path, cdrom_mdg[i].address, 1)[0];
 
 			std::string lz;
 			if (comp_type == 0)
@@ -168,7 +169,7 @@ bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 				file_bytes.resize(0x808);
 
 				auto filename = output_dir / "files" / std::format("file_{:05}.{}.{}", i, ext, lz);
-				write_byte_to_file(filename, file_bytes);
+				binfile::write_byte_to_file(filename, file_bytes);
 
 				output_json[i]["filename"] = std::format("file_{:05}.{}.{}", i, ext, lz);
 			}
@@ -178,7 +179,7 @@ bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 				file_bytes.resize(size);
 
 				auto filename = output_dir / "files" / std::format("file_{:05}.{}.{}", i, ext, lz);
-				write_byte_to_file(filename, file_bytes);
+				binfile::write_byte_to_file(filename, file_bytes);
 
 				output_json[i]["filename"] = std::format("file_{:05}.{}.{}", i, ext, lz);
 			}
@@ -186,7 +187,7 @@ bool extract(std::filesystem::path iso_path, std::filesystem::path output_dir)
 		else
 		{
 			auto filename = output_dir / "files" / std::format("file_{:05}.{}", i, ext);
-			write_byte_to_file(filename, file_bytes);
+			binfile::write_byte_to_file(filename, file_bytes);
 
 			output_json[i]["filename"] = std::format("file_{:05}.{}", i, ext);
 		}

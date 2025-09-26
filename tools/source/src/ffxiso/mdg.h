@@ -1,7 +1,9 @@
-#ifndef _TYPES_H_
-#define _TYPES_H_
+#ifndef _FFXISO_MDG_H_
+#define _FFXISO_MDG_H_
 
 #include <cstdint>
+
+namespace ffxiso {
 
 constexpr int CDROM_MDG_SIZE = 16305;
 constexpr uint8_t MDG_FLAG_COMPRESSED_FILE = 0b10;
@@ -13,5 +15,7 @@ struct mdg
 	uint8_t flag;
 	uint32_t padding;
 };
+
+} // namespace ffxiso
 
 #endif

@@ -4,24 +4,17 @@ else
 BUILD_TARGET := release
 endif
 
-APP_NAME     := $(notdir $(CURDIR))
-APP_FILENAME := $(APP_NAME).exe
-
-SOURCE_DIR := src
-BUILD_DIR  := build
-
+SOURCE_DIR       := src
+BUILD_DIR        := build
 BUILD_TARGET_DIR := $(BUILD_DIR)/$(BUILD_TARGET)
 BUILD_OBJ_DIR    := $(BUILD_TARGET_DIR)/obj
-TARGET           := $(BUILD_TARGET_DIR)/bin/$(APP_FILENAME)
+BUILD_OUTPUT_DIR := $(BUILD_TARGET_DIR)/bin
 
 ################################################################################
 
-CXX     := x86_64-w64-mingw32-g++
-
-################################################################################
+CXX := x86_64-w64-mingw32-g++
 
 CXXFLAGS := -std=c++20 -fpermissive \
-            -MMD -MP \
             -Wall -Wextra \
             -Wno-comment \
             -Wno-unused-parameter \
@@ -29,7 +22,6 @@ CXXFLAGS := -std=c++20 -fpermissive \
             -Wno-unused-function
 
 CXXDEFINES  := -DUNICODE -D_UNICODE
-CXXINCLUDES := 
 
 LDFLAGS := -static -static-libgcc -static-libstdc++ -lmsvcrt
 
@@ -44,27 +36,39 @@ endif
 
 ################################################################################
 
-SOURCES := $(shell find $(SOURCE_DIR) -type f -name "*.cpp")
-OBJECTS := $(SOURCES:%.cpp=$(BUILD_OBJ_DIR)/%.o)
-DEPS    := $(OBJECTS:.o=.d)
+ffxftcx_obj := $(BUILD_OBJ_DIR)/ffxftcx.o
+ffxname_obj := $(BUILD_OBJ_DIR)/ffxname.o
+
+ffxiso_obj := \
+	$(BUILD_OBJ_DIR)/ffxiso.o \
+	$(BUILD_OBJ_DIR)/ffxiso/extract.o \
+	$(BUILD_OBJ_DIR)/ffxiso/import.o
 
 ################################################################################
 
-.PHONY: all clean $(DEPS)
+.PHONY: all clean
 
-all: $(TARGET)
+all: ffxiso ffxftcx ffxname
 
-$(TARGET): $(OBJECTS) $(DEPS)
-	@mkdir -p $(BUILD_TARGET_DIR)
+ffxiso: $(ffxiso_obj)
+	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $@ $(OBJECTS) $(LDFLAGS)
+	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
 
-$(BUILD_OBJ_DIR)/%.o: %.cpp
-	@mkdir -p $(BUILD_TARGET_DIR)
+ffxftcx: $(ffxftcx_obj)
+	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
-	$(CXX) $(CXXFLAGS) $(CXXDEFINES) $(CXXINCLUDES) -c $< -o $@
+	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+
+ffxname: $(ffxname_obj)
+	@mkdir -p $(BUILD_OUTPUT_DIR)
+	@mkdir -p $(shell dirname $@)
+	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+
+$(BUILD_OBJ_DIR)/%.o: $(SOURCE_DIR)/%.cpp
+	@mkdir -p $(shell dirname $@)
+	$(CXX) $(CXXFLAGS) $(CXXDEFINES) -c $< -o $@
 
 clean:
 	rm -rf $(BUILD_DIR)
-
--include $(DEPS)
+	rm -rf *.exe
