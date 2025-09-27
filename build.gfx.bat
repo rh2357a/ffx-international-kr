@@ -33,7 +33,6 @@ for %%i in (asm\*.asm) do (
   tools\armips %%i
 )
 
-call scripts\compile_texts.bat
 call scripts\compile_graphics.bat
 
 echo repack '%target_iso%'
