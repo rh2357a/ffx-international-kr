@@ -12,14 +12,14 @@ tools\ffxcx -c1 !files!\file_00367.bin1 %files%\file_00367.bin.lz1
 
 echo.  - copyright
 tools\ffxcx -d !files!\file_11695.map.lz1 !files!\file_11695.map1
-tools\ffxmap -i0 !files!\file_11695.map1 graphics\misc\file_11695.bmp !files!\file_11695.map1
-tools\ffxmap -i4 !files!\file_11695.map1 graphics\misc\file_11695.bmp !files!\file_11695.map1
+tools\ffxmap -ip0 !files!\file_11695.map1 graphics\misc\file_11695.bmp !files!\file_11695.map1
+tools\ffxmap -ip4 !files!\file_11695.map1 graphics\misc\file_11695.bmp !files!\file_11695.map1
 tools\ffxcx -c1 !files!\file_11695.map1 !files!\file_11695.map.lz1
 del !files!\file_11695.map1
 
 echo.  - title
 tools\ffxcx -d !files!\file_11691.map.lz1 !files!\file_11691.map1
-tools\ffxmap -i0 !files!\file_11691.map1 graphics\misc\file_11691.bmp !files!\file_11691.map1
+tools\ffxmap -ip0 !files!\file_11691.map1 graphics\misc\file_11691.bmp !files!\file_11691.map1
 tools\ffxcx -c1 !files!\file_11691.map1 !files!\file_11691.map.lz1
 del !files!\file_11691.map1
 
