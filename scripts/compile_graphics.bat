@@ -30,10 +30,22 @@ tools\ffxcx -c1 !files!\file_09832.bin1 !files!\file_09832.bin.lz1
 del !files!\file_09832.bin1
 
 echo.  - airship text gfx
+set airship_cache=build\airship
+if exist "!airship_cache!" rmdir /s /q "!airship_cache!"
+if not exist "!airship_cache!" mkdir "!airship_cache!"
+copy /Y graphics\airship\* !airship_cache!\ >nul
+for /L %%i in (0,1,26) do (
+    set "num=0%%i"
+    set "xx=!num:~-2!"
+    for /L %%j in (12,1,25) do (
+        copy /Y "!airship_cache!\file_11113_11_!xx!.bmp" "!airship_cache!\file_11113_%%j_!xx!.bmp" >nul
+    )
+)
 tools\ffxcx -d !files!\file_11113.map.lz1 !files!\file_11113.map
-tools\ffxmap -i !files!\file_11113.map graphics\airship\file_11113_ !files!\file_11113.map
+tools\ffxmap -i !files!\file_11113.map !airship_cache!\file_11113_ !files!\file_11113.map
 tools\ffxcx -c1 !files!\file_11113.map !files!\file_11113.map.lz1
 del !files!\file_11113.map
+if exist "!airship_cache!" rmdir /s /q "!airship_cache!"
 
 echo.  - help gfx
 for %%i in (graphics\help\*.gwh1.bmp) do (
