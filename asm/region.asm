@@ -1,11 +1,3 @@
-.ps2
-.open "build/files/file_00000.elf", 0xff000
-
-.definelabel log, 0x2f10f8
-.definelabel fun_002f21e4, 0x2f21e4
-.definelabel fun_002f25e4, 0x2f25e4
-
-
 ; 게임의 원본 구성 설정값
 .org 0x569d70
 	db 0x00, 0x00, 0x00, 0x00
@@ -57,6 +49,3 @@
 	jr ra
 	addiu sp, sp, 0x20
 .endarea
-
-
-.close

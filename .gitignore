@@ -2,3 +2,5 @@ build/
 
 *.iso
 /*.xdelta
+
+build.test.bat
