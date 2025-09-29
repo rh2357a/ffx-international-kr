@@ -1,6 +1,10 @@
+.loadtable "tables/mon_name.tbl"
+
+
 .ps2
 .open "build/files/file_00000.elf", 0xff000
 .include "asm/defines.asm"
+.include "asm/macros.asm"
 .close
 
 
@@ -11,6 +15,7 @@
 inject_begin:
 .area INJECT_LENGTH, 0
 .include "asm/font.inject.asm"
+.include "texts/battle2/mon_names.asm"
 .endarea
 
 .orga 0x40 + INJECT_LENGTH
@@ -28,6 +33,7 @@ font_width_table:
 .open "build/files/file_00000.elf", 0xff000
 .include "asm/region.asm"
 .include "asm/font.asm"
+.include "asm/battle.asm"
 .close
 
 

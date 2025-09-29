@@ -13,6 +13,7 @@ set inject_length=16384
 
 call scripts\build_0.bat
 call scripts\compile_texts.bat
+call scripts\compile_etc_texts.bat
 call scripts\compile_graphics.bat
 call scripts\build_1.bat
 

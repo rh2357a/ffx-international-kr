@@ -137,16 +137,6 @@ for %%i in (texts\battle2\*.bts.txt) do (
 )
 
 rem ============================================================
-echo etc text files...
-for %%i in (texts\etc\*.txt) do (
-  set "filename=%%~ni"
-  set "target_filename=!files!\!filename!.bin"
-
-  echo.  %%i
-  tools\ffxdlg -i -t tables\ko.tbs !target_filename! %%i
-)
-
-rem ============================================================
 
 echo mt1 files...
 for %%i in (texts\menu\*.mt1.txt) do (
@@ -178,20 +168,3 @@ for %%i in (texts\menu\*.mt1.en.txt) do (
   tools\ffxcx -c1 !mt_name! !lz_name!
   del !mt_name!
 )
-
-rem ============================================================
-
-echo name files...
-tools\ffxname -e file_00459 build\files
-
-for %%i in (texts\name\*.txt) do (
-  set "filename=%%~ni"
-  set "target_filename=!files!\file_00459.bin"
-  set "part_filename=!files!\!filename!.bin"
-
-  echo.  %%i
-  tools\ffxdlg2 -i -t tables\ko.tbs !part_filename! %%i
-)
-
-tools\ffxname -i file_00459 build\files
-tools\ffxname -c file_00459 build\files
