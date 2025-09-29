@@ -1,5 +1,12 @@
-rem               0x4000
-set inject_length=16384
+@echo off
+
+setlocal enabledelayedexpansion
+
+set files=build\files
+
+set input_iso=base.iso
+set target_iso=ffx_international_kr.iso
+set target_patch=ffx_international_kr.xdelta
 
 echo extract '%input_iso%'
 if exist build rmdir /s /q build
@@ -16,8 +23,9 @@ for %%i in (patch\*.xdelta) do (
   move /Y !patch_filename! !origin_filename! >nul
 )
 
-echo build font...
-tools\ffxftcx graphics\font\font_kr.bmp !inject_length! !files!\file_00455.ftcx
+echo assemble 'asm\ffx_international.jpn.asm'...
+tools\armips asm\ffx_international.jpn.asm
 
-echo assemble 'asm\ffx_international.asm'...
-tools\armips -equ INJECT_LENGTH !inject_length! asm\ffx_international.asm
+call scripts\build_1.bat
+
+pause
