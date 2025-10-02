@@ -1,4 +1,4 @@
-.loadtable "tables/mon_name.tbl"
+.loadtable "tables/armips.tbl"
 
 
 .ps2
