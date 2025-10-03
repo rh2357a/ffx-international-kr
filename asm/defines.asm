@@ -10,6 +10,9 @@
 .definelabel font_buffer_ptr, 0x66d330
 .definelabel     font_buffer, 0x67c3a0
 
-MULTIBYTE_BASE      equ 0x24
-TEXTURE_GLYPH_COUNT equ 998
-MON_NAME_LENGTH     equ 20
+MULTIBYTE_BASE              equ 0x24
+TEXTURE_GLYPH_COUNT         equ 998
+MON_NAME_LENGTH             equ 20
+ALBHED_UNTRANSLATED_COLOR   equ 0x60
+ALBHED_UNTRANSLATED_COLOR_2 equ 0x61
+ALBHED_TRANSLATED_COLOR     equ 0x56

@@ -456,5 +456,6 @@ find_glyph_index:
 is_korean:
 	.fill 4, 0
 
+.align 2
 glyph_checker_table:
 	.fill TEXTURE_GLYPH_COUNT * 2, 0xff

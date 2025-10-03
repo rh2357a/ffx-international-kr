@@ -16,6 +16,7 @@ inject_begin:
 .area INJECT_LENGTH, 0
 .include "asm/font.inject.asm"
 .include "texts/battle2/mon_names.asm"
+.include "asm/albhed.inject.asm"
 .endarea
 
 .orga 0x40 + INJECT_LENGTH
@@ -32,8 +33,9 @@ font_width_table:
 .ps2
 .open "build/files/file_00000.elf", 0xff000
 .include "asm/region.asm"
-.include "asm/font.asm"
+.include "asm/albhed.asm"
 .include "asm/battle.asm"
+.include "asm/font.asm"
 .close
 
 

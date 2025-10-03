@@ -1,5 +1,5 @@
-rem               0x4000
-set inject_length=16384
+rem              0x10000
+set inject_length=65536
 
 echo extract '%input_iso%'
 if exist build rmdir /s /q build
