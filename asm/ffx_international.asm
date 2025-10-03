@@ -34,6 +34,7 @@ font_width_table:
 .open "build/files/file_00000.elf", 0xff000
 .include "asm/region.asm"
 .include "asm/albhed.asm"
+.include "asm/airship_naming.asm"
 .include "asm/battle.asm"
 .include "asm/font.asm"
 .close
