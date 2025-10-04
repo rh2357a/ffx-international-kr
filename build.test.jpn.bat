@@ -26,6 +26,6 @@ for %%i in (patch\*.xdelta) do (
 echo assemble 'asm\ffx_international.jpn.asm'...
 tools\armips asm\ffx_international.jpn.asm
 
-call scripts\build_1.bat
+call scripts\build_iso.bat
 
 pause

@@ -26,4 +26,5 @@ PS2 파이널판타지10 인터내셔널의 한글 번역 프로젝트
 * `build.bat`: 한국어화 패치
 * `build.test.albhed.bat`: 알베드어 번역 테스트용 패치
 * `build.test.etc_gfx.bat`: 기타 텍스트와 그래픽만 한국어화 패치
+* `build.test.menu_battle.bat`: 이벤트를 제외한 한국어화 패치
 * `build.test.jpn.bat`: 일어판 패치
