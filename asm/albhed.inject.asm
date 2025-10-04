@@ -141,6 +141,7 @@ albhed_to_korean:
 	jr ra
 	addiu sp, sp, 0x30
 
+.align 4
 @@_albhed_table:
 	albhed  1,  2, "부", "구", "바" ; 가
 	albhed  1,  2, "부", "구", "바" ; 각

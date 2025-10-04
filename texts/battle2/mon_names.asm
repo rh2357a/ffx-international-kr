@@ -1,3 +1,4 @@
+.align 4
 monster_names:
 	fixed_string MON_NAME_LENGTH, "モンスター0"
 	fixed_string MON_NAME_LENGTH, "ラルド"

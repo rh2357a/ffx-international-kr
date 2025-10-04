@@ -6,7 +6,7 @@
 	jal memcpy
 	addu a1, s1, a1
 
-	la s0, font_buffer
+	la s0, font_data_buffer
 	sw s0, 0x0(s2)
 
 	jal flush_cache
@@ -46,7 +46,7 @@ read_glyph_width:
 	bne v0, zero, @@_under_0x30
 	move s1, a1
 
-	jal fun_0020b960
+	jal get_font_width_ptr
 	move a0, a3
 
 	lbu v1, 0x0(s0)
@@ -60,7 +60,7 @@ read_glyph_width:
 	bne v0, zero, @@_end_read_width
 	nop
 
-	jal fun_0020b960
+	jal get_font_width_ptr
 	move a0, zero
 
 	lbu a0, 0x0(s0)
@@ -146,8 +146,8 @@ render_font:
 	bne v1, v0, @@_is_korean
 	nop
 
-	; fun_001bd3a0() == 0
-	jal fun_001bd3a0
+	; get_language_config() == 0
+	jal get_language_config
 	nop
 	beq v0, zero, @@_is_korean
 	nop
@@ -162,13 +162,13 @@ render_font:
 	sh s0, 0x0(a1)
 
 @@_glyph_idx:
-	jal fun_0020a828
+	jal get_font_locale_config
 	nop
 
-	la a2, is_korean
+	la a2, is_korean_temp
 	sb v0, 0x0(a2)
 
-	jal fun_0020b960
+	jal get_font_width_ptr
 	move a0, v0
 
 	move a2, v0
@@ -251,10 +251,10 @@ render_font_2:
 	sh s0, 0x0(a1)
 
 @@_glyph_idx:
-	la a2, is_korean
+	la a2, is_korean_temp
 	sb a0, 0x0(a2)
 
-	jal fun_0020b960
+	jal get_font_width_ptr
 	nop
 
 	move a2, v0

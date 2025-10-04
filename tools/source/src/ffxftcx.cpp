@@ -5,6 +5,7 @@
 #include <fstream>
 #include <iostream>
 #include <string>
+#include <format>
 #include <array>
 #include <vector>
 
@@ -49,7 +50,7 @@ const std::array<rgb_t, 4> FONT_COLORS{
 void print_usage()
 {
 	std::cout << "Usage:\n"
-			  << "    ffxftcx FONT_BITMAP_FILE CODE_SIZE OUTPUT\n";
+			  << "    ffxftcx FONT_BITMAP_FILE OUTPUT_DIR PREFIX_NAME\n";
 }
 
 uint8_t get_pixel_byte(const bool &is_odd, const rgb_t &first, const rgb_t &second)
@@ -94,8 +95,6 @@ int main(int argc, char *argv[])
 
 	constexpr uint32_t glyph_count = 2704;
 	constexpr uint32_t font_bytes_size = 0x2a780;
-
-	int code_bytes = std::stoi(argv[2]);
 
 	std::string font_bitmap_path(argv[1]);
 	bitmap_image bmp(font_bitmap_path);
@@ -156,7 +155,9 @@ int main(int argc, char *argv[])
 	for (int i = 0; i < 26 * 2; i++)
 		width_bytes[i + (0xd0 * 9)] = DEFAULT_LATIN_FONT_WIDTH[i];
 
-	std::string output_path(argv[3]);
+	std::filesystem::path output_dir(argv[2]);
+
+	const auto &output_path = output_dir / std::format("{}.ftcx", argv[3]);
 	if (std::filesystem::exists(output_path))
 		std::filesystem::remove(output_path);
 
@@ -171,7 +172,7 @@ int main(int argc, char *argv[])
 
 	// data address, size
 	binfile::append_uint32(output, 0x40);
-	binfile::append_uint32(output, static_cast<uint32_t>(code_bytes) + font_bytes_size);
+	binfile::append_uint32(output, 0);
 
 	// image size
 	binfile::append_uint16(output, 0x80);
@@ -179,13 +180,23 @@ int main(int argc, char *argv[])
 	binfile::append_zero(output, 4);
 
 	// font width address, size
-	binfile::append_uint32(output, 0x40 + static_cast<uint32_t>(code_bytes) + font_bytes_size);
+	binfile::append_uint32(output, 0);
 	binfile::append_uint32(output, glyph_count);
 	binfile::append_zero(output, 8);
 
-	binfile::append_zero(output, static_cast<size_t>(code_bytes));
-	binfile::append_bytes(output, font_bytes);
-	binfile::append_bytes(output, width_bytes);
+	const auto &font_data_path = output_dir / std::format("{}.data.bin", argv[3]);
+	if (std::filesystem::exists(font_data_path))
+		std::filesystem::remove(font_data_path);
+
+	std::ofstream font_data_output(font_data_path, std::ios::binary | std::ios::app);
+	binfile::append_bytes(font_data_output, font_bytes);
+
+	const auto &width_data_path = output_dir / std::format("{}.width.bin", argv[3]);
+	if (std::filesystem::exists(width_data_path))
+		std::filesystem::remove(width_data_path);
+
+	std::ofstream width_data_output(width_data_path, std::ios::binary | std::ios::app);
+	binfile::append_bytes(width_data_output, width_bytes);
 
 	return 0;
 }

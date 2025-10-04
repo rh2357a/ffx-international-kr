@@ -7,7 +7,7 @@ render_font_impl:
 	bltz a3, @@_return
 	nop
 
-	la s0, is_korean
+	la s0, is_korean_temp
 	lbu s1, 0x0(s0)
 	beq s1, zero, @@_is_korean
 	nop
@@ -61,16 +61,16 @@ render_font_impl:
 	nop
 
 @@_is_korean:
-	jal find_glyph_index
+	jal @_find_table_index
 	nop
 
 	li s0, -1
 	bne v0, s0, @@_found
 	nop
 
-	jal trim_glyph_checker_table
+	jal @_trim_check_table
 	nop
-	jal find_glyph_index
+	jal @_find_table_index
 	nop
 
 @@_found:
@@ -81,14 +81,14 @@ render_font_impl:
 
 	andi v0, v0, 0x7fff
 	move s0, v0
-	jal copy_font
+	jal @_copy_font_data
 	move s2, a3
-	jal apply_font_gfx
+	jal @_apply_font_gfx
 	nop
 
 @@_ignore_copy:
-	; *(glyph_checker_table + (v0 * 2)) = a3
-	la s0, glyph_checker_table
+	; *(@_check_table + (v0 * 2)) = a3
+	la s0, @_check_table
 	li s2, 2
 	andi v0, v0, 0x7fff
 	mult s1, v0, s2
@@ -166,7 +166,7 @@ render_font_impl:
 
 
 ; 폰트 그래픽 반영
-apply_font_gfx:
+@_apply_font_gfx:
 	addiu sp, sp, -0xc0
 	sd t3, 0x0(sp)
 	sd t4, 0x10(sp)
@@ -181,14 +181,14 @@ apply_font_gfx:
 	sd a3, 0xa0(sp)
 	sd ra, 0xb0(sp)
 
-	la v0, font_buffer_ptr
+	la v0, font_data_buffer_ptr
 	lw a0, 0x0(v0)
 	li a1, 0x3c00
 	li a2, 0x14
 	move a3, zero
 	move t0, zero
 	lh t1, 0xc(v0)
-	jal fun_0020c528
+	jal apply_font_texture_dma
 	lh t2, 0xe(v0)
 
 	ld t3, 0x0(sp)
@@ -209,7 +209,7 @@ apply_font_gfx:
 ; 폰트 그래픽 복사
 ; s0: dst 인덱스
 ; s2: src 인덱스
-copy_font:
+@_copy_font_data:
 	addiu sp, sp, -0x100
 	sd v0, 0x10(sp)
 	sd a1, 0x20(sp)
@@ -227,22 +227,22 @@ copy_font:
 	sd a0, 0xe0(sp)
 	sd ra, 0xf0(sp)
 
-	; s0 = calc_tile_offset(s0).addr
-	; s1 = calc_tile_offset(s0).is_odd
-	jal calc_tile_offset
+	; s0 = @_calc_tile_offset(s0).addr
+	; s1 = @_calc_tile_offset(s0).is_odd
+	jal @_calc_tile_offset
 	move a0, s0
 	move s0, v0
 	move s1, v1
 
-	; s2 = calc_tile_offset(s2).addr
-	; s3 = calc_tile_offset(s2).is_odd
-	jal calc_tile_offset
+	; s2 = @_calc_tile_offset(s2).addr
+	; s3 = @_calc_tile_offset(s2).is_odd
+	jal @_calc_tile_offset
 	move a0, s2
 	move s2, v0
 	move s3, v1
 
-	; s2 = font_buffer + s0
-	la t0, font_buffer
+	; s2 = font_data_buffer + s0
+	la t0, font_data_buffer
 	addu s0, t0, s0
 
 	; s2 = font_data + s2
@@ -345,7 +345,7 @@ copy_font:
 ; from a0: index
 ; to v0: 변환 오프셋
 ;    v1: 홀수 유무
-calc_tile_offset:
+@_calc_tile_offset:
 	addiu sp, sp, -0x50
 	sd s0, 0x10(sp)
 	sd s1, 0x20(sp)
@@ -379,8 +379,8 @@ calc_tile_offset:
 
 
 ; 검사 테이블 정리
-trim_glyph_checker_table:
-	la s0, glyph_checker_table
+@_trim_check_table:
+	la s0, @_check_table
 	li s1, 0
 	li v0, 0xffff
 
@@ -394,7 +394,7 @@ trim_glyph_checker_table:
 	addiu s1, s1, 1
 
 @@_end_loop:
-	la a0, font_buffer
+	la a0, font_data_buffer
 	li a1, 0
 
 @@_loop_fill_zero:
@@ -415,8 +415,8 @@ trim_glyph_checker_table:
 ; v0
 ;   -2: 인덱스 테이블 비워야함.
 ;   정수값: 인덱스
-find_glyph_index:
-	la s0, glyph_checker_table
+@_find_table_index:
+	la s0, @_check_table
 	li s1, 0
 	li v0, 0xffff
 
@@ -452,10 +452,14 @@ find_glyph_index:
 	jr ra
 	li v0, -1
 
-
-is_korean:
-	.fill 4, 0
-
-.align 2
-glyph_checker_table:
+.align 4
+@_check_table:
 	.fill TEXTURE_GLYPH_COUNT * 2, 0xff
+
+.align 4
+font_data:
+	.incbin "build/files/file_00455.data.bin"
+
+.align 4
+font_width_table:
+	.incbin "build/files/file_00455.width.bin"

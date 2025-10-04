@@ -17,7 +17,7 @@ for %%i in (patch\*.xdelta) do (
 )
 
 echo build font...
-tools\ffxftcx graphics\font\font_kr.bmp !inject_length! !files!\file_00455.ftcx
+tools\ffxftcx graphics\font\font_kr.bmp !files! file_00455
 
 echo assemble 'asm\ffx_international.asm'...
 tools\armips -equ INJECT_LENGTH !inject_length! asm\ffx_international.asm

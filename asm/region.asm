@@ -10,10 +10,9 @@
 	addiu sp, sp, -0x20
 	sd ra, 0x10(sp)
 
-	lui a0, 0x58
+	la a0, 0x5781e8
+	jal std_log
 	li a1, 0x0
-	jal log
-	addiu a0, a0, -0x7e18
 
 	lui v1, 0x57
 	sw zero, -0x7f54(v1) ; 0x5680ac
@@ -33,13 +32,13 @@
 	lui a0, 0x33
 	lui a1, 0x33
 	addiu a1, a1, -0x72b0 ; 0x328d50 = "BKSLPM-67513"
-	jal fun_002f25e4
+	jal strcpy
 	addiu a0, a0, -0x7228 ; 0x328dd8
 
 	lui a0, 0x33
 	lui a1, 0x33
 	addiu a1, a1, -0x72a0 ; 0x329d60 = "FF0906%02d"
-	jal fun_002f21e4
+	jal strcat
 	addiu a0, a0, -0x7228 ; 0x328dd8
 
 	lui v1, 0x33
