@@ -31,4 +31,5 @@ inject_end:
 	.include "asm/albhed.asm"
 	.include "asm/battle.asm"
 	.include "asm/naming_screen.asm"
+	.include "asm/sphere_grid.asm"
 .close
