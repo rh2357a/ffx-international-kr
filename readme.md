@@ -1,4 +1,4 @@
-# ffx-ps2-kr
+# ffx-international-kr
 
 PS2 파이널판타지10 인터내셔널의 한글 번역 프로젝트
 
