@@ -48,148 +48,27 @@ for %%i in (texts\battle\*.bt2.txt) do (
 rem ============================================================
 
 echo bt list files...
+for %%b in (texts\battle2\*.list.txt) do (
+  set "origin_name=%%~nb"
+  set "origin_name=!origin_name:.list=!"
+  set "txt_name=texts\battle\!origin_name!.txt"
 
-echo.  - 'texts\battle2\file_08094.list.txt'
-for /f %%a in (texts\battle2\file_08094.list.txt) do (
-  set "origin_name=file_08094.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
+  echo.  - '%%b'
+  for /f %%c in (%%b) do (
+    set "bt_name=!files!\%%c"
+    set "lz_name=%%c"
+    set "lz_name=!lz_name:.bt=.bt.lz!"
+    set "lz_name=!files!\!lz_name!"
+    set "lz_type=%%c"
+    set "lz_type=%lz_type:~0,-1%"
 
-echo.  - 'texts\battle2\file_07944.list.txt'
-for /f %%a in (texts\battle2\file_07944.list.txt) do (
-  set "origin_name=file_07944.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08147.list.txt'
-for /f %%a in (texts\battle2\file_08147.list.txt) do (
-  set "origin_name=file_08147.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08065.list.txt'
-for /f %%a in (texts\battle2\file_08065.list.txt) do (
-  set "origin_name=file_08065.bt1.txt"
-  set "bt_name=!files!\%%a.bt1"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08312.list.txt'
-for /f %%a in (texts\battle2\file_08312.list.txt) do (
-  set "origin_name=file_08312.bt2.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz2"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c2 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08208.list.txt'
-for /f %%a in (texts\battle2\file_08208.list.txt) do (
-  set "origin_name=file_08208.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08392.list.txt'
-for /f %%a in (texts\battle2\file_08392.list.txt) do (
-  set "origin_name=file_08392.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_07990.list.txt'
-for /f %%a in (texts\battle2\file_07990.list.txt) do (
-  set "origin_name=file_07990.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08263.list.txt'
-for /f %%a in (texts\battle2\file_08263.list.txt) do (
-  set "origin_name=file_08263.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_08348.list.txt'
-for /f %%a in (texts\battle2\file_08348.list.txt) do (
-  set "origin_name=file_08348.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
-)
-
-echo.  - 'texts\battle2\file_07956.list.txt'
-for /f %%a in (texts\battle2\file_07956.list.txt) do (
-  set "origin_name=file_07956.bt1.txt"
-  set "bt_name=!files!\%%a.bt"
-  set "lz_name=!files!\%%a.bt.lz1"
-  echo.    * '%%a'
-  tools\ffxcx -d !lz_name! !bt_name!
-  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! texts\battle2\!origin_name!
-  del !lz_name!
-  tools\ffxcx -c1 !bt_name! !lz_name!
-  del !bt_name!
+    echo.    - '%%c'
+    tools\ffxcx -d !lz_name! !bt_name!
+    tools\ffxbt -i4 -t tables\ko.tbs !bt_name! !txt_name!
+    del !lz_name!
+    tools\ffxcx -c!lz_type! !bt_name! !lz_name!
+    del !bt_name!
+  )
 )
 
 rem ============================================================
