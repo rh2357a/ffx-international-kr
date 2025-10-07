@@ -10,6 +10,7 @@
 .orga 0x40
 inject_begin:
 	.include "asm/variables.inject.asm"
+	.include "asm/battle.inject.asm"
 	.include "asm/font.inject.asm"
 	.include "asm/albhed.inject.asm"
 	.include "texts/battle3/mon_names.asm"
