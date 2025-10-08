@@ -302,12 +302,12 @@
 \x23\x62={Blossom Crown}
 \x23\x63={Flower Scepter}
 
-\x26\c01={KANJI26:\h01}
-\x27\c01={KANJI27:\h01}
-\x28\c01={KANJI28:\h01}
-\x29\c01={KANJI29:\h01}
-\x2A\c01={KANJI2A:\h01}
-\x2B\c01={KANJI2B:\h01}
+\x2F\xFF={KANJI26:\h01}
+\x2F\xFF={KANJI27:\h01}
+\x2F\xFF={KANJI28:\h01}
+\x2F\xFF={KANJI29:\h01}
+\x2F\xFF={KANJI2A:\h01}
+\x2F\xFF={KANJI2B:\h01}
 
 \x2F\xFF=暗
 \x2F\xFF=闇
@@ -1250,7 +1250,7 @@
 \xFC=ワ
 \xFD=ヲ
 \xFE=ン
-\xFF=ヴ
+\x2F\xCD=ヴ
 \xFF= 
 
 \x24\x30=가
