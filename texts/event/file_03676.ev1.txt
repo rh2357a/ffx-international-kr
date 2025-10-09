@@ -3,16 +3,16 @@
 名前:{VAR12:30}
 LV:{VAR12:31}
 所属チーム:{VAR12:32}
-{KANJI2A:5E}約期間:{VAR12:33}試合
-{KANJI2A:5E}約金:{VAR12:34}ギル
+{UNK_KANJI}約期間:{VAR12:33}試合
+{UNK_KANJI}約金:{VAR12:34}ギル
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【スカウトLV2】{White}
 名前:{VAR12:30}
 LV:{VAR12:31}
 所属チーム:{VAR12:32}
-{KANJI2A:5E}約期間:{VAR12:33}試合
-{KANJI2A:5E}約金:{VAR12:34}ギル
+{UNK_KANJI}約期間:{VAR12:33}試合
+{UNK_KANJI}約金:{VAR12:34}ギル
 HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
 END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
 PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
@@ -23,8 +23,8 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 名前:{VAR12:30}
 LV:{VAR12:31}
 所属チーム:{VAR12:32}
-{KANJI2A:5E}約期間:{VAR12:33}試合
-{KANJI2A:5E}約金:{VAR12:34}ギル
+{UNK_KANJI}約期間:{VAR12:33}試合
+{UNK_KANJI}約金:{VAR12:34}ギル
 HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
 END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
 PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
@@ -40,8 +40,8 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 名前:{VAR12:30}
 LV:{VAR12:31}
 所属チーム:{VAR12:32}
-{KANJI2A:5E}約期間:{VAR12:33}試合
-{KANJI2A:5E}約金:{VAR12:34}ギル
+{UNK_KANJI}約期間:{VAR12:33}試合
+{UNK_KANJI}約金:{VAR12:34}ギル
 HP:{VAR12:35}{VAR07:60}SPD:{VAR12:36}
 END:{VAR12:37}{VAR07:60}ATK:{VAR12:38}
 PAS:{VAR12:39}{VAR07:60}BLK:{VAR12:3A}
@@ -65,20 +65,20 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:5E}約しますか?
+{UNK_KANJI}約しますか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:5E}約試合数を決めてください
+{UNK_KANJI}約試合数を決めてください
 {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
-1試合以上の{KANJI2A:5E}約を
+1試合以上の{UNK_KANJI}約を
 むすんでください　
 --------------------------------------------------End--
 {WINDOW}
-{KANJI2A:5E}約金は{VAR12:30}ギルです
+{UNK_KANJI}約金は{VAR12:30}ギルです
 よろしいですか?
 {CHOICE:30}はい
 {CHOICE:31}いいえ
@@ -109,26 +109,26 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 --------------------------------------------------End--
 
 遠き地より　参られて
-さぞや御{KANJI2A:30}れでせう
+さぞや御{UNK_KANJI}れでせう
 {NEWPAGE}
 
-おや　わしの言{KANJI2A:31}が
+おや　わしの言{UNK_KANJI}が
 めづらしひ　やうですな
 {NEWPAGE}
 
-これは{Guado2}の古き言{KANJI2A:31}ぢゃ
-{KANJI2A:32}所では滅多に聞けますまい
+これは{Guado2}の古き言{UNK_KANJI}ぢゃ
+{UNK_KANJI}所では滅多に聞けますまい
 --------------------------------------------------End--
 
-今や古き言{KANJI2A:31}を伝へる者は
+今や古き言{UNK_KANJI}を伝へる者は
 極一部の古老のみと成りました
 {NEWPAGE}
 
-{Guado}の伝{KANJI2A:33}ある言{KANJI2A:31}も
+{Guado}の伝{UNK_KANJI}ある言{UNK_KANJI}も
 いづれ絶えてしまうでせう
 --------------------------------------------------End--
 
-多くの{Guado}は古き言{KANJI2A:31}を恥ぢて
+多くの{Guado}は古き言{UNK_KANJI}を恥ぢて
 他の民と同じ様に語ります
 --------------------------------------------------End--
 
@@ -136,20 +136,20 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 好みませんでした
 {NEWPAGE}
 
-しかし{Jyscal}様に{KANJI2A:34}る改{KANJI2A:35}のおかげで
+しかし{Jyscal}様に{UNK_KANJI}る改{UNK_KANJI}のおかげで
 {Guado}は外の世界に目を向け……
 {NEWPAGE}
 
 時代の流れに着いて行くやうに
-成りまして御{KANJI2A:36}います
+成りまして御{UNK_KANJI}います
 --------------------------------------------------End--
 
-{Jyscal}様と{Seymour}様の{KANJI2A:37}子が
-{Guado2}の伝{KANJI2A:33}を変へたのです
+{Jyscal}様と{Seymour}様の{UNK_KANJI}子が
+{Guado2}の伝{UNK_KANJI}を変へたのです
 --------------------------------------------------End--
 
-{Guado2}の未来を{KANJI2A:38}ふ{KANJI2A:39}者が死に
-残ったのは年{KANJI2A:3A}りばかりぢゃ
+{Guado2}の未来を{UNK_KANJI}ふ{UNK_KANJI}者が死に
+残ったのは年{UNK_KANJI}りばかりぢゃ
 {NEWPAGE}
 
 {Guado2}は外に出ず　{Farplane}を
@@ -160,72 +160,72 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 意気消沈しております
 {NEWPAGE}
 
-いづれ{KANJI2A:3B}{KANJI2A:3C}の後を追ひ
-{Farplane}に旅{KANJI2A:3D}つのでせうか
+いづれ{UNK_KANJI}{UNK_KANJI}の後を追ひ
+{Farplane}に旅{UNK_KANJI}つのでせうか
 --------------------------------------------------End--
 
 遠からず『{Sin}』が来て
 {Guado2}を滅ぼすでせうな
 --------------------------------------------------End--
 
-旅の御方よ　わしらは時代{KANJI2A:3E}れの老人{KANJI2A:3F}
-古き言{KANJI2A:31}で{KANJI2A:40}へる非礼を御許し下され
+旅の御方よ　わしらは時代{UNK_KANJI}れの老人{UNK_KANJI}
+古き言{UNK_KANJI}で{UNK_KANJI}へる非礼を御許し下され
 --------------------------------------------------End--
 
 昔日の{Guado2}は　このやうな
-古き言{KANJI2A:31}を用ひておりました　
+古き言{UNK_KANJI}を用ひておりました　
 {NEWPAGE}
 
 なれど亡き{Jyscal}族長が老師と成り
 {Guado}に{Yevon2}の教へが広がると……
 {NEWPAGE}
 
-古き言{KANJI2A:31}は次第に{KANJI2A:41}れ　
+古き言{UNK_KANJI}は次第に{UNK_KANJI}れ　
 最早　滅びかけております
 --------------------------------------------------End--
 
-{KANJI2A:39}者たちは　わしらの言{KANJI2A:31}を
-古{KANJI2A:42}ひと　あざ{KANJI2A:43}っています
+{UNK_KANJI}者たちは　わしらの言{UNK_KANJI}を
+古{UNK_KANJI}ひと　あざ{UNK_KANJI}っています
 --------------------------------------------------End--
 
-{Seymour}様の{KANJI2A:44}{KANJI2A:3C}はヒトでした　
-その{KANJI2A:45}　一部の者は……
+{Seymour}様の{UNK_KANJI}{UNK_KANJI}はヒトでした　
+その{UNK_KANJI}　一部の者は……
 {NEWPAGE}
 
 {Seymour}様が{Guado}を率いるのを
 認めやうとはしませんでした　
 {NEWPAGE}
 
-無{KANJI2A:46}今では　そのやうな意見を
+無{UNK_KANJI}今では　そのやうな意見を
 口に出す者は　おりませぬ
 --------------------------------------------------End--
 
-{Guado}の{KANJI2A:39}者の多くが
-{Seymour}様に心{KANJI2A:47}しています
+{Guado}の{UNK_KANJI}者の多くが
+{Seymour}様に心{UNK_KANJI}しています
 {NEWPAGE}
 
 {Seymour}様の命令とあらば
-{KANJI2A:48}んで死んで行くでせう
+{UNK_KANJI}んで死んで行くでせう
 --------------------------------------------------End--
 
-{Seymour}様は古き言{KANJI2A:31}を嫌います{KANJI2A:3F}
-わしらは{KANJI2A:49}身が{KANJI2A:4A}う御{KANJI2A:36}ります
+{Seymour}様は古き言{UNK_KANJI}を嫌います{UNK_KANJI}
+わしらは{UNK_KANJI}身が{UNK_KANJI}う御{UNK_KANJI}ります
 --------------------------------------------------End--
 
 {Seymour}様は　多くの者を
-死へと{KANJI2A:4B}ひました
+死へと{UNK_KANJI}ひました
 {NEWPAGE}
 
 {Guado}とヒトの両方への
-復{KANJI2A:4C}やもしれませぬな
+復{UNK_KANJI}やもしれませぬな
 --------------------------------------------------End--
 
-{Jyscal}様と　ヒトの女性との結{KANJI2A:4D}は
-{Guado2}の伝{KANJI2A:33}に反していました
+{Jyscal}様と　ヒトの女性との結{UNK_KANJI}は
+{Guado2}の伝{UNK_KANJI}に反していました
 {NEWPAGE}
 
-その{KANJI2A:45}{Seymour}様が生まれた後で
-一部の者が　{KANJI2A:4E}動を起こし……
+その{UNK_KANJI}{Seymour}様が生まれた後で
+一部の者が　{UNK_KANJI}動を起こし……
 {NEWPAGE}
 
 『ヒトの血を引く者を追い出せ』と
@@ -233,31 +233,31 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 {NEWPAGE}
 
 一族をまとめる族長として　{Jyscal}様は
-泣く泣く{KANJI2A:4F}子を{Baaj Island}へ追放なさりました
+泣く泣く{UNK_KANJI}子を{Baaj Island}へ追放なさりました
 --------------------------------------------------End--
 
 数年後　{Seymour}様だけが戻られた
-{KANJI2A:44}{KANJI2A:3C}は亡くなったといふ話です
+{UNK_KANJI}{UNK_KANJI}は亡くなったといふ話です
 {NEWPAGE}
 
-帰{KANJI2A:50}した{Seymour}様は
+帰{UNK_KANJI}した{Seymour}様は
 召喚士の力を会得しておられた
 {NEWPAGE}
 
-石もて追われた{Seymour}様の御{KANJI2A:3D}場が逆転して
-召喚士として{KANJI2A:51}{KANJI2A:52}されるやうに成りました
+石もて追われた{Seymour}様の御{UNK_KANJI}場が逆転して
+召喚士として{UNK_KANJI}{UNK_KANJI}されるやうに成りました
 --------------------------------------------------End--
 
 {Seymour}様は　物心ついてすぐに
 召喚士の能力に目覚めたといふ話です
 --------------------------------------------------End--
 
-{Seymour}族長は　{Guado}の{KANJI2A:39}者に
-いろんな{KANJI2A:53}問を教えてくださるんです
+{Seymour}族長は　{Guado}の{UNK_KANJI}者に
+いろんな{UNK_KANJI}問を教えてくださるんです
 {NEWPAGE}
 
-{KANJI2A:54}　{Yevon2}の教えや{Spira}の{KANJI2A:55}{KANJI2A:56}を
-たくさん{KANJI2A:57}強しました
+{UNK_KANJI}　{Yevon2}の教えや{Spira}の{UNK_KANJI}{UNK_KANJI}を
+たくさん{UNK_KANJI}強しました
 --------------------------------------------------End--
 
 {Seymour}族長って　教え方がお上手なんです
@@ -272,8 +272,8 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 ともに戦ったんですよね
 --------------------------------------------------End--
 
-{Yuna}様が　お{KANJI2A:58}に来たら
-{Guado2}みんなで{KANJI2A:59}{KANJI2A:40}しますよ
+{Yuna}様が　お{UNK_KANJI}に来たら
+{Guado2}みんなで{UNK_KANJI}{UNK_KANJI}しますよ
 --------------------------------------------------End--
 
 あの……{Seymour}族長の身に
@@ -288,32 +288,32 @@ SHT:{VAR12:3B}{VAR07:60}CAT:{VAR12:3C}
 いやだ　信じたくない……
 --------------------------------------------------End--
 
-おじいさまたちは　{Guado}の古い言{KANJI2A:31}を
+おじいさまたちは　{Guado}の古い言{UNK_KANJI}を
 捨てようとしないのです
 {NEWPAGE}
 
-お客人にわかりにくい言{KANJI2A:31}を使っては
+お客人にわかりにくい言{UNK_KANJI}を使っては
 失礼だと　言っているのですが……
 --------------------------------------------------End--
 
-年{KANJI2A:3A}りのすることですので　
+年{UNK_KANJI}りのすることですので　
 どうかお見逃しください　
 --------------------------------------------------End--
 
 {Spira}が混乱したのは　{Guado2}の
-{KANJI2A:5A}{KANJI2A:5B}だという意見があるようです
+{UNK_KANJI}{UNK_KANJI}だという意見があるようです
 {NEWPAGE}
 
-反{KANJI2A:46}できないのが　くやしいですね……
+反{UNK_KANJI}できないのが　くやしいですね……
 --------------------------------------------------End--
 
 {Luca}から連絡がありました　{Guado2}は
 今まで同様に大会に参加できるそうです
 {NEWPAGE}
 
-{Luca}{KANJI2A:5C}民の　心の広さに救われました
+{Luca}{UNK_KANJI}民の　心の広さに救われました
 --------------------------------------------------End--
 
 すばらしい試合をして
-{Luca}の人々に{KANJI2A:5D}返ししたいものです
+{Luca}の人々に{UNK_KANJI}返ししたいものです
 --------------------------------------------------End--

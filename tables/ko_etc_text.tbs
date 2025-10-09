@@ -302,13 +302,6 @@
 \x23\x62={Blossom Crown}
 \x23\x63={Flower Scepter}
 
-\x2F\xFF={KANJI26:\h01}
-\x2F\xFF={KANJI27:\h01}
-\x2F\xFF={KANJI28:\h01}
-\x2F\xFF={KANJI29:\h01}
-\x2F\xFF={KANJI2A:\h01}
-\x2F\xFF={KANJI2B:\h01}
-
 \x2F\xFF=暗
 \x2F\xFF=闇
 \x2F\xFF=位
@@ -3696,3 +3689,6 @@
 \x2F\xCA=ㅡ
 \x2F\xCB=ㅢ
 \x2F\xCC=ㅣ
+
+\x2F\xFF={UNK_KANJI}
+\x2F\xFF={NULL}

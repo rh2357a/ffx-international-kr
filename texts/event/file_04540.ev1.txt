@@ -17,11 +17,11 @@
 すぐに終わる
 --------------------------------------------------End--
 {O'aka}
-{KANJI2A:30}!
+{UNK_KANJI}!
 --------------------------------------------------End--
 {O'aka}
-特別{KANJI2A:31}{KANJI2A:32}実施中!
-{Seymor}老師御成{KANJI2A:33}記念!
+特別{UNK_KANJI}{UNK_KANJI}実施中!
+{Seymor}老師御成{UNK_KANJI}記念!
 --------------------------------------------------End--
 {O'aka}
 高いかな?
@@ -31,7 +31,7 @@
 --------------------------------------------------End--
 {O'aka}
 しばらくは
-この{KANJI2A:34}段で行くぞ
+この{UNK_KANJI}段で行くぞ
 --------------------------------------------------End--
 {O'aka}
 {O'aka}　いらっしゃい
@@ -115,14 +115,14 @@ HP/MP가 모두 회복됩니다!
 {Al Bhed}語辞書第15巻を　手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}語を{KANJI2A:35}習した!
-　　　『{OPurple}タ{White}』{KANJI2A:36}『{Pink}や{White}』
-　　　『{OPurple}ヲ{White}』{KANJI2A:36}『{Pink}ゆ{White}』
-　　　『{OPurple}モ{White}』{KANJI2A:36}『{Pink}よ{White}』
+{Al Bhed}語を{UNK_KANJI}習した!
+　　　『{OPurple}タ{White}』{UNK_KANJI}『{Pink}や{White}』
+　　　『{OPurple}ヲ{White}』{UNK_KANJI}『{Pink}ゆ{White}』
+　　　『{OPurple}モ{White}』{UNK_KANJI}『{Pink}よ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}語入門】{White}
-見知らぬ言{KANJI2A:37}『{Al Bhed}語』は{Al Bhed}語辞書を
+見知らぬ言{UNK_KANJI}『{Al Bhed}語』は{Al Bhed}語辞書を
 発見するとおぼえることができます　
 {OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
 --------------------------------------------------End--

@@ -29,7 +29,7 @@
 {CHOICE:33}いなみす{CHOICE:FF}　　　{CHOICE:34}すまない{CHOICE:FF}　　　{CHOICE:35}すめない
 {CHOICE:36}かまない{CHOICE:FF}　　　{CHOICE:37}いなます{CHOICE:FF}　　　{CHOICE:38}いすなめ
 --------------------------------------------------End--
-夢見る宝{KANJI2A:30}
+夢見る宝{UNK_KANJI}
 わたしは　なんでしょう?
 --------------------------------------------------End--
 {WINDOW}
@@ -41,16 +41,16 @@
 {Al Bhed}語辞書第20巻を　手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}語を{KANJI2A:31}習した!
-　　　『{OPurple}ダ{White}』{KANJI2A:32}『{Pink}が{White}』
-　　　『{OPurple}ジ{White}』{KANJI2A:32}『{Pink}ぎ{White}』
-　　　『{OPurple}ヅ{White}』{KANJI2A:32}『{Pink}ぐ{White}』
-　　　『{OPurple}デ{White}』{KANJI2A:32}『{Pink}げ{White}』
-　　　『{OPurple}ゾ{White}』{KANJI2A:32}『{Pink}ご{White}』
+{Al Bhed}語を{UNK_KANJI}習した!
+　　　『{OPurple}ダ{White}』{UNK_KANJI}『{Pink}が{White}』
+　　　『{OPurple}ジ{White}』{UNK_KANJI}『{Pink}ぎ{White}』
+　　　『{OPurple}ヅ{White}』{UNK_KANJI}『{Pink}ぐ{White}』
+　　　『{OPurple}デ{White}』{UNK_KANJI}『{Pink}げ{White}』
+　　　『{OPurple}ゾ{White}』{UNK_KANJI}『{Pink}ご{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}語入門】{White}
-見知らぬ言{KANJI2A:33}『{Al Bhed}語』は{Al Bhed}語辞書を
+見知らぬ言{UNK_KANJI}『{Al Bhed}語』は{Al Bhed}語辞書を
 発見するとおぼえることができます　
 {OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
 --------------------------------------------------End--

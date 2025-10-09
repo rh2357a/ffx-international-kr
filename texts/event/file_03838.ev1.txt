@@ -14,16 +14,16 @@
 {Al Bhed}語辞書第22巻を　手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}語を{KANJI2A:30}習した!
-　　　『{OPurple}ガ{White}』{KANJI2A:31}『{Pink}だ{White}』
-　　　『{OPurple}ビ{White}』{KANJI2A:31}『{Pink}ぢ{White}』
-　　　『{OPurple}グ{White}』{KANJI2A:31}『{Pink}づ{White}』
-　　　『{OPurple}ベ{White}』{KANJI2A:31}『{Pink}で{White}』
-　　　『{OPurple}ゴ{White}』{KANJI2A:31}『{Pink}ど{White}』
+{Al Bhed}語を{UNK_KANJI}習した!
+　　　『{OPurple}ガ{White}』{UNK_KANJI}『{Pink}だ{White}』
+　　　『{OPurple}ビ{White}』{UNK_KANJI}『{Pink}ぢ{White}』
+　　　『{OPurple}グ{White}』{UNK_KANJI}『{Pink}づ{White}』
+　　　『{OPurple}ベ{White}』{UNK_KANJI}『{Pink}で{White}』
+　　　『{OPurple}ゴ{White}』{UNK_KANJI}『{Pink}ど{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}語入門】{White}
-見知らぬ言{KANJI2A:32}『{Al Bhed}語』は{Al Bhed}語辞書を
+見知らぬ言{UNK_KANJI}『{Al Bhed}語』は{Al Bhed}語辞書を
 発見するとおぼえることができます　
 {OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
 --------------------------------------------------End--

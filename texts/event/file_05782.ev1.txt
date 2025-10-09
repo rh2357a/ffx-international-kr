@@ -3,9 +3,9 @@
 {Blue}TIME　{VAR12:32}:{VAR12:31}:{VAR12:30}{White}
 --------------------------------------------------End--
 {WINDOW}
-{Spira}の{KANJI2A:32}地に隠された封印を
+{Spira}の{UNK_KANJI}地に隠された封印を
 解除できるアイテム
-だが今は力を失っており{KANJI2A:3C}に{KANJI2A:3D}たない
+だが今は力を失っており{UNK_KANJI}に{UNK_KANJI}たない
 どこかで力を取り戻せるだろうか--
 --------------------------------------------------End--
 {WINDOW}
@@ -14,21 +14,21 @@
 日夜修行をつんでおる
 {NEWPAGE}
 
-チョコボの良き{KANJI2A:34}よ--
-どうか修行に{KANJI2A:35}力してはくれまいか
+チョコボの良き{UNK_KANJI}よ--
+どうか修行に{UNK_KANJI}力してはくれまいか
 {NEWPAGE}
 
 
-寺院の反対側に　手{KANJI2A:36}をつけた
+寺院の反対側に　手{UNK_KANJI}をつけた
 チョコボが待っておる
 {NEWPAGE}
 
 そなたは　そのチョコボに乗って
-ここにいるチョコボと{KANJI2A:37}{KANJI2A:38}するのじゃ
+ここにいるチョコボと{UNK_KANJI}{UNK_KANJI}するのじゃ
 --------------------------------------------------End--
 {WINDOW}
 
-{KANJI2A:35}力する気があるならば　反対側にいる
+{UNK_KANJI}力する気があるならば　反対側にいる
 チョコボのもとに急ぐがよい
 {NEWPAGE}
 
@@ -37,12 +37,12 @@
 --------------------------------------------------End--
 {WINDOW}
 
-寺院の反対側に　手{KANJI2A:36}をつけた
+寺院の反対側に　手{UNK_KANJI}をつけた
 チョコボが待っておる
 {NEWPAGE}
 
 そなたは　そのチョコボに乗って
-ここにいるチョコボと{KANJI2A:37}{KANJI2A:38}するのじゃ
+ここにいるチョコボと{UNK_KANJI}{UNK_KANJI}するのじゃ
 {NEWPAGE}
 
 そなたがチョコボにまたがった時
@@ -53,17 +53,17 @@
 『乗れ』と言いたいらしい
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{KANJI2A:37}技説明】{White}
-·コース上には　いくつか宝{KANJI2A:39}があります
-　宝{KANJI2A:39}を開けると　チョコボがジャンプして
+{Yellow}【{UNK_KANJI}技説明】{White}
+·コース上には　いくつか宝{UNK_KANJI}があります
+　宝{UNK_KANJI}を開けると　チョコボがジャンプして
 　近道できます
 ·相手チョコボより先にゴールできれば
-　{KANJI2A:3A}{KANJI2A:3B}がもらえます
+　{UNK_KANJI}{UNK_KANJI}がもらえます
 ·ただしコース上のポールに触れると
-　{KANJI2A:3A}{KANJI2A:3B}のランクが下がってしまいます
-·宝{KANJI2A:39}をたくさん開けるほど　よい{KANJI2A:3A}{KANJI2A:3B}が
+　{UNK_KANJI}{UNK_KANJI}のランクが下がってしまいます
+·宝{UNK_KANJI}をたくさん開けるほど　よい{UNK_KANJI}{UNK_KANJI}が
 　もらえます　早くゴールするだけではなく
-　できるだけ多くの宝{KANJI2A:39}を開けてみましょう
+　できるだけ多くの宝{UNK_KANJI}を開けてみましょう
 --------------------------------------------------End--
 {WINDOW}
 START!!
@@ -138,25 +138,25 @@ START!!
 ポール接触回数　20回
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　0個
+宝{UNK_KANJI}を開けた数　0個
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　1個
+宝{UNK_KANJI}を開けた数　1個
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　2個
+宝{UNK_KANJI}を開けた数　2個
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　3個
+宝{UNK_KANJI}を開けた数　3個
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　4個!!
+宝{UNK_KANJI}を開けた数　4個!!
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　5個!!
+宝{UNK_KANJI}を開けた数　5個!!
 --------------------------------------------------End--
 {WINDOW}
-宝{KANJI2A:39}を開けた数　6個!!
+宝{UNK_KANJI}を開けた数　6個!!
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【여행자의 세이브 스피어 Lv1】{White}
@@ -228,16 +228,16 @@ HP/MP가 모두 회복됩니다!
 {Al Bhed}語辞書第24巻を　手に入れた!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}語を{KANJI2A:3E}習した!
-　　　『{OPurple}プ{White}』{KANJI2A:3F}『{Pink}ぱ{White}』
-　　　『{OPurple}ペ{White}』{KANJI2A:3F}『{Pink}ぴ{White}』
-　　　『{OPurple}パ{White}』{KANJI2A:3F}『{Pink}ぷ{White}』
-　　　『{OPurple}ポ{White}』{KANJI2A:3F}『{Pink}ぺ{White}』
-　　　『{OPurple}ピ{White}』{KANJI2A:3F}『{Pink}ぽ{White}』
+{Al Bhed}語を{UNK_KANJI}習した!
+　　　『{OPurple}プ{White}』{UNK_KANJI}『{Pink}ぱ{White}』
+　　　『{OPurple}ペ{White}』{UNK_KANJI}『{Pink}ぴ{White}』
+　　　『{OPurple}パ{White}』{UNK_KANJI}『{Pink}ぷ{White}』
+　　　『{OPurple}ポ{White}』{UNK_KANJI}『{Pink}ぺ{White}』
+　　　『{OPurple}ピ{White}』{UNK_KANJI}『{Pink}ぽ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}語入門】{White}
-見知らぬ言{KANJI2A:40}『{Al Bhed}語』は{Al Bhed}語辞書を
+見知らぬ言{UNK_KANJI}『{Al Bhed}語』は{Al Bhed}語辞書を
 発見するとおぼえることができます　
 {OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
 --------------------------------------------------End--
