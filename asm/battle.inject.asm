@@ -17,7 +17,7 @@ get_monster_name_by_id_internal:
 
 @@_is_korean:
 	la v0, monster_names
-	li v1, 20
+	li v1, 24
 	mult a0, a0, v1
 	addu v0, v0, a0
 
