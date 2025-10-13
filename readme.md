@@ -1,6 +1,6 @@
 # ffx-international-kr
 
-PS2 파이널판타지10 인터내셔널의 한글 번역 프로젝트
+PS2 파이널판타지10 인터내셔널 한글 번역 프로젝트
 
 ## 패치 정보
 
@@ -23,7 +23,7 @@ PS2 파이널판타지10 인터내셔널의 한글 번역 프로젝트
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [ghidra-emotionengine](https://github.com/chaoticgd/ghidra-emotionengine-reloaded): 프로그램 분석
 * [armips](https://github.com/Kingcom/armips): 어셈블리 코드 패치
 * [xdelta3](https://github.com/jmacd/xdelta): 패치 파일 생성
-* 대부분의 텍스트, 그래픽 도구: 체코어 번역 프로젝트(<https://www.rk-translations.cz>, <https://www.romhacking.net/utilities/1390>)
+* [RK-Translations](https://www.rk-translations.cz): 체코어 번역 프로젝트 ([대부분의 텍스트, 그래픽 도구](<https://www.romhacking.net/utilities/1390>))
 
 ## 패치 생성 및 테스트
 
