@@ -16,25 +16,6 @@ tools\ffxgnop -i 0x80c50 !files!\file_00367.bin1 graphics\menu\file_00367_0.bmp
 tools\ffxgnop -i 0x91050 !files!\file_00367.bin1 graphics\menu\file_00367_1.bmp
 tools\ffxcx -c1 !files!\file_00367.bin1 %files%\file_00367.bin.lz1
 
-echo.  - copyright
-tools\ffxcx -d !files!\file_11695.map.lz1 !files!\file_11695.map1
-tools\ffxmap -ip0 !files!\file_11695.map1 graphics\misc\file_11695.bmp !files!\file_11695.map1
-tools\ffxmap -ip4 !files!\file_11695.map1 graphics\misc\file_11695.bmp !files!\file_11695.map1
-tools\ffxcx -c1 !files!\file_11695.map1 !files!\file_11695.map.lz1
-del !files!\file_11695.map1
-
-echo.  - title
-tools\ffxcx -d !files!\file_11691.map.lz1 !files!\file_11691.map1
-tools\ffxmap -ip0 !files!\file_11691.map1 graphics\misc\file_11691.bmp !files!\file_11691.map1
-tools\ffxcx -c1 !files!\file_11691.map1 !files!\file_11691.map.lz1
-del !files!\file_11691.map1
-
-echo.  - misc jpn logo
-tools\ffxcx -d !files!\file_09832.bin.lz1 !files!\file_09832.bin1
-tools\ffxgnop -i 0xb2000 !files!\file_09832.bin1 graphics\misc\file_09832.bmp
-tools\ffxcx -c1 !files!\file_09832.bin1 !files!\file_09832.bin.lz1
-del !files!\file_09832.bin1
-
 echo.  - airship text gfx
 set airship_cache=build\airship
 if exist "!airship_cache!" rmdir /s /q "!airship_cache!"
