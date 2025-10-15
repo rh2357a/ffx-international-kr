@@ -1,6 +1,3 @@
-rem              0x10000
-set inject_length=65536
-
 echo extract '%input_iso%'
 if exist build rmdir /s /q build
 tools\ffxiso -e %input_iso% build
@@ -20,4 +17,4 @@ echo build font...
 tools\ffxftcx graphics\font\font_kr.bmp !files! file_00455
 
 echo assemble 'asm\ffx_international.asm'...
-tools\armips -equ INJECT_LENGTH !inject_length! asm\ffx_international.asm
+tools\armips asm\ffx_international.asm

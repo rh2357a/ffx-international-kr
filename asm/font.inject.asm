@@ -452,6 +452,18 @@ render_font_impl:
 	jr ra
 	li v0, -1
 
+
+adjust_font_218e94:
+	li a3, 0x16
+	move a1, s1
+	jal draw_scan_status_background
+	li t0, 5
+	addiu s1, s1, -2
+	la t0, return_lab_00218ec8
+	jr t0
+	move a0, s3
+
+
 .align 4
 @_check_table:
 	.fill TEXTURE_GLYPH_COUNT * 2, 0xff
