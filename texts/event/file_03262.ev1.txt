@@ -37,43 +37,42 @@
 ランララ　ララララ　ラッラッラ~
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}語辞書第3巻を　手に入れた!
+{Al Bhed}어 사전 제3권을 획득했다!
 --------------------------------------------------End--
 {WINDOW}
-{Al Bhed}語を{UNK_KANJI}習した!
-　　　『{OPurple}ア{White}』{UNK_KANJI}『{Pink}か{White}』
-　　　『{OPurple}チ{White}』{UNK_KANJI}『{Pink}き{White}』
+{Al Bhed}어를 학습했다!
+　　　『{OPurple}ㅎ{White}』→『{Pink}ㄴ{White}』
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Al Bhed}語入門】{White}
-見知らぬ言{UNK_KANJI}『{Al Bhed}語』は{Al Bhed}語辞書を
-発見するとおぼえることができます　
-{OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
+{Yellow}【{Al Bhed}어 입문】{White}
+미지의 언어 『{Al Bhed}어』는 {Al Bhed}어 사전을
+찾아내서 습득할 수 있습니다
+{OPurple}노리자! {Al Bhed}어 마스터! 건투를 빌며!{White}
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
+{Tidus}는(은) {Blue}【{Al Bhed}어 입문자】{White}가 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【{Al Bhed}語キョキンキャ】{White}になった!
+{Tidus}는(은) {Blue}【{Al Bhed}어 초심자】{White}가 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【アサヨソオ{Al Bhed}語】{White}になった!
+{Tidus}는(은) {Blue}【서투른 {Al Bhed}어】{White}가 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
+{Tidus}는(은) {Blue}【{Al Bhed}어 독학】{White}이 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
+{Tidus}는(은) {Blue}【유창한 {Al Bhed}어】{White}가 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【{Al Bhed}語ポナポナ】{White}になった!
+{Tidus}는(은) {Blue}【{Al Bhed}어 술술】{White}이 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
+{Tidus}는(은) {Blue}【{Al Bhed}어 현지인 급】{White}이 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
+{Tidus}는(은) {Blue}【훌륭한 {Al Bhed}어】{White}가 되었다!
 --------------------------------------------------End--
 {WINDOW}
-{Tidus}は　{Blue}【{Al Bhed}語ヤヌサー】{White}になった!
+{Tidus}는(은) {Blue}【{Al Bhed}어 마스터】{White}가 되었다!
 --------------------------------------------------End--

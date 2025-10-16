@@ -226,23 +226,23 @@
 開かない--
 --------------------------------------------------End--
 
-{Yellow}【{Celestial Mirror}】{White}が反{UNK_KANJI}している--
+{Yellow}【{Celestial Mirror}】{White}이 반응하고 있다--
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Celestial Mirror}】{White}を--
-{CHOICE:30}使う
-{CHOICE:31}使わない
+{Yellow}【{Celestial Mirror}】{White}을--
+{CHOICE:30}사용한다
+{CHOICE:31}사용하지 않는다
 --------------------------------------------------End--
 
-{Yellow}【{Cloudy Mirror}】{White}が反{UNK_KANJI}している--
+{Yellow}【{Cloudy Mirror}】{White}이 반응하고 있다--
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Cloudy Mirror}】{White}を--
-{CHOICE:30}使う
-{CHOICE:31}使わない
+{Yellow}【{Cloudy Mirror}】{White}을--
+{CHOICE:30}사용한다
+{CHOICE:31}사용하지 않는다
 --------------------------------------------------End--
 
-どうやら力が不足しているようだ--
+아무래도 힘이 부족해 보인다--
 --------------------------------------------------End--
 {Tidus}
 {Guadosalam}か--
@@ -335,9 +335,9 @@ HP/MP가 모두 회복됩니다!
 マカラーニャの森
 --------------------------------------------------End--
 {WINDOW}
-{Jecht}のスフィアを発見した!
+{Jecht}의 스피어를 발견했다!
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}見てみる
-{CHOICE:31}見ない
+{CHOICE:30}본다
+{CHOICE:31}보지 않는다
 --------------------------------------------------End--

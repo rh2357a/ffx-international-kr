@@ -49,7 +49,7 @@ Is this the one you want?
 --------------------------------------------------End--
 {WINDOW}
 Choose a language:
-  {CHOICE:30}Japanese
+  {CHOICE:30}Korean
   {CHOICE:31}English
 --------------------------------------------------End--
 {WINDOW}
