@@ -1,4 +1,4 @@
 {WINDOW}
 
-{White}{Button Circle}:調べる{White}
+{White}{Button Circle}: 조사하기{White}
 --------------------------------------------------End--
