@@ -14,7 +14,7 @@ for %%i in (patch\*.xdelta) do (
 )
 
 echo build font...
-tools\ffxftcx graphics\font\font_kr.bmp !files! file_00455
+tools\ffxftcx graphics\font\font_kr_v2.bmp !files! file_00455
 
 echo assemble 'asm\ffx_international.asm'...
 tools\armips asm\ffx_international.asm

@@ -54,6 +54,24 @@
           "DEBUG": "1"
         }
       }
+    },
+    {
+      "label": "build.font_adjustment",
+      "type": "shell",
+      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
+      "args": [
+        "-defterm",
+        "-here",
+        "-no-start",
+        "-mingw64",
+        "-c",
+        "make font_adjustment"
+      ],
+      "options": {
+        "env": {
+          "DEBUG": "1"
+        }
+      }
     }
   ]
 }

@@ -36,8 +36,9 @@ endif
 
 ################################################################################
 
-ffxftcx_obj := $(BUILD_OBJ_DIR)/ffxftcx.o
-ffxname_obj := $(BUILD_OBJ_DIR)/ffxname.o
+font_adjustment_obj := $(BUILD_OBJ_DIR)/font_adjustment.o
+ffxftcx_obj         := $(BUILD_OBJ_DIR)/ffxftcx.o
+ffxname_obj         := $(BUILD_OBJ_DIR)/ffxname.o
 
 ffxiso_obj := \
 	$(BUILD_OBJ_DIR)/ffxiso.o \
@@ -48,7 +49,7 @@ ffxiso_obj := \
 
 .PHONY: all clean
 
-all: ffxiso ffxftcx ffxname
+all: ffxiso ffxftcx ffxname font_adjustment
 
 ffxiso: $(ffxiso_obj)
 	@mkdir -p $(BUILD_OUTPUT_DIR)
@@ -61,6 +62,11 @@ ffxftcx: $(ffxftcx_obj)
 	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
 
 ffxname: $(ffxname_obj)
+	@mkdir -p $(BUILD_OUTPUT_DIR)
+	@mkdir -p $(shell dirname $@)
+	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+
+font_adjustment: $(font_adjustment_obj)
 	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
 	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
