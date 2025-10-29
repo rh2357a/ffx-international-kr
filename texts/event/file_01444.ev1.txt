@@ -50,8 +50,8 @@
 --------------------------------------------------End--
 {WINDOW}
 
-{White}{Button Square}: 지상으로 올라가기
-{Button X}: 잠수하기{White}
+{White}{Button Square}:지상으로 올라가기
+{Button X}:잠수하기{White}
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【여행자의 세이브 스피어 Lv1】{White}

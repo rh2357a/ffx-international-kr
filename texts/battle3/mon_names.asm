@@ -104,7 +104,7 @@ monster_names:
 	fixed_string MON_NAME_LENGTH, "트로스"
 	fixed_string MON_NAME_LENGTH, "『신의 비늘: 그노우』"
 	fixed_string MON_NAME_LENGTH, "그노우의 촉수"
-	fixed_string MON_NAME_LENGTH, "쵸코보 이터"
+	fixed_string MON_NAME_LENGTH, "초코보 이터"
 	fixed_string MON_NAME_LENGTH, "네슬러그"
 	fixed_string MON_NAME_LENGTH, "환광천극"
 	fixed_string MON_NAME_LENGTH, "비늘 파펀"
