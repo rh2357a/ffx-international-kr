@@ -12,8 +12,6 @@ BUILD_OUTPUT_DIR := $(BUILD_TARGET_DIR)/bin
 
 ################################################################################
 
-CXX := x86_64-w64-mingw32-g++
-
 CXXFLAGS := -std=c++20 -fpermissive \
             -Wall -Wextra \
             -Wno-comment \
@@ -23,7 +21,7 @@ CXXFLAGS := -std=c++20 -fpermissive \
 
 CXXDEFINES  := -DUNICODE -D_UNICODE
 
-LDFLAGS := -static -static-libgcc -static-libstdc++ -lmsvcrt
+LDFLAGS := -static -static-libgcc -static-libstdc++
 
 ifeq ($(DEBUG), 1)
 CXXFLAGS   += -g -O0
