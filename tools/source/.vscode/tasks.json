@@ -9,7 +9,7 @@
         "-defterm",
         "-here",
         "-no-start",
-        "-mingw64",
+        "-ucrt64",
         "-c",
         "make ffxiso"
       ],
@@ -27,7 +27,7 @@
         "-defterm",
         "-here",
         "-no-start",
-        "-mingw64",
+        "-ucrt64",
         "-c",
         "make ffxftcx"
       ],
@@ -45,7 +45,7 @@
         "-defterm",
         "-here",
         "-no-start",
-        "-mingw64",
+        "-ucrt64",
         "-c",
         "make ffxname"
       ],
@@ -63,7 +63,7 @@
         "-defterm",
         "-here",
         "-no-start",
-        "-mingw64",
+        "-ucrt64",
         "-c",
         "make font_adjustment"
       ],

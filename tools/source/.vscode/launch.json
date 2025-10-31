@@ -12,7 +12,7 @@
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",
-      "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
+      "miDebuggerPath": "${env:MSYS2_HOME}\\ucrt64\\bin\\gdb.exe",
       "preLaunchTask": "build.ffxiso",
       "internalConsoleOptions": "neverOpen",
       "setupCommands": [
@@ -45,7 +45,7 @@
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",
-      "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
+      "miDebuggerPath": "${env:MSYS2_HOME}\\ucrt64\\bin\\gdb.exe",
       "preLaunchTask": "build.ffxftcx",
       "internalConsoleOptions": "neverOpen",
       "setupCommands": [
@@ -78,7 +78,7 @@
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",
-      "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
+      "miDebuggerPath": "${env:MSYS2_HOME}\\ucrt64\\bin\\gdb.exe",
       "preLaunchTask": "build.ffxname",
       "internalConsoleOptions": "neverOpen",
       "setupCommands": [
@@ -111,7 +111,7 @@
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",
-      "miDebuggerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\gdb.exe",
+      "miDebuggerPath": "${env:MSYS2_HOME}\\ucrt64\\bin\\gdb.exe",
       "preLaunchTask": "build.font_adjustment",
       "internalConsoleOptions": "neverOpen",
       "setupCommands": [
