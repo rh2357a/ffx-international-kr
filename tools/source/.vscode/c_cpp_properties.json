@@ -2,9 +2,9 @@
   "configurations": [
     {
       "name": "Win32",
-      "includePath": ["${env:MSYS2_HOME}\\ucrt64\\include"],
+      "includePath": ["${env:MSYS2_HOME}\\mingw64\\include"],
       "defines": ["DEBUG", "UNICODE", "_UNICODE"],
-      "compilerPath": "${env:MSYS2_HOME}\\ucrt64\\bin\\g++.exe",
+      "compilerPath": "${env:MSYS2_HOME}\\mingw64\\bin\\g++.exe",
       "cStandard": "c17",
       "cppStandard": "c++20",
       "intelliSenseMode": "windows-gcc-x64"

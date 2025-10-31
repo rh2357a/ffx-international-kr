@@ -21,7 +21,7 @@ CXXFLAGS := -std=c++20 -fpermissive \
 
 CXXDEFINES  := -DUNICODE -D_UNICODE
 
-LDFLAGS := -static -static-libgcc -static-libstdc++
+LDFLAGS := -static -static-libgcc -static-libstdc++ -lmsvcrt
 
 ifeq ($(DEBUG), 1)
 CXXFLAGS   += -g -O0
