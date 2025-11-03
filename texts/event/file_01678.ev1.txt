@@ -35,14 +35,14 @@ Iのあたい:{VAR12:3E}{White}
 {WINDOW}
 {Yellow}【이동 모드】{White}
 {CHOICE:30}자동
-{CHOICE:31}수동A
-{CHOICE:32}수동B
+{CHOICE:31}수동 A
+{CHOICE:32}수동 B
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【이동 모드】{White}
 {CHOICE:30}자동
-{CHOICE:31}수동A
-{CHOICE:32}수동B
+{CHOICE:31}수동 A
+{CHOICE:32}수동 B
 {CHOICE:33}기권
 --------------------------------------------------End--
 {WINDOW}
@@ -53,8 +53,8 @@ Iのあたい:{VAR12:3E}{White}
 {WINDOW}
 {Yellow}【이동 모드】{White}
 {CHOICE:30}자동
-{CHOICE:31}수동A
-{CHOICE:32}수동B
+{CHOICE:31}수동 A
+{CHOICE:32}수동 B
 {CHOICE:33}기권
 {CHOICE:34}{OCyan}敵全員眠り(DEBUG)
 {CHOICE:35}敵全員眠りKPのぞく(DEBUG)

@@ -1,10 +1,10 @@
 {WINDOW}
 
-{Button Circle}:調べる
+{Button Circle}:조사하기
 --------------------------------------------------End--
 {WINDOW}
 
-{Button Square}:船に戻る
+{Button Square}:배로 돌아가기
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【여행자의 세이브 스피어 Lv1】{White}
