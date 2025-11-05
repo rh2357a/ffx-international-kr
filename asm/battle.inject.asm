@@ -1,3 +1,4 @@
+; 필드용 적 이름 로딩
 get_monster_name_by_id_internal:
 	addiu sp, sp, -0x10
 	sd ra, 0x0(sp)
@@ -26,3 +27,14 @@ get_monster_name_by_id_internal:
 	jr ra
 	addiu sp, sp, 0x10
 
+
+; 적의 상태이상 배경 그리기 & 텍스트 출력
+draw_battle_scan_status:
+	li a3, 0x16
+	move a1, s1
+	jal draw_scan_status_background
+	li t0, 5
+	addiu s1, s1, -2
+	la t0, return_lab_00218ec8
+	jr t0
+	move a0, s3

@@ -106,26 +106,6 @@ read_glyph_width:
 .endarea
 
 
-; 작은 폰트 처리 - 1 (기본 폰트 대체)
-.org 0x219934
-	jal draw_text_en
-	addu a1, s2, a1
-.org 0x0021d060
-	jal draw_text_en
-	lh a2, 0x72(sp)
-
-
-; 작은 폰트 처리 - 2 (위치 맞추기)
-.org 0x218c24
-	addiu v0, s0, 0x18
-.org 0x218e94
-.area 28, 0
-	la a1, adjust_font_218e94
-	jr a1
-	li a2, 0xa3
-.endarea
-
-
 ; FUN_00204d70: 폰트 그래픽
 .org 0x204d70
 render_font:

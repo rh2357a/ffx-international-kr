@@ -14,6 +14,7 @@ inject_begin:
 	.include "asm/font.inject.asm"
 	.include "asm/albhed.inject.asm"
 	.include "texts/battle3/mon_names.asm"
+	.include "texts/menu/albhed_to_ko_table.asm"
 inject_end:
 
 .orga 0x24
@@ -31,6 +32,6 @@ inject_end:
 	.include "asm/font.asm"
 	.include "asm/albhed.asm"
 	.include "asm/battle.asm"
-	.include "asm/naming_screen.asm"
+	.include "asm/naming.asm"
 	.include "asm/sphere_grid.asm"
 .close

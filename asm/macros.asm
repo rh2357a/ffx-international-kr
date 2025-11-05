@@ -37,6 +37,7 @@ start:
 .endmacro
 
 
+; 이름 설정 화면 메뉴 항목
 .macro naming_menu_item, id, keypad_index
 	.db id, 0x20, keypad_index, 0x00
 .endmacro

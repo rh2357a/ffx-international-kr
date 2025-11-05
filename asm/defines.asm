@@ -1,12 +1,11 @@
 .definelabel    get_language_config, 0x1bd3a0
 .definelabel get_font_locale_config, 0x20a828
 
-.definelabel                draw_text_ja, 0x1f57d8
-.definelabel                draw_text_en, 0x1f3810
+.definelabel       render_battle_text_ja, 0x1f57d8
+.definelabel       render_battle_text_en, 0x1f3810
 .definelabel          get_font_width_ptr, 0x20b960
 .definelabel      apply_font_texture_dma, 0x20c528
 .definelabel draw_scan_status_background, 0x2199a0
-.definelabel         return_lab_00218ec8, 0x218ec8
 
 .definelabel      memcpy, 0x2f0dd4
 .definelabel     std_log, 0x2f10f8

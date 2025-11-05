@@ -1,0 +1,7 @@
+[file_09832.bin.lz1.xdelta]
+불필요한 일본어그래픽 제거
+
+
+[file_11691.map.lz1.xdelta]
+region 설정에 따라 바뀐 타이틀을 기존 데이터로 변경함
+
