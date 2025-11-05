@@ -8,6 +8,8 @@ set input_iso=base.iso
 set target_iso=ffx_international_kr.iso
 set target_patch=ffx_international_kr.xdelta
 
+set multilang=0
+
 echo extract '%input_iso%'
 if exist build rmdir /s /q build
 tools\ffxiso -e %input_iso% build

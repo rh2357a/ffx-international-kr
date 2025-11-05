@@ -1,0 +1,2 @@
+[file_00976.ev.lz1.xdelta]
+NEW GAME 시, 언어 선택이 포함된 이벤트 데이터 패치

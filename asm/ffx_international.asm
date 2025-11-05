@@ -29,6 +29,7 @@ inject_end:
 .open "build/files/file_00000.elf", 0xff000
 	.include "asm/memory.asm"
 	.include "asm/region.asm"
+	.include "asm/save.asm"
 	.include "asm/font.asm"
 	.include "asm/albhed.asm"
 	.include "asm/battle.asm"

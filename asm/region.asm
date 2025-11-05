@@ -48,3 +48,11 @@
 	jr ra
 	addiu sp, sp, 0x20
 .endarea
+
+
+; 언어 설정 제거
+.if MULTILANG == 0
+.org 0x235c08
+	li v0, 1
+	nop
+.endif

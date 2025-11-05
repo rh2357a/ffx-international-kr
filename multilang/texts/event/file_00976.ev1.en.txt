@@ -1,0 +1,65 @@
+{WINDOW}
+{CHOICE:30}             {CHOICE:FF}
+{CHOICE:31}             {CHOICE:FF}
+{CHOICE:32}             {CHOICE:FF}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Sphere Grid Selection
+--------------------------------------------------End--
+{WINDOW}
+{FINAL FANTASY X} INTERNATIONAL features
+a new and improved Sphere Grid.
+Character development is now more flexible
+than ever with the {Yellow}Sphere Grid International{White}!
+--------------------------------------------------End--
+{WINDOW}
+Choose which Grid version to use!
+(You cannot switch Grids in-game!)
+ {CHOICE:30}Original Version
+ {CHOICE:31}International Version
+--------------------------------------------------End--
+{WINDOW}
+{Blue}Sphere Grid Original{White}
+The original {FINAL FANTASY X} Sphere Grid
+with an expanded selection of abilities!
+Recommended for beginners.
+--------------------------------------------------End--
+{WINDOW}
+You have selected the:
+{Blue}Sphere Grid Original{White}.
+Is this the one you want?
+ {CHOICE:30}Yes
+ {CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Blue}Sphere Grid International{White}
+The new {FINAL FANTASY X} INTERNATIONAL
+Sphere Grid! Experienced players will enjoy the
+new multi-track character advancement system.
+--------------------------------------------------End--
+{WINDOW}
+You have selected the:
+{Blue}Sphere Grid International{White}.
+Is this the one you want?
+ {CHOICE:30}Yes
+ {CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Select Display Language
+--------------------------------------------------End--
+{WINDOW}
+Choose a language:
+  {CHOICE:30}Korean
+  {CHOICE:31}English
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+Use hard disk drive?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}             {CHOICE:FF}
+{CHOICE:31}             {CHOICE:FF}
+
+--------------------------------------------------End--

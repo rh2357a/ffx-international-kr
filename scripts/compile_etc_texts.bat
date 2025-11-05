@@ -44,7 +44,6 @@ for %%i in (texts\etc\*.part.txt) do (
 )
 
 tools\ffxname -i file_00459 build\files
-tools\ffxname -c file_00459 build\files
 
 rem ============================================================
 

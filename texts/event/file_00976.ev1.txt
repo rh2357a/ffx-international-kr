@@ -4,59 +4,330 @@
 {CHOICE:32}　　　　　　　　　{CHOICE:FF}
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【스피어 보드 선택】
+{Yellow}【スフィア盤の選択】
 --------------------------------------------------End--
 {WINDOW}
-FINAL FANTASY Ⅹ 인터내셔널에서는
-기존 FINAL FANTASY Ⅹ의 스피어 보드보다 진화된
-캐릭터 성장의 자유도를 갖춘 {Yellow}【새로운 스피어 보드】{White}로
-게임을 플레이하실 수 있습니다!
+FINAL　FANTASY　Ⅹ　インターナショナルでは
+FINAL　FANTASY　Ⅹ　のスフィア盤から進化し
+キャラクター成長の自{KANJI2A:30}{KANJI2A:31}をました{Yellow}【新スフィア盤】{White}で
+ゲームをプレイすることができます!
 --------------------------------------------------End--
 {WINDOW}
-스피어 보드를 선택해 주세요!
-　(플레이 중에는 변경할 수 없습니다)
-　{CHOICE:30}오리지널 버전
-　{CHOICE:31}인터내셔널 버전
+スフィア盤を選んでください!
+　(プレイ中の切り{KANJI2A:32}えはできません)
+　{CHOICE:30}オリジナルバージョン
+　{CHOICE:31}インターナショナルバージョン
 --------------------------------------------------End--
 {WINDOW}
-{Blue}【스피어 보드·오리지널 버전】{White}
-FINAL FANTASY Ⅹ 오리지널 스피어 보드에
-새로운 어빌리티가 추가되었습니다　
-초심자라면 이것을 추천합니다　
+{Blue}【スフィア盤·オリジナルバージョン】{White}
+　よろしいですか?
+　{CHOICE:30}はい
+　{CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{Blue}【스피어 보드·오리지널 버전】{White}
-　괜찮겠습니까?
-　{CHOICE:30}네
-　{CHOICE:31}아니오
+{Blue}【スフィア盤·インターナショナルバージョン】{White}
+　よろしいですか?
+　{CHOICE:30}はい
+　{CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
-{Blue}【스피어 보드·인터내셔널 버전】{White}
-FINAL FANTASY Ⅹ 인터내셔널의 새로운 스피어 보드
-캐릭터를 자유롭게 성장시킬 수 있으며
-전투를 극한까지 즐기는 상급자 전용입니다　
---------------------------------------------------End--
-{WINDOW}
-{Blue}【스피어 보드·인터내셔널 버전】{White}
-　괜찮겠습니까?
-　{CHOICE:30}네
-　{CHOICE:31}아니오
---------------------------------------------------End--
-{WINDOW}
-{Yellow}【자막 언어 선택】
---------------------------------------------------End--
-{WINDOW}
-자막으로 표시할 언어를 선택해 주세요!
-　{CHOICE:30}한국어
-　{CHOICE:31}영어
---------------------------------------------------End--
-{WINDOW}
-하드 디스크 드라이브를 사용하겠습니까?
-{CHOICE:30}네
-{CHOICE:31}아니오
+ハードディスクドライブを使用しますか?
+{CHOICE:30}はい
+{CHOICE:31}いいえ
 --------------------------------------------------End--
 {WINDOW}
 {CHOICE:30}　　　　　　　　　{CHOICE:FF}
 {CHOICE:31}　　　　　　　　　{CHOICE:FF}
 
+--------------------------------------------------End--
+{WINDOW}
+FFX　STARTMAP
+--------------------------------------------------End--
+えふえふえっくす　STARTMAP
+--------------------------------------------------End--
+{WINDOW}
+
+【FFX　インターナショナル　VER.20】
+
+
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}EVENT
+{CHOICE:31}MAP
+{CHOICE:32}PROGRAM
+{CHOICE:33}BATTLE
+{CHOICE:34}NEWGAME
+{CHOICE:35}LOAD
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}MASTER(NEWGAME){KANJI2A:33}
+{CHOICE:31}LOCAL(EVENT){KANJI2A:33}
+{CHOICE:32}LOCAL(MAP){KANJI2A:33}
+{CHOICE:33}BATTLE(NEWGAME){KANJI2A:33}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}BACK{CHOICE:FF}{VAR07:5E}{CHOICE:35}Chiba
+{CHOICE:31}Iwabuchi{CHOICE:FF}{VAR07:5E}{CHOICE:36}Toriyama
+{CHOICE:32}Nakazato{CHOICE:FF}{VAR07:5E}{CHOICE:37}Nogami
+{CHOICE:33}{Gray}Saito{White}{CHOICE:FF}{VAR07:5E}{CHOICE:38}Matsuda
+{CHOICE:34}{Gray}Tanba{CHOICE:FF}{VAR07:5E}{CHOICE:39}Kataoka{White}
+{CHOICE:3A}Nojima{CHOICE:FF}{VAR07:5E}{CHOICE:3B}Kitase
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}【01】はじめから{CHOICE:FF}{VAR07:68}{CHOICE:31}バトル　ON{CHOICE:FF}
+{CHOICE:32}【02】{Baaj Island}{CHOICE:FF}{VAR07:68}{CHOICE:33}【03】{Besaid Island}{CHOICE:FF}
+{CHOICE:34}【04】{S.S. Liki}{CHOICE:FF}{VAR07:68}{CHOICE:35}【05】{Kilika Island}{CHOICE:FF}
+{CHOICE:36}【06】{S.S. Winno}{CHOICE:FF}{VAR07:68}{CHOICE:37}【07】{Luca Seaport}{CHOICE:FF}
+{CHOICE:38}【07】{blitzball}{CHOICE:FF}{VAR07:68}{CHOICE:39}【08】{Mi'ihen Highroad}{CHOICE:FF}
+{CHOICE:3A}【09】{Operation Mi'ihen}{CHOICE:FF}{VAR07:68}{CHOICE:3B}【10】{Djose Temple}{CHOICE:FF}
+{CHOICE:3C}【11】{Moonflow}{CHOICE:FF}{VAR07:68}{CHOICE:3D}【12】{Guadosalam}{CHOICE:FF}
+{CHOICE:3E}【13】{Thunder Plains}{CHOICE:FF}{VAR07:68}{CHOICE:3F}{Blue}【シナリオ後半へ】{White}{CHOICE:FF}
+{CHOICE:40}BACK{CHOICE:FF}{VAR07:63}{Pink}VER.　12/　21:00{White}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}【01】はじめから{CHOICE:FF}{VAR07:68}{CHOICE:31}バトル　OFF{CHOICE:FF}
+{CHOICE:32}【02】{Baaj Island}{CHOICE:FF}{VAR07:68}{CHOICE:33}【03】{Besaid Island}{CHOICE:FF}
+{CHOICE:34}【04】{S.S. Liki}{CHOICE:FF}{VAR07:68}{CHOICE:35}【05】{Kilika Island}{CHOICE:FF}
+{CHOICE:36}【06】{S.S. Winno}{CHOICE:FF}{VAR07:68}{CHOICE:37}【07】{Luca Seaport}{CHOICE:FF}
+{CHOICE:38}【07】{blitzball}{CHOICE:FF}{VAR07:68}{CHOICE:39}【08】{Mi'ihen Highroad}{CHOICE:FF}
+{CHOICE:3A}【09】{Operation Mi'ihen}{CHOICE:FF}{VAR07:68}{CHOICE:3B}【10】{Djose Temple}{CHOICE:FF}
+{CHOICE:3C}【11】{Moonflow}{CHOICE:FF}{VAR07:68}{CHOICE:3D}【12】{Guadosalam}{CHOICE:FF}
+{CHOICE:3E}【13】{Thunder Plains}{CHOICE:FF}{VAR07:68}{CHOICE:3F}{Blue}【シナリオ後半へ】{White}{CHOICE:FF}
+{CHOICE:40}BACK{CHOICE:FF}{VAR07:63}{Pink}VER.　12/　21:00{White}
+--------------------------------------------------End--
+{WINDOW}
+SORRY!　UNDERCONSTRUCTION!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}【14】{Macalania}森{CHOICE:FF}{VAR07:68}{CHOICE:31}【14】{Macalania}湖{CHOICE:FF}
+{CHOICE:32}【15】{Bikanel}{CHOICE:FF}{VAR07:68}{White}{CHOICE:33}【16】飛空艇
+{CHOICE:34}【16】{Bevelle}{CHOICE:FF}{VAR07:68}{CHOICE:35}【17】{Calm Lands}
+{CHOICE:36}【18】{Mt. Gagazet}{CHOICE:FF}{VAR07:68}{White}{CHOICE:37}【19】{Zanarkand Ruins}
+{CHOICE:38}【20】最終決戦{CHOICE:FF}{VAR07:68}{CHOICE:39}【召喚バトルチェック】{CHOICE:FF}
+{CHOICE:3A}BACK{CHOICE:FF}{VAR07:63}{Pink}VER.　12/　21:00{White}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}NEWGAME
+{CHOICE:31}遺跡{KANJI2A:34}き火から
+{CHOICE:32}{Tidus}の家から
+{CHOICE:33}『{Sin}』{KANJI2A:35}撃から
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Baaj Temple}　誰かイルから
+{CHOICE:31}{Baaj Temple}　寒いッスから
+{CHOICE:32}{Baaj Temple}　ボスバトルから
+{CHOICE:33}シド船(前半)から
+{CHOICE:34}シド船(後半)から
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Besaid}砂浜どざえもんから
+{CHOICE:31}{Besaid}砂浜終了から
+{CHOICE:32}{Besaid Village}{KANJI2A:36}着から
+{CHOICE:33}{Besaid Temple}試練から
+{CHOICE:34}召喚{KANJI2A:37}{KANJI2A:38}から
+{CHOICE:35}{KANJI2A:39}{KANJI2A:3A}から
+{CHOICE:36}{Besaid Village}終了から
+{CHOICE:37}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{KANJI2A:3B}{KANJI2A:3C}鏡から
+{CHOICE:31}ユウナの血{KANJI2A:3D}から
+{CHOICE:32}『{Sin}』の背{KANJI2A:3E}バトルから
+{CHOICE:33}『{Sin}』の背{KANJI2A:3E}戦後から
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Kilika Port}{KANJI2A:3F}方から
+{CHOICE:31}{Kilika Port}{KANJI2A:39}日から
+{CHOICE:32}{Kilika Woods}から
+{CHOICE:33}{Kilika Temple}から
+{CHOICE:34}{Kilika Temple}試練から{White}
+{CHOICE:35}{Kilika Temple}終了から
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Luca}入港から{White}
+{CHOICE:31}選手控え室から
+{CHOICE:32}{Luca}デートから
+{CHOICE:33}{Yuna}を救出から
+{CHOICE:34}アルベド船のボスバトルから
+{CHOICE:35}ブリッツ大会終了後から
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}選手入場から
+{CHOICE:31}決勝戦開始から
+{CHOICE:32}決勝戦後半から
+{CHOICE:33}モンスター登場から
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Mi'ihen Highroad}入口から
+{CHOICE:31}{Rin Travel Agency}{KANJI2A:36}着から
+{CHOICE:32}チョコボイーターバトルから
+{CHOICE:33}チョコボイーターバトル勝利から
+{CHOICE:34}チョコボイーターバトル敗北から
+{CHOICE:35}{Mi'ihen Highroad's End}から
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Seymour}老師　御来{KANJI2A:40}から
+{CHOICE:31}{Mushroom Rock Road}フリーから
+{CHOICE:32}司令部{KANJI2A:36}着から
+{CHOICE:33}{Operation Mi'ihen}開始から
+{CHOICE:34}『{Sin}』登場から
+{CHOICE:35}負け戦から
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Djose}街道から
+{CHOICE:31}{Djose Temple}{KANJI2A:36}着から
+{CHOICE:32}{Isaaru}登場から
+{CHOICE:33}{Djose Temple}試練から
+{CHOICE:34}{KANJI2A:39}{KANJI2A:3A}出発から
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Moonflow}南岸の道から
+{CHOICE:31}{Moonflow}{KANJI2A:36}着から
+{CHOICE:32}シパーフ乗るから
+{CHOICE:33}幻光河ボスバトルから
+{CHOICE:34}{Moonflow}北岸から
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Guadosalam}{KANJI2A:36}着から
+{CHOICE:31}{Seymour}屋敷から
+{CHOICE:32}{Farplane}へ行くから
+{CHOICE:33}{Farplane}{KANJI2A:36}着
+{CHOICE:34}{Farplane}終了後から
+{CHOICE:35}{Jyscal Guado}登場後から
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Thunder Plains}(前半)から
+{CHOICE:31}{Thunder Plains}旅行公司{KANJI2A:36}着
+{CHOICE:32}{Thunder Plains}(後半)から
+{CHOICE:33}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Macalania Woods}入口から
+{CHOICE:31}{Jecht}スフィアの泉{KANJI2A:36}着から
+{CHOICE:32}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Lake Macalania}岸から
+{CHOICE:31}アルベド{KANJI2A:35}撃から{White}
+{CHOICE:32}{Macalania Temple}{KANJI2A:36}着から
+{CHOICE:33}{Seymour}バトルから
+{CHOICE:34}{Macalania Temple}試練から
+{CHOICE:35}{Macalania Temple}逃亡から
+{CHOICE:36}不思議な大地から
+{CHOICE:37}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Sanubia Desert}オアシスから
+{CHOICE:31}{Home2}{KANJI2A:36}着から
+{CHOICE:32}{Home2}エントランスから
+{CHOICE:33}召喚士の部屋から
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}飛空艇発進から
+{CHOICE:31}満場一{KANJI2A:41}から
+{CHOICE:32}モンスター{KANJI2A:35}来
+{CHOICE:33}エフレイエ戦前から
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}結{KANJI2A:42}式開始から
+{CHOICE:31}結{KANJI2A:42}式終了から
+{CHOICE:32}ベベル試練から
+{CHOICE:33}ベベル祈り子前から
+{CHOICE:34}裁判から
+{CHOICE:35}牢獄から
+{CHOICE:36}地下{KANJI2A:43}出から
+{CHOICE:37}グレートブリッジから
+{CHOICE:38}野営地から
+{CHOICE:39}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ナギ平原から
+{CHOICE:31}ナギボスから
+{CHOICE:32}ナギ谷底から
+{CHOICE:33}レミアム寺院から
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ロンゾの集落から
+{CHOICE:31}ガガゼト登山から
+{CHOICE:32}vsシーモアから
+{CHOICE:33}第一山頂{KANJI2A:36}着から
+{CHOICE:34}登山道2から
+{CHOICE:35}vs守護獣から
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}遺跡{KANJI2A:36}着から
+{CHOICE:31}{Yevon2}ドームへの道から
+{CHOICE:32}{Yevon2}ドーム{KANJI2A:36}着から
+{CHOICE:33}{Yevon2}ドーム試練から
+{CHOICE:34}守護獣バトルから
+{CHOICE:35}{Yevon2}ドーム地下広間から
+{CHOICE:36}vs{Yunalesca}から
+{CHOICE:37}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}飛空艇再登場から
+{CHOICE:31}マイカ老師と対面から{White}
+{CHOICE:32}飛空艇世界FREEから
+{CHOICE:33}バージ寺院から
+{CHOICE:34}オメガダンジョンから
+{CHOICE:35}最終決戦開始から
+{CHOICE:36}『シン』バトルから
+{CHOICE:37}『シン』の体内から
+{CHOICE:38}vsシーモアから
+{CHOICE:39}vsジェクトから
+{CHOICE:3A}vs召喚獣から
+{CHOICE:3B}エンディングから
+{CHOICE:3C}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ジョゼ寺院クリア後
+{CHOICE:31}グアドサラム出発後
+{CHOICE:32}ベベル終了後
+{CHOICE:33}飛空艇入手時
+{CHOICE:34}最終決戦時
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}登場
+{CHOICE:31}バトル
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ヴァルファーレ
+{CHOICE:31}イフリート
+{CHOICE:32}イクシオン
+{CHOICE:33}シヴァ
+{CHOICE:34}バハムート
+{CHOICE:35}ようじんぼう
+{CHOICE:36}アニマ
+{CHOICE:37}メーガス
+{CHOICE:38}デア·リヒター
+{CHOICE:39}フラグセット
+{CHOICE:3A}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR07:E6}　　　　　　　　　{CHOICE:FF}
+{CHOICE:31}{VAR07:E6}　　　　　　　　　{CHOICE:FF}
+{CHOICE:32}{VAR07:E6}　　　　　　　　　{CHOICE:FF}
+{CHOICE:33}{VAR07:E6}{Gray}DEBUG
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}BATTLE
+{CHOICE:31}SKIP　STORY
+{CHOICE:32}CONFIG
+{CHOICE:33}{Gray}FOR　STAFF
 --------------------------------------------------End--

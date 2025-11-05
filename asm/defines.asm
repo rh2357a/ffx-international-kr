@@ -7,6 +7,10 @@
 .definelabel      apply_font_texture_dma, 0x20c528
 .definelabel draw_scan_status_background, 0x2199a0
 
+.definelabel FUN_001bb1d0, 0x1bb1d0
+.definelabel FUN_001f3850, 0x1f3850
+.definelabel FUN_00206080, 0x206080
+
 .definelabel      memcpy, 0x2f0dd4
 .definelabel     std_log, 0x2f10f8
 .definelabel      strcat, 0x2f21e4
