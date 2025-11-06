@@ -53,21 +53,25 @@ ffxiso: $(ffxiso_obj)
 	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
 	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+	upx $(BUILD_OUTPUT_DIR)/$@.exe
 
 ffxftcx: $(ffxftcx_obj)
 	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
 	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+	upx $(BUILD_OUTPUT_DIR)/$@.exe
 
 ffxname: $(ffxname_obj)
 	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
 	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+	upx $(BUILD_OUTPUT_DIR)/$@.exe
 
 font_adjustment: $(font_adjustment_obj)
 	@mkdir -p $(BUILD_OUTPUT_DIR)
 	@mkdir -p $(shell dirname $@)
 	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
+	upx $(BUILD_OUTPUT_DIR)/$@.exe
 
 $(BUILD_OBJ_DIR)/%.o: $(SOURCE_DIR)/%.cpp
 	@mkdir -p $(shell dirname $@)
