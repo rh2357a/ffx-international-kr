@@ -12,7 +12,7 @@ void print_usage()
 }
 
 constexpr auto &KOREAN_NAME = "korean.xdelta";
-constexpr auto &MULTILANG_NAME = "korean.xdelta";
+constexpr auto &MULTILANG_NAME = "multilang.xdelta";
 
 int main(int argc, char *argv[])
 {
