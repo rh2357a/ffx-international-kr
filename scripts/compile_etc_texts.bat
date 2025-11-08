@@ -31,7 +31,7 @@ del !files!\file_00369.temp.bin >nul
 
 rem ============================================================
 
-tools\ffxname -e file_00459 build\files
+tools\ffxname -e file_00459 !files!
 
 for %%i in (texts\etc\*.part.txt) do (
   set "filename=%%~ni"
@@ -43,7 +43,7 @@ for %%i in (texts\etc\*.part.txt) do (
   tools\ffxdlg2 -i -t tables\ko.tbs !part_filename! %%i
 )
 
-tools\ffxname -i file_00459 build\files
+tools\ffxname -i file_00459 !files!
 
 rem ============================================================
 

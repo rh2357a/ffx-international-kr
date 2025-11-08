@@ -4,74 +4,38 @@
     {
       "label": "build.ffxiso",
       "type": "shell",
-      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
-      "args": [
-        "-defterm",
-        "-here",
-        "-no-start",
-        "-mingw64",
-        "-c",
-        "make ffxiso"
-      ],
-      "options": {
-        "env": {
-          "DEBUG": "1"
-        }
-      }
+      "command": "${workspaceFolder}/.vscode/tasks.build.bat",
+      "args": ["ffxiso"]
     },
     {
       "label": "build.ffxftcx",
       "type": "shell",
-      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
-      "args": [
-        "-defterm",
-        "-here",
-        "-no-start",
-        "-mingw64",
-        "-c",
-        "make ffxftcx"
-      ],
-      "options": {
-        "env": {
-          "DEBUG": "1"
-        }
-      }
+      "command": "${workspaceFolder}/.vscode/tasks.build.bat",
+      "args": ["ffxftcx"]
     },
     {
       "label": "build.ffxname",
       "type": "shell",
-      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
-      "args": [
-        "-defterm",
-        "-here",
-        "-no-start",
-        "-mingw64",
-        "-c",
-        "make ffxname"
-      ],
-      "options": {
-        "env": {
-          "DEBUG": "1"
-        }
-      }
+      "command": "${workspaceFolder}/.vscode/tasks.build.bat",
+      "args": ["ffxname"]
+    },
+    {
+      "label": "build.ffxppkg",
+      "type": "shell",
+      "command": "${workspaceFolder}/.vscode/tasks.build.bat",
+      "args": ["ffxppkg"]
     },
     {
       "label": "build.font_adjustment",
       "type": "shell",
-      "command": "${env:MSYS2_HOME}\\msys2_shell.cmd",
-      "args": [
-        "-defterm",
-        "-here",
-        "-no-start",
-        "-mingw64",
-        "-c",
-        "make font_adjustment"
-      ],
-      "options": {
-        "env": {
-          "DEBUG": "1"
-        }
-      }
+      "command": "${workspaceFolder}/.vscode/tasks.build.bat",
+      "args": ["font_adjustment"]
+    },
+    {
+      "label": "build.ffx_international_kr",
+      "type": "shell",
+      "command": "${workspaceFolder}/.vscode/tasks.build.bat",
+      "args": ["ffx_international_kr"]
     }
   ]
 }

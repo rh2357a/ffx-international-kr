@@ -2,11 +2,14 @@
 
 setlocal enabledelayedexpansion
 
-set files=build\files
+set target_name=korean
+
+set build_dir=build
+set build_target_dir=!build_dir!\!target_name!
+set files=!build_target_dir!\files
 
 set input_iso=base.iso
 set target_iso=ffx_international_kr.iso
-set target_patch=ffx_international_kr.xdelta
 
 set multilang=0
 

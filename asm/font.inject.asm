@@ -459,8 +459,8 @@ render_font_impl:
 
 .align 4
 font_data:
-	.incbin "build/files/file_00455.data.bin"
+	.incbin "build/font/file_00455.data.bin"
 
 .align 4
 font_width_table:
-	.incbin "build/files/file_00455.width.bin"
+	.incbin "build/font/file_00455.width.bin"

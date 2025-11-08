@@ -60,11 +60,11 @@ rem =====================================================
 
 echo compile multilang file_00459 texts...
 
-tools\ffxname -e file_00459 build\files
+tools\ffxname -e file_00459 !files!
 
 echo.  - file_00459.06.part.txt
 tools\ffxdlg2 -i -t tables\ko.tbs !files!\file_00459.06.bin multilang\texts\etc\file_00459.06.part.txt
-tools\ffxname -i file_00459 build\files
+tools\ffxname -i file_00459 !files!
 
 rem =====================================================
 

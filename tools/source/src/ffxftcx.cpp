@@ -156,6 +156,9 @@ int main(int argc, char *argv[])
 		width_bytes[i + (0xd0 * 9)] = DEFAULT_LATIN_FONT_WIDTH[i];
 
 	std::filesystem::path output_dir(argv[2]);
+	if (std::filesystem::exists(output_dir))
+		std::filesystem::remove_all(output_dir);
+	std::filesystem::create_directories(output_dir);
 
 	const auto &output_path = output_dir / std::format("{}.ftcx", argv[3]);
 	if (std::filesystem::exists(output_path))

@@ -1,6 +1,6 @@
 echo extract '%input_iso%'
-if exist build rmdir /s /q build
-tools\ffxiso -e %input_iso% build
+if exist !build_target_dir! rmdir /s /q !build_target_dir!
+tools\ffxiso -e %input_iso% !build_target_dir!
 
 echo apply patches...
 for %%i in (patch\*.xdelta) do (
@@ -14,7 +14,8 @@ for %%i in (patch\*.xdelta) do (
 )
 
 echo build font...
-tools\ffxftcx graphics\font\font_kr_v2.bmp !files! file_00455
+tools\ffxftcx graphics\font\font_kr_v2.bmp !build_dir!\font file_00455
+move /Y !build_dir!\font\file_00455.ftcx !files! >nul
 
 echo assemble 'asm\ffx_international.asm'...
-tools\armips -equ MULTILANG !multilang! asm\ffx_international.asm
+tools\armips -strequ TARGET_NAME "!target_name!" -equ MULTILANG !multilang! asm\ffx_international.asm

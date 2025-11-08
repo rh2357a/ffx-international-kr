@@ -32,16 +32,8 @@ PS2 파이널판타지10 인터내셔널 한글 번역 프로젝트
 
 ## 빌드 정보
 
-### 빌드
-
 * `build.bat`: 한국어화 빌드 (일반, 실험용)
 * `build.multilang.bat`: 한국어화 빌드 (한국어/영어 선택 버전)
-
-### 테스트
-
-* `build.test.system.bat`: 이벤트를 제외한 텍스트 테스트 빌드
-* `build.test.gfx.bat`: 그래픽 테스트 빌드
-* `build.test.jpn.bat`: 일어판 내용 테스트 빌드
 
 ## 일본어 음성 패치?
 

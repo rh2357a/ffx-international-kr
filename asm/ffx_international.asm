@@ -5,7 +5,7 @@
 
 
 .ps2
-.open "build/files/file_00455.ftcx", 0x798000 - 0x40
+.open "build/" + TARGET_NAME + "/files/file_00455.ftcx", 0x798000 - 0x40
 
 .orga 0x40
 inject_begin:
@@ -26,7 +26,7 @@ inject_end:
 
 
 .ps2
-.open "build/files/file_00000.elf", 0xff000
+.open "build/" + TARGET_NAME + "/files/file_00000.elf", 0xff000
 	.include "asm/memory.asm"
 	.include "asm/region.asm"
 	.include "asm/save.asm"
