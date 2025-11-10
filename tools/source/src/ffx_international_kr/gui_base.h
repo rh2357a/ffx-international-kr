@@ -10,28 +10,63 @@
 #include <wx/artprov.h>
 #include <wx/xrc/xmlres.h>
 #include <wx/string.h>
-#include <wx/frame.h>
+#include <wx/textctrl.h>
 #include <wx/gdicmn.h>
 #include <wx/font.h>
 #include <wx/colour.h>
 #include <wx/settings.h>
+#include <wx/button.h>
+#include <wx/bitmap.h>
+#include <wx/image.h>
+#include <wx/icon.h>
+#include <wx/sizer.h>
+#include <wx/stattext.h>
+#include <wx/statbox.h>
+#include <wx/radiobox.h>
+#include <wx/checkbox.h>
+#include <wx/panel.h>
+#include <wx/gauge.h>
+#include <wx/frame.h>
 
 ///////////////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////////////////
-/// Class main_form
+/// Class MainFrameBase
 ///////////////////////////////////////////////////////////////////////////////
-class main_form : public wxFrame
+class MainFrameBase : public wxFrame
 {
 	private:
 
 	protected:
+		wxPanel* m_mainPanel;
+		wxPanel* m_workspacePanel;
+		wxTextCtrl* m_baseIsoText;
+		wxButton* m_openBaseIsoButton;
+		wxStaticText* m_baseIsoWarnText;
+		wxRadioBox* m_typeRadioBox;
+		wxCheckBox* m_jpnVoiceOptionCheckBox;
+		wxPanel* m_jpnVoiceIsoPanel;
+		wxTextCtrl* m_jpnIsoText;
+		wxButton* m_openJpnIsoButton;
+		wxStaticText* m_jpnIsoWarnText;
+		wxStaticText* m_jpnIsoWarn2Text;
+		wxButton* m_applyButton;
+		wxGauge* m_applyGauge;
+
+		// Virtual event handlers, override them in your derived class
+		virtual void OnFrameClose( wxCloseEvent& event ) { event.Skip(); }
+		virtual void OnOpenBaseIsoButtonClick( wxCommandEvent& event ) { event.Skip(); }
+		virtual void OnTypeRadioBox( wxCommandEvent& event ) { event.Skip(); }
+		virtual void OnJpnVoiceOptionCheckBox( wxCommandEvent& event ) { event.Skip(); }
+		virtual void OnOpenJpnIsoButtonClick( wxCommandEvent& event ) { event.Skip(); }
+		virtual void OnApplyButtonClick( wxCommandEvent& event ) { event.Skip(); }
+
 
 	public:
 
-		main_form( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("ffx"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 500,300 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxMINIMIZE|wxMINIMIZE_BOX|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("파이널 판타지 10 인터내셔널 한국어 패치"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 600,400 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
-		~main_form();
+		~MainFrameBase();
 
 };
 

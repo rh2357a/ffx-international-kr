@@ -5,6 +5,7 @@
 #include <fstream>
 #include <filesystem>
 #include <vector>
+#include <span>
 
 namespace binfile {
 
@@ -72,7 +73,7 @@ inline std::vector<uint8_t> read_all_bytes(const std::filesystem::path &path)
 	return buffer;
 }
 
-inline void write_byte_to_file(const std::filesystem::path &path, const std::vector<uint8_t> &bytes)
+inline void write_byte_to_file(const std::filesystem::path &path, const std::span<const uint8_t> &bytes)
 {
 	std::ofstream output(path, std::ios::binary);
 	if (!output)
@@ -103,11 +104,15 @@ inline std::vector<uint8_t> pad_sector_bytes(std::vector<uint8_t> &bytes)
 
 inline bool has_bytes(const std::vector<uint8_t> &data, uint64_t index, const std::vector<uint8_t> &find_bytes)
 {
-	bool correct = true;
-	int j = 0;
-	for (uint64_t i = index; i < index + static_cast<uint64_t>(find_bytes.size()); i++)
-		correct &= data[i] == find_bytes[j++];
-	return correct;
+	if (index + find_bytes.size() > data.size())
+		return false;
+
+	for (size_t j = 0; j < find_bytes.size(); j++)
+	{
+		if (data[index + j] != find_bytes[j])
+			return false;
+	}
+	return true;
 }
 
 inline void append_bytes(std::ofstream &fs, const std::vector<uint8_t> &bytes)

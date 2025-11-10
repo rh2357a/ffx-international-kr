@@ -9,14 +9,145 @@
 
 ///////////////////////////////////////////////////////////////////////////
 
-main_form::main_form( wxWindow* parent, wxWindowID id, const wxString& title, const wxPoint& pos, const wxSize& size, long style ) : wxFrame( parent, id, title, pos, size, style )
+MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& title, const wxPoint& pos, const wxSize& size, long style ) : wxFrame( parent, id, title, pos, size, style )
 {
 	this->SetSizeHints( wxDefaultSize, wxDefaultSize );
+	this->SetBackgroundColour( wxColour( 240, 240, 240 ) );
 
+	wxBoxSizer* mainBSizer;
+	mainBSizer = new wxBoxSizer( wxVERTICAL );
+
+	m_mainPanel = new wxPanel( this, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL );
+	wxBoxSizer* mainPanelBSizer;
+	mainPanelBSizer = new wxBoxSizer( wxVERTICAL );
+
+	m_workspacePanel = new wxPanel( m_mainPanel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL );
+	wxBoxSizer* workspaceBSizer;
+	workspaceBSizer = new wxBoxSizer( wxVERTICAL );
+
+	wxStaticBoxSizer* baseIsoSbSizer;
+	baseIsoSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("적용할 ISO 파일 선택") ), wxVERTICAL );
+
+	wxBoxSizer* baseIsoBSizer;
+	baseIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	m_baseIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
+	baseIsoBSizer->Add( m_baseIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
+
+
+	baseIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
+
+	m_openBaseIsoButton = new wxButton( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("열기"), wxDefaultPosition, wxDefaultSize, 0 );
+	baseIsoBSizer->Add( m_openBaseIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
+
+
+	baseIsoSbSizer->Add( baseIsoBSizer, 1, wxALL|wxEXPAND, 5 );
+
+	m_baseIsoWarnText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPM-67513'"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_baseIsoWarnText->Wrap( -1 );
+	baseIsoSbSizer->Add( m_baseIsoWarnText, 0, wxALL, 5 );
+
+
+	workspaceBSizer->Add( baseIsoSbSizer, 0, wxALL|wxEXPAND, 5 );
+
+	wxString m_typeRadioBoxChoices[] = { wxT("한국어"), wxT("한국어/영어") };
+	int m_typeRadioBoxNChoices = sizeof( m_typeRadioBoxChoices ) / sizeof( wxString );
+	m_typeRadioBox = new wxRadioBox( m_workspacePanel, wxID_ANY, wxT("버전 선택"), wxDefaultPosition, wxDefaultSize, m_typeRadioBoxNChoices, m_typeRadioBoxChoices, 1, wxRA_SPECIFY_COLS );
+	m_typeRadioBox->SetSelection( 1 );
+	workspaceBSizer->Add( m_typeRadioBox, 0, wxALL|wxEXPAND, 5 );
+
+	wxStaticBoxSizer* jpnVoiceOptionSbSizer;
+	jpnVoiceOptionSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("일어 음성 옵션 (beta)") ), wxVERTICAL );
+
+	wxBoxSizer* jpnVoiceOptionBSizer;
+	jpnVoiceOptionBSizer = new wxBoxSizer( wxVERTICAL );
+
+	m_jpnVoiceOptionCheckBox = new wxCheckBox( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("일어 음성 적용"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnVoiceOptionCheckBox->Enable( false );
+
+	jpnVoiceOptionBSizer->Add( m_jpnVoiceOptionCheckBox, 0, wxALL, 5 );
+
+	m_jpnVoiceIsoPanel = new wxPanel( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL );
+	m_jpnVoiceIsoPanel->Enable( false );
+
+	wxBoxSizer* jpnIsoBSizer;
+	jpnIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	m_jpnIsoText = new wxTextCtrl( m_jpnVoiceIsoPanel, wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
+	jpnIsoBSizer->Add( m_jpnIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
+
+
+	jpnIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
+
+	m_openJpnIsoButton = new wxButton( m_jpnVoiceIsoPanel, wxID_ANY, wxT("열기"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_openJpnIsoButton->Enable( false );
+
+	jpnIsoBSizer->Add( m_openJpnIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
+
+
+	m_jpnVoiceIsoPanel->SetSizer( jpnIsoBSizer );
+	m_jpnVoiceIsoPanel->Layout();
+	jpnIsoBSizer->Fit( m_jpnVoiceIsoPanel );
+	jpnVoiceOptionBSizer->Add( m_jpnVoiceIsoPanel, 0, wxEXPAND | wxALL, 0 );
+
+
+	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionBSizer, 1, wxALL|wxEXPAND, 5 );
+
+	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPS-25050'"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnIsoWarnText->Wrap( -1 );
+	m_jpnIsoWarnText->Enable( false );
+
+	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxALL, 5 );
+
+	m_jpnIsoWarn2Text = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 주의: 자막과 음성이 다를 수 있습니다."), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnIsoWarn2Text->Wrap( -1 );
+	m_jpnIsoWarn2Text->Enable( false );
+
+	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarn2Text, 0, wxALL, 5 );
+
+
+	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxALL|wxEXPAND, 5 );
+
+
+	m_workspacePanel->SetSizer( workspaceBSizer );
+	m_workspacePanel->Layout();
+	workspaceBSizer->Fit( m_workspacePanel );
+	mainPanelBSizer->Add( m_workspacePanel, 0, wxALL|wxEXPAND, 0 );
+
+	wxBoxSizer* applyBSizer;
+	applyBSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	m_applyButton = new wxButton( m_mainPanel, wxID_ANY, wxT("패치"), wxDefaultPosition, wxSize( -1,-1 ), 0 );
+	applyBSizer->Add( m_applyButton, 2, wxALL|wxEXPAND, 5 );
+
+	m_applyGauge = new wxGauge( m_mainPanel, wxID_ANY, 88, wxDefaultPosition, wxDefaultSize, wxGA_HORIZONTAL );
+	m_applyGauge->SetValue( 0 );
+	applyBSizer->Add( m_applyGauge, 7, wxALL|wxEXPAND, 5 );
+
+
+	mainPanelBSizer->Add( applyBSizer, 1, wxALL|wxEXPAND, 0 );
+
+
+	m_mainPanel->SetSizer( mainPanelBSizer );
+	m_mainPanel->Layout();
+	mainPanelBSizer->Fit( m_mainPanel );
+	mainBSizer->Add( m_mainPanel, 1, wxALL|wxEXPAND, 5 );
+
+
+	this->SetSizer( mainBSizer );
+	this->Layout();
 
 	this->Centre( wxBOTH );
+
+	// Connect Events
+	this->Connect( wxEVT_CLOSE_WINDOW, wxCloseEventHandler( MainFrameBase::OnFrameClose ) );
+	m_openBaseIsoButton->Connect( wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler( MainFrameBase::OnOpenBaseIsoButtonClick ), NULL, this );
+	m_typeRadioBox->Connect( wxEVT_COMMAND_RADIOBOX_SELECTED, wxCommandEventHandler( MainFrameBase::OnTypeRadioBox ), NULL, this );
+	m_jpnVoiceOptionCheckBox->Connect( wxEVT_COMMAND_CHECKBOX_CLICKED, wxCommandEventHandler( MainFrameBase::OnJpnVoiceOptionCheckBox ), NULL, this );
+	m_openJpnIsoButton->Connect( wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler( MainFrameBase::OnOpenJpnIsoButtonClick ), NULL, this );
+	m_applyButton->Connect( wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler( MainFrameBase::OnApplyButtonClick ), NULL, this );
 }
 
-main_form::~main_form()
+MainFrameBase::~MainFrameBase()
 {
 }

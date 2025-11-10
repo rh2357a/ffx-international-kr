@@ -1,4 +1,4 @@
-#include "ffx_international_kr/resources.h"
+#include "resources.h"
 #include <windows.h>
 
 #pragma code_page(65001)
@@ -30,5 +30,5 @@ VS_VERSION_INFO VERSIONINFO
     }
 }
 
-1 RT_MANIFEST "ffx_international_kr/app.manifest"
-// IDI_APP ICON "ffx_international_kr/app.ico"
+1 RT_MANIFEST "app.manifest"
+// IDI_APP ICON "app.ico"

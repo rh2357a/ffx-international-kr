@@ -198,3 +198,54 @@ bool ffxiso::extract(std::filesystem::path iso_path, std::filesystem::path outpu
 
 	return true;
 }
+
+std::vector<uint8_t> ffxiso::get_file_bytes(std::filesystem::path iso_path, int index)
+{
+	std::vector<mdg> cdrom_mdg;
+	{
+		auto mdg_bytes = binfile::read_bytes(iso_path, 0x8c000, 0x20000);
+
+		for (int i = 0; i < CDROM_MDG_SIZE; i++)
+		{
+			std::vector<uint8_t> current_mdg_bytes{
+				mdg_bytes[i * 4],
+				mdg_bytes[i * 4 + 1],
+				mdg_bytes[i * 4 + 2],
+				mdg_bytes[i * 4 + 3],
+			};
+
+			uint8_t flag = 0;
+			if ((current_mdg_bytes[2] >> 6) & 1)
+				flag |= MDG_FLAG_COMPRESSED_FILE;
+
+			if ((current_mdg_bytes[2] >> 7) & 1)
+				flag |= MDG_FLAG_DUMMY_FILE;
+
+			uint64_t addr = static_cast<uint32_t>(current_mdg_bytes[0])
+							| (static_cast<uint32_t>(current_mdg_bytes[1]) << 8)
+							| ((static_cast<uint32_t>(current_mdg_bytes[2]) & 0x3f) << 16);
+
+			cdrom_mdg.push_back({
+				addr * 2048,
+				flag,
+				static_cast<uint32_t>(current_mdg_bytes[3] * 8),
+			});
+		}
+	}
+
+	uint64_t begin_size_addr = cdrom_mdg[15].address;
+	auto size_bytes = binfile::read_bytes(iso_path, begin_size_addr + (index * 3), 3);
+	uint64_t file_size = (static_cast<uint64_t>(size_bytes[0])
+						  | (static_cast<uint64_t>(size_bytes[1]) << 8)
+						  | (static_cast<uint64_t>(size_bytes[2]) << 16))
+						 * 8ULL;
+
+	uint64_t align_file_size = cdrom_mdg[index + 1].address - cdrom_mdg[index].address;
+	uint64_t real_file_size = ((cdrom_mdg[index].flag & MDG_FLAG_COMPRESSED_FILE) != 0)
+								  ? file_size
+							  : align_file_size == file_size
+								  ? file_size
+								  : align_file_size - (2048 - (file_size % 2048));
+
+	return binfile::read_bytes(iso_path, cdrom_mdg[index].address, real_file_size);
+}

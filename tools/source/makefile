@@ -58,7 +58,7 @@ CXXFLAGS   += -g -O0
 else
 DEFINES    += -DRELEASE
 CFLAGS     += -O3 -ffunction-sections -fdata-sections
-CXXFLAGS   += -O3 -flto -ffunction-sections -fdata-sections
+CXXFLAGS   += -O3 -ffunction-sections -fdata-sections
 LDFLAGS    += -s -Wl,--gc-sections
 endif
 
@@ -79,9 +79,13 @@ ffxppkg_obj := \
 
 ffx_international_kr_obj := \
 	$(BUILD_OBJ_DIR)/ffx_international_kr.o \
-	$(BUILD_OBJ_DIR)/ffx_international_kr.rc.o \
+	$(BUILD_OBJ_DIR)/utils/xdelta3/xdelta3_wrapper.o \
+	$(BUILD_OBJ_DIR)/ffxiso/extract.o \
+	$(BUILD_OBJ_DIR)/ffxiso/import.o \
+	$(BUILD_OBJ_DIR)/ffx_international_kr/ffx_international_kr.rc.o \
+	$(BUILD_OBJ_DIR)/ffx_international_kr/patch_data.o \
 	$(BUILD_OBJ_DIR)/ffx_international_kr/gui_base.o \
-	$(BUILD_OBJ_DIR)/utils/xdelta3/xdelta3_wrapper.o
+	$(BUILD_OBJ_DIR)/ffx_international_kr/main_frame.o
 
 ################################################################################
 

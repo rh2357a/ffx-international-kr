@@ -54,34 +54,42 @@ int main(int argc, char *argv[])
 	const auto &multilang_xdelta = binfile::read_all_bytes(MULTILANG_NAME);
 
 	std::ofstream fout(source_path);
-	fout << "#include <array>\n";
 	fout << "#include <cstdint>\n";
 	fout << "\n";
-	fout << "const std::array<uint8_t, " << korean_xdelta.size() << "> korean_xdelta_bytes = {";
+	fout << "namespace ffx {\n";
+	fout << "\n";
+	fout << "extern const size_t korean_xdelta_bytes_size = " << korean_xdelta.size() << ";\n";
+	fout << "extern const uint8_t korean_xdelta_bytes[] = {";
 	for (size_t i = 0; i < korean_xdelta.size(); ++i)
 	{
-		if (i % 24 == 0)
-			fout << "\n";
+		if (i % 16 == 0)
+			fout << "\n\t";
 		fout << "0x"
 			 << std::hex << std::setw(2) << std::setfill('0')
 			 << std::nouppercase << (int)korean_xdelta[i]
-			 << ",";
+			 << (((i + 1) % 16 != 0) && i < korean_xdelta.size() - 1 ? ", " : ",");
 	}
 	fout << "\n";
 	fout << "};\n";
-	fout << "\n" << std::dec;
-	fout << "const std::array<uint8_t, " << multilang_xdelta.size() << "> multilang_xdelta_bytes = {";
+	fout << "\n"
+		 << std::dec;
+	fout << "extern const size_t multilang_xdelta_bytes_size = " << multilang_xdelta.size() << ";\n";
+	fout << "extern const uint8_t multilang_xdelta_bytes[] = {";
 	for (size_t i = 0; i < multilang_xdelta.size(); ++i)
 	{
-		if (i % 24 == 0)
-			fout << "\n";
+		if (i % 16 == 0)
+			fout << "\n\t";
 		fout << "0x"
 			 << std::hex << std::setw(2) << std::setfill('0')
 			 << std::nouppercase << (int)multilang_xdelta[i]
-			 << ",";
+			 << (((i + 1) % 16 != 0) && i < multilang_xdelta.size() - 1 ? ", " : ",");
 	}
 	fout << "\n";
 	fout << "};\n";
+	fout << "\n"
+		 << std::dec;
+	fout << "} // namespace ffx";
+	fout << "\n";
 	fout.close();
 
 	std::filesystem::remove(KOREAN_NAME);
