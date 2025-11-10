@@ -53,17 +53,12 @@ void ffx::MainFrame::OnOpenBaseIsoButtonClick(wxCommandEvent &event)
 {
 	wxFileDialog openDlg(this, wxT("파이널 판타지 10 인터내셔널 ISO 열기..."), "", "", "iso 파일|*.iso", wxFD_OPEN | wxFD_FILE_MUST_EXIST);
 	if (openDlg.ShowModal() == wxID_CANCEL)
-	{
-		m_baseIsoText->SetValue("-");
 		return;
-	}
 
 	const auto &path = openDlg.GetPath().ToStdString();
-	const auto &gameIdBytes = ffxiso::get_file_bytes(path, 1);
-	if (!binfile::has_bytes(gameIdBytes, 0x10, game_id_korea))
+	if (!binfile::has_bytes(path, 0x082881, game_id_korea))
 	{
 		wxMessageBox(wxT("파이널 판타지 10 인터내셔널 ISO이 아닙니다!"), wxT("오류"), wxICON_ERROR);
-		m_baseIsoText->SetValue("-");
 		return;
 	}
 
@@ -82,17 +77,12 @@ void ffx::MainFrame::OnOpenJpnIsoButtonClick(wxCommandEvent &event)
 {
 	wxFileDialog openDlg(this, wxT("파이널 판타지 10 오리지널 ISO 열기..."), "", "", "iso 파일|*.iso", wxFD_OPEN | wxFD_FILE_MUST_EXIST);
 	if (openDlg.ShowModal() == wxID_CANCEL)
-	{
-		m_jpnIsoText->SetValue("-");
 		return;
-	}
 
 	const auto &path = openDlg.GetPath().ToStdString();
-	const auto &gameIdBytes = ffxiso::get_file_bytes(path, 1);
-	if (!binfile::has_bytes(gameIdBytes, 0x10, game_id_japan))
+	if (!binfile::has_bytes(path, 0x082881, game_id_japan))
 	{
 		wxMessageBox(wxT("파이널 판타지 10 오리지널 ISO이 아닙니다!"), wxT("오류"), wxICON_ERROR);
-		m_jpnIsoText->SetValue("-");
 		return;
 	}
 
@@ -208,8 +198,7 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
 		return 0;
 	}
 
-	const auto &baseGameIdBytes = ffxiso::get_file_bytes(basePath, 1);
-	if (!binfile::has_bytes(baseGameIdBytes, 0x10, game_id_korea))
+	if (!binfile::has_bytes(basePath, 0x82881, game_id_korea))
 	{
 		ShowErrorMessageBox(wxT("파이널 판타지 10 인터내셔널 ISO이 아닙니다!"));
 		Cleanup();
@@ -225,8 +214,7 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
 			return 0;
 		}
 
-		const auto &jpnGameIdBytes = ffxiso::get_file_bytes(jpnPath, 1);
-		if (!binfile::has_bytes(jpnGameIdBytes, 0x10, game_id_japan))
+		if (!binfile::has_bytes(jpnPath, 0x82881, game_id_japan))
 		{
 			ShowErrorMessageBox(wxT("파이널 판타지 10 오리지널 ISO이 아닙니다!"));
 			Cleanup();

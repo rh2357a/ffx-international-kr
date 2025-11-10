@@ -115,6 +115,29 @@ inline bool has_bytes(const std::vector<uint8_t> &data, uint64_t index, const st
 	return true;
 }
 
+inline bool has_bytes(const std::filesystem::path &file_path, uint64_t index, const std::vector<uint8_t> &find_bytes)
+{
+	if (find_bytes.empty())
+		return true;
+
+	std::ifstream ifs(file_path, std::ios::binary);
+	if (!ifs)
+		return false;
+
+	ifs.seekg(0, std::ios::end);
+	uint64_t file_size = ifs.tellg();
+	if (index + find_bytes.size() > file_size)
+		return false;
+
+	ifs.seekg(index, std::ios::beg);
+
+	std::vector<uint8_t> buffer(find_bytes.size());
+	if (!ifs.read(reinterpret_cast<char *>(buffer.data()), buffer.size()))
+		return false;
+
+	return buffer == find_bytes;
+}
+
 inline void append_bytes(std::ofstream &fs, const std::vector<uint8_t> &bytes)
 {
 	fs.write(reinterpret_cast<const char *>(bytes.data()), bytes.size());

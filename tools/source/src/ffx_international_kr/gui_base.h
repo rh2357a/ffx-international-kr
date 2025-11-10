@@ -64,7 +64,7 @@ class MainFrameBase : public wxFrame
 
 	public:
 
-		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("파이널 판타지 10 인터내셔널 한국어 패치"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 600,400 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("파이널 판타지 10 인터내셔널 한국어 패치"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,400 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
 		~MainFrameBase();
 
