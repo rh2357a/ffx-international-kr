@@ -43,7 +43,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	baseIsoSbSizer->Add( baseIsoBSizer, 1, wxALL|wxEXPAND, 5 );
 
-	m_baseIsoWarnText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPM-67513'"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_baseIsoWarnText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPM-67513'인 파일이 필요합니다."), wxDefaultPosition, wxDefaultSize, 0 );
 	m_baseIsoWarnText->Wrap( -1 );
 	baseIsoSbSizer->Add( m_baseIsoWarnText, 0, wxALL, 5 );
 
@@ -67,33 +67,29 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	jpnVoiceOptionBSizer->Add( m_jpnVoiceOptionCheckBox, 0, wxALL, 5 );
 
-	m_jpnVoiceIsoPanel = new wxPanel( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL );
-	m_jpnVoiceIsoPanel->Enable( false );
-
 	wxBoxSizer* jpnIsoBSizer;
 	jpnIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_jpnIsoText = new wxTextCtrl( m_jpnVoiceIsoPanel, wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
+	m_jpnIsoText = new wxTextCtrl( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
+	m_jpnIsoText->Enable( false );
+
 	jpnIsoBSizer->Add( m_jpnIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	jpnIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
 
-	m_openJpnIsoButton = new wxButton( m_jpnVoiceIsoPanel, wxID_ANY, wxT("열기"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_openJpnIsoButton = new wxButton( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("열기"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_openJpnIsoButton->Enable( false );
 
 	jpnIsoBSizer->Add( m_openJpnIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	m_jpnVoiceIsoPanel->SetSizer( jpnIsoBSizer );
-	m_jpnVoiceIsoPanel->Layout();
-	jpnIsoBSizer->Fit( m_jpnVoiceIsoPanel );
-	jpnVoiceOptionBSizer->Add( m_jpnVoiceIsoPanel, 0, wxEXPAND | wxALL, 0 );
+	jpnVoiceOptionBSizer->Add( jpnIsoBSizer, 1, wxEXPAND, 5 );
 
 
 	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionBSizer, 1, wxALL|wxEXPAND, 5 );
 
-	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPS-25050'"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPS-25050'인 파일이 필요합니다."), wxDefaultPosition, wxDefaultSize, 0 );
 	m_jpnIsoWarnText->Wrap( -1 );
 	m_jpnIsoWarnText->Enable( false );
 
@@ -118,11 +114,24 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	applyBSizer = new wxBoxSizer( wxHORIZONTAL );
 
 	m_applyButton = new wxButton( m_mainPanel, wxID_ANY, wxT("패치"), wxDefaultPosition, wxSize( -1,-1 ), 0 );
-	applyBSizer->Add( m_applyButton, 2, wxALL|wxEXPAND, 5 );
+	applyBSizer->Add( m_applyButton, 2, wxALL|wxEXPAND, 4 );
+
+	wxBoxSizer* applyGagueBSizer;
+	applyGagueBSizer = new wxBoxSizer( wxVERTICAL );
 
 	m_applyGauge = new wxGauge( m_mainPanel, wxID_ANY, 88, wxDefaultPosition, wxDefaultSize, wxGA_HORIZONTAL );
 	m_applyGauge->SetValue( 0 );
-	applyBSizer->Add( m_applyGauge, 7, wxALL|wxEXPAND, 5 );
+	applyGagueBSizer->Add( m_applyGauge, 1, wxALL|wxEXPAND, 0 );
+
+
+	applyGagueBSizer->Add( 0, 6, 0, wxEXPAND, 0 );
+
+	m_applyPathProgressText = new wxStaticText( m_mainPanel, wxID_ANY, wxT("준비"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_applyPathProgressText->Wrap( -1 );
+	applyGagueBSizer->Add( m_applyPathProgressText, 0, wxALL, 0 );
+
+
+	applyBSizer->Add( applyGagueBSizer, 7, wxALL|wxEXPAND, 4 );
 
 
 	mainPanelBSizer->Add( applyBSizer, 1, wxALL|wxEXPAND, 0 );

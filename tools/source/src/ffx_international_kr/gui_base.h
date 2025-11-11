@@ -45,13 +45,13 @@ class MainFrameBase : public wxFrame
 		wxStaticText* m_baseIsoWarnText;
 		wxRadioBox* m_typeRadioBox;
 		wxCheckBox* m_jpnVoiceOptionCheckBox;
-		wxPanel* m_jpnVoiceIsoPanel;
 		wxTextCtrl* m_jpnIsoText;
 		wxButton* m_openJpnIsoButton;
 		wxStaticText* m_jpnIsoWarnText;
 		wxStaticText* m_jpnIsoWarn2Text;
 		wxButton* m_applyButton;
 		wxGauge* m_applyGauge;
+		wxStaticText* m_applyPathProgressText;
 
 		// Virtual event handlers, override them in your derived class
 		virtual void OnFrameClose( wxCloseEvent& event ) { event.Skip(); }
@@ -64,7 +64,7 @@ class MainFrameBase : public wxFrame
 
 	public:
 
-		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("파이널 판타지 10 인터내셔널 한국어 패치"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,400 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("PS2 파이널 판타지 10 인터내셔널 한국어 패치 v20251108"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,414 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
 		~MainFrameBase();
 

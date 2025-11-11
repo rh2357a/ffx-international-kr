@@ -58,10 +58,10 @@ protected:
 	ExitCode Entry() override;
 
 private:
-	void UpdateGauge(int value);
+	void UpdateGauge(int value, const wxString &message);
 	void ShowMessageBox(const wxString &message);
 	void ShowErrorMessageBox(const wxString &message);
-	void Cleanup();
+	void Cleanup(bool isCancel = true);
 };
 
 enum ApplyPatchThreadEvent
