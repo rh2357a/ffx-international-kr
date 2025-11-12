@@ -1,0 +1,83 @@
+{Rikku}
+そっちじゃなーい!
+--------------------------------------------------End--
+
+おたから　ぱすわーど　にゅうりょく
+ただしい　{Al Bhed3}を　にゅうりょくせよ!
+--------------------------------------------------End--
+
+ごめん
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}めんご{CHOICE:FF}　　　{CHOICE:31}ぞみん{CHOICE:FF}　　　{CHOICE:32}めんこ{CHOICE:FF}
+{CHOICE:33}むんば{CHOICE:FF}　　　{CHOICE:34}んめご{CHOICE:FF}　　　{CHOICE:35}れんぞ{CHOICE:FF}
+{CHOICE:36}おめん{CHOICE:FF}　　　{CHOICE:37}ごめん{CHOICE:FF}　　　{CHOICE:38}ろんぞ{CHOICE:FF}
+--------------------------------------------------End--
+
+はじめまして
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}めじはてしま{CHOICE:FF}　　　{CHOICE:31}じはめしまて{CHOICE:FF}　　　{CHOICE:32}おやすみなさ
+{CHOICE:33}ましてじめは{CHOICE:FF}　　　{CHOICE:34}ごきげんいか{CHOICE:FF}　　　{CHOICE:35}はじめまして
+{CHOICE:36}まぎれやきせ{CHOICE:FF}　　　{CHOICE:37}はじめてまし{CHOICE:FF}　　　{CHOICE:38}ましじはめて
+--------------------------------------------------End--
+
+すまない
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}まじない{CHOICE:FF}　　　{CHOICE:31}ぬやはみ{CHOICE:FF}　　　{CHOICE:32}みなさい
+{CHOICE:33}いなみす{CHOICE:FF}　　　{CHOICE:34}すまない{CHOICE:FF}　　　{CHOICE:35}すめない
+{CHOICE:36}かまない{CHOICE:FF}　　　{CHOICE:37}いなます{CHOICE:FF}　　　{CHOICE:38}いすなめ
+--------------------------------------------------End--
+夢見る宝{UNK_KANJI}
+わたしは　なんでしょう?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ぼむ{CHOICE:FF}{VAR07:59}{CHOICE:31}えりくさー{CHOICE:FF}{VAR07:72}{CHOICE:32}はいぽーしょん
+{CHOICE:33}めがぽーしょん{CHOICE:FF}{VAR07:59}{CHOICE:34}きんのはり{CHOICE:FF}{VAR07:72}{CHOICE:35}きまいら
+{CHOICE:36}ぽーしょん{CHOICE:FF}{VAR07:59}{CHOICE:37}ばんのうやく{CHOICE:FF}{VAR07:72}{CHOICE:38}いーびるあい
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}語辞書第20巻を　手に入れた!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed}語を{UNK_KANJI}{UNK_KANJI}した!
+　　　『{OPurple}ダ{White}』{UNK_KANJI}『{Pink}が{White}』
+　　　『{OPurple}ジ{White}』{UNK_KANJI}『{Pink}ぎ{White}』
+　　　『{OPurple}ヅ{White}』{UNK_KANJI}『{Pink}ぐ{White}』
+　　　『{OPurple}デ{White}』{UNK_KANJI}『{Pink}げ{White}』
+　　　『{OPurple}ゾ{White}』{UNK_KANJI}『{Pink}ご{White}』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}【{Al Bhed}語入門】{White}
+見知らぬ言{UNK_KANJI}『{Al Bhed}語』は{Al Bhed}語辞書を
+発見するとおぼえることができます　
+{OPurple}レバヘ!　{Al Bhed}語ヤヌサー!　テンソフム　ミオウ!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【{Al Bhed}語シュフコンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【{Al Bhed}語キョキンキャ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【アサヨソオ{Al Bhed}語】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【{Al Bhed}語サンチニュフダル】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【ニュフヒョフハ{Al Bhed}語】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【{Al Bhed}語ポナポナ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【{Al Bhed}語デンヒギンハイ】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【ヤーゼナヌハ{Al Bhed}語】{White}になった!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}は　{Blue}【{Al Bhed}語ヤヌサー】{White}になった!
+--------------------------------------------------End--
