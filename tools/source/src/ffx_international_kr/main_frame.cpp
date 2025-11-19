@@ -82,7 +82,7 @@ void ffx::MainFrame::OnTypeRadioBox(wxCommandEvent &event)
 
 void ffx::MainFrame::OnOpenBaseIsoButtonClick(wxCommandEvent &event)
 {
-	wxFileDialog openDlg(this, wxT("파이널 판타지 10 인터내셔널 ISO 열기..."), "", "", "iso 파일|*.iso", wxFD_OPEN | wxFD_FILE_MUST_EXIST);
+	wxFileDialog openDlg(this, wxT("파이널 판타지 10 인터내셔널 ISO 열기..."), "", "", wxT("ISO 파일|*.iso"), wxFD_OPEN | wxFD_FILE_MUST_EXIST);
 	if (openDlg.ShowModal() == wxID_CANCEL)
 		return;
 
@@ -125,7 +125,7 @@ void ffx::MainFrame::OnJpnVoiceOptionCheckBox(wxCommandEvent &event)
 
 void ffx::MainFrame::OnOpenJpnIsoButtonClick(wxCommandEvent &event)
 {
-	wxFileDialog openDlg(this, wxT("파이널 판타지 10 오리지널 ISO 열기..."), "", "", "iso 파일|*.iso", wxFD_OPEN | wxFD_FILE_MUST_EXIST);
+	wxFileDialog openDlg(this, wxT("파이널 판타지 10 오리지널 ISO 열기..."), "", "", wxT("ISO 파일|*.iso"), wxFD_OPEN | wxFD_FILE_MUST_EXIST);
 	if (openDlg.ShowModal() == wxID_CANCEL)
 		return;
 
@@ -158,11 +158,9 @@ void ffx::MainFrame::OnApplyButtonClick(wxCommandEvent &event)
 			// 종료 대기...
 			while (true)
 			{
-				{
-					wxCriticalSectionLocker enter(applyPatchThreadLock);
-					if (applyPatchThread == nullptr)
-						break;
-				}
+				wxCriticalSectionLocker enter(applyPatchThreadLock);
+				if (applyPatchThread == nullptr)
+					break;
 
 				wxThread::This()->Sleep(1);
 			}
@@ -422,13 +420,6 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
 	if (std::filesystem::exists(basePath))
 		std::filesystem::remove(basePath);
 	std::filesystem::rename(tempPatchPath, basePath);
-
-	// MEMO: 패치가 완료되어 취소가 필요 없음
-	// if (TestDestroy())
-	// {
-	// 	Cleanup();
-	// 	return 0;
-	// }
 
 	Cleanup(false);
 	ShowMessageBox(wxT("패치가 완료되었습니다!"));

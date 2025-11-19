@@ -1,15 +1,7 @@
 ifeq ($(DEBUG), 1)
 BUILD_TARGET := debug
-UPX          := true
 else
 BUILD_TARGET := release
-
-ifeq (, $(shell which upx))
-	UPX := true
-else
-	UPX := upx
-endif
-
 endif
 
 SOURCE_DIR       := src
@@ -33,6 +25,7 @@ endif
 
 CFLAGS  := -std=c17 \
            -Isrc \
+           -MMD -MP \
            -Wall -Wextra \
            -Wno-unused-parameter \
            -Wno-unused-variable \
@@ -40,6 +33,7 @@ CFLAGS  := -std=c17 \
 
 CXXFLAGS := -std=c++20 -fpermissive \
             -Isrc \
+            -MMD -MP \
             -Wall -Wextra \
             -Wno-comment \
             -Wno-unused-parameter \
@@ -64,6 +58,11 @@ endif
 
 ################################################################################
 
+targets := ffxiso ffxftcx ffxname ffxppkg font_adjustment ffx_international_kr
+
+# 타겟의 실제 경로 생성
+$(foreach t,$(targets),$(eval $(t) := $(BUILD_OUTPUT_DIR)/$(t).exe))
+
 font_adjustment_obj := $(BUILD_OBJ_DIR)/font_adjustment.o
 ffxftcx_obj         := $(BUILD_OBJ_DIR)/ffxftcx.o
 ffxname_obj         := $(BUILD_OBJ_DIR)/ffxname.o
@@ -87,60 +86,58 @@ ffx_international_kr_obj := \
 	$(BUILD_OBJ_DIR)/ffx_international_kr/gui_base.o \
 	$(BUILD_OBJ_DIR)/ffx_international_kr/main_frame.o
 
+all_objs := $(foreach t,$(targets),$($(t)_obj))
+
 ################################################################################
 
-.PHONY: all clean
+define target_alias
+$1: $($(1))
+endef
 
-all: ffxiso ffxftcx ffxname ffxppkg font_adjustment ffx_international_kr
+define link_binary
+$1: $2
+	@mkdir -p $$(dir $$@)
+	$$(CXX) -o $$@ $$^ $$(LDFLAGS) $3
+ifneq ($$(DEBUG), 1)
+	upx $$@
+endif
+endef
 
-ffxiso: $(ffxiso_obj)
-	@mkdir -p $(BUILD_OUTPUT_DIR)
-	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
-	$(UPX) $(BUILD_OUTPUT_DIR)/$@.exe
+.PHONY: all clean $(targets)
+all: $(targets)
 
-ffxftcx: $(ffxftcx_obj)
-	@mkdir -p $(BUILD_OUTPUT_DIR)
-	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
-	$(UPX) $(BUILD_OUTPUT_DIR)/$@.exe
+# alias 생성
+$(foreach t,$(targets),$(eval $(call target_alias,$(t))))
 
-ffxname: $(ffxname_obj)
-	@mkdir -p $(BUILD_OUTPUT_DIR)
-	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
-	$(UPX) $(BUILD_OUTPUT_DIR)/$@.exe
+# link 타겟 생성
+$(eval $(call link_binary, $(ffxiso), $(ffxiso_obj)))
+$(eval $(call link_binary, $(ffxftcx), $(ffxftcx_obj)))
+$(eval $(call link_binary, $(ffxname), $(ffxname_obj)))
+$(eval $(call link_binary, $(font_adjustment), $(font_adjustment_obj)))
 
-ffxppkg: $(ffxppkg_obj)
-	@mkdir -p $(BUILD_OUTPUT_DIR)
-	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS) $(XDELTA3LDFLAGS)
-	$(UPX) $(BUILD_OUTPUT_DIR)/$@.exe
+$(eval $(call link_binary, \
+    $(ffxppkg), $(ffxppkg_obj), \
+    $(XDELTA3LDFLAGS) \
+))
 
-font_adjustment: $(font_adjustment_obj)
-	@mkdir -p $(BUILD_OUTPUT_DIR)
-	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS)
-	$(UPX) $(BUILD_OUTPUT_DIR)/$@.exe
-
-ffx_international_kr: $(ffx_international_kr_obj)
-	@mkdir -p $(BUILD_OUTPUT_DIR)
-	@mkdir -p $(shell dirname $@)
-	$(CXX) -o $(BUILD_OUTPUT_DIR)/$@ $^ $(LDFLAGS) $(XDELTA3LDFLAGS) $(shell wx-config $(WXLDFLAGS)) -mwindows
-	$(UPX) $(BUILD_OUTPUT_DIR)/$@.exe
+$(eval $(call link_binary, \
+    $(ffx_international_kr), $(ffx_international_kr_obj), \
+    $(XDELTA3LDFLAGS) $(shell wx-config $(WXLDFLAGS)) -mwindows \
+))
 
 $(BUILD_OBJ_DIR)/%.o: $(SOURCE_DIR)/%.cpp
-	@mkdir -p $(shell dirname $@)
+	@mkdir -p $(dir $@)
 	$(CXX) $(CXXFLAGS) $(DEFINES) -c $< -o $@
 
 $(BUILD_OBJ_DIR)/%.o: $(SOURCE_DIR)/%.c
-	@mkdir -p $(shell dirname $@)
+	@mkdir -p $(dir $@)
 	$(CC) $(CFLAGS) $(DEFINES) -c $< -o $@
 
 $(BUILD_OBJ_DIR)/%.rc.o: $(SOURCE_DIR)/%.rc
-	@mkdir -p $(shell dirname $@)
+	@mkdir -p $(dir $@)
 	windres $(DEFINES) $(CXXINCLUDES) $< $@
 
 clean:
 	rm -rf $(BUILD_DIR)
-	rm -rf *.exe
+
+-include $(all_objs:.o=.d)
