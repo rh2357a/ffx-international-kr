@@ -56,6 +56,20 @@ for %%_ in (1) do (
   del !mt_name!
 )
 
+echo.  - file_07932.mt1.en.txt
+for %%_ in (1) do (
+  set "filename=multilang\texts\menu\file_07932.mt1.en.txt"
+  set "mt_name=!files!\file_07932.mt1"
+  set "lz_name=!files!\file_07932.mt.lz1"
+
+  tools\ffxcx -d !lz_name! !mt_name!
+  tools\ffxmt -i -t tables\en.tbs !mt_name! !filename!
+
+  del !lz_name!
+  tools\ffxcx -c1 !mt_name! !lz_name!
+  del !mt_name!
+)
+
 rem =====================================================
 
 echo compile multilang file_00459 texts...

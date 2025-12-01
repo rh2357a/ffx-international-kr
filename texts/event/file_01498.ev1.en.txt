@@ -1,4 +1,0 @@
-{WINDOW}
-
-{White}{Button Circle}: Examine{White}
---------------------------------------------------End--
