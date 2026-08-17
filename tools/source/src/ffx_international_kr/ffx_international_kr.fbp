@@ -53,7 +53,7 @@
       <property name="size">560,414</property>
       <property name="style">wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU</property>
       <property name="subclass">; ; forward_declare</property>
-      <property name="title">PS2 파이널 판타지 10 인터내셔널 한국어 패치 v20251108</property>
+      <property name="title">{title}</property>
       <property name="tooltip"></property>
       <property name="two_step_creation">0</property>
       <property name="window_extra_style"></property>

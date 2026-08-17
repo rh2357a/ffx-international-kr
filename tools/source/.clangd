@@ -1,0 +1,14 @@
+InlayHints:
+  ParameterNames: No
+  DeducedTypes: No
+  Designators: No
+
+Style:
+  QuotedHeaders: 'src/.*'
+  AngledHeaders: '.*'
+
+Completion:
+  HeaderInsertion: IWYU
+
+CompileFlags:
+  CompilationDatabase: build/debug/

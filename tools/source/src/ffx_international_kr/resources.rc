@@ -1,0 +1,35 @@
+#pragma code_page(65001)
+
+#include <windows.h>
+
+#include "resources.h"
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+VS_VERSION_INFO VERSIONINFO
+    PRODUCTVERSION  APP_VERSION_RES
+    FILEVERSION     APP_VERSION_RES
+    FILEOS          0x40004
+    FILETYPE        0x1
+    FILESUBTYPE     0x0
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "040904E4"
+        {
+            VALUE "CompanyName", APP_AUTHOR
+            VALUE "LegalTrademarks", APP_AUTHOR
+            VALUE "LegalCopyright", APP_AUTHOR
+            VALUE "ProductName", APP_NAME
+            VALUE "FileDescription", APP_DESCRIPTION
+            VALUE "ProductVersion", APP_VERSION
+            VALUE "OriginalFilename", APP_FILENAME
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x412, 1200
+    }
+}
+
+RES_ID_APP_MANIFEST RT_MANIFEST "ffx_international_kr.exe.manifest"
+// RES_ID_APP_ICON     ICON        "app.ico"

@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10 FATAL_ERROR)
+
+project(ffx_international_kr)
+
+add_subdirectory(3rdparty EXCLUDE_FROM_ALL)
+
+set(CMAKE_C_STANDARD 17)
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_subdirectory(src/core EXCLUDE_FROM_ALL)
+add_subdirectory(src/ffxiso)
+add_subdirectory(src/ffxftcx)
+add_subdirectory(src/ffxname)
+add_subdirectory(src/ffxppkg)
+add_subdirectory(src/ffx_international_kr)
+add_subdirectory(src/font_adjustment)
