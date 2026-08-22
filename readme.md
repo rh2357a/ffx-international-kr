@@ -13,7 +13,7 @@ PS2 파이널판타지10 인터내셔널 한글 번역 프로젝트
 ### 번역
 
 * [바른 한글](https://nara-speller.co.kr/speller)
-* [ChatGPT](https://chatgpt.com/)
+* [ChatGPT (Codex)](https://chatgpt.com/)
 * [구글 번역](https://translate.google.com/)
 * [NAVER 사전](https://dict.naver.com/)
 

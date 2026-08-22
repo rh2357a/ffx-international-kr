@@ -1,31 +1,31 @@
 {WINDOW}
-{Yellow}【{Gagazet}　第一の試練】{White}
-{Wakka}のボールで　中心部のスイッチをねらえ!
+{Yellow}【{Gagazet} 첫 번째 시련】{White}
+{Wakka}의 공으로 중앙의 스위치를 노려라!
 --------------------------------------------------End--
 
 {WINDOW}
-{Button Circle}:ボールを投げる
-{Button X}:戻る
+{Button Circle}: 공 던지기
+{Button X}: 돌아가기
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【{Gagazet}　第ニの試練】{White}
-3つの穴にかくされたスイッチを　同時に解除せよ!
-穴の大小に注意して　それぞれの穴に入る者を選べ!
+{Yellow}【{Gagazet} 두 번째 시련】{White}
+3개의 구멍에 숨겨진 스위치를 동시에 해제하라!
+구멍의 크기에 주의해 각 구멍에 들어갈 자를 골라라!
 --------------------------------------------------End--
 
 {WINDOW}
-{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}:穴を選ぶ
-{Button Circle}:決定
-{Button X}:戻る
+{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}: 구멍 선택
+{Button Circle}: 결정
+{Button X}: 돌아가기
 --------------------------------------------------End--
 {WINDOW}
-あたり
+정답
 --------------------------------------------------End--
 {WINDOW}
-制作中
+제작 중
 --------------------------------------------------End--
 {WINDOW}
-{Yellow}【召喚士の試練】{White}
-我を{UNK_KANJI}び出すならば　試練を攻略せよ
-{Wakka}のボールで　中心部のスイッチをねらえ!
+{Yellow}【소환사의 시련】{White}
+나를 불러내려면 시련을 공략하라
+{Wakka}의 공으로 중앙의 스위치를 노려라!
 --------------------------------------------------End--

@@ -61,6 +61,6 @@ HP/MP가 모두 회복됩니다!
 --------------------------------------------------End--
 
 {WINDOW}
-{VAR07:E4}{Direcional Left}:ドーム周辺{VAR07:60}{VAR07:E4}{Direcional Down}:ガガゼト
-{Button Circle}:決定
+{VAR07:E4}{Direcional Left}: 돔 주변{VAR07:60}{VAR07:E4}{Direcional Down}: 가가제트
+{Button Circle}: 결정
 --------------------------------------------------End--
