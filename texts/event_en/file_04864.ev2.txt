@@ -1,0 +1,91 @@
+{Tidus}
+Right!
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Glyph Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Destruction Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Macalania Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one sphere at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+You see a sphere-shaped recess.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take sphere.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Macalania Sphere{White}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Insert sphere.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Macalania Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Macalania Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+{Wakka}
+This can't be happening.
+--------------------------------------------------End--
+{Lulu}
+If he is truly at fault,
+it must be done.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+Gimme a break!
+--------------------------------------------------End--
+{Auron}
+Even a maester.
+--------------------------------------------------End--
+{Auron}
+{Kimahri}'s up ahead. Go.
+--------------------------------------------------End--
+{Auron}
+We will protect {Yuna} from anyone.
+--------------------------------------------------End--

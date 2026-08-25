@@ -1,0 +1,343 @@
+{Rikku}
+Someone's coming!
+--------------------------------------------------End--
+{Yuna}
+Lady {Yunalesca}.
+--------------------------------------------------End--
+{Yunalesca}
+Welcome to {Zanarkand}.
+--------------------------------------------------End--
+{Yunalesca}
+I congratulate you, summoner.
+You have completed your pilgrimage.
+--------------------------------------------------End--
+{Yunalesca}
+I will now bestow you
+with that which you seek.
+--------------------------------------------------End--
+{Yunalesca}
+The Final Summoning...will be yours.
+--------------------------------------------------End--
+{Yunalesca}
+Now, choose.
+--------------------------------------------------End--
+{Yunalesca}
+You must choose the
+one whom I will change...
+--------------------------------------------------End--
+{Yunalesca}
+to become the fayth
+of the Final Summoning.
+--------------------------------------------------End--
+{Yunalesca}
+There must be a bond, between
+chosen and summoner, for that is
+what the Final Summoning embodies:
+--------------------------------------------------End--
+{Yunalesca}
+the bond between husband
+and wife, mother and child,
+or between friends.
+--------------------------------------------------End--
+{Yunalesca}
+If that bond is strong enough,
+its light will conquer {Sin}.
+--------------------------------------------------End--
+{Yunalesca}
+A thousand years ago, I chose my
+husband {Zaon} as my {fayth}.
+--------------------------------------------------End--
+{Yunalesca}
+Our bond was true, and I
+obtained the Final Aeon.
+--------------------------------------------------End--
+{Yunalesca}
+There is nothing to fear.
+--------------------------------------------------End--
+{Yunalesca}
+You will soon be freed
+of worry and pain.
+--------------------------------------------------End--
+{Yunalesca}
+For once you call forth the
+Final Aeon, your life will end.
+--------------------------------------------------End--
+{Yunalesca}
+Death is the ultimate
+and final liberation.
+--------------------------------------------------End--
+{Yunalesca}
+Your father, {Braska},
+chose this path.
+--------------------------------------------------End--
+{Auron}
+It is not too late!
+Let us turn back!
+--------------------------------------------------End--
+{Braska}
+If I turn back,
+who will defeat {Sin}?
+--------------------------------------------------End--
+{Braska}
+Would you have some other summoner
+and his guardians go through this?
+--------------------------------------------------End--
+{Auron}
+But...my lord, there
+must be another way!
+--------------------------------------------------End--
+{Jecht}
+This is the only way we got now!
+--------------------------------------------------End--
+{Jecht}
+Fine.
+--------------------------------------------------End--
+{Jecht}
+Make me the {fayth}.
+--------------------------------------------------End--
+{Jecht}
+I been doing some thinking.
+--------------------------------------------------End--
+{Jecht}
+My dream is back in
+the other {Zanarkand}.
+--------------------------------------------------End--
+{Jecht}
+I wanted to make that
+runt into a star blitz player.
+--------------------------------------------------End--
+{Jecht}
+Show him the view
+from the top, you know.
+--------------------------------------------------End--
+{Jecht}
+But now I know there's
+no way home for me.
+--------------------------------------------------End--
+{Jecht}
+I'm never gonna see him again.
+My dream's never gonna come true.
+--------------------------------------------------End--
+{Jecht}
+So make me the {fayth}.
+--------------------------------------------------End--
+{Jecht}
+I'll fight {Sin} with you, {Braska}.
+--------------------------------------------------End--
+{Jecht}
+Then maybe my life will
+have meaning, you know.
+--------------------------------------------------End--
+{Auron}
+Don't do this, {Jecht}!
+--------------------------------------------------End--
+{Auron}
+If you live...
+--------------------------------------------------End--
+{Auron}
+there may be another way!
+We'll think of something, I know!
+--------------------------------------------------End--
+{Jecht}
+Believe me, I thought this through.
+--------------------------------------------------End--
+{Jecht}
+Besides...
+--------------------------------------------------End--
+{Jecht}
+I ain't gettin' any younger, so
+I might as well make myself useful.
+--------------------------------------------------End--
+{Braska}
+{Jecht}.
+--------------------------------------------------End--
+{Jecht}
+What! You're not gonna
+try to stop me, too?
+--------------------------------------------------End--
+{Braska}
+Sorry. I mean...thank you.
+--------------------------------------------------End--
+{Jecht}
+{Braska} still has
+to fight {Sin}, {Auron}.
+--------------------------------------------------End--
+{Jecht}
+Well, let's go.
+--------------------------------------------------End--
+{Jecht}
+Guard him well.
+Make sure he gets there.
+--------------------------------------------------End--
+{Auron}
+Lord {Braska}! {Jecht}!
+--------------------------------------------------End--
+{Jecht}
+What do you want now?
+--------------------------------------------------End--
+{Auron}
+{Sin} always comes back.
+--------------------------------------------------End--
+{Auron}
+It comes back after
+the {Calm} every time!
+--------------------------------------------------End--
+{Auron}
+The cycle will continue and
+your deaths will mean nothing!
+--------------------------------------------------End--
+{Braska}
+But there's always a chance
+it won't come back this time.
+--------------------------------------------------End--
+{Braska}
+It's worth trying.
+--------------------------------------------------End--
+{Jecht}
+I understand what
+you're saying, {Auron}.
+--------------------------------------------------End--
+{Jecht}
+I'll find a way to break the cycle.
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+You have a plan?
+--------------------------------------------------End--
+{WINDOW}
+{Braska}
+{Jecht}?
+--------------------------------------------------End--
+{Auron}
+And the cycle went on.
+--------------------------------------------------End--
+{Tidus}
+We'll break it!
+--------------------------------------------------End--
+{Wakka}
+But how?
+--------------------------------------------------End--
+{Wakka}
+What, you got a plan now?
+--------------------------------------------------End--
+{Lulu}
+If one of us has
+to become a {fayth}...
+--------------------------------------------------End--
+{Lulu}
+I volunteer.
+--------------------------------------------------End--
+{Wakka}
+Me too, {Yuna}!
+--------------------------------------------------End--
+{Lulu}
+If you want everything,
+you'll end up with nothing.
+--------------------------------------------------End--
+{Tidus}
+But I want everything!
+--------------------------------------------------End--
+{Wakka}
+Now you're being childish!
+--------------------------------------------------End--
+{Rikku}
+"You'll think of something"?
+--------------------------------------------------End--
+{Tidus}
+I'll go ask {Yunalesca}.
+--------------------------------------------------End--
+{Tidus}
+She's got to know something.
+--------------------------------------------------End--
+{Rikku}
+You really think she'll help you?
+--------------------------------------------------End--
+{Tidus}
+I don't know, but I have to try.
+--------------------------------------------------End--
+{Jecht}
+Trust me, I'll think of something.
+--------------------------------------------------End--
+{Tidus}
+That still won't change anything,
+you know? You'd bring the Calm,
+and then what?
+--------------------------------------------------End--
+{Tidus}
+That won't break the cycle!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Listen...
+--------------------------------------------------End--
+{Wakka}
+You wanna defeat {Sin}
+and keep {Yuna} alive...
+--------------------------------------------------End--
+{Wakka}
+You don't want {Sin}
+to come back, ya?
+--------------------------------------------------End--
+{Wakka}
+That is just not gonna
+happen, brudda, you know?
+--------------------------------------------------End--
+{Tidus}
+I give up.
+--------------------------------------------------End--
+{Tidus}
+So what would an adult do, then?
+--------------------------------------------------End--
+{Tidus}
+They know they can just throw
+away a summoner, then they
+can do whatever they like.
+--------------------------------------------------End--
+{Tidus}
+You're right, I might
+not even have a chance.
+--------------------------------------------------End--
+{Tidus}
+But no way am I gonna just
+--------------------------------------------------End--
+{Tidus}
+stand here and let {Yuna} go.
+--------------------------------------------------End--
+{Tidus}
+And what {Auron} said
+about there being a way...
+--------------------------------------------------End--
+{Tidus}
+I think it's true.
+--------------------------------------------------End--
+{Tidus}
+This is my story.
+--------------------------------------------------End--
+{Tidus}
+It'll go the way I want it...
+or I'll end it here.
+--------------------------------------------------End--
+{Yuna}
+Wait.
+--------------------------------------------------End--
+{Yuna}
+You say it's your story,
+but it's my story, too, you know?
+--------------------------------------------------End--
+{Yuna}
+It would be so easy...
+--------------------------------------------------End--
+{Yuna}
+to let my fate just carry me away...
+--------------------------------------------------End--
+{Yuna}
+following this same path
+my whole life through.
+--------------------------------------------------End--
+{Yuna}
+But I know...I can't.
+--------------------------------------------------End--
+{Yuna}
+What I do, I do...
+with no regrets.
+--------------------------------------------------End--

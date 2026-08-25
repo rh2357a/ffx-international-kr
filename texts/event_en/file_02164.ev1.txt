@@ -1,0 +1,426 @@
+
+
+--------------------------------------------------End--
+
+I turned away for a second,
+and look what happened!
+--------------------------------------------------End--
+
+Sorry for the inconvenience.
+You'll have to go around the other
+way while I get this under control.
+--------------------------------------------------End--
+
+The {Al Bhed} must be behind this!
+How dare they!
+--------------------------------------------------End--
+
+I'll have these crates moved
+in no time, sir!
+--------------------------------------------------End--
+
+This is {Blue}dock number 5{White}.
+{Blue}Dock number 4{White} lies straight ahead.
+--------------------------------------------------End--
+
+If you're looking for the {Blue}entrance{White},
+please go back the other way.
+--------------------------------------------------End--
+
+If guard duty's taught me anything,
+it's the importance of checking every
+nook and cranny. Trust me, it pays off.
+--------------------------------------------------End--
+
+Cargo is scattered all over the place!
+I can't bear to look at this mess!
+--------------------------------------------------End--
+
+This dock is so quiet compared
+to the others.
+--------------------------------------------------End--
+
+I can finally do business in other locales,
+now that the ferries are operating.
+--------------------------------------------------End--
+
+I was lost when I left the temple,
+not knowing what to believe anymore.
+--------------------------------------------------End--
+
+If you ever need assistance,
+just ask us.
+--------------------------------------------------End--
+
+There's a flying ship at dock number 1!
+Why don't you go check it out?
+--------------------------------------------------End--
+
+With so many warrior monks here, I don't
+know whether to feel safe or threatened.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+Warrior monks run away to {Bevelle}.
+They abandon the people.
+Should hide their faces in shame.
+--------------------------------------------------End--
+
+{Al Bhed} ship leave {Luca}.
+No one knows where they go.
+--------------------------------------------------End--
+
+{Luca} too hot for {Ronso}.
+--------------------------------------------------End--
+
+Cannot pass.
+--------------------------------------------------End--
+{Tidus}
+What is this!?
+--------------------------------------------------End--
+{Lulu}
+Must be the {Al Bhed}'s doing.
+Let's go the other way.
+--------------------------------------------------End--
+{Tidus}
+Damn it!
+--------------------------------------------------End--
+{Tidus}
+Hey, you!
+Don't just stand there!
+All of this is your fault!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+I'm telling you,
+it's all your fault!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Who are you, anyway?
+--------------------------------------------------End--
+{Tidus}
+You knew my old man,
+didn't you?
+--------------------------------------------------End--
+{Auron}
+Yeah.
+--------------------------------------------------End--
+{Tidus}
+And you also knew
+{Yuna}'s father?
+--------------------------------------------------End--
+{Auron}
+That's correct.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+{Jecht}, {Braska}, and I... Together
+we defeated {Sin} ten years ago.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+So that one day I could
+bring you to {Spira}.
+--------------------------------------------------End--
+{Tidus}
+Why did it have to be me?
+--------------------------------------------------End--
+{Auron}
+{Jecht} asked me to.
+--------------------------------------------------End--
+{Tidus}
+Is he alive?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+I felt something of {Jecht} there
+in that shell, couldn't you?
+--------------------------------------------------End--
+{Auron}
+You must have felt him when
+you came in contact with {Sin}.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+It is.
+{Sin} is {Jecht}.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+But it is the truth.
+--------------------------------------------------End--
+{Auron}
+You'll see for yourself.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+Every story must have an ending.
+--------------------------------------------------End--
+{Tidus}
+I don't care about your stories!
+--------------------------------------------------End--
+{Auron}
+I see. Sorry you
+feel that way.
+--------------------------------------------------End--
+{Auron}
+Fine, then.
+Come or don't come.
+It's your decision.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+Irritating, I know.
+Or are you afraid?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+It's all right.
+--------------------------------------------------End--
+{Tidus}
+{Auron}?
+--------------------------------------------------End--
+{Tidus}
+Will I ever go home?
+Back to {Zanarkand}?
+--------------------------------------------------End--
+{Auron}
+That's up to {Jecht}.
+--------------------------------------------------End--
+{Auron}
+I'm going to offer my
+services to {Yuna}. Come.
+--------------------------------------------------End--
+{Tidus}
+Gettin' swallowed by {Sin}!
+Ending up here in {Spira}!
+--------------------------------------------------End--
+{Tidus}
+Not being able to go back to
+{Zanarkand}--everything,
+everything!
+--------------------------------------------------End--
+{Tidus}
+Hey, man, there's no way.
+That's just impossible.
+--------------------------------------------------End--
+{Auron}
+Nothing impossible about it.
+--------------------------------------------------End--
+{Auron}
+Then I went to {Zanarkand}...
+--------------------------------------------------End--
+{Auron}
+where I watched over you.
+--------------------------------------------------End--
+{Auron}
+It depends on what
+you mean by "alive."
+--------------------------------------------------End--
+{Auron}
+He is no longer human.
+--------------------------------------------------End--
+{Auron}
+But then...
+--------------------------------------------------End--
+{Tidus}
+It can't be...
+--------------------------------------------------End--
+{Tidus}
+No! That's ridiculous!
+No way!
+--------------------------------------------------End--
+{Tidus}
+I don't believe you!
+--------------------------------------------------End--
+{Auron}
+Come with me.
+--------------------------------------------------End--
+{Tidus}
+If I say no?
+--------------------------------------------------End--
+{Tidus}
+What am I supposed to say?
+--------------------------------------------------End--
+{Tidus}
+You tell me it's my decision...
+--------------------------------------------------End--
+{Tidus}
+But I don't have a choice, do I?
+--------------------------------------------------End--
+{Tidus}
+You're the only one who can tell
+me what's going on, anyways!
+--------------------------------------------------End--
+{Tidus}
+I have to go with you!
+I have to!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Wait Count
+    {CHOICE:33}Motion Frame
+    {CHOICE:34}Playback Capture
+    {CHOICE:35}Control Object
+    {CHOICE:36}Invisible
+    {CHOICE:37}Control Map Line
+    {CHOICE:38}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Capture Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}For Work
+    {CHOICE:32}From Beginning
+--------------------------------------------------End--
+{WINDOW}
+Frame  :  {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+    {CHOICE:30}End Settings
+    {CHOICE:31}01      {CHOICE:36}06
+    {CHOICE:32}02      {CHOICE:37}07
+    {CHOICE:33}03      {CHOICE:38}08
+    {CHOICE:34}04      {CHOICE:39}09
+    {CHOICE:35}05      {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30}  :  {CHOICE:53}
+--------------------------------------------------End--

@@ -1,0 +1,58 @@
+
+{WINDOW}
+A {Yellow}Bevelle Sphere{White} is inserted here.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take sphere.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Bevelle Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Glyph Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Destruction Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You see a sphere-shaped recess.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Insert sphere.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Bevelle Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one sphere at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Button Circle}: Confirm direction
+--------------------------------------------------End--

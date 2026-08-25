@@ -1,0 +1,676 @@
+{Tidus}
+What are you all talking about?
+--------------------------------------------------End--
+Bickson
+Who are you supposed to be?
+--------------------------------------------------End--
+Graav
+Ah, I remember him.
+Guy from Kilika.
+--------------------------------------------------End--
+Bickson
+Hmm?
+--------------------------------------------------End--
+Graav
+You know, one of the {Besaid Aurochs}.
+Said somethin' about winning the cup.
+--------------------------------------------------End--
+Bickson
+Oh, right.
+You're that idiot.
+--------------------------------------------------End--
+{Yuna}
+Don't call him that!
+--------------------------------------------------End--
+Bickson
+But he is an idiot.
+--------------------------------------------------End--
+Bickson
+They don't got what
+it takes to win the cup.
+--------------------------------------------------End--
+{Tidus}
+Well, they do now that I'm here!
+--------------------------------------------------End--
+{Yuna}
+Yes, they will win!
+--------------------------------------------------End--
+{Yuna}
+He used to be the star player
+of the {Zanarkand Abes}!
+--------------------------------------------------End--
+Bickson
+That so? Then you're the
+star of a team of one.
+--------------------------------------------------End--
+Graav
+Yeah, as if anyone
+lived in those ruins.
+--------------------------------------------------End--
+{Yuna}
+It's not ruins, there's a
+big city there! There is!
+--------------------------------------------------End--
+{Tidus}
+I-I got too close to {Sin} and--
+--------------------------------------------------End--
+{Yuna}
+There is a city, really!
+--------------------------------------------------End--
+Bickson
+Right. Whatever
+Your Ladyship says.
+--------------------------------------------------End--
+{Tidus}
+What's wrong? You seemed
+kinda mad back there.
+--------------------------------------------------End--
+{Yuna}
+They were being rude and...
+--------------------------------------------------End--
+{Yuna}
+I do believe your Zanarkand
+exists. I really do, you know!
+--------------------------------------------------End--
+{Tidus}
+How come? 
+--------------------------------------------------End--
+{Yuna}
+Sir {Jecht} used to
+always tell me stories.
+--------------------------------------------------End--
+{Yuna}
+It'd be great to
+see your home someday.
+--------------------------------------------------End--
+{Yuna}
+I'd love to go there.
+--------------------------------------------------End--
+{Tidus}
+Yeah.
+--------------------------------------------------End--
+
+So, {Yuna}, wanna come
+over to my place?
+--------------------------------------------------End--
+
+Right, sure... As if I
+had a place to show her.
+--------------------------------------------------End--
+{Lulu}
+Well? Say something.
+--------------------------------------------------End--
+{Lulu}
+You'll take responsibility?
+--------------------------------------------------End--
+{Wakka}
+Relax! He's bound to
+know someone in Luca.
+--------------------------------------------------End--
+{Lulu}
+And if not?
+--------------------------------------------------End--
+{Wakka}
+He could always join a blitz team.
+--------------------------------------------------End--
+{Wakka}
+Anyhow, it's better than
+just leaving him in Besaid! 
+--------------------------------------------------End--
+{Lulu}
+What? Just leaving him in Luca?
+--------------------------------------------------End--
+{Wakka}
+What do you want me to do?
+--------------------------------------------------End--
+{Lulu}
+{Yuna} wants to
+make him a guardian.
+--------------------------------------------------End--
+{Wakka}
+Oh yeah, geez...
+There's that too, eh?
+--------------------------------------------------End--
+{Lulu}
+And whose fault is that?
+--------------------------------------------------End--
+{Wakka}
+Not mine!
+--------------------------------------------------End--
+{Wakka}
+It is mine, huh?
+--------------------------------------------------End--
+{Wakka}
+Why do you think she wants
+to make him a guardian, anyway?
+--------------------------------------------------End--
+{Lulu}
+Because he's Sir {Jecht}'s son.
+--------------------------------------------------End--
+{Wakka}
+Oh, right.
+--------------------------------------------------End--
+{Wakka}
+Wait, you sure 'bout that?
+He's really Sir {Jecht}'s son?
+--------------------------------------------------End--
+{Lulu}
+It's hard to say, but
+{Yuna} seems to believe so.
+--------------------------------------------------End--
+{Wakka}
+Okay.
+--------------------------------------------------End--
+{Lulu}
+"Okay?" "Okay?"
+That's all you have to say?
+--------------------------------------------------End--
+{Wakka}
+Well, yeah, I mean...
+--------------------------------------------------End--
+{Wakka}
+He's gotta decide for himself, ya?
+Well, him and {Yuna}, I guess.
+--------------------------------------------------End--
+{Lulu}
+You're right, for once.
+--------------------------------------------------End--
+{Wakka}
+Ahem!
+--------------------------------------------------End--
+{Lulu}
+I wonder which is best...
+--------------------------------------------------End--
+{Lulu}
+Why don't you tell him he should?
+--------------------------------------------------End--
+{Wakka}
+Should what?
+--------------------------------------------------End--
+{Lulu}
+Become {Yuna}'s guardian.
+--------------------------------------------------End--
+{Wakka}
+Why me?
+--------------------------------------------------End--
+{Lulu}
+Because {Yuna} can't.
+--------------------------------------------------End--
+{Wakka}
+Why not?
+--------------------------------------------------End--
+{Lulu}
+He hates his father--
+what he was, what he did.
+--------------------------------------------------End--
+{Lulu}
+Do you really think she
+can possibly say to him...
+--------------------------------------------------End--
+{Lulu}
+"I want you to be my guardian,
+like your father was to mine?"
+--------------------------------------------------End--
+{Wakka}
+Aren't you being over-sensitive?
+--------------------------------------------------End--
+{Wakka}
+All right, all right.
+--------------------------------------------------End--
+{Wakka}
+I'll try talking to him
+after the tournament.
+--------------------------------------------------End--
+{Lulu}
+Be discreet.
+--------------------------------------------------End--
+{Wakka}
+I know.
+It's his decision.
+--------------------------------------------------End--
+{Wakka}
+He doesn't like his father?
+--------------------------------------------------End--
+{Lulu}
+Apparently.
+He told {Yuna} as much.
+--------------------------------------------------End--
+{Wakka}
+Hating your own father, huh?
+Sounds like a luxury to me.
+--------------------------------------------------End--
+{Wakka}
+I don't even remember my parents.
+--------------------------------------------------End--
+{Wakka}
+Can't say how I feel about 'em.
+--------------------------------------------------End--
+{Lulu}
+I...I was five then,
+so I remember mine a little.
+--------------------------------------------------End--
+{Wakka}
+Dammit!
+--------------------------------------------------End--
+{Wakka}
+{Sin} just takes
+everything away from us.
+--------------------------------------------------End--
+{Lulu}
+I'm sorry. I need
+some time to think.
+--------------------------------------------------End--
+{Wakka}
+Go to bed, bud.
+Tournament starts tomorrow morning.
+--------------------------------------------------End--
+{Wakka}
+Someone's bound to recognize you
+when they see your moves out there.
+--------------------------------------------------End--
+{WINDOW}
+DEV TEST MODE
+Press {Button Circle} to bring up messages in order
+--------------------------------------------------End--
+{WINDOW}
+
+I'm the best!
+--------------------------------------------------End--
+{WINDOW}
+
+You're out of your league!
+--------------------------------------------------End--
+{WINDOW}
+
+No one else can do it.
+--------------------------------------------------End--
+{WINDOW}
+
+Gahahahah!
+--------------------------------------------------End--
+{WINDOW}
+
+You can't do it, kid.
+--------------------------------------------------End--
+{WINDOW}
+
+I'm the best!
+--------------------------------------------------End--
+{WINDOW}
+
+You can't do it, kid.
+--------------------------------------------------End--
+{WINDOW}
+
+No one else can do it.
+--------------------------------------------------End--
+{WINDOW}
+
+You're out of your league!
+--------------------------------------------------End--
+{WINDOW}
+END TEST MODE
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Yellow}The Jecht Shot Challenge{White}
+Memories of that day still haunt
+{Tidus} and interfere with his
+concentration. Try to shake off
+the memories and successfully
+perform the Jecht Shot.
+--------------------------------------------------End--
+{WINDOW}
+For example, when a memory appears
+in the upper left, press {Direcional Up+Left}+{Button Circle}.
+{NEWPAGE}
+Similarly, press {Direcional Up}+{Button Circle} when it
+appears straight above.
+{NEWPAGE}
+Press {Direcional Left+Down}+{Button Circle} when it appears
+in the lower left corner. Always
+press the buttons simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Up+Left}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Up}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Left+Down}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+{Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+Simply press {Button Circle} without directional
+buttons when it appears in the center.
+--------------------------------------------------End--
+{WINDOW}
+Let's try practicing a little.
+Press buttons following the
+on-screen instructions.
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Up+Right}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Left}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Down+Right}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Did you get the hang of it?
+Now for the real thing!
+{NEWPAGE}
+Show Jecht what you can do!
+--------------------------------------------------End--
+{Jecht}
+Told you you couldn't do it!
+--------------------------------------------------End--
+{Wakka}
+Whoa! What's that called?
+--------------------------------------------------End--
+{Tidus}
+Doesn't have a name.
+Anyone can do it if they try.
+--------------------------------------------------End--
+{Wakka}
+Show us one more time, ya?
+--------------------------------------------------End--
+{Wakka}
+I knew it! I knew you
+were somethin' special!
+--------------------------------------------------End--
+{Yuna}
+That was the {Jecht} Shot, wasn't it?
+--------------------------------------------------End--
+{Yuna}
+You tried to do a {Jecht} Shot, right?
+--------------------------------------------------End--
+{Tidus}
+How do you know that?
+--------------------------------------------------End--
+{Yuna}
+Sir {Jecht} showed it to
+me when I was a child.
+--------------------------------------------------End--
+{Yuna}
+He called it the "Sublimely
+Magnificent {Jecht} Shot Mark III." 
+--------------------------------------------------End--
+{Tidus}
+Stupid name, huh?
+--------------------------------------------------End--
+{Tidus}
+You know what? There is no
+Mark I or Mark II, you know?
+--------------------------------------------------End--
+{Tidus}
+My old man said the name Mark III
+was just something to hook the crowd.
+--------------------------------------------------End--
+{Tidus}
+He said they'd come back every night
+expecting to see Mark I and Mark II.
+--------------------------------------------------End--
+{Tidus}
+And, they really did come back.
+--------------------------------------------------End--
+{Tidus}
+I used to get so mad.
+--------------------------------------------------End--
+{Tidus}
+Is he alive, you think?
+--------------------------------------------------End--
+{Yuna}
+I don't know.
+--------------------------------------------------End--
+{Yuna}
+But, Sir {Jecht} was
+my father's guardian.
+--------------------------------------------------End--
+{Tidus}
+So he's famous here, too?
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Yuna}
+So if anything happened to him,
+I should think word would get around fast.
+--------------------------------------------------End--
+{Tidus}
+Uh-huh.
+--------------------------------------------------End--
+{Yuna}
+What would you do,
+if you found him?
+--------------------------------------------------End--
+{Tidus}
+Who knows? I thought
+he died ten years ago.
+--------------------------------------------------End--
+{Tidus}
+Well...
+--------------------------------------------------End--
+{Tidus}
+I'd probably just smack him one.
+--------------------------------------------------End--
+{Tidus}
+After everything he put
+Mom and me through.
+--------------------------------------------------End--
+{Tidus}
+And because he was
+famous, I was always...
+--------------------------------------------------End--
+{Tidus}
+Well, you should know, {Yuna}.
+--------------------------------------------------End--
+{Tidus}
+Your father's famous, too.
+Everyone in Spira knows him, right? 
+--------------------------------------------------End--
+{Tidus}
+Ain't it tough?
+--------------------------------------------------End--
+{Yuna}
+It is hard to follow in his
+footsteps, as a summoner.
+--------------------------------------------------End--
+{Tidus}
+Well, there wasn't much to honor
+about my old man, that's for sure.
+--------------------------------------------------End--
+{Yuna}
+You shouldn't say
+that about your father!
+--------------------------------------------------End--
+{Tidus}
+I got the right!
+--------------------------------------------------End--
+{Yuna}
+I guess you do.
+--------------------------------------------------End--
+{Wakka}
+Show me that move again!
+--------------------------------------------------End--
+{Wakka}
+Hey! It's past your
+bedtime, kiddos!
+--------------------------------------------------End--
+
+I didn't think my old
+man would come to Luca.
+--------------------------------------------------End--
+
+He never did like watching
+other people play.
+--------------------------------------------------End--
+
+But I couldn't help feeling something
+bad was gonna happen. And these
+feelings of mine are usually right.
+--------------------------------------------------End--
+
+Sure, I had told {Wakka} I'd help him
+win the tournament. But I wasn't sure
+I had it in me to play at all anymore.
+--------------------------------------------------End--
+
+The {Aurochs} are the
+team to watch this year.
+{NEWPAGE}
+
+They say they got a blitzer from
+{Zanarkand} on their team!
+--------------------------------------------------End--
+
+Oh, come on! You actually
+believe that rumor?
+--------------------------------------------------End--
+
+Ha! No way. I only meant
+it'll be fun to watch.
+--------------------------------------------------End--
+{Tidus}
+The best? Yeah, right.
+--------------------------------------------------End--
+{Tidus}
+Sure.
+--------------------------------------------------End--
+{Yuna}
+But the honor of having a father
+like him surpasses all that, I think.
+--------------------------------------------------End--
+Datto
+Looks like the toxin's still getting to you.
+Take it easy and go to bed early, ya?
+--------------------------------------------------End--
+Datto
+We wanted to have our final practice
+in {Kilika}, but that's impossible
+after what happened to the place.
+--------------------------------------------------End--
+Datto
+I feel a little nervous with
+Lady {Yuna} watching us, ya?
+--------------------------------------------------End--
+Datto
+Yeow... I-I hurt my back.
+--------------------------------------------------End--
+Letty
+{Wakka} is busy right now.
+Maybe you shouldn't bother him.
+--------------------------------------------------End--
+Letty
+Let's pray we don't have to go
+against the Goers until the finals!
+--------------------------------------------------End--
+Letty
+Is Datto alright? It's right
+before the big game and all.
+--------------------------------------------------End--
+Letty
+That was one amazing shot you just did!
+They don't call you an ace for nothin'.
+--------------------------------------------------End--
+Jassu
+We can finally relax now that
+the Goers are down in the cabin.
+--------------------------------------------------End--
+Jassu
+Don't mind {Kimahri} for not answering you.
+He's the silent type, you know?
+--------------------------------------------------End--
+Jassu
+I'm gonna tell Botta and Keepa
+all about that shot you just did.
+{NEWPAGE}
+Jassu
+They'll be so mad when they
+find out what they missed!
+--------------------------------------------------End--
+Jassu
+I'm glad the Goers weren't here to see it.
+Let's keep it secret until the finals!
+--------------------------------------------------End--
+
+The {Aurochs} are getting too
+hyped up before the match.
+--------------------------------------------------End--
+
+You can practice in the water all you
+like, but the ship isn't going to wait.
+--------------------------------------------------End--
+
+What a bunch of reckless guys.
+You want to swim to {Luca} or something?
+--------------------------------------------------End--
+
+Put yourself in my shoes.
+{NEWPAGE}
+
+Everyone always blames the
+crew when ships are late.
+--------------------------------------------------End--
+
+The {Luca} Goers fans will beat
+the pulp out of us if that happens.
+--------------------------------------------------End--
+
+Everyone in {Luca} is a Goers fan.
+Watch your backs--you're on enemy ground.
+--------------------------------------------------End--
+
+I loved that crazy stunt you {Aurochs}
+pulled back there. Good luck in the game.
+--------------------------------------------------End--
+
+You're a blitzer from {Zanarkand}, right?
+At least put up a good fight, you hear me?
+--------------------------------------------------End--
+
+That guy poking around back there
+is taking sphere shots of Lady {Yuna}.
+--------------------------------------------------End--
+
+You should go rest. You're gonna drown
+during the match if you're sleep-deprived.
+--------------------------------------------------End--
+
+We've got important guests onboard, so don't
+interfere with our jobs. You got that?
+--------------------------------------------------End--
+
+Our guests this trip are nothing but trouble,
+not to mention those excommunicated {Crusader}s!
+--------------------------------------------------End--
+
+{Zanarkand}, eh...?
+{NEWPAGE}
+
+If you're going to bluff at all, say
+something a little more believable.
+--------------------------------------------------End--
+
+You've got nerve to say you're from {Zanarkand}.
+Go home and relearn {Yevon2}'s teachings.
+--------------------------------------------------End--
+{AREA}
+Kilika Port
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--

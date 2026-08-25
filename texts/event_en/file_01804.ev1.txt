@@ -1,0 +1,95 @@
+{Tidus}
+Nice excuse.
+--------------------------------------------------End--
+{Wakka}
+Hey, hey!
+--------------------------------------------------End--
+{Wakka}
+So, after quitting,
+I got this new job, ya?
+--------------------------------------------------End--
+{Wakka}
+But every time my mind wandered,
+I thought about the game.
+--------------------------------------------------End--
+{Tidus}
+Ten years without
+a single win'll do that.
+--------------------------------------------------End--
+{Wakka}
+My first match last year
+was my big chance.
+--------------------------------------------------End--
+{Wakka}
+But something else was on my mind.
+I couldn't focus.
+--------------------------------------------------End--
+{Tidus}
+So you want to win the next
+tournament--go out with a bang.
+--------------------------------------------------End--
+{Tidus}
+So, what's our goal?
+--------------------------------------------------End--
+{Wakka}
+I don't care how we do.
+Long as we play our best.
+--------------------------------------------------End--
+{Tidus}
+No, no, no, no, no.
+If I say, "What's our goal?"
+you say, "Victory!"
+--------------------------------------------------End--
+{Tidus}
+When you play in a {blitzball}
+tournament, you play to win!
+--------------------------------------------------End--
+{Wakka}
+Victory? You serious?
+--------------------------------------------------End--
+{Wakka}
+If we give it our all,
+I can walk away happy.
+--------------------------------------------------End--
+
+Ah, the one from the sea!
+--------------------------------------------------End--
+
+Be on guard. There're
+fiends on the road today!
+--------------------------------------------------End--
+
+After surviving your run-in with {Sin},
+'twould be a shame if something happened now.
+--------------------------------------------------End--
+{Tidus}
+Who were they?
+--------------------------------------------------End--
+{Wakka}
+{Luzzu} and {Gatta}--{Crusader}s.
+--------------------------------------------------End--
+{Tidus}
+Crews of what?
+--------------------------------------------------End--
+{Wakka}
+What, you forgot that, too?
+--------------------------------------------------End--
+{Wakka}
+Hey, sorry.
+Don't worry about it, I'll help you out.
+--------------------------------------------------End--
+{Tidus}
+Cool.
+--------------------------------------------------End--
+{Tidus}
+In return, come tournament time,
+I'll make sure we take the cup!
+--------------------------------------------------End--
+{Wakka}
+Cool.
+--------------------------------------------------End--
+{Wakka}
+About the {Crusader}s, you can
+ask them yourself. They've got
+a lodge in the village.
+--------------------------------------------------End--

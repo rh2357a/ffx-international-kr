@@ -1,0 +1,419 @@
+{WINDOW}
+{Yuna}
+Hmm?
+--------------------------------------------------End--
+{Tidus}
+Don't forget to smile, remember?
+--------------------------------------------------End--
+{Yuna}
+Oh, you're right.
+I'll try and remember.
+--------------------------------------------------End--
+{Yuna}
+Smiling...
+--------------------------------------------------End--
+{Tidus}
+Right! Keep at it!
+--------------------------------------------------End--
+{Auron}
+Anything can happen.
+--------------------------------------------------End--
+{Tidus}
+"Make sure you're prepared," right?
+--------------------------------------------------End--
+{Auron}
+There is a saying:
+"Hurry up and wait."
+--------------------------------------------------End--
+{Auron}
+It means, prepare quickly so
+you're ready for whatever comes next.
+--------------------------------------------------End--
+{Tidus}
+Sounds like something
+an old man would say.
+--------------------------------------------------End--
+{Auron}
+Forgive me.
+--------------------------------------------------End--
+{Tidus}
+Hey, just being honest!
+--------------------------------------------------End--
+{Rikku}
+Can we go now?
+I'm tired of waiting!
+--------------------------------------------------End--
+{Lulu}
+{Yuna}'s really quiet.
+--------------------------------------------------End--
+{Lulu}
+Sitting here like this,
+you really get to thinking.
+--------------------------------------------------End--
+{Kimahri}
+Temple not far.
+Why stop here?
+--------------------------------------------------End--
+{Wakka}
+Seriously...
+--------------------------------------------------End--
+{Wakka}
+A wedding's not supposed
+to make people feel this bad, huh?
+--------------------------------------------------End--
+{Tidus}
+Come on, don't say that!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Hmph!
+--------------------------------------------------End--
+{Wakka}
+I say what I want,
+ever since I was a kid!
+--------------------------------------------------End--
+{Tidus}
+Oh, so you're an adult now?
+--------------------------------------------------End--
+{Wakka}
+You know it!
+--------------------------------------------------End--
+{Wakka}
+Anyways... How long we supposed
+to stay here, you think?
+--------------------------------------------------End--
+{Tidus}
+Hey, don't ask me!
+--------------------------------------------------End--
+{Wakka}
+Things've sure gotten complicated
+since Sir {Auron} joined us.
+--------------------------------------------------End--
+{Tidus}
+You think so, too?
+--------------------------------------------------End--
+{Wakka}
+Still can't figure that guy out.
+--------------------------------------------------End--
+{Maechen}
+I've heard Lady {Yuna} is
+to wed Maester {Seymor}.
+--------------------------------------------------End--
+{Maechen}
+It is great news.
+I'd like to congratulate her.
+--------------------------------------------------End--
+{Maechen}
+But...it is a pity.
+--------------------------------------------------End--
+{Maechen}
+I'd hoped Lady {Yuna} would defeat
+{Sin} and bring the {Calm} to {Spira}.
+--------------------------------------------------End--
+{Tidus}
+{Yuna}'s still gonna journey,
+even after she's married.
+--------------------------------------------------End--
+{Maechen}
+That is also great news!
+Her resolve is admirable!
+--------------------------------------------------End--
+{Maechen}
+Would you like
+to hear about Macalania?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Maybe next time.
+{CHOICE:31}Go ahead!
+--------------------------------------------------End--
+{Maechen}
+Lake Macalania is frozen
+over all through the year.
+--------------------------------------------------End--
+{Maechen}
+It stays frozen even
+on the hottest of days.
+--------------------------------------------------End--
+{Maechen}
+It is said that the temple's
+{fayth} is the cause of this
+fantastic phenomenon!
+--------------------------------------------------End--
+{Maechen}
+And that is all for today.
+--------------------------------------------------End--
+{Maechen}
+Pity.
+--------------------------------------------------End--
+{Maechen}
+Hopefully I can be
+present at the wedding.
+--------------------------------------------------End--
+{Maechen}
+It is not every day that one
+can attend such a joyous event.
+--------------------------------------------------End--
+{Maechen}
+What is all that ruckus outside?
+--------------------------------------------------End--
+
+Could the {Al Bhed2} be celebrating the
+wedding, too? It's hard to believe.
+--------------------------------------------------End--
+
+I heard a flying machina appeared
+in the skies over {Bevelle}! Could
+it really have been the {Al Bhed}?
+--------------------------------------------------End--
+
+Lady {Yuna}'s wedding is so soon!
+I'm so excited I can hardly sleep!
+--------------------------------------------------End--
+
+Could it be true that Lady {Yuna} is a
+traitor? Oh, I hope not...
+--------------------------------------------------End--
+
+The temple destroyed the home of the
+{Al Bhed}, I hear. Was such violence
+really called for?
+{NEWPAGE}
+
+Not that I'm complaining about the
+temple! You heard nothing from me!
+Nothing!
+--------------------------------------------------End--
+
+The way things are these days, even
+this store isn't safe from attack.
+--------------------------------------------------End--
+
+{Macalania Temple} is full of those {Guado}
+soldiers. It's a madhouse, I tell you.
+{NEWPAGE}
+
+I can't even bring myself to go pray
+properly. Things were so quiet before.
+--------------------------------------------------End--
+
+You look an awful lot like those traitors.
+Take care you don't get mistaken for them!
+--------------------------------------------------End--
+
+I left the {airship} on
+Elder {Cid}'s orders.
+I wished to be with my family,
+but now I am here against my will.
+--------------------------------------------------End--
+
+I too can fight!
+Yet I am treated like an infant!
+--------------------------------------------------End--
+
+They say that {Sin} has fallen on {Bevelle}.
+All the {Yevon2} folk are in a panic!
+--------------------------------------------------End--
+
+I had hoped to help
+Master {Rin} at his shop.
+{NEWPAGE}
+
+But because I can only speak
+{Al Bhed}, he would not hire me.
+{NEWPAGE}
+
+I now learn your language
+from that kindly shopkeeper.
+--------------------------------------------------End--
+
+Now we must all employ two tongues,
+as do Master {Rin} and {Rikku}.
+--------------------------------------------------End--
+
+Outside, I felt the white sand with
+my hand and it became most cold!
+--------------------------------------------------End--
+
+Could this be the snow?
+It is my first time seeing it!
+--------------------------------------------------End--
+
+When I sang the song outside,
+my breath--it became most white!
+--------------------------------------------------End--
+
+He is so weak to the cold, he just sits
+there and misses all there is to see!
+--------------------------------------------------End--
+
+I was playing at sliding on the ice,
+and I almost fell into a big hole!
+--------------------------------------------------End--
+
+Our new {Home} we should build here!
+Then we can have snow fun every day!
+--------------------------------------------------End--
+{WINDOW}
+
+Welcome to the {Lake Macalania} branch of
+{Rin}'s Travel Agency, now Spira-wide!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Rest.
+{CHOICE:31}Buy weapons.
+{CHOICE:32}Buy items.
+{CHOICE:33}Leave.
+--------------------------------------------------End--
+{WINDOW}
+
+Thank you for your patronage!
+Please use our other agencies
+in your travels!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Scans memory cards (8MB) (for PlayStation{Registered}2)
+for {Al Bhed} primers and adds them to your
+collection. Use these spheres to expand your
+{Al Bhed} vocabulary.
+--------------------------------------------------End--
+{WINDOW}
+Select a slot:
+{CHOICE:30}MEMORY CARD slot 1
+{CHOICE:31}MEMORY CARD slot 2
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 1
+--------------------------------------------------End--
+{WINDOW}
+Do not remove/insert memory cards (8MB)
+(for PlayStation{Registered}2) or controllers.
+Do not open disc tray.
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 1!
+--------------------------------------------------End--
+{WINDOW}
+No {FINAL FANTASY X} INTERNATIONAL
+saved game data found!
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 2
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 2!
+--------------------------------------------------End--

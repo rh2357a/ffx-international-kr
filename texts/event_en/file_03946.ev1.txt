@@ -1,0 +1,212 @@
+{WINDOW}
+{CHOICE:30}Not yet.
+{CHOICE:31}I'm ready! Let me on!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Not yet.
+{CHOICE:31}Let me on!
+--------------------------------------------------End--
+
+Need anything?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any armor?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+Feel free to stop by anytime.
+--------------------------------------------------End--
+
+Hey, there. If you don't buy anything
+from me, you'll regret it.
+--------------------------------------------------End--
+
+Thanks!
+--------------------------------------------------End--
+
+Dangerous when shoopuf's close.
+Wants to be shmooshed?
+--------------------------------------------------End--
+
+Don't touch shoopuf.
+Tailss will be shlapping!
+--------------------------------------------------End--
+
+Shing the Hymn?
+A very, very myshterious shong indeed.
+--------------------------------------------------End--
+
+Shoopuf happy now shince
+ebullibody shing shong.
+--------------------------------------------------End--
+
+There have been reports of
+{Al Bhed} sightings in this area.
+{NEWPAGE}
+
+Stay alert and keep
+your guard up at all times!
+--------------------------------------------------End--
+
+The {Al Bhed} have green eyes with a swirl
+pattern. Report any sightings immediately!
+--------------------------------------------------End--
+
+The {Al Bhed} are roaming this area,
+targeting summoners.
+--------------------------------------------------End--
+
+Please rest assured,
+the shoopuf is operating as usual.
+--------------------------------------------------End--
+
+With Yevon in chaos,
+the {Crusader}s must be vigilant.
+--------------------------------------------------End--
+
+The fight against {Sin} continues.
+Be careful when heading north.
+--------------------------------------------------End--
+
+Riding the shoopuf is free
+because the temple pays for it.
+--------------------------------------------------End--
+
+The temple provides for the people.
+We are truly blessed.
+--------------------------------------------------End--
+
+It seems that Maester {Seymor}
+will be marrying Lord {Braska}'s daughter.
+--------------------------------------------------End--
+
+With their combined strength,
+Yevon will prosper.
+--------------------------------------------------End--
+
+What are we to do now that the
+warrior monks are up and gone?
+{NEWPAGE}
+
+I'm sure the temple has a plan, but
+Yevon works in strange ways, it seems.
+--------------------------------------------------End--
+
+Me? I obey the temple, without question.
+Who would ever shun the sacred temple?
+--------------------------------------------------End--
+
+I tried singing the Hymn although I
+didn't know what significance it had.
+{NEWPAGE}
+
+There was nothing else to do.
+In times of need, people will try anything.
+--------------------------------------------------End--
+
+The high priests and the
+summoners will take care of us.
+--------------------------------------------------End--
+
+You say our machina violate
+the teachings, eh? Nonsense!
+--------------------------------------------------End--
+
+These machina have Yevon's approval. Don't
+mix them up with the forbidden ones, got it?
+--------------------------------------------------End--
+
+The maester's engagement is such a
+blessing. It lightens even my spirits.
+--------------------------------------------------End--
+
+Uh, what happened to Maester {Seymor}
+and Lady {Yuna}'s marriage?
+{NEWPAGE}
+
+I heard the maester disappeared from
+{Bevelle}, and {Yuna} is now a traitor!
+Unbelievable!
+--------------------------------------------------End--
+
+Careful what you believe, especially
+when such nonsense is floatin' around.
+--------------------------------------------------End--
+
+I thought that flying ship was
+Yevon's secret weapon...
+{NEWPAGE}
+
+but now they're sayin' that
+{Al Bhed} are at the helm!
+{NEWPAGE}
+
+You tellin' me that the temple
+and the {Al Bhed} have joined forces?
+Rubbish!
+--------------------------------------------------End--
+
+Can't believe anything anymore!
+Just pray that {Sin} will go away.
+--------------------------------------------------End--
+{Auron}
+Ten years ago...
+--------------------------------------------------End--
+{Tidus}
+A history lesson?
+--------------------------------------------------End--
+{Auron}
+{Jecht} saw his first shoopuf here.
+--------------------------------------------------End--
+{Auron}
+Surprised, he drew
+his blade and struck it.
+--------------------------------------------------End--
+{Tidus}
+Why?
+--------------------------------------------------End--
+{Auron}
+He was drunk...
+Thought it was a fiend.
+--------------------------------------------------End--
+{Tidus}
+Oh, brother...
+--------------------------------------------------End--
+{Auron}
+We offered all the money
+we had as an apology.
+--------------------------------------------------End--
+{Auron}
+{Jecht} never drank again.
+--------------------------------------------------End--
+{Auron}
+But, it would seem
+that shoopuf still works here.
+--------------------------------------------------End--
+{Auron}
+Even after ten years,
+{Spira} hasn't changed.
+--------------------------------------------------End--
+{Auron}
+Truly...
+--------------------------------------------------End--
+{Auron}
+The place seems to resist change.
+--------------------------------------------------End--
+{Auron}
+It would take something unusual.
+--------------------------------------------------End--
+{Auron}
+Don't let the peaceful scenery fool you.
+Be on guard at all times.
+--------------------------------------------------End--
+Driver
+Ride ze shoopuf?
+--------------------------------------------------End--
+Driver
+Shoopuf's waiting!
+--------------------------------------------------End--
+Driver
+All aboards!
+--------------------------------------------------End--

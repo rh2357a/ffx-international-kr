@@ -1,0 +1,112 @@
+{Lulu}
+I hope you hurt them.
+--------------------------------------------------End--
+{Yuna}
+A little.
+--------------------------------------------------End--
+{Yuna}
+What is it?
+--------------------------------------------------End--
+{Tidus}
+There were these {Al Bhed} that saved
+my life when I first came to {Spira}.
+--------------------------------------------------End--
+{Tidus}
+They took me on their ship,
+even gave me food.
+--------------------------------------------------End--
+{Tidus}
+I was kinda hoping this was
+the same ship. But it's not.
+--------------------------------------------------End--
+{Tidus}
+I wonder if they're all gone.
+--------------------------------------------------End--
+{Yuna}
+What happened?
+--------------------------------------------------End--
+{Tidus}
+{Sin} came up near us.
+--------------------------------------------------End--
+{Tidus}
+I made it out okay, but I don't know
+what happened to their ship.
+--------------------------------------------------End--
+{Yuna}
+Um, was there anyone
+called Cid on that ship?
+--------------------------------------------------End--
+{Tidus}
+I don't know. They were all
+speaking that {Al Bhed} language.
+--------------------------------------------------End--
+{Yuna}
+I see...
+--------------------------------------------------End--
+{Tidus}
+So who's {Cid}?
+--------------------------------------------------End--
+{Yuna}
+He's my uncle, but I've
+never actually met him.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Wait.
+--------------------------------------------------End--
+{Tidus}
+That means you're
+{Al Bhed}, too, {Yuna}?
+--------------------------------------------------End--
+{Yuna}
+On my mother's side, yes.
+--------------------------------------------------End--
+{Yuna}
+{Cid} is my mother's brother.
+--------------------------------------------------End--
+{Yuna}
+He became distant
+after my mother married.
+--------------------------------------------------End--
+{Yuna}
+But she told me to seek him
+out if I ever needed help.
+--------------------------------------------------End--
+{Tidus}
+You're worried he was...?
+--------------------------------------------------End--
+{Lulu}
+Don't tell {Wakka}
+about {Yuna}'s lineage.
+--------------------------------------------------End--
+{Lulu}
+The thing about {Wakka}--he never
+had much love for the {Al Bhed}.
+--------------------------------------------------End--
+{Tidus}
+Whoa!
+--------------------------------------------------End--
+{Tidus}
+I gotta tell {Wakka}!
+--------------------------------------------------End--
+{Lulu}
+I thought I told you
+not to tell {Wakka}!
+--------------------------------------------------End--
+{Yuna}
+The game!
+--------------------------------------------------End--
+{Lulu}
+Oh!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--

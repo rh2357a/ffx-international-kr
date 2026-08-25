@@ -1,0 +1,176 @@
+{Kimahri}
+{Yuna}!
+--------------------------------------------------End--
+{Dona}
+She's not here.
+--------------------------------------------------End--
+{Dona}
+Hello again.
+--------------------------------------------------End--
+{Dona}
+Wait there until we have
+performed the sending.
+--------------------------------------------------End--
+{Isaaru}
+They died...protecting us.
+--------------------------------------------------End--
+{Isaaru}
+It's not much, but the least we can
+do is give them a proper sending.
+--------------------------------------------------End--
+{Pacce}
+Hey, what's "sacrificed"?
+--------------------------------------------------End--
+{Pacce}
+The {Al Bhed} said summoners
+were being "sacrificed."
+--------------------------------------------------End--
+{Pacce}
+That summoners shouldn't
+have to do a pilgrimage...
+--------------------------------------------------End--
+{Rikku}
+The pilgrimages have to stop!
+--------------------------------------------------End--
+{Rikku}
+You know, don't you?
+--------------------------------------------------End--
+{Rikku}
+Summoners journey to
+get the Final Aeon.
+--------------------------------------------------End--
+{Rikku}
+{Yuna} told you, didn't she?
+--------------------------------------------------End--
+{Tidus}
+Was I the only one
+who didn't know?
+--------------------------------------------------End--
+{Wakka}
+We weren't hiding it...
+--------------------------------------------------End--
+{Lulu}
+It was just...too hard to say.
+--------------------------------------------------End--
+{Isaaru}
+But that is our choice...
+--------------------------------------------------End--
+{Dona}
+We all live in fear
+of {Sin}. You know that.
+--------------------------------------------------End--
+{Isaaru}
+A world without {Sin}...
+--------------------------------------------------End--
+{Isaaru}
+That is the dream of
+all {Yevon2}'s children.
+--------------------------------------------------End--
+{Dona}
+We summoners have the power
+to make that dream come true.
+--------------------------------------------------End--
+{Isaaru}
+And we will use that power,
+even if it means our lives!
+--------------------------------------------------End--
+{Tidus}
+I can't let her die!
+--------------------------------------------------End--
+{Tidus}
+I'll find her!
+--------------------------------------------------End--
+{Tidus}
+Why couldn't they trust guardians
+to protect the summoners?
+--------------------------------------------------End--
+{Tidus}
+The {Al Bhed} had no right
+stopping their pilgrimage!
+--------------------------------------------------End--
+{Rikku}
+If they don't, and
+they get to Zanarkand...
+--------------------------------------------------End--
+{Rikku}
+They might defeat {Sin}.
+{Yunie} could...
+but then she...
+--------------------------------------------------End--
+{Rikku}
+{Yunie} will die, you know?
+--------------------------------------------------End--
+{Rikku}
+With the Final Aeon, she can
+beat {Sin}. But then...but then...
+--------------------------------------------------End--
+{Rikku}
+If she calls it, then the
+Final Aeon's going to kill her!
+--------------------------------------------------End--
+{Rikku}
+Even if she defeats {Sin}, it
+will kill {Yunie} too, you know!
+--------------------------------------------------End--
+{Tidus}
+Tell me why!
+Why were you hiding it?
+--------------------------------------------------End--
+{Tidus}
+Why didn't I know?
+--------------------------------------------------End--
+{Tidus}
+{Lulu}! How could you? How could you?
+Isn't she like a sister to you?
+--------------------------------------------------End--
+{Tidus}
+I thought you were family!
+--------------------------------------------------End--
+{Tidus}
+Why don't you do something, {Wakka}?
+--------------------------------------------------End--
+{Lulu}
+Don't you think we tried to stop her?
+--------------------------------------------------End--
+{Lulu}
+She follows...her heart.
+--------------------------------------------------End--
+{Wakka}
+{Yuna}, she knew what she was doing
+when she chose to become a summoner.
+--------------------------------------------------End--
+{Wakka}
+To face {Sin}, ya? {Yuna} knew!
+--------------------------------------------------End--
+{Rikku}
+But, {Wakka}, that's just totally wrong!
+--------------------------------------------------End--
+{Rikku}
+Summoners shouldn't have to
+sacrifice themselves...
+--------------------------------------------------End--
+{Rikku}
+just so the rest of Spira
+can be happy, right?
+--------------------------------------------------End--
+{Tidus}
+And I've been telling {Yuna}...
+--------------------------------------------------End--
+{Tidus}
+Let's go to Zanarkand together!
+Let's beat {Sin}!
+--------------------------------------------------End--
+{Tidus}
+I told her all the things
+we could...we could...
+--------------------------------------------------End--
+{Tidus}
+And all along, the whole time,
+I didn't know anything!
+--------------------------------------------------End--
+{Tidus}
+But {Yuna}, she'd...
+--------------------------------------------------End--
+{Tidus}
+just smile.
+--------------------------------------------------End--

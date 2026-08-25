@@ -1,0 +1,868 @@
+
+You've beaten my mightiest beast?
+Mmm, what extraordinary power!
+{NEWPAGE}
+
+All right! From now on, you shall be
+known as the "One Who Conquered All!"
+--------------------------------------------------End--
+
+I never imagined that my mightiest
+creation could be defeated.
+--------------------------------------------------End--
+
+Yes. Truly remarkable!
+I can't find any other way to express it!
+{NEWPAGE}
+
+All that's left to do is to defeat {Sin}!
+I have faith in you, sonny.
+--------------------------------------------------End--
+
+There won't be any more new fiends,
+but you can still battle them anytime.
+{NEWPAGE}
+
+Feel free to come back whenever
+you wish to train!
+--------------------------------------------------End--
+
+You'll of course need to pay for it, though!
+Hahaha...
+--------------------------------------------------End--
+
+This is a training arena that Lord {Mi'ihen}
+constructed for the {Crusader}s.
+{NEWPAGE}
+
+You can hone your battle skills here by fighting
+fiends gathered from all over {Spira}!
+--------------------------------------------------End--
+
+But...the fiends all got away
+because I, uh, screwed up.
+--------------------------------------------------End--
+
+I'm too old to gather fiends now,
+so I'm in quite a fix...
+--------------------------------------------------End--
+
+So, that's where you come in, sonny!
+Can I ask you to round up all the
+fiends for me?
+{NEWPAGE}
+
+Of course, I'm not asking you to do it
+for free. There'll be nice, fat rewards!
+{NEWPAGE}
+
+On top of that, you can hone your
+fighting skills anytime against the
+fiends you bring back here!
+--------------------------------------------------End--
+
+In addition, any items you win during
+training are yours to keep for free!
+{NEWPAGE}
+
+But, there will be a small fee for each
+training session, so bear that in mind.
+--------------------------------------------------End--
+
+How about it? Not a bad deal, eh?
+You won't regret it!
+--------------------------------------------------End--
+
+Hmm... And I was thinking to reward you
+with a variety of rare items I've collected.
+Are you sure?
+--------------------------------------------------End--
+
+That's the spirit, sonny!
+Now, go catch all them fiends!
+--------------------------------------------------End--
+
+But I've one more warning before
+I can let you go.
+--------------------------------------------------End--
+
+To catch a fiend, you have to
+{Yellow}defeat it with a special kind of weapon{White}!
+{NEWPAGE}
+
+But not to worry! I'll sell them
+to you for a special low price!
+--------------------------------------------------End--
+
+Also, this arena can only hold
+ten of each kind of fiend.
+{NEWPAGE}
+
+There won't be any bonuses for capturing
+more, so keep an eye on your totals!
+--------------------------------------------------End--
+
+This is an arena where you can train
+by battling fiends, but it's closed
+because all of the fiends escaped.
+--------------------------------------------------End--
+
+So, I need someone to catch specimens
+of every fiend in {Spira} for me.
+{NEWPAGE}
+
+If you can bring them back here, I'll
+reward you with fantastic items!
+{NEWPAGE}
+
+On top of that, you can fight any
+fiend anytime, and keep any treasure
+you win from them.
+--------------------------------------------------End--
+
+Well, the only catch is a small fee
+for each training session.
+--------------------------------------------------End--
+
+How about it? Do we have a deal?
+--------------------------------------------------End--
+
+How about it? Will you catch
+some fiends for me?
+--------------------------------------------------End--
+
+I need you to start by collecting each
+species in the {Calm Lands}.
+{NEWPAGE}
+
+I can't reopen the arena without
+having some fiends, you know.
+--------------------------------------------------End--
+
+By the way, there's a total of {Yellow}nine
+species{White} in the {Calm Lands}. I'll give
+you a bonus when you get all of them.
+{NEWPAGE}
+
+Oh! Before I forget, you have to use a
+special kind of weapon to catch them!
+{NEWPAGE}
+
+I'll sell some to you at a special price!
+No, no! No need to thank me!
+--------------------------------------------------End--
+
+So far, you've collected {VAR12:30} from the
+{Calm Lands}. You've got {VAR12:31} more to go.
+{NEWPAGE}
+
+You'll find weaker fiends nearby, but go
+search the northwest for the big game!
+--------------------------------------------------End--
+
+Ah! You've caught all the fiends of the
+{Calm Lands}. Now I can reopen the arena!
+--------------------------------------------------End--
+
+Oops, I almost forgot. Here's a token
+of my appreciation for your hard work.
+--------------------------------------------------End--
+
+I don't know if you have what
+it takes to open it, though.
+--------------------------------------------------End--
+Temp Shop
+--------------------------------------------------End--
+
+Tips (temp)
+--------------------------------------------------End--
+
+Battle
+--------------------------------------------------End--
+
+Wowzers! You've completed a total
+of ten races and areas!
+{NEWPAGE}
+
+Hmm... You seem to be worthy of
+this prize.
+{NEWPAGE}
+
+I gather it's a priceless item,
+but I have no use for it.
+--------------------------------------------------End--
+
+I've been researching specimens
+from {Besaid Island} you brought me,
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+from the {Mi'ihen Highroad}, and
+created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from {Djose} Road,
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from {Macalania},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from the {Calm Lands},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens you
+brought from {Mushroom Rock Road},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from the {Thunder Plains},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from the cave under the
+gorge, and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from {Bikanel Island},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought from {Mt. Gagazet},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+from {Kilika Island} you brought me,
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought me from inside {Sin},
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching specimens
+you brought me from Omega Dungeon,
+and created one nasty beast!
+--------------------------------------------------End--
+
+I've been researching the
+fiends you brought me and
+created one as tough as steel!
+--------------------------------------------------End--
+
+I've created a nasty imp from all
+the samples you've brought me!
+--------------------------------------------------End--
+
+I've been researching the
+fiends you brought me and
+created the ultimate wolf!
+--------------------------------------------------End--
+
+I've mixed all kinds of flan together
+and created a real nasty one! 
+--------------------------------------------------End--
+
+I've been researching the
+fiends you brought me and
+created the ultimate lizard!
+--------------------------------------------------End--
+
+After taming all the little
+birds you brought me, I've bred
+something out of this world!
+--------------------------------------------------End--
+
+After researching the fiends
+you brought me, I've created
+an incredible insect!
+--------------------------------------------------End--
+
+I've been researching the
+fiends you brought me and
+created the ultimate eyeball!
+--------------------------------------------------End--
+
+Thanks to you, I've created
+the ultimate horned beast!
+--------------------------------------------------End--
+
+After taming all the dragons you
+brought, I've bred the ultimate wyrm!
+--------------------------------------------------End--
+
+I've been researching the
+fiends you brought me and
+created a very strange elemental.
+--------------------------------------------------End--
+
+After studying the iron giants
+you brought, I've assembled
+my own! Hope you like it.
+--------------------------------------------------End--
+
+I've researched the fiends
+you brought me and put together
+an absolutely wicked bomb!
+--------------------------------------------------End--
+
+I've been researching the
+fiends you've brought and
+cultivated a fascinating mushroom!
+--------------------------------------------------End--
+
+Wanna take a swing at it?
+The first fight's free.
+--------------------------------------------------End--
+{WINDOW}
+Fight?
+
+{CHOICE:30}Bring it on!
+{CHOICE:31}Not now.
+--------------------------------------------------End--
+
+You beat him... Nice job, sonny.
+But don't let it go to your head!
+{NEWPAGE}
+
+I'll make sure he's always ready.
+Try to beat him quicker next time!
+--------------------------------------------------End--
+
+What? You lost?
+Guess you're just not up to snuff.
+--------------------------------------------------End--
+
+Awww, Not up to it?
+Don't worry about it.
+{NEWPAGE}
+
+I'll make sure he's always ready
+so you can challenge him anytime.
+{NEWPAGE}
+
+But not for free!
+I have to make a living too, you know.
+--------------------------------------------------End--
+
+I've done it!
+I've created a monster!
+{NEWPAGE}
+
+This is a fabulous day!
+Come on, kiddo! Help me celebrate!
+--------------------------------------------------End--
+
+I just got some new items in!
+Great deals you won't regret!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Sorry, no time for that.
+{CHOICE:31}All right, I'll do it!
+{CHOICE:32}Would you explain that again?
+--------------------------------------------------End--
+
+It won't open.
+--------------------------------------------------End--
+
+The {Yellow}{Celestial Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Celestial Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+The {Yellow}{Cloudy Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Cloudy Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+Not enough energy...
+--------------------------------------------------End--
+
+It's alive...
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let's see your weapons.
+{CHOICE:31}I'd like some items.
+{CHOICE:32}Show me the fiends captured so far.
+{CHOICE:33}That's all.
+--------------------------------------------------End--
+{WINDOW}
+Now what?
+
+{CHOICE:30}Chat.
+{CHOICE:31}Fight monsters.
+{CHOICE:32}Buy weapons.
+{CHOICE:33}Buy items.
+{CHOICE:34}Exit.
+--------------------------------------------------End--
+
+You've captured every fiend.
+I knew I was right picking you.
+{NEWPAGE}
+
+Heh. I've always been a good
+judge of character.
+--------------------------------------------------End--
+
+Head out to {Besaid} and capture
+the fiends there. There's so few
+kinds, you'll be done in a jiffy. 
+--------------------------------------------------End--
+
+Close! Just one more species and we'll
+have every kind of fiend on {Besaid Island}!
+Keep it up, kiddo!
+--------------------------------------------------End--
+
+So you've been hunting on
+{Besaid Island}, eh? You sure
+got there and back in a hurry.
+--------------------------------------------------End--
+
+How about a nice stroll down the
+{Mi'ihen Highroad}? They got
+fiends to nab and sights to see!
+--------------------------------------------------End--
+
+Aha! Just one more species from
+the {Mi'ihen Highroad} and we'll have
+a complete collection! Hustle, sonny!
+--------------------------------------------------End--
+
+I see you've been busy on
+the {Mi'ihen Highroad}. Hunt down
+the rest and bring 'em to me!
+--------------------------------------------------End--
+
+Bring me some fiends from the {Djose} Road.
+It ain't a big place, so you'll
+be done before you know it!
+--------------------------------------------------End--
+
+Ngah! We're one species short of
+having a whole set of {Djose} Road fiends!
+Find one and nab it!
+--------------------------------------------------End--
+
+Ah, so you've been hunting on the
+{Djose} Road. I see you've
+got quite a menagerie.
+--------------------------------------------------End--
+
+How about a hunting trip through the
+{Macalania} forest? Its pristine glades
+and lovely ponds will soothe your soul!
+--------------------------------------------------End--
+
+Zounds! One more species from
+{Macalania} and we'll have a
+whole set! Don't give up, kid!
+--------------------------------------------------End--
+
+Been hunting in {Macalania},
+haven't you? Keep at it!
+That's one deep forest!
+--------------------------------------------------End--
+
+Try capturing fiends here in the
+{Calm Lands}. You'll get the hang
+of it quick if you start close!
+--------------------------------------------------End--
+
+Yippee! Just one more species
+will complete your collection
+from the {Calm Lands}! 
+--------------------------------------------------End--
+
+So you caught some fiends out
+on the {Calm Lands}, huh? You got
+a ways to go, but don't quit yet!
+--------------------------------------------------End--
+
+Try hunting around {Mushroom Rock Road}.
+I got a feeling some fantastic
+fiends lurk in the shadows there.
+--------------------------------------------------End--
+
+Heavens! You've got just one more species
+to catch from {Mushroom Rock Road}!
+Keep at it, sonny!
+--------------------------------------------------End--
+
+I see you've been searching around
+{Mushroom Rock Road}. Leave no stone
+unturned if you want to find 'em all.
+--------------------------------------------------End--
+
+Get me some baddies from the {Thunder Plains}.
+Catching fiends, dodging lightning...
+What a thrill!
+--------------------------------------------------End--
+
+Huzzah! Just one more species to complete
+our collection from the {Thunder Plains}!
+Go get 'em!
+--------------------------------------------------End--
+
+Been hunting out on the {Thunder Plains}, eh?
+Tread lightly, my boy! Tread lightly!
+--------------------------------------------------End--
+
+There's this cave under a gorge
+just north of the {Calm Lands}.
+Bring me the fiends there!
+--------------------------------------------------End--
+
+Why, just one more species
+from the cave at the bottom of
+the gorge! Get back down there!
+--------------------------------------------------End--
+
+So you've been spelunking, eh?
+Well, keep it up. There's more
+fiends to catch in them caverns!
+--------------------------------------------------End--
+
+Go hunt for fiends on {Bikanel Island}.
+There's gotta be tons of 'em
+under all that sand!
+--------------------------------------------------End--
+
+Lo and behold! One species more and
+we'll have every kind from {Bikanel Island}!
+Get back out there, son!
+--------------------------------------------------End--
+
+Hmm, someone's been hunting {Bikanel Island}
+fiends, I see. Keep up the good work,
+and don't let the heat get to you!
+--------------------------------------------------End--
+
+Catch me some fiends from
+{Mt. Gagazet}! You can build
+your leg muscles while you hunt!
+--------------------------------------------------End--
+
+Jeepers! Just one more species from
+{Mt. Gagazet} and we'll have a whole set!
+Get back up there!
+--------------------------------------------------End--
+
+So you've captured some fiends
+from {Mt. Gagazet}? Well, keep
+at it and stay warm up there!
+--------------------------------------------------End--
+
+One lap through the forest on {Kilika Island}
+is all it takes to grab 'em all!
+--------------------------------------------------End--
+
+Dah! Just one more species from
+{Kilika Island} and we'll have them
+all! Get back there on the double!
+--------------------------------------------------End--
+
+So, you've been doing some hunting
+on {Kilika Island}? Well, you still
+got a ways to go, I reckon!
+--------------------------------------------------End--
+
+I heard there's a bunch of nasty
+fiends living inside {Sin}. Maybe
+you can go catch some for me!
+--------------------------------------------------End--
+
+Bingo! Just one more species and
+we'll have a complete set from
+inside {Sin}! Good luck, sonny!
+--------------------------------------------------End--
+
+Looks like you've caught some
+fiends from inside {Sin}'s guts.
+Remember, you're my only hope!
+--------------------------------------------------End--
+
+Grim fiends lurk in the dungeon
+of the traitor Omega. Can't you
+guess what I'm trying to say?
+--------------------------------------------------End--
+
+Yow! Just one more species
+from Omega Dungeon and we'll have
+a whole set! Bite the bullet, son!
+--------------------------------------------------End--
+
+So you're catching fiends
+from Omega Dungeon, eh?
+Capture more; it'll build character!
+--------------------------------------------------End--
+
+You know about the hard-shelled
+guys, right? I sure want to know
+which is the toughest.
+--------------------------------------------------End--
+
+I need a few more of those
+hard-shelled guys. I'm sure
+you know where to find more!
+--------------------------------------------------End--
+
+Good job gathering them hard-
+shelled buggers. Keep on
+smashing their shells for me!
+--------------------------------------------------End--
+
+I sure want to find out
+where winged imps get their
+powers of lightning from.
+--------------------------------------------------End--
+
+I need just a few more winged
+imps to round out my collection!
+--------------------------------------------------End--
+
+So you've caught some winged
+imps, huh? They rely on magic,
+so use it against them!
+--------------------------------------------------End--
+
+There are many kinds of wolven
+fiends all over {Spira}.
+How about nabbing some for me?
+--------------------------------------------------End--
+
+Mind catching me a few more wolves?
+I need more to continue me research!
+--------------------------------------------------End--
+
+I see you're catching wolves, eh?
+Don't let them get away!
+--------------------------------------------------End--
+
+I've been itching to know what
+would happen if you mixed flan
+of different elements together.
+--------------------------------------------------End--
+
+I need just a few more flan!
+Can't wait to mix them all together!
+--------------------------------------------------End--
+
+Been flan-hunting, huh?
+Use your weapons, not magic,
+if you want to capture them!
+--------------------------------------------------End--
+
+Different parts of {Spira} are
+home to different kinds of lizards.
+Could you go capture some for me?
+--------------------------------------------------End--
+
+Can you get some more lizards for me?
+Just a few more, now.
+--------------------------------------------------End--
+
+I see you're catching lizards, eh?
+Don't let them get away!
+--------------------------------------------------End--
+
+I want you to find me some
+small birds for my collection!
+--------------------------------------------------End--
+
+I need just a few more small birds.
+Got a big birdcage all ready for 'em!
+--------------------------------------------------End--
+
+So you've been gathering small birds.
+They may be plump, but they taste bad!
+--------------------------------------------------End--
+
+I want to know more about the
+poison found in those flying bugs.
+--------------------------------------------------End--
+
+I need just a few more flying bugs.
+Go get them for me!
+--------------------------------------------------End--
+
+You've caught some flying
+bugs already, eh? Keep it up,
+and watch out for poison!
+--------------------------------------------------End--
+
+If you see any eyeballs that go flap-flap,
+I want you to catch 'em for me!
+--------------------------------------------------End--
+
+I need more winged eyeballs in
+order to continue my research!
+--------------------------------------------------End--
+
+So you've caught some winged
+eyeballs, huh? I need more!
+Bring me all you can find!
+--------------------------------------------------End--
+
+I want you to find me some four-legged
+beasts that brandish huge horns!
+--------------------------------------------------End--
+
+I need just a few more horned beasts.
+I'll be waiting right here.
+--------------------------------------------------End--
+
+So you've caught some horned
+beasts already? Be sure to
+duck when they charge!
+--------------------------------------------------End--
+
+Sure would be grand to have
+every kind of breath-belching
+dragon in my collection!
+--------------------------------------------------End--
+
+I need just a few more dragons
+to continue my research!
+--------------------------------------------------End--
+
+So you've been catching dragons, eh?
+Hope you got weapons that
+can pierce their scales!
+--------------------------------------------------End--
+
+I wonder what makes elementals tick...
+Sure wish I had some to study.
+--------------------------------------------------End--
+
+I need a few more elementals to complete
+my research on the four elements!
+--------------------------------------------------End--
+
+So you started an elemental collection, eh?
+Hit 'em with the element they hate most!
+--------------------------------------------------End--
+
+I wonder what fuel those
+iron giants run on? Sure wish
+I had some to tinker with...
+--------------------------------------------------End--
+
+I need just a few more iron giants.
+They're tough, so be careful.
+--------------------------------------------------End--
+
+So you've been capturing
+iron giants, eh? Be sure
+to stay on your toes!
+--------------------------------------------------End--
+
+I want to research fiends that
+blow up when you smack them.
+--------------------------------------------------End--
+
+I need a few more bombs.
+Don't waste them by making them blow up!
+--------------------------------------------------End--
+
+Good. You've been gathering
+bombs. Be sure to catch them
+before they go boom!
+--------------------------------------------------End--
+
+I want you to nab some
+unsavory mushrooms. They might
+look tasty, but they ain't!
+--------------------------------------------------End--
+
+I need just a couple more mushrooms.
+Take care when harvesting!
+--------------------------------------------------End--
+
+So you've been gathering mushrooms, eh?
+Hit 'em with magic or they'll get upset!
+--------------------------------------------------End--
+ 
+Thanks to you, the monster
+collection is growing.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

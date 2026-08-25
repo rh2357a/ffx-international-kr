@@ -1,0 +1,140 @@
+{Yuna}
+Let's go now!
+--------------------------------------------------End--
+
+This is the {Luca Goers}' locker room.
+No unauthorized entry.
+--------------------------------------------------End--
+
+What are you doing out here?
+The tournament's already under way!
+--------------------------------------------------End--
+
+Hey, the {Aurochs}' locker room is on the
+other side. Or are you just here to scout?
+--------------------------------------------------End--
+
+You sure are taking it easy.
+The opening match is about to start, you know.
+--------------------------------------------------End--
+
+{Aurochs}...
+Don't underestimate {Ronso} skill.
+--------------------------------------------------End--
+
+Yes! The season opener is finally here!
+Can you feel the excitement in the air?
+{NEWPAGE}
+
+It's like the calm before the storm. In just
+a few minutes, this place is gonna go crazy!
+--------------------------------------------------End--
+
+It's like I'm feeding off the
+energy of the players!
+--------------------------------------------------End--
+
+I hope Sir Graav's not hurt...
+--------------------------------------------------End--
+
+This guard is so mean!
+{NEWPAGE}
+
+He won't let me in to see Sir Graav!
+--------------------------------------------------End--
+
+I don't care if I have to wait for hours!
+I'm not moving until I see Sir Graav!
+--------------------------------------------------End--
+
+I'm gonna practice blitz real hard
+and be just like Bickson!
+--------------------------------------------------End--
+
+Guess what, guess what?
+I shook Bickson's hand!
+--------------------------------------------------End--
+
+The Goers didn't win, but a true fan will
+stand behind them through thick and thin.
+--------------------------------------------------End--
+
+The Goers' victory parade was cancelled
+because of all the chaos with the fiends.
+--------------------------------------------------End--
+
+I just want to wish the Goers luck,
+but security won't let me in.
+--------------------------------------------------End--
+
+You guys just got lucky!
+The Goers will take the cup next year!
+--------------------------------------------------End--
+
+You guys made the Goers look good
+by putting up a good fight.
+--------------------------------------------------End--
+
+I've been a huge Goers fan
+since I was a little girl.
+{NEWPAGE}
+
+I can still cheer as loud as
+the young'uns!
+--------------------------------------------------End--
+
+The players should be
+coming out soon.
+--------------------------------------------------End--
+{WINDOW}
+Debug Map Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Change Model
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Model  :  {CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. VI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}V{White} {RIGHT} {Pink}F{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

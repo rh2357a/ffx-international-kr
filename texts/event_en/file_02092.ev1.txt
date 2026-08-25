@@ -1,0 +1,327 @@
+{WINDOW}
+Total: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total loan: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}Select amount
+{Button Circle}Confirm
+--------------------------------------------------End--
+{WINDOW}
+How much do you want to lend?
+Lend {CHOICE:56} Gil to {O'aka}.
+--------------------------------------------------End--
+{O'aka}
+Hey, lad. I appreciate yer offer,
+but ye ain't got enough Gil.
+--------------------------------------------------End--
+{O'aka}
+Blimey, lad! Will ye actually
+lend me {VAR12:32} Gil?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Wait a minute.
+{CHOICE:31}No sweat.
+{CHOICE:32}Cancel.
+--------------------------------------------------End--
+{O'aka}
+But I'm always open for business!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Lend Gil to {O'aka}.
+{CHOICE:33}No, thanks.
+--------------------------------------------------End--
+{O'aka}
+Have you got some to lend?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+{O'aka}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+
+The flying machina ship is
+such a spectacle to look at!
+--------------------------------------------------End--
+
+A ferry bound for {Kilika} is anchored
+here at {Blue}dock number 2{White}.
+--------------------------------------------------End--
+
+Patrolling a large structure such
+as this would be next to impossible.
+--------------------------------------------------End--
+
+That is why we have a guard
+stationed at every dock.
+--------------------------------------------------End--
+
+I shang the Hymn.
+Sho now the Calm will come?
+--------------------------------------------------End--
+
+I wonderss what that ship ish?
+An anshient mashina?
+--------------------------------------------------End--
+
+Tournament over. {Ronso} return to
+mountain to protect {Yevon2} holy land.
+--------------------------------------------------End--
+
+{Maester Mika2} is safe.
+{Master Kelk Ronso} is relieved.
+--------------------------------------------------End--
+
+Ice and snow from the holy peaks of
+{Gagazet} have strengthened {Ronso} spirit.
+{NEWPAGE}
+
+The {Ronso Fangs} will win the cup.
+Any {Ronso} know that.
+--------------------------------------------------End--
+
+The valiant {Ronso Fangs} have
+sworn victory on their horns.
+{NEWPAGE}
+
+{Ronso} never break promise.
+--------------------------------------------------End--
+
+Shum blitzer tried to recruit me,
+but I don't want to practish ebulliday!
+--------------------------------------------------End--
+
+Thish ish a big ribber.
+You shink shoopuf can make it here okay?
+--------------------------------------------------End--
+
+{Biran} and {Yenke} protect
+the people in stadium.
+{NEWPAGE}
+
+They defeat more fiends than
+you can count with both hands.
+--------------------------------------------------End--
+
+{Biran Ronso} is {Ronso}'s bravest warrior.
+All young {Ronso} yearn to be like
+{Biran Ronso}.
+--------------------------------------------------End--
+
+We come all the way from {Gagazet}.
+{Ronso} will surely win!
+--------------------------------------------------End--
+
+The {Ronso Fangs} are the strongest.
+They will not be defeated!
+--------------------------------------------------End--
+
+Th-That flying ship... Have the {Al Bhed} finally
+brought out their big guns? I hope they will
+avenge the fallen {Crusader}s for me!
+--------------------------------------------------End--
+
+{Luca} is such a strange place.
+The {Al Bhed2} are walking around freely.
+--------------------------------------------------End--
+
+I ran out of {Bevelle} as fast as I could,
+so I didn't pack any summer clothes.
+--------------------------------------------------End--
+
+Beating {Sin} with a song sounded crazy.
+But I'd believe anything now that I've
+seen a ship fly!
+--------------------------------------------------End--
+
+Is it true that the temple is in chaos?
+I don't believe that one bit!
+--------------------------------------------------End--
+
+I hear Lady {Yuna}'s wedding
+was called off.
+--------------------------------------------------End--
+
+The ferries that run to {Kilika} and
+{Besaid} have resumed operation.
+It's gonna get busy!
+--------------------------------------------------End--
+
+Even though the sea is close by, I still
+miss being out on the vast ocean.
+--------------------------------------------------End--
+
+I feel a lot safer, now that the warrior
+monks are keeping a watchful eye on us.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+I will not ride the {airship}.
+I get airsick easily.
+--------------------------------------------------End--
+
+Many {Al Bhed} lost their
+lives in the operation.
+--------------------------------------------------End--
+
+The {Al Bhed} had nothing to do with that
+{fiend} attack. That is the truth!
+--------------------------------------------------End--
+
+I do not know a thing!
+I swear to you!
+--------------------------------------------------End--
+
+Nothing beats {blitz}!
+I wish you luck.
+--------------------------------------------------End--
+{O'aka}
+The stores in the stadium are
+closed during the tournament.
+--------------------------------------------------End--
+{O'aka}
+The people here are so into the
+game, they don't even look
+at what they're buying!
+--------------------------------------------------End--
+{O'aka}
+Gotta love blitz, eh?
+--------------------------------------------------End--
+{O'aka}
+I guess it pays to ask!
+Thank ye kindly, lad!
+--------------------------------------------------End--
+{O'aka}
+Fine seed money for
+the {O'aka} merchant empire!
+--------------------------------------------------End--
+{O'aka}
+Eh, it figures.
+--------------------------------------------------End--
+{O'aka}
+Should've expected as much.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Change Crowd Model
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Crowd  :  {CHOICE:50}
+--------------------------------------------------End--

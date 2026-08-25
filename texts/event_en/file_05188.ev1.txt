@@ -1,0 +1,100 @@
+{Tidus}
+Question!
+--------------------------------------------------End--
+{Tidus}
+About this {Farplane}...
+--------------------------------------------------End--
+{Tidus}
+When somebody dies, a summoner
+sends them to the {Farplane}, right?
+--------------------------------------------------End--
+{Tidus}
+So their souls, or whatever they are,
+they go to the {Farplane}, right?
+--------------------------------------------------End--
+{Tidus}
+But that's the {Farplane}
+we're going to, right?
+--------------------------------------------------End--
+{Tidus}
+And {Yuna}'s old man's there, too?
+--------------------------------------------------End--
+{Tidus}
+Do dead people live
+there or something?
+--------------------------------------------------End--
+{Wakka}
+You're thinking those
+funny thoughts again, ya?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+You'll see once we get there.
+--------------------------------------------------End--
+{Tidus}
+Aren't you coming?
+--------------------------------------------------End--
+{Auron}
+I do not belong there.
+--------------------------------------------------End--
+{Tidus}
+You're scared!
+--------------------------------------------------End--
+{Auron}
+Searching the past
+to find the future...
+--------------------------------------------------End--
+{Auron}
+This is all that is there.
+I need it not.
+--------------------------------------------------End--
+{Auron}
+You'd better be going.
+--------------------------------------------------End--
+{Rikku}
+You're not really going to see the dead,
+more like your memories of them.
+--------------------------------------------------End--
+{Rikku}
+People think of their relatives,
+and the pyreflies react to them.
+--------------------------------------------------End--
+{Rikku}
+They take on the form of the dead
+person--an illusion, nothing else.
+--------------------------------------------------End--
+{Tidus}
+Hmm...
+--------------------------------------------------End--
+{Rikku}
+Well, have fun!
+--------------------------------------------------End--
+{Tidus}
+What, you're not going either, {Rikku}?
+--------------------------------------------------End--
+{Rikku}
+I keep my memories inside.
+--------------------------------------------------End--
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Rikku}
+Memories are nice,
+but that's all they are.
+--------------------------------------------------End--
+{Auron}
+You're still here?
+--------------------------------------------------End--
+{Rikku}
+See you later!
+--------------------------------------------------End--
+{Tromell}
+Come to kill the old man?
+I welcome it!
+--------------------------------------------------End--
+{Tromell}
+Or are you here to laugh?
+Laugh at the fallen {Guado}?
+--------------------------------------------------End--

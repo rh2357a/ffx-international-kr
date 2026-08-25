@@ -1,0 +1,86 @@
+{WINDOW}
+{CHOICE:30}Go inside.
+{CHOICE:31}Wait here.
+--------------------------------------------------End--
+{Wakka}
+The {fayth} is below. Let's do it!
+--------------------------------------------------End--
+{Tidus}
+The "{fayth}"?
+--------------------------------------------------End--
+{Lulu}
+But first, the Cloister of Trials.
+{Kimahri}? {Wakka}? Ready?
+--------------------------------------------------End--
+{Yuna}
+Strength, everyone!
+--------------------------------------------------End--
+{Tidus}
+Hey, what gives?
+--------------------------------------------------End--
+{Lulu}
+You're not a guardian yet.
+--------------------------------------------------End--
+{Yuna}
+We'll be back as soon as we can, okay?
+--------------------------------------------------End--
+{Tidus}
+Oh, sure!
+Soon like "tomorrow" soon, I bet!
+--------------------------------------------------End--
+{Dona}
+Where's {Yuna}?
+--------------------------------------------------End--
+{Dona}
+Then why are you here?
+--------------------------------------------------End--
+{Tidus}
+Hey, I'm not a guardian,
+so I'm not supposed to go in, right?
+--------------------------------------------------End--
+{Dona}
+Not a guardian, you say?
+--------------------------------------------------End--
+{Tidus}
+Hey! Wait!
+--------------------------------------------------End--
+{Tidus}
+Ah! Lemme go!
+--------------------------------------------------End--
+{Tidus}
+Hey! What's the big idea?
+--------------------------------------------------End--
+{Dona}
+Just a little game.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+This is bad, really bad.
+--------------------------------------------------End--
+{Tidus}
+Only guardians allowed,
+and I'm sure no guardian.
+--------------------------------------------------End--
+{Tidus}
+Come on, go up! Go up!
+--------------------------------------------------End--
+{Tidus}
+Well, I guess it's too late now.
+--------------------------------------------------End--
+
+An intruder got into the
+Cloister of Trials.
+--------------------------------------------------End--
+
+Keep an eye out for anyone suspicious!
+--------------------------------------------------End--
+{WINDOW}
+
+{Button Circle}: Down
+--------------------------------------------------End--
+{WINDOW}
+
+{Button Circle}: Up
+--------------------------------------------------End--

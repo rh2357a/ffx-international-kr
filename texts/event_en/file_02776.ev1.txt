@@ -1,0 +1,498 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+The hymn we all sang at the stadium
+is still echoing in my ears.
+--------------------------------------------------End--
+
+The people of Luca will always
+stand behind a blitzer--
+even one condemned as a traitor.
+--------------------------------------------------End--
+
+The stadium is now open.
+You may enter freely.
+--------------------------------------------------End--
+
+The first match has already begun.
+Please hurry to your seat.
+--------------------------------------------------End--
+
+We are currently assessing the damage
+from the fiends. No admittance.
+--------------------------------------------------End--
+
+Access is no longer restricted.
+Feel free to enter.
+--------------------------------------------------End--
+
+I wonder who the next grand maester will be...
+I need to book someone for next year's
+opening speech.
+--------------------------------------------------End--
+
+Most of the warrior monks have withdrawn to
+Bevelle, but some have taken a liking to Luca
+and remained here.
+--------------------------------------------------End--
+
+Even now that the tournament's over,
+the stadium is always jam-packed.
+That's Luca for you.
+--------------------------------------------------End--
+
+I'm right by the stadium, but I can't
+watch the game. What a bummer...
+--------------------------------------------------End--
+
+Did you forget something inside?
+Give it up. I doubt you'll find it.
+--------------------------------------------------End--
+
+It took forever to fix the
+stands inside the stadium.
+--------------------------------------------------End--
+
+The stadium is surrounded by numerous
+ports laid out in a circular fashion.
+{NEWPAGE}
+
+So it's impossible to get lost.
+Turn here to get to {Blue}dock number {VAR12:30}{White}.
+--------------------------------------------------End--
+
+Even through all the hardship, the people of Luca
+enjoy blitzball and carry on with their lives.
+Oh, how I admire their strength.
+--------------------------------------------------End--
+
+We are protecting Luca under Maester Kinoc's
+orders. You should all be grateful!
+--------------------------------------------------End--
+
+I hope the operation succeeds.
+I want to come back here next year...
+--------------------------------------------------End--
+
+Once the tournament is over, the
+operation will commence. Better
+enjoy blitzball while I still can.
+--------------------------------------------------End--
+
+The merchants of Luca have raised
+money to support the Crusaders.
+--------------------------------------------------End--
+
+So many Crusaders have died and yet people
+are watching blitzball? This city is heartless.
+--------------------------------------------------End--
+
+I am relieved the grand maester is safe.
+We owe it all to {Master Seymor}.
+--------------------------------------------------End--
+
+The Crusaders were in charge of guarding
+the stadium up until last year.
+--------------------------------------------------End--
+
+But they're all busy preparing for
+the operation now. So this year, the
+citizens have taken up security posts.
+--------------------------------------------------End--
+
+I heard Sin has fallen in Bevelle!
+Could it be that the Calm is almost here?
+--------------------------------------------------End--
+
+I've decided to join the Crusaders.
+No sense hiding behind their back all the time.
+--------------------------------------------------End--
+
+Looks like that last machina attack sent
+Sin back to sea for now. Let's hope we
+get some peace and quiet for awhile.
+--------------------------------------------------End--
+
+Ending the tournament with the fiend
+attack left a bad taste in my mouth.
+--------------------------------------------------End--
+
+The Goers are definitely gonna win.
+Everyone else is goin' down!
+--------------------------------------------------End--
+
+The Crusaders will help us with security.
+We will support them all the way!
+--------------------------------------------------End--
+
+The warrior monks are helping us out,
+so guard duty's not as bad as before.
+--------------------------------------------------End--
+
+Please report any suspicious activity.
+--------------------------------------------------End--
+
+I hope the Calm will last at least a year.
+Would three be asking for too much?
+--------------------------------------------------End--
+
+I think the Crusaders are more suited
+to Luca than the warrior monks are.
+--------------------------------------------------End--
+
+The warrior monks are planning to guard the
+ferries. I'm not sure if that's good or bad.
+--------------------------------------------------End--
+
+{Maester Mika2} returned to {Bevelle}
+soon after the tournament.
+--------------------------------------------------End--
+
+Tickets were so hard to come by this year.
+Oh, well... Guess I'll watch the game over
+at the cafe.
+--------------------------------------------------End--
+
+Once Sin is gone for good, I hope you play
+every day! I'll be there to cheer you on!
+--------------------------------------------------End--
+
+Hey, when are you playin' next?
+I really want to see you again.
+--------------------------------------------------End--
+
+I really enjoyed your awesome moves!
+I hope I get to see you play more often.
+--------------------------------------------------End--
+
+Nice work out there.
+Now I know you're not all talk.
+--------------------------------------------------End--
+
+I saw your rallying cry on the sphere.
+Heheh, best of luck to you.
+--------------------------------------------------End--
+
+Did you know that you're more popular than
+ever, now that you're branded as a traitor?
+--------------------------------------------------End--
+
+No one knows who unleashed the
+fiends into the stadium.
+--------------------------------------------------End--
+
+I'm afraid to imagine what would've
+happened if {Master Seymor} hadn't been here.
+--------------------------------------------------End--
+
+Players must return to their locker
+room for the opening ceremony.
+--------------------------------------------------End--
+
+I will fight as a Crusader until
+Spira is rid of all fiends.
+--------------------------------------------------End--
+
+I quit the Crusaders after the operation,
+but I'm back in again. I think I have Crusader
+blood running through my veins.
+--------------------------------------------------End--
+
+The captain's making me work
+so that he can go see the game!
+--------------------------------------------------End--
+
+I will be heading for the operation soon.
+I must bid adieu to the city of {Luca}.
+--------------------------------------------------End--
+
+I'm rooting for the Al Bhed Psyches this year.
+They're helping out the Crusaders, you know.
+--------------------------------------------------End--
+
+The flying ship at dock 1
+is the legendary airship!
+So the tales are true!
+--------------------------------------------------End--
+
+We have resumed ferry operation.
+We're as busy as ever.
+--------------------------------------------------End--
+
+Sin is lurking in the waters nearby.
+Ferry service has been postponed indefinitely.
+--------------------------------------------------End--
+
+Even the ships don't leave the port during
+the tournament. Just kick back and relax, man.
+--------------------------------------------------End--
+
+Once the Crusaders regroup in Luca, they
+will charge through the Mi'ihen Highroad
+and lay waste to all the fiends!
+--------------------------------------------------End--
+
+Please report any suspicious
+activity to me immediately!
+--------------------------------------------------End--
+
+The {Crusader}s have planned a grand
+operation to smash the fiends.
+--------------------------------------------------End--
+
+I should be reporting to the base by now,
+but I just want to catch one glimpse of the
+opening ceremony.
+--------------------------------------------------End--
+
+Once the Calm arrives, we must have a
+commemorative tournament! Actually,
+we're already in the planning stages.
+--------------------------------------------------End--
+
+The warrior monks have left, but the
+Crusaders have returned to serve as guards.
+A blessing from Yevon indeed!
+--------------------------------------------------End--
+
+The temple has dispatched their warrior monks
+to guard the stadium. I am thankful, indeed.
+--------------------------------------------------End--
+
+We were supposed to get some time off after
+the tournament, but with the sudden fiend
+incident and all, we're busy with the investigation.
+--------------------------------------------------End--
+
+Aren't you a blitzer?
+Better check the rules while you still can.
+--------------------------------------------------End--
+
+The opening ceremony is about to begin.
+All players must wait in their locker rooms.
+--------------------------------------------------End--
+
+You're not a blitzer, are you?
+Nah, couldn't be. The game's already started.
+--------------------------------------------------End--
+
+We're still investigating how
+the fiends managed to get in.
+{NEWPAGE}
+
+I'm sorry, but please wait for an
+official statement regarding this matter.
+--------------------------------------------------End--
+
+Hi! Welcome to the blitzball reception.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Register to play.
+{CHOICE:31}Leave.
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+
+Hello! Welcome to the
+Luca Item Shop.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}What have you got?
+{CHOICE:31}Leave.
+--------------------------------------------------End--
+
+Welcome to the
+Luca Equipment Shop!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}What have you got?
+{CHOICE:31}Leave.
+--------------------------------------------------End--
+
+No admittance!
+--------------------------------------------------End--
+
+We are sorry, but not even blitzball
+players are allowed to pass.
+--------------------------------------------------End--
+
+Please come again!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Change Crowd Model
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Crowd  :  {CHOICE:50}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

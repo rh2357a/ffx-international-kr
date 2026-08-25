@@ -1,0 +1,364 @@
+{WINDOW}
+Battle With Al Bhed Machina
+    {CHOICE:30}Waiting for Command
+    {CHOICE:31}Seamless Test
+    {CHOICE:32}Retry Event
+    {CHOICE:33}Unconditional Win
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+Seems to have been put to sleep.
+--------------------------------------------------End--
+
+{Blue}Dock number 3{White} lies straight ahead.
+{Blue}Dock number 5{White} lies in the opposite direction.
+--------------------------------------------------End--
+
+The sphere monitor makes our
+job a lot easier.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+{Ronso} shed no tear when brothers die.
+Pain and sorrow will never conquer
+mighty {Ronso} spirit.
+--------------------------------------------------End--
+
+The {Ronso Fangs} grow stronger each day.
+One day, we will beat the {Luca Goers}.
+--------------------------------------------------End--
+
+Best of luck to the {Besaid Aurochs}.
+The {Ronso Fangs} will be waiting.
+--------------------------------------------------End--
+
+If {Ronso Fangs} win, our brothers
+on the Farplane will rejoice.
+--------------------------------------------------End--
+
+{Ronso} are pious race. But still,
+we respect {Crusader}s' courage.
+--------------------------------------------------End--
+
+We swore victory on our horns and lost.
+We cannot go home until we win the cup.
+--------------------------------------------------End--
+
+Maester Kelk Ronso was slain while
+defending the mountain. For {Ronso},
+no better way to die.
+--------------------------------------------------End--
+
+{Ronso} home on mighty Mt. Gagazet.
+Our mountain protects sacred ruins
+of {Zanarkand}.
+--------------------------------------------------End--
+
+Many {Ronso} return home to mountain.
+But {Ronso Fangs} will stay in {Luca}.
+--------------------------------------------------End--
+
+The {Crusader}s stand strong once more.
+We admire their fortitude.
+--------------------------------------------------End--
+
+{Ronso Fangs} want to play more
+teams to hone blitz skills.
+--------------------------------------------------End--
+
+{Aurochs} are true warriors.
+{Aurochs} deserve mighty horns.
+--------------------------------------------------End--
+
+{Ronso} are pious race.
+But cannot trust temple now.
+--------------------------------------------------End--
+
+Machina cannot defeat {Sin}.
+{Spira} history is proof.
+--------------------------------------------------End--
+
+The honorable warrior tribe {Ronso}
+fight enemies fair and square.
+--------------------------------------------------End--
+
+No longer can temple help us.
+Must protect {Spira} on our own.
+--------------------------------------------------End--
+
+When warrior monks protect stadium,
+fiends have no chance of breaking in.
+--------------------------------------------------End--
+
+{Ronso2} are strong, but
+winning takes more than strength.
+--------------------------------------------------End--
+
+Those {Ronso} players are massive!
+I feel like they're here to guard
+us instead of the other way around.
+--------------------------------------------------End--
+
+Look at the size of those {Ronso}!
+The fact that I'm supposed to be guarding
+them is pretty funny, don't you think?
+--------------------------------------------------End--
+
+I may be enjoying the game, but I'm keeping
+watch, too. Everything's okay here!
+--------------------------------------------------End--
+
+I'm still in training, so I'm watching
+the game on the sphere.
+--------------------------------------------------End--
+
+A flying ship, huh?
+What will they think of next?
+--------------------------------------------------End--
+
+Everybody loves blitz!
+Even the warrior monks love it!
+--------------------------------------------------End--
+
+The port is full of excitement, too!
+We've gotta beat {Sin}! We've just got to!
+--------------------------------------------------End--
+
+{Blue}Dock number 5{White} is sealed off.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Still in there!
+--------------------------------------------------End--
+{Lulu}
+He won't last.
+{Wakka}'s always like that.
+--------------------------------------------------End--
+{Tidus}
+Ouch.
+--------------------------------------------------End--
+{Lulu}
+Let's go.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+We won!
+--------------------------------------------------End--
+{Yuna}
+We did it!
+We're in the finals!
+--------------------------------------------------End--
+{Lulu}
+Not the most...graceful win.
+--------------------------------------------------End--
+{Lulu}
+If it was {Chappu},
+he'd still be standing.
+--------------------------------------------------End--
+{Tidus}
+Hey, aren't you being
+just a little unfair?
+--------------------------------------------------End--
+{Lulu}
+Excuse me?
+--------------------------------------------------End--
+{Tidus}
+I know I could never
+take {Chappu}'s place.
+--------------------------------------------------End--
+{Tidus}
+You're the one who told
+{Wakka} that, right, {Lulu}?
+--------------------------------------------------End--
+{Tidus}
+And I don't think {Wakka} would
+ever try to take {Chappu}'s pl--
+--------------------------------------------------End--
+{Lulu}
+You don't want to
+finish that sentence.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Invisible
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

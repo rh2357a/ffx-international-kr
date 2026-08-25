@@ -1,0 +1,797 @@
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--
+{WINDOW}
+Save current game?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Hey, {Wakka}.
+--------------------------------------------------End--
+{Tidus}
+You're stiff, man.
+--------------------------------------------------End--
+{Tidus}
+No, no, not your face.
+--------------------------------------------------End--
+{Tidus}
+Just breathe out, relax.
+Like this. Just breathe, yeah!
+--------------------------------------------------End--
+{Lulu}
+Please, don't tell anyone
+about {Yuna}'s lineage.
+--------------------------------------------------End--
+{Lulu}
+It's crowded out there.
+Stay close.
+--------------------------------------------------End--
+{Wakka}
+I'm...I'm counting on you, bud!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+Datto
+No way! You guys were
+on the flying ship?
+--------------------------------------------------End--
+Datto
+No one's gonna believe that
+{Yuna} is a traitor, man.
+--------------------------------------------------End--
+Datto
+Is it true that {Yuna}
+is gettin' married?
+--------------------------------------------------End--
+Datto
+Don't worry 'bout the {Aurochs}.
+We're all in high spirits.
+--------------------------------------------------End--
+Datto
+Yes! Thank you! We beat the Goers
+all because of you, man.
+--------------------------------------------------End--
+Datto
+We didn't win the cup, but we did win a game
+for the first time in twenty-three years.
+It's all good, ya?
+--------------------------------------------------End--
+Datto
+It may be last minute, but
+wanna go over the rules?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Sure.
+{CHOICE:31}No need.
+--------------------------------------------------End--
+Datto
+You come back soon.
+We are really countin' on you.
+--------------------------------------------------End--
+Datto
+I wish I had a big net for all the
+butterflies in {Wakka}'s stomach.
+I hope he's okay.
+--------------------------------------------------End--
+Letty
+We can play {blitzball} twenty-four seven
+once {Sin} is gone!
+--------------------------------------------------End--
+Letty
+The temple has pardoned the {Crusader}s.
+It's a little too late for that, ya?
+--------------------------------------------------End--
+Letty
+I wonder how {Luzzu} and {Gatta} are doin'?
+No one from {Besaid} has heard from
+them, either.
+--------------------------------------------------End--
+Letty
+So {Operation Mi'ihen} failed.
+Reminds me of when {Chappu} died.
+--------------------------------------------------End--
+Letty
+It's not the same without you, man.
+Come back anytime, ya?
+--------------------------------------------------End--
+Letty
+We didn't do half bad, ya?
+Next time, the Goers are goners!
+--------------------------------------------------End--
+Letty
+Let's get them Goers.
+Let's do it for {Chappu}!
+--------------------------------------------------End--
+Letty
+No lookin' back now, ya?
+We just wait for the game!
+--------------------------------------------------End--
+Letty
+W-We play to win, ya?
+--------------------------------------------------End--
+Jassu
+We even sang the Hymn arm in arm
+with the Goers!
+--------------------------------------------------End--
+Jassu
+I already knew about {Yuna}'s
+lineage. I just kept my mouth
+shut in front of {Wakka}.
+--------------------------------------------------End--
+Jassu
+I can't imagine {Yuna} and
+{Master Seymor} as a couple.
+--------------------------------------------------End--
+Jassu
+So you are {Yuna}'s guardian, too?
+{Lulu}'s pretty strict, ya?
+--------------------------------------------------End--
+Jassu
+Still can't believe we won, man...
+Have to keep pinching myself.
+--------------------------------------------------End--
+Jassu
+{Wakka} said he retired, but maybe
+he'll come back if we beg him?
+--------------------------------------------------End--
+Jassu
+I should've been the one injured,
+not {Wakka}...
+--------------------------------------------------End--
+Jassu
+I know we only need to win twice,
+but that's the problem.
+--------------------------------------------------End--
+Jassu
+We've never made it past the first round!
+I'm gettin' the jitters.
+--------------------------------------------------End--
+Botta
+No matter what, we'll always
+do our best!
+--------------------------------------------------End--
+Botta
+I-I'll always be on {Yuna}'s side.
+--------------------------------------------------End--
+Botta
+I-Is {Yuna} going to quit her pilgrimage?
+I hope she does.
+--------------------------------------------------End--
+Botta
+We're gonna keep at it, even
+if {Wakka} retires!
+--------------------------------------------------End--
+Botta
+I still have lots to learn from {Wakka}.
+I wish he'd come back.
+--------------------------------------------------End--
+Botta
+We did our best, so I have
+no regrets, man.
+--------------------------------------------------End--
+Botta
+So, who's warmin' the bench?
+Could it be me?
+--------------------------------------------------End--
+Botta
+Only five players in the sphere pool, ya?
+Which of us is warmin' the bench?
+--------------------------------------------------End--
+Botta
+People are here from Besaid, you know.
+We gotta win it for them!
+--------------------------------------------------End--
+Keepa
+Once {Yuna} defeats {Sin}, you will
+be the new legendary guardian.
+--------------------------------------------------End--
+Keepa
+Actually, I'm relieved to hear that
+{Yuna}'s wedding is called off.
+--------------------------------------------------End--
+Keepa
+You saw {Chappu} on the Farplane?
+Kinda looked like you, ya?
+--------------------------------------------------End--
+Keepa
+Lord {Braska} visited {Besaid} ten years ago.
+He had an amusing guardian with him.
+--------------------------------------------------End--
+Keepa
+We won! That means we are the team
+to watch out for. Unbelievable.
+--------------------------------------------------End--
+Keepa
+If only I had done better, we
+could have won. I'm sorry, man.
+--------------------------------------------------End--
+Keepa
+{Yuna} will be watchin', ya?
+Gotta play hard!
+--------------------------------------------------End--
+Keepa
+Play to win, play to win, play to win...
+Gotta keep reminding myself, ya?
+--------------------------------------------------End--
+Keepa
+I'll make all the saves,
+so you just go out and shoot!
+--------------------------------------------------End--
+Datto
+Hey, {Tidus}!
+You wanna go over the rules?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+Where's {Wakka}?
+--------------------------------------------------End--
+Datto
+At the match-up draws.
+--------------------------------------------------End--
+Letty
+We had to play the Goers
+in the first match last year.
+--------------------------------------------------End--
+Jassu
+The year before that,
+and the one before that, too!
+--------------------------------------------------End--
+Keepa
+Well, we would've lost
+to anyone anyway.
+--------------------------------------------------End--
+{WINDOW}
+Datto
+Cap'n {Wakka}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+We're playin' the {Al Bhed Psyches} first.
+If we win, we're in the finals!
+--------------------------------------------------End--
+{Wakka}
+That's right, we got seeded!
+Two wins and we're the champions!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+First things first.
+Let's go over the basics again, boys. 
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+There you are!
+--------------------------------------------------End--
+{Yuna}
+Someone said they saw
+Sir {Auron} in a cafe!
+--------------------------------------------------End--
+{Tidus}
+Au-{Auron}?
+--------------------------------------------------End--
+{Yuna}
+Yes, Sir {Auron}!
+Let's go find him!
+--------------------------------------------------End--
+{Wakka}
+Hey! Hey, hey, hey, hey, hey!
+The game starts like real soon! 
+--------------------------------------------------End--
+{Wakka}
+C-Come back quick, ya?
+--------------------------------------------------End--
+{Tidus}
+Hey, I'll be back.
+--------------------------------------------------End--
+{Wakka}
+Yeah, okay.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+Maybe now we
+can find Sir {Jecht}.
+--------------------------------------------------End--
+{Tidus}
+Huh? How?
+--------------------------------------------------End--
+{Yuna}
+Sir {Auron} was also
+my father's guardian.
+--------------------------------------------------End--
+{Yuna}
+So, he might know
+where Sir {Jecht} is.
+--------------------------------------------------End--
+{Yuna}
+Let's go now!
+--------------------------------------------------End--
+
+It didn't even occur to me to think that the
+{Auron} {Yuna} was talking about...
+--------------------------------------------------End--
+
+and the one that I knew from
+{Zanarkand} could be two different people.
+--------------------------------------------------End--
+
+I don't know why,
+but I knew it was the same guy.
+I knew it was the same {Auron}.
+--------------------------------------------------End--
+
+A lady {summoner}!
+--------------------------------------------------End--
+
+We must report.
+--------------------------------------------------End--
+{Tidus}
+Hey!
+--------------------------------------------------End--
+{Tidus}
+{Al Bhed Psyches}, right?
+--------------------------------------------------End--
+{Tidus}
+Some {Al Bhed} saved me
+the other day, and...
+--------------------------------------------------End--
+{Tidus}
+This girl {Rikku} gave me food and...
+--------------------------------------------------End--
+{Tidus}
+Uh...
+You don't understand me, do you?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Uh, anyway...
+--------------------------------------------------End--
+{Tidus}
+If you meet {Rikku},
+tell her thanks for me.
+--------------------------------------------------End--
+{Tidus}
+Oh, and as for the first game?
+May the best team win!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+Datto
+Sure you're all right, Cap'n?
+--------------------------------------------------End--
+Letty
+The game starts in a few minutes.
+You sure you okay?
+--------------------------------------------------End--
+Jassu
+We're playing the Goers, too.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Miss me?
+--------------------------------------------------End--
+Datto
+Lady {Yuna}!
+--------------------------------------------------End--
+Letty
+Are you okay?
+--------------------------------------------------End--
+{Yuna}
+All this because of me.
+--------------------------------------------------End--
+{Yuna}
+I'm sorry! I'm so sorry!
+--------------------------------------------------End--
+{Wakka}
+How can you let some
+{Al Bhed} kidnap you?
+--------------------------------------------------End--
+{Tidus}
+Hey, let it go, all right?
+--------------------------------------------------End--
+{Wakka}
+Don't go near {Al Bhed} any
+more, okay? They're trouble.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+The game starts soon.
+No time for warm-ups.
+--------------------------------------------------End--
+{Wakka}
+Ready?
+--------------------------------------------------End--
+{Tidus}
+Lemme at 'em.
+--------------------------------------------------End--
+{Wakka}
+All right!
+--------------------------------------------------End--
+{Wakka}
+I got something to tell you boys.
+--------------------------------------------------End--
+{Wakka}
+After this game...
+--------------------------------------------------End--
+{Wakka}
+I'm retiring.
+--------------------------------------------------End--
+{Wakka}
+I promised myself this
+would be my last tournament.
+--------------------------------------------------End--
+{Wakka}
+Win or lose,
+I'm quitting {blitzball}.
+--------------------------------------------------End--
+{Wakka}
+But you know...
+--------------------------------------------------End--
+{Wakka}
+Since we're here,
+we might as well win!
+--------------------------------------------------End--
+{Aurochs}
+Yeah!
+--------------------------------------------------End--
+Botta
+A-Am I on the bench?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+I'm warming the bench.
+He's taking my place.
+--------------------------------------------------End--
+{Wakka}
+All right, boys, let's win this one!
+Let's make the Goers goners!
+--------------------------------------------------End--
+{Tidus}
+Let's blitz!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+I saw you floating there,
+on the sphere.
+--------------------------------------------------End--
+{Wakka}
+Hey, you weren't
+supposed to see that.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Lulu}
+You really gave it
+your all, didn't you?
+--------------------------------------------------End--
+{Tidus}
+All right, boys,
+what're we gonna do?
+--------------------------------------------------End--
+{Aurochs}
+Win!
+--------------------------------------------------End--
+Botta
+For Cap'n {Wakka}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+This is it, folks!
+--------------------------------------------------End--
+
+In just a few minutes,
+the championship game!
+--------------------------------------------------End--
+{Wakka}
+Zone defense, boys!
+Stop those Goers!
+--------------------------------------------------End--
+{Aurochs}
+Cap'n!
+--------------------------------------------------End--
+{Tidus}
+What about me?
+--------------------------------------------------End--
+{Wakka}
+Get the ball and
+just shoot like crazy!
+--------------------------------------------------End--
+Datto
+Goers are goin' down!
+--------------------------------------------------End--
+{Aurochs}
+Yeah!
+--------------------------------------------------End--
+{Tidus}
+Shoot like crazy!
+--------------------------------------------------End--
+{Aurochs}
+Yeah!
+--------------------------------------------------End--
+{Wakka}
+All right! Hustle!
+--------------------------------------------------End--
+
+To be honest,
+I did kind of feel left out, but...
+--------------------------------------------------End--
+
+It really was the {Aurochs}'
+and {Wakka}'s show, after all.
+--------------------------------------------------End--
+
+"My best memories are here.
+ {Wakka}, Captain of the Aurochs."
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Wait Count
+    {CHOICE:33}Motion Frame
+    {CHOICE:34}Select Event
+    {CHOICE:35}Control Map ID
+    {CHOICE:36}Debug Door Open/Close
+    {CHOICE:37}Debug Locker Open/Close
+    {CHOICE:38}Debug Ball Replay
+    {CHOICE:39}Invisible
+    {CHOICE:3A}Invisible Play
+    {CHOICE:3B}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Open/Close Angle  :  {CHOICE:52}
+--------------------------------------------------End--
+{WINDOW}
+Control Reverse Input Value
+    {CHOICE:30}As is
+    {CHOICE:31}Reverse
+--------------------------------------------------End--
+{WINDOW}
+Open/Close Time  :  {CHOICE:52}
+--------------------------------------------------End--
+{WINDOW}
+
+{Button Circle}:Check
+--------------------------------------------------End--
+{WINDOW}
+Locker Room
+    {CHOICE:30}Quit
+    {CHOICE:31}Everybody with Long Faces
+    {CHOICE:32}Wakka Retires
+    {CHOICE:33}Wakka and Lulu (Capture)
+    {CHOICE:34}Aurochs Gather/Psych Up
+    {CHOICE:35}Childhood Memories
+    {CHOICE:36}Wakka's Strategy
+    {CHOICE:37}Sub Player/Captain Wakka
+    {CHOICE:38}To Yuna and Kimahri's Seat
+--------------------------------------------------End--
+{WINDOW}
+Select Map ID  :  {CHOICE:50}
+--------------------------------------------------End--
+{WINDOW}
+Map ID{VAR12:30}
+    {CHOICE:30}Quit
+    {CHOICE:31}Release
+    {CHOICE:32}Lock
+--------------------------------------------------End--
+{WINDOW}
+Frame  :  {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+    {CHOICE:30}End Settings
+    {CHOICE:31}01      {CHOICE:36}06
+    {CHOICE:32}02      {CHOICE:37}07
+    {CHOICE:33}03      {CHOICE:38}08
+    {CHOICE:34}04      {CHOICE:39}09
+    {CHOICE:35}05      {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30}  :  {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

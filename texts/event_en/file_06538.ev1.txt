@@ -1,0 +1,92 @@
+{Auron}
+Why am I doing this?
+--------------------------------------------------End--
+{Jecht}
+Hey! Hold it steady!
+--------------------------------------------------End--
+{Jecht}
+You're gonna spoil it!
+--------------------------------------------------End--
+{Auron}
+What do you see there, my lord?
+--------------------------------------------------End--
+{Braska}
+Oh, I was just...thinking.
+--------------------------------------------------End--
+{Jecht}
+This is important!
+No foolin' around!
+--------------------------------------------------End--
+{Jecht}
+Whoa!
+--------------------------------------------------End--
+{Braska}
+Are you all right?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Auron}
+Now there's a scene for posterity!
+--------------------------------------------------End--
+{Jecht}
+Yeah, yeah...
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Jyscal}
+What I am about to tell
+you is the unclouded truth.
+--------------------------------------------------End--
+{Jyscal}
+I swear it on my honor
+as a {Guado}.
+--------------------------------------------------End--
+{Jyscal}
+Listen to me very carefully,
+for I shall tell you the truth
+about my son, {Seymor}.
+--------------------------------------------------End--
+{Jyscal}
+His mind is closed even to
+me, a maester of {Yevon2}.
+--------------------------------------------------End--
+{Jyscal}
+But I can feel flames of
+darkness burning in his heart.
+--------------------------------------------------End--
+{Jyscal}
+He is using {Yevon2}, the {Guado},
+and even the summoners.
+--------------------------------------------------End--
+{Jyscal}
+If he is not stopped, he will surely bring
+destruction and chaos to {Spira}.
+--------------------------------------------------End--
+{Jyscal}
+I will leave this world soon,
+killed by my own son.
+--------------------------------------------------End--
+{Jyscal}
+But I do not fault him.
+--------------------------------------------------End--
+{Jyscal}
+Because I was not wise enough,
+he has suffered, and become twisted.
+--------------------------------------------------End--
+{Jyscal}
+I could not protect him and his mother
+from the world and its cruelty.
+--------------------------------------------------End--
+{Jyscal}
+I will accept death as
+punishment for my deeds.
+--------------------------------------------------End--
+{Jyscal}
+But whoever is watching this...
+--------------------------------------------------End--
+{Jyscal}
+I implore you to stop {Seymor}!
+Stop my son.
+--------------------------------------------------End--

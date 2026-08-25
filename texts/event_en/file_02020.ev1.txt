@@ -1,0 +1,261 @@
+
+I beg your pardon,
+but may I ask your name?
+--------------------------------------------------End--
+{Yuna}
+I am Summoner {Yuna},
+from the isle of {Besaid}.
+--------------------------------------------------End--
+
+As I thought!
+--------------------------------------------------End--
+
+The daughter of Lord {Braska}.
+You have the look of your father.
+--------------------------------------------------End--
+{Yuna}
+My father?
+You knew him?
+--------------------------------------------------End--
+
+No, I have never met the man.
+--------------------------------------------------End--
+
+Ah, my apologies.
+I am {Isaaru}.
+--------------------------------------------------End--
+{Isaaru}
+I am a summoner, like you.
+--------------------------------------------------End--
+
+I'm {Pacce}.
+Pleased to meet you.
+--------------------------------------------------End--
+
+And I'm {Maroda}.
+--------------------------------------------------End--
+{Maroda}
+I'm guarding my big brother here.
+--------------------------------------------------End--
+{Isaaru}
+Since I was a child, I've always
+looked up to Lord {Braska}.
+--------------------------------------------------End--
+{Isaaru}
+I wished I would someday become
+a high summoner like he was.
+--------------------------------------------------End--
+{Isaaru}
+You must have some of your
+father's talent in you!
+--------------------------------------------------End--
+{Isaaru}
+I believe you might
+someday defeat {Sin}.
+--------------------------------------------------End--
+{Yuna}
+I...I'm not really...
+I've only just become a summoner.
+--------------------------------------------------End--
+{Isaaru}
+Of course, I've no intention
+of losing, either.
+--------------------------------------------------End--
+{Isaaru}
+So perhaps we should race to see
+who can defeat {Sin} first, no?
+--------------------------------------------------End--
+{Yuna}
+Very well, then.
+I accept your challenge.
+--------------------------------------------------End--
+{Maroda}
+{Isaaru}!
+--------------------------------------------------End--
+{Isaaru}
+{Yuna}, I beg your leave.
+Good luck, to both of us!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Isaaru}
+Hey, you.
+--------------------------------------------------End--
+{Tidus}
+Me?
+--------------------------------------------------End--
+{Isaaru}
+You are {Yuna}'s guardian, no?
+--------------------------------------------------End--
+{Isaaru}
+{Maroda}'s heard a curious rumor.
+I thought you should know.
+--------------------------------------------------End--
+{Maroda}
+I heard it from those {Crusader}s.
+--------------------------------------------------End--
+{Maroda}
+Seems that summoners have been going
+out on pilgrimage and just...disappearing.
+--------------------------------------------------End--
+{Isaaru}
+It could just be the fiends got them...
+but not so many so quickly.
+--------------------------------------------------End--
+{Maroda}
+Sorry I don't know more,
+but...watch your back.
+--------------------------------------------------End--
+{Maroda}
+Ain't much future for a guardian
+without a summoner, eh?
+--------------------------------------------------End--
+{Pacce}
+What? What?
+Whatcha all talkin' 'bout?
+--------------------------------------------------End--
+{Maroda}
+We're talking about doing
+your job as a guardian!
+--------------------------------------------------End--
+{Pacce}
+Hey, I'm doing good!
+Right, big brother?
+--------------------------------------------------End--
+{Isaaru}
+Please, be careful.
+--------------------------------------------------End--
+{Tidus}
+Will do!
+--------------------------------------------------End--
+{Isaaru}
+{Pacce}!
+--------------------------------------------------End--
+{Pacce}
+Oh... What?
+--------------------------------------------------End--
+{Isaaru}
+We're leaving!
+--------------------------------------------------End--
+{Pacce}
+Be right there!
+--------------------------------------------------End--
+{Pacce}
+See ya!
+--------------------------------------------------End--
+{Auron}
+So you're a champion of
+{Yevon2} now, {Braska}?
+--------------------------------------------------End--
+{Isaaru}
+We summoners must do our part, before
+another fool plan wastes more lives.
+--------------------------------------------------End--
+{Isaaru}
+I hear {Operation Mi'ihen}
+did not go well...
+--------------------------------------------------End--
+{Isaaru}
+Now, we go to {Kilika}.
+--------------------------------------------------End--
+{Isaaru}
+From there we take the ferry,
+perhaps as far as {Besaid}.
+--------------------------------------------------End--
+{Maroda}
+I keep telling 'im, the more time
+we waste, the farther we'll fall behind
+the other summoners.
+--------------------------------------------------End--
+{Maroda}
+Our itinerary just keeps slipping.
+--------------------------------------------------End--
+{Maroda}
+We should be climbing the slopes
+of {Mt. Gagazet} by now.
+--------------------------------------------------End--
+{Pacce}
+It's so pretty...
+--------------------------------------------------End--
+
+The Cloister of Trials lies within.
+Are you prepared?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+The fayth has retired for the evening.
+The Cloister of Trials has been sealed.
+--------------------------------------------------End--
+
+The path to the Trials has been sealed.
+Please proceed to the next temple.
+--------------------------------------------------End--
+{Luzzu}
+You're leaving, I hear.
+Farewell, I hope we meet again.
+--------------------------------------------------End--
+{Luzzu}
+I suppose this is farewell, then.
+--------------------------------------------------End--
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Luzzu}
+I'm leaving...back to {Besaid}.
+--------------------------------------------------End--
+{Luzzu}
+I can't stay here eating
+the temple's bread forever.
+--------------------------------------------------End--
+{Luzzu}
+I'm one of the only {Crusader}s still here.
+--------------------------------------------------End--
+
+Once, travellers of the Highroad would
+customarily stop over at this temple
+and pray for a safe journey.
+{NEWPAGE}
+
+Nowadays, they just pass by
+without stopping.
+{NEWPAGE}
+
+How dare they neglect the precepts that have
+sustained {Spira} for a thousand years?
+--------------------------------------------------End--
+
+We must lead errant souls
+back to the way; otherwise,
+{Yevon2}'s teachings will perish.
+--------------------------------------------------End--
+
+Is Maester {Seymor} really getting married?
+{NEWPAGE}
+
+A {Guado} maester marrying a daughter
+of a high summoner. It's unprecedented.
+--------------------------------------------------End--
+{Gatta}
+I heard you're leaving, too.
+Good luck. I hope we meet again someday.
+--------------------------------------------------End--
+{Gatta}
+I'm going back to {Besaid}.
+With {Luzzu} gone...
+--------------------------------------------------End--
+{Tidus}
+Yeah. It'd be hard
+fighting alone, wouldn't it?
+--------------------------------------------------End--
+{Gatta}
+Most of the other {Crusader}s
+have already left.
+--------------------------------------------------End--
+{Gatta}
+I'll go soon.
+--------------------------------------------------End--

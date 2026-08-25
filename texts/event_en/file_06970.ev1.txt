@@ -1,0 +1,564 @@
+{WINDOW}
+Tutorial
+{CHOICE:30}Moving
+{CHOICE:31}Action Commands
+{CHOICE:32}Passing
+{CHOICE:33}Shooting
+{CHOICE:34}Using HP
+{CHOICE:35}Encounters
+--------------------------------------------------End--
+{WINDOW}
+Players can learn techniques
+from their opponents.
+This is called {Yellow}techcopy{White}.
+--------------------------------------------------End--
+{WINDOW}
+First, have one of your
+players {Yellow}mark{White} an opponent
+who knows a desirable technique.
+--------------------------------------------------End--
+{WINDOW}
+Now that player will keep an
+eye on that opponent in order
+to learn his techniques.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Break to Bickson{White} here.
+--------------------------------------------------End--
+{WINDOW}
+"{Yellow}Techcopy!{White}" appears at the top
+of the screen when a player
+uses a technique during a game.
+--------------------------------------------------End--
+{WINDOW}
+This indicates a window of opportunity
+to learn that technique. Press {Button Circle} at
+the right time in order to learn it.
+Let's try it now.
+--------------------------------------------------End--
+{WINDOW}
+Just remember that the player
+who learns the technique is not
+necessarily the one it is used against.
+--------------------------------------------------End--
+{WINDOW}
+Players who have marked that opponent
+are the ones who learn his techniques.
+If multiple players have marked him,
+only one will learn at any one time.
+--------------------------------------------------End--
+{WINDOW}
+Your players may have trouble learning
+techniques, though, if they are of lower
+levels than their respective targets.
+--------------------------------------------------End--
+{WINDOW}
+Once you've learned a new technique,
+you can equip it at halftime or
+at the start of the next match.
+--------------------------------------------------End--
+{WINDOW}
+Please select {Yellow}Break to Bickson{White}.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Dribble{White} for now.
+--------------------------------------------------End--
+{WINDOW}
+Techcopy successful!
+--------------------------------------------------End--
+{WINDOW}
+Techcopy failed!
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 8:{White}
+- Mark opponents to learn their techniques.
+- Press {Button Circle} when "{Yellow}Techcopy!{White}" appears.
+- Techcopy fails if opponent's level is too high.
+--------------------------------------------------End--
+{WINDOW}
+We'll look at {Yellow}breakthroughs{White}
+in this section.
+--------------------------------------------------End--
+{WINDOW}
+You've {Yellow}encountered{White} three opposing players.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}PA{White} represents passing accuracy.
+Here, the player's PA stat is {Yellow}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+The defenders' blocking stats appear beneath PA.
+The result of {VAR12:30} - ({VAR12:31} + {VAR12:32} + {VAR12:33}) is less than 0,
+so any attempt at passing will surely fail.
+--------------------------------------------------End--
+{WINDOW}
+Let's try a {Yellow}breakthrough{White} here.
+The ball carrier will try to
+shake off defenders by
+breaking through their tackles.
+--------------------------------------------------End--
+{WINDOW}
+If he withstands their tackles,
+the breakthrough succeeds and
+fewer defenders remain.
+--------------------------------------------------End--
+{WINDOW}
+Let's try breaking through Graav.
+Keep an eye on Graav's {Yellow}AT{White} during
+the breakthrough.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Break to Graav{White} in
+the Breakthrough menu.
+--------------------------------------------------End--
+{WINDOW}
+You've decided to break through Graav
+before making your next move.
+--------------------------------------------------End--
+{WINDOW}
+Now Graav will tackle {Tidus}.
+If {Tidus} can't withstand
+the tackle, he'll give up the ball.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Break to Graav{White}
+for now.
+--------------------------------------------------End--
+{WINDOW}
+It takes endurance ({Yellow}EN{White}) to withstand tackles.
+Right now {Tidus}'s EN is {Yellow}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}AT{White} tells us how hard a tackle will hit.
+This defender's AT is {Yellow}{VAR12:31}{White}.
+--------------------------------------------------End--
+{WINDOW}
+Subtract {Yellow}AT{White} from {Yellow}EN{White} to determine
+the outcome of a tackle.
+--------------------------------------------------End--
+{WINDOW}
+If EN is reduced to {Yellow}0{White}, then
+the tackler steals the ball.
+--------------------------------------------------End--
+{WINDOW}
+Watch EN closely.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} endured the tackle
+and broke through Graav.
+--------------------------------------------------End--
+{WINDOW}
+The breakthrough was a success!
+Only two defenders remain in the way.
+--------------------------------------------------End--
+{WINDOW}
+Look at the stats shown underneath PA.
+Since Graav is out of the picture,
+he {Yellow}can't block{White} passes anymore.
+--------------------------------------------------End--
+{WINDOW}
+The math is now {Yellow}{VAR12:30}{White} - ({Yellow}{VAR12:31}{White} + {Yellow}{VAR12:32}{White}).
+Completing a pass should
+be much easier now.
+--------------------------------------------------End--
+{WINDOW}
+Break through as many defenders
+as you can to complete more
+passes and score more goals.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 7:{White}
+- Expect tackles when breaking through.
+- AT represents each tackle's strength.
+- EN is the ball carrier's endurance.
+- EN - AT decides the outcome of each tackle.
+- Shots & passes are easier after breakthrough.
+--------------------------------------------------End--
+{WINDOW}
+
+--------------------------------------------------End--
+{WINDOW}
+
+--------------------------------------------------End--
+{WINDOW}
+An {Yellow}encounter{White} occurs when opposing
+players come in contact with the ball carrier.
+--------------------------------------------------End--
+{WINDOW}
+If you are the ball carrier, the
+{Yellow}action command{White} menu will open.
+--------------------------------------------------End--
+{WINDOW}
+You must then decide on a
+course of action in the
+face of opposing players.
+--------------------------------------------------End--
+{WINDOW}
+For now, select {Yellow}No Break{White}.
+We'll explain breakthroughs later.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}No Break{White} for now.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Pass{White} for now.
+--------------------------------------------------End--
+{WINDOW}
+Bickson stands in {Tidus}'s way.
+His stats are displayed at the top right.
+--------------------------------------------------End--
+{WINDOW}
+Next, the {Yellow}action command{White} window appears.
+Select {Yellow}Pass{White} for now.
+--------------------------------------------------End--
+{WINDOW}
+Normally the ball is thrown here.
+It would lose {Yellow}PA{White} as it travels
+through the water.
+--------------------------------------------------End--
+{WINDOW}
+But in an encounter, opposing
+players try to {Yellow}block{White} your
+passes and shots.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}BL{White} represents a player's skill at blocking.
+Here, Bickson's blocking stat is {Yellow}2{White}.
+--------------------------------------------------End--
+{WINDOW}
+The pass loses an amount of PA
+equal to Bickson's BL. The actual
+calculation is slightly randomized.
+--------------------------------------------------End--
+{WINDOW}
+If PA falls to {Yellow}0{White} or less,
+the ball is {Yellow}intercepted{White}
+by the opposing player.
+--------------------------------------------------End--
+{WINDOW}
+In this example, PA is {Yellow}{VAR12:30}{White}, and BL is {Yellow}{VAR12:31}{White}.
+The estimated result is {VAR12:30} - {VAR12:31} = {VAR12:32}.
+--------------------------------------------------End--
+{WINDOW}
+As long as PA is at least
+{Yellow}1{White}, the pass goes through.
+--------------------------------------------------End--
+{WINDOW}
+Once through, the pass continues
+to expend PA as it travels
+toward its intended receiver.
+--------------------------------------------------End--
+{WINDOW}
+Watch PA closely
+as we resume play.
+--------------------------------------------------End--
+{WINDOW}
+The defender reduced the PA of
+the pass when he got a hand on it.
+--------------------------------------------------End--
+{WINDOW}
+Now let's see what happens when the
+defender's BL stat is much higher.
+--------------------------------------------------End--
+{WINDOW}
+This time, his
+{Yellow}BL{White} is {Yellow}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+The defender's high BL reduced the PA of
+the pass to {Yellow}0{White}, resulting in a turnover.
+--------------------------------------------------End--
+{WINDOW}
+Some encounters include multiple
+defenders. Let's see how that works.
+--------------------------------------------------End--
+{WINDOW}
+Bickson and Abus block your way.
+Their stats are shown at the top right.
+--------------------------------------------------End--
+{WINDOW}
+Bickson's BL is {Yellow}{VAR12:30}{White}, 
+and Abus's BL is {Yellow}{VAR12:31}{White}.
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30} - ({VAR12:31} + {VAR12:32}) = {Yellow}{VAR12:33}{White}, but since the
+results are slightly randomized
+it won't necessarily equal {Yellow}{VAR12:33}{White}.
+--------------------------------------------------End--
+{WINDOW}
+PA fell to {Yellow}0{White}, so the
+pass was intercepted.
+--------------------------------------------------End--
+{WINDOW}
+The pass went through, but its PA
+fell to {Yellow}0{White} before reaching the
+receiver, resulting in a bad pass.
+--------------------------------------------------End--
+{WINDOW}
+The pass's PA stayed above {Yellow}0{White},
+so the pass was complete.
+--------------------------------------------------End--
+{WINDOW}
+Now let's try shooting a goal.
+--------------------------------------------------End--
+{WINDOW}
+Subtract the stats shown beneath
+SH from its current value of {Yellow}10{White} to
+determine whether the shot scores.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 6:{White}
+- Defenders try to force encounters
+  to block shots and passes.
+- BL reduces effective PA and SH.
+- Multiple defenders combine their BL.
+--------------------------------------------------End--
+{WINDOW}
+Please select {Yellow}Shoot{White} for now.
+--------------------------------------------------End--
+{WINDOW}
+When you attempt to shoot, the goalkeeper also
+comes in, so you're now facing three opponents.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+{CHOICE:35}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E} HP
+{CHOICE:36}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E} HP
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}{VAR12:31}
+{VAR12:32}{VAR12:33}
+{VAR12:34}{VAR12:35}
+{VAR12:36}{VAR12:37}
+{VAR12:38}{VAR12:39}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+{CHOICE:34}Break to {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+{CHOICE:34}Break to {VAR12:34}
+{CHOICE:35}Break to {VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}{White}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{Blue}{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}{White}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}{White}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}{White}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}{Blue}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30}-Man Breakthrough
+--------------------------------------------------End--
+{WINDOW}
+No Break
+--------------------------------------------------End--
+{WINDOW}
+Action: Pass
+--------------------------------------------------End--
+{WINDOW}
+Action: Shoot
+--------------------------------------------------End--
+{WINDOW}
+Action: Dribble
+--------------------------------------------------End--
+{WINDOW}
+Technique: {VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:40}{VAR12:30}
+--------------------------------------------------End--
+Aurochs Player 0
+--------------------------------------------------End--
+Aurochs Player 1
+--------------------------------------------------End--
+Aurochs Player 2
+--------------------------------------------------End--
+Aurochs Player 3
+--------------------------------------------------End--
+Aurochs Player 4
+--------------------------------------------------End--
+Aurochs Player 5
+--------------------------------------------------End--
+Goers Player 0
+--------------------------------------------------End--
+Goers Player 1
+--------------------------------------------------End--
+Goers Player 2
+--------------------------------------------------End--
+Goers Player 3
+--------------------------------------------------End--
+Goers Player 4
+--------------------------------------------------End--
+Goers Player 5
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Pass to:{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+
+What a great play!
+The Goers score first!
+--------------------------------------------------End--
+
+The Aurochs are no match
+for the Goers, folks!
+They're just floundering out there!
+--------------------------------------------------End--
+
+And it's halftime!
+{VAR12:30} - {VAR12:31}
+--------------------------------------------------End--
+
+The Goers are just playing great, Bobba.
+Really great.
+--------------------------------------------------End--
+
+The score's tied, but the Goers
+still have the momentum.
+--------------------------------------------------End--
+
+The crowd is cheering
+for the Aurochs!
+Isn't this exciting?
+--------------------------------------------------End--
+
+Goal! Goal! Goal!
+Unbelievable! What a 
+miraculous comeback!
+--------------------------------------------------End--
+
+The crowd is going wild!
+--------------------------------------------------End--

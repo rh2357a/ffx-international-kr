@@ -1,0 +1,232 @@
+{Cid}
+This bites!
+--------------------------------------------------End--
+{Cid}
+{Rikku}! You read me?
+--------------------------------------------------End--
+{Cid}
+You go under, too!
+I am leveling {Home}!
+--------------------------------------------------End--
+{Cid}
+And the {fiend} with it!
+--------------------------------------------------End--
+{Rikku}
+Oh, no!
+--------------------------------------------------End--
+{Wakka}
+What'd he say!?
+--------------------------------------------------End--
+{Rikku}
+We have to get underground!
+--------------------------------------------------End--
+{Auron}
+Where's {Yuna}?
+--------------------------------------------------End--
+{Rikku}
+The Summoners' Sanctum!
+This way!
+--------------------------------------------------End--
+{Rikku}
+Over here!
+--------------------------------------------------End--
+{Wakka}
+This place done for.
+--------------------------------------------------End--
+{Wakka}
+{Rikku}...
+--------------------------------------------------End--
+{Wakka}
+Damn those {Guado}!
+What are they thinking?
+--------------------------------------------------End--
+{Lulu}
+{Rikku}, what is the
+Summoners' Sanctum?
+--------------------------------------------------End--
+{Rikku}
+The Summoners' Sanctum is
+where we keep the summoners.
+We keep them safe there.
+--------------------------------------------------End--
+{Wakka}
+You kidnapped them.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+I know it's against the
+teachings and all that...
+--------------------------------------------------End--
+{Wakka}
+I get why you did it, but...
+--------------------------------------------------End--
+{Tidus}
+Right?
+--------------------------------------------------End--
+{Tidus}
+Right!?
+--------------------------------------------------End--
+{Kimahri}
+It's quiet. {Kimahri} goes now.
+--------------------------------------------------End--
+{Rikku}
+{Yuna}, please be here!
+--------------------------------------------------End--
+{Rikku}
+You're right.
+You're right, {Wakka}.
+--------------------------------------------------End--
+{Rikku}
+We {Al Bhed}, we...
+we weren't always like this.
+--------------------------------------------------End--
+{Rikku}
+{Sin} destroyed the island
+where we all used to live.
+--------------------------------------------------End--
+{Rikku}
+After that, we were scattered
+to every corner of Spira.
+--------------------------------------------------End--
+{Rikku}
+But then, my dad brought
+the {Al Bhed} together again.
+--------------------------------------------------End--
+{Rikku}
+If we put our minds to it and
+worked together, then we could
+make a new home.
+--------------------------------------------------End--
+{Rikku}
+Everyone worked hard, we
+had our {Home} back again...
+--------------------------------------------------End--
+{Rikku}
+But now... Why did things
+have to turn out this way?
+--------------------------------------------------End--
+{Tidus}
+Well, I sure don't
+get it, {Wakka}.
+--------------------------------------------------End--
+{Tidus}
+They might get hurt on their
+pilgrimage so you kidnap them?
+--------------------------------------------------End--
+{Tidus}
+I mean, if the summoners don't do
+their job, then who will beat {Sin}?
+--------------------------------------------------End--
+{Tidus}
+You want to protect them, I know.
+But guardians are there for that.
+--------------------------------------------------End--
+{Tidus}
+If guardians do their job
+well, summoners will be safe!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}I{White} {RIGHT} {Pink}U{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

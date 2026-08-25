@@ -1,0 +1,205 @@
+Datto
+Hey, I was hoping you'd
+join the team all along, ya?
+--------------------------------------------------End--
+Datto
+Now that you're with us,
+we got nothing to fear!
+--------------------------------------------------End--
+Letty
+There's going to be six teams
+from all over Spira at the tournament.
+--------------------------------------------------End--
+Letty
+It's a rough setup.
+One loss and you're through, ya?
+--------------------------------------------------End--
+Letty
+The toughest team out there is
+the Goers, and the stadium's on
+their home turf!
+--------------------------------------------------End--
+Jassu
+Everyone's acting like we already won!
+Not that I can blame them, ya?
+--------------------------------------------------End--
+Jassu
+You should get to sleep
+early, brudda. Get some rest.
+--------------------------------------------------End--
+Botta
+Victory, huh?
+--------------------------------------------------End--
+Botta
+Hey, I'll just try to
+stay out of your way.
+--------------------------------------------------End--
+Keepa
+Hit the other team hard and
+make it easy on the goalkeeper, ya?
+--------------------------------------------------End--
+Keepa
+We head out on the
+same boat tomorrow!
+--------------------------------------------------End--
+{Wakka}
+Let me introduce you to the team.
+--------------------------------------------------End--
+{Wakka}
+This guy here wants into the tournament
+so bad, I let him on the team.
+--------------------------------------------------End--
+{Wakka}
+His memory's a little fuzzy, so
+don't mind him if he says anything odd!
+--------------------------------------------------End--
+{Wakka}
+Come on, say hi.
+--------------------------------------------------End--
+{Tidus}
+Uh... Hi, guys.
+--------------------------------------------------End--
+{Tidus}
+So, what's our goal?
+--------------------------------------------------End--
+{Aurochs}
+To do our best!
+--------------------------------------------------End--
+{Wakka}
+Nope, we got a new goal now!
+--------------------------------------------------End--
+{Wakka}
+Our new goal...is victory!
+--------------------------------------------------End--
+{Wakka}
+To win every match,
+defeat every opposing team!
+--------------------------------------------------End--
+{Wakka}
+To bring the Crystal
+Cup back to our island!
+--------------------------------------------------End--
+{Wakka}
+That's all we need to do to win!
+Easy, ya?
+--------------------------------------------------End--
+
+Victory?
+--------------------------------------------------End--
+
+Victory...
+--------------------------------------------------End--
+{Aurochs}
+Victory! Victory! Victory!
+--------------------------------------------------End--
+
+You heathen!
+--------------------------------------------------End--
+
+Stay away from the summoner!
+--------------------------------------------------End--
+
+You're a bad man!
+--------------------------------------------------End--
+
+Lady {Yuna}!
+Be careful!
+--------------------------------------------------End--
+
+But it was really my fault to begin with.
+--------------------------------------------------End--
+
+I'm {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+Thank you so much for your help earlier.
+--------------------------------------------------End--
+{Tidus}
+I'm sorry about that.
+--------------------------------------------------End--
+{Tidus}
+Wasn't that...
+Wasn't I not supposed to...
+Guess I...kind of overreacted.
+--------------------------------------------------End--
+{Yuna}
+Oh, no. I was...overconfident.
+--------------------------------------------------End--
+{Tidus}
+Um, I saw that aeon thing.
+That's amazing!
+--------------------------------------------------End--
+{Yuna}
+Really?
+--------------------------------------------------End--
+{Yuna}
+Do you think I can
+become high summoner?
+--------------------------------------------------End--
+
+Lady {Yuna}, come play
+with me some more!
+--------------------------------------------------End--
+{Yuna}
+So, tomorrow, then.
+--------------------------------------------------End--
+{Tidus}
+Tomorrow?
+--------------------------------------------------End--
+{Yuna}
+We're going on the
+same boat, aren't we?
+--------------------------------------------------End--
+{Tidus}
+Oh, really?
+--------------------------------------------------End--
+{Yuna}
+We can talk more.
+--------------------------------------------------End--
+{Yuna}
+You can tell me all about {Zanarkand}!
+--------------------------------------------------End--
+{Wakka}
+She's cute, ya?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah!
+{CHOICE:31}She's not my type.
+--------------------------------------------------End--
+{Wakka}
+Don't get no ideas.
+--------------------------------------------------End--
+{Tidus}
+No promises there, big guy.
+--------------------------------------------------End--
+{Wakka}
+Then we're cool.
+--------------------------------------------------End--
+{Tidus}
+Hey, but what if she,
+like, comes on to me?
+--------------------------------------------------End--
+{Wakka}
+That's not going to happen.
+--------------------------------------------------End--
+{Wakka}
+If you get tired, let me know.
+I had a bed made for you.
+--------------------------------------------------End--
+{Wakka}
+We sure got the boys worked up, huh?
+--------------------------------------------------End--
+{Wakka}
+Hm? Ready for bed?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah.
+{CHOICE:31}Not quite yet.
+--------------------------------------------------End--
+{Wakka}
+Good. Sleep tight.
+--------------------------------------------------End--
+{Wakka}
+Don't overdo it.
+We leave early tomorrow.
+--------------------------------------------------End--

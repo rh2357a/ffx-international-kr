@@ -1,0 +1,262 @@
+{Tidus}
+Wh-What's that?
+--------------------------------------------------End--
+{Auron}
+A {fayth}.
+--------------------------------------------------End--
+{Auron}
+They join with the summoner,
+and together receive the aeon.
+--------------------------------------------------End--
+{Auron}
+They are human souls, imprisoned
+in stone by ancient {Yevon2} rites.
+--------------------------------------------------End--
+{Auron}
+The dead should be allowed to rest.
+--------------------------------------------------End--
+{Tidus}
+{Yuna}!
+--------------------------------------------------End--
+{Rikku}
+Wait, don't come out!
+--------------------------------------------------End--
+Fayth
+Hello.
+--------------------------------------------------End--
+{Yuna}
+I must thank you for the aeon.
+--------------------------------------------------End--
+{Tidus}
+So, what's up?
+--------------------------------------------------End--
+Fayth
+So, have you found a
+way to truly defeat {Sin}?
+--------------------------------------------------End--
+{Tidus}
+Well...
+--------------------------------------------------End--
+Fayth
+Well?
+--------------------------------------------------End--
+Fayth
+Well, come see me when you do.
+We'll talk then.
+--------------------------------------------------End--
+{Tidus}
+We think the Hymn of the Fayth
+might slow {Sin} down.
+--------------------------------------------------End--
+Fayth
+Hmm...
+Perhaps.
+--------------------------------------------------End--
+{Yuna}
+You mean, it won't work?
+--------------------------------------------------End--
+Fayth
+A very long time has passed
+since your father became {Sin}.
+--------------------------------------------------End--
+Fayth
+He may not be able to
+hear the hymn anymore.
+--------------------------------------------------End--
+{Tidus}
+I know it's a long shot...
+--------------------------------------------------End--
+{Tidus}
+But we gotta try
+it if there's a chance.
+--------------------------------------------------End--
+Fayth
+Yes, you must.
+--------------------------------------------------End--
+Fayth
+I'm glad you're doing this.
+--------------------------------------------------End--
+Fayth
+You have a good spirit, truly.
+--------------------------------------------------End--
+{Tidus}
+I'm not just a dream, right?
+--------------------------------------------------End--
+{Yuna}
+A dream?
+--------------------------------------------------End--
+{Tidus}
+Uh... It's a long story.
+--------------------------------------------------End--
+Fayth
+If it works, what'll you do then?
+You need more than the hymn.
+--------------------------------------------------End--
+Fayth
+Well?
+--------------------------------------------------End--
+Fayth
+You'll need more than that.
+--------------------------------------------------End--
+{Tidus}
+We fight Yu Yevon.
+--------------------------------------------------End--
+Fayth
+Yes...
+--------------------------------------------------End--
+Fayth
+If you defeat Yu Yevon, it will end.
+--------------------------------------------------End--
+Fayth
+Tell me, what do you
+know about Yu Yevon?
+--------------------------------------------------End--
+{Tidus}
+He's what makes {Sin} come back!
+--------------------------------------------------End--
+{Yuna}
+{Sin} is his armor.
+It protects him.
+--------------------------------------------------End--
+Fayth
+Yu Yevon was once
+a summoner, long ago.
+--------------------------------------------------End--
+Fayth
+He was peerless.
+--------------------------------------------------End--
+Fayth
+Yet now he lives for
+one purpose: only to summon.
+--------------------------------------------------End--
+Fayth
+He is neither good, nor evil.
+He is awake, yet he dreams.
+--------------------------------------------------End--
+Fayth
+But...maybe not forever.
+--------------------------------------------------End--
+{Tidus}
+Yeah, that's right.
+Because we're ending it.
+--------------------------------------------------End--
+Fayth
+Yes.
+--------------------------------------------------End--
+Fayth
+Even if you defeat {Sin} with the
+Final Summoning, Yu Yevon will live.
+--------------------------------------------------End--
+Fayth
+Yu Yevon will join
+with the Final Aeon.
+--------------------------------------------------End--
+Fayth
+He will transform it
+into a new {Sin}.
+--------------------------------------------------End--
+{Yuna}
+Yu Yevon merges with the aeon...
+--------------------------------------------------End--
+Fayth
+Then, protected by this new
+{Sin} he has created,
+Yu Yevon continues the summoning.
+--------------------------------------------------End--
+{Tidus}
+For eternity...huh?
+--------------------------------------------------End--
+Fayth
+But you know, there is
+no such thing as eternity
+if you end it, is there?
+--------------------------------------------------End--
+{Tidus}
+Uh-huh.
+--------------------------------------------------End--
+Fayth
+Yu Yevon lives inside {Sin}.
+--------------------------------------------------End--
+Fayth
+{Yuna}, listen.
+--------------------------------------------------End--
+Fayth
+When you fight Yu Yevon,
+we will help you.
+--------------------------------------------------End--
+Fayth
+Promise me you'll summon us.
+--------------------------------------------------End--
+Fayth
+I'm afraid your swords and
+magic won't be enough.
+--------------------------------------------------End--
+Fayth
+Please, call us.
+--------------------------------------------------End--
+Fayth
+Promise?
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+Fayth
+But, you know...
+--------------------------------------------------End--
+Fayth
+When it is all over...
+--------------------------------------------------End--
+Fayth
+we will wake,
+and our dream will end.
+--------------------------------------------------End--
+Fayth
+Our dream will vanish.
+--------------------------------------------------End--
+{Tidus}
+Yeah.
+--------------------------------------------------End--
+{Tidus}
+You've been dreaming
+a long time, haven't you?
+--------------------------------------------------End--
+Fayth
+I'm sorry.
+--------------------------------------------------End--
+{Tidus}
+I'm grateful.
+--------------------------------------------------End--
+{Yuna}
+About what?
+--------------------------------------------------End--
+{Tidus}
+Oh, nothing.
+--------------------------------------------------End--
+{Tidus}
+Hey, don't make that face!
+--------------------------------------------------End--
+{Tidus}
+Come on! We're going to beat {Sin}!
+Let's see some cheer, okay?
+--------------------------------------------------End--
+{Yuna}
+You're hiding something.
+--------------------------------------------------End--
+{Tidus}
+I'm not!
+--------------------------------------------------End--
+{Yuna}
+Really?
+--------------------------------------------------End--
+{Yuna}
+You're a bad liar, you know?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I think so.
+{CHOICE:31}Not yet.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}The Hymn of the Fayth!
+{CHOICE:31}Defeat Yu Yevon!
+{CHOICE:32}No idea...
+--------------------------------------------------End--

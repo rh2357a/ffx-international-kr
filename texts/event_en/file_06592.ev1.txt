@@ -1,0 +1,50 @@
+{Jecht}
+Hey, {Auron}!
+Did you get that last match?
+--------------------------------------------------End--
+{Auron}
+Yeah.
+--------------------------------------------------End--
+{Auron}
+But I don't understand
+why you wanted me to.
+--------------------------------------------------End--
+{Auron}
+Didn't you say you have
+{blitzball} in your {Zanarkand}?
+--------------------------------------------------End--
+{Jecht}
+Not a sportsman, are ya?
+--------------------------------------------------End--
+{Braska}
+Working on your form?
+--------------------------------------------------End--
+{Jecht}
+My form don't need no work.
+I'm the great {Jecht}. It's for my kid.
+--------------------------------------------------End--
+{Braska}
+Your son plays {blitzball}?
+--------------------------------------------------End--
+{Jecht}
+Yeah, and he wants
+to beat his old man bad.
+--------------------------------------------------End--
+{Jecht}
+Once, I told him to give it up.
+He didn't speak to me for a week.
+--------------------------------------------------End--
+{Jecht}
+Wonder what he's doing now.
+--------------------------------------------------End--
+{Jecht}
+I hope he got bigger
+and put on some muscle.
+--------------------------------------------------End--
+{Jecht}
+Hey, what's the big idea!
+Stop shooting!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--

@@ -1,0 +1,129 @@
+{Jecht}
+Are the Trials ahead?
+--------------------------------------------------End--
+{Braska}
+Probably.
+--------------------------------------------------End--
+{Jecht}
+Here too, huh?
+Gimme a break.
+--------------------------------------------------End--
+{Jecht}
+I was expecting, you know,
+parades and...fireworks!
+--------------------------------------------------End--
+{Braska}
+You can ask for them
+after I defeat {Sin}.
+--------------------------------------------------End--
+{Dona}
+What good is this place?
+--------------------------------------------------End--
+{Dona}
+All that trouble getting here,
+only to find ruins!
+--------------------------------------------------End--
+{Tidus}
+Well, a lot's happened.
+You should know...
+There's no more Final Summoning.
+--------------------------------------------------End--
+{Dona}
+Wh-What do you mean?
+--------------------------------------------------End--
+{Tidus}
+Hey, we've got a plan, okay?
+--------------------------------------------------End--
+{Dona}
+And this plan's going to work?
+--------------------------------------------------End--
+{Tidus}
+It has to!
+--------------------------------------------------End--
+{Dona}
+So, you're saying it's
+all in your hands now?
+--------------------------------------------------End--
+{Dona}
+Fine, you do what you like,
+however you like. I'll just wait my turn.
+--------------------------------------------------End--
+{Dona}
+Well, it doesn't matter who does the
+deed, but are you sure you're up to it?
+--------------------------------------------------End--
+{Tidus}
+You just watch.
+We'll get {Sin}!
+--------------------------------------------------End--
+{Dona}
+Oh, I'm sure you will.
+{Barthello}, shall we?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Left}: Dome Area
+{Button Circle}: Confirm
+--------------------------------------------------End--

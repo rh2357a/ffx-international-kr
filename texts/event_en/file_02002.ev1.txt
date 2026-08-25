@@ -1,0 +1,199 @@
+{Tidus}
+{Seymor}!
+--------------------------------------------------End--
+{Seymor}
+Please be silent.
+Lady {Yuna} prays to the {fayth}.
+--------------------------------------------------End--
+{Tidus}
+Make me.
+--------------------------------------------------End--
+{Tidus}
+{Yuna}!
+--------------------------------------------------End--
+{Yuna}
+But why...?
+--------------------------------------------------End--
+{Tidus}
+We saw {Jyscal}'s sphere.
+--------------------------------------------------End--
+{Auron}
+You killed him.
+--------------------------------------------------End--
+{Seymor}
+What of it?
+--------------------------------------------------End--
+{Seymor}
+Lady {Yuna}, certainly you knew
+of these things, did you not?
+--------------------------------------------------End--
+{Seymor}
+Well then, why
+have you come here?
+--------------------------------------------------End--
+{Yuna}
+I came...
+--------------------------------------------------End--
+{Yuna}
+I came to stop you!
+--------------------------------------------------End--
+{Seymor}
+I see.
+--------------------------------------------------End--
+{Seymor}
+You came to punish me, then.
+--------------------------------------------------End--
+{Seymor}
+What a pity.
+--------------------------------------------------End--
+{Seymor}
+Ah, of course.
+--------------------------------------------------End--
+{Tidus}
+All right!
+--------------------------------------------------End--
+{Wakka}
+Maester {Seymor}!
+--------------------------------------------------End--
+{Seymor}
+So be it.
+--------------------------------------------------End--
+{Seymor}
+{Yuna}...you would pity me now?
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor}!
+--------------------------------------------------End--
+{Tromell}
+What happened here?
+--------------------------------------------------End--
+{Wakka}
+What...what have I done?
+--------------------------------------------------End--
+{Tidus}
+Wait a minute!
+It's not our fault at all!
+--------------------------------------------------End--
+{Tidus}
+{Seymor} struck first!
+He's the bad guy!
+--------------------------------------------------End--
+{Tromell}
+You did this?
+--------------------------------------------------End--
+{Auron}
+{Yuna}. Send him.
+--------------------------------------------------End--
+{Tromell}
+No, stop!
+--------------------------------------------------End--
+{Tromell}
+Stay away from him, traitors!
+--------------------------------------------------End--
+{Yuna}
+Traitors?
+--------------------------------------------------End--
+{Wakka}
+We're finished.
+--------------------------------------------------End--
+{Auron}
+It won't be that easy...
+--------------------------------------------------End--
+{Auron}
+Let's get out of here.
+--------------------------------------------------End--
+{Seymor}
+"Protect the summoner even at
+the cost of one's life."
+The Code of the Guardian.
+--------------------------------------------------End--
+{Seymor}
+How admirable.
+--------------------------------------------------End--
+{Seymor}
+Well, if you're offering your lives,
+I will have to take them.
+--------------------------------------------------End--
+{Yuna}
+Maester {Seymor}.
+--------------------------------------------------End--
+{Yuna}
+I trust my guardians with my life.
+But they are also my friends.
+--------------------------------------------------End--
+{Yuna}
+I will not stand by and watch them
+be hurt. I will fight you, too!
+--------------------------------------------------End--
+{Tidus}
+Now hold on just a minute!
+--------------------------------------------------End--
+{Tidus}
+{Seymor}'s the bad guy, right?
+--------------------------------------------------End--
+{Tidus}
+We'll just explain
+to everyone what happened!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

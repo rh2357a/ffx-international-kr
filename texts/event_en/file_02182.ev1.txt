@@ -1,0 +1,100 @@
+{Dona}
+Well, well.
+You again.
+--------------------------------------------------End--
+{Dona}
+Still travelling with
+quite the crowd, I see.
+--------------------------------------------------End--
+{Dona}
+What is it, {Barthello}?
+You know this riffraff?
+--------------------------------------------------End--
+{Barthello}
+You are...{Auron}, no?
+--------------------------------------------------End--
+{Auron}
+What of it?
+--------------------------------------------------End--
+{Barthello}
+Can...I shake your hand?
+--------------------------------------------------End--
+{Barthello}
+{Auron}--no, Sir {Auron}.
+--------------------------------------------------End--
+{Barthello}
+You're the reason
+I became a guardian!
+--------------------------------------------------End--
+{Barthello}
+Thank you, sir!
+This means so much to me!
+--------------------------------------------------End--
+{Wakka}
+Calling the personal guardian
+to Lord {Braska} riffraff?
+--------------------------------------------------End--
+{Lulu}
+And you call yourself a summoner?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Dona}
+{Barthello}, enough!
+Get back here!
+--------------------------------------------------End--
+{Tidus}
+Hang in there, buddy, eh?
+--------------------------------------------------End--
+{Barthello}
+I swear, I'll never
+wash this hand again!
+--------------------------------------------------End--
+{Dona}
+Please! Touch me with that
+hand and I'll remove it!
+--------------------------------------------------End--
+{Wakka}
+We wait here.
+--------------------------------------------------End--
+{Wakka}
+Not all summoners are
+like {Yuna}, I guess.
+--------------------------------------------------End--
+{Wakka}
+Quite the show, ya?
+Not so good on the heart, though.
+--------------------------------------------------End--
+{Kimahri}
+You grow stronger,
+but are still a pup.
+--------------------------------------------------End--
+{Kimahri}
+Pick spot.
+Shut up. Wait.
+--------------------------------------------------End--
+{Auron}
+Stop pacing around.
+Be calm, and wait.
+--------------------------------------------------End--
+{Lulu}
+You should try to settle down.
+{Yuna} will be blamed if anything happens.
+--------------------------------------------------End--
+{Lulu}
+Now we wait.
+This is also a guardian's duty.
+--------------------------------------------------End--
+{Dona}
+We've got places to go.
+We can't be kept waiting like this.
+--------------------------------------------------End--
+{Dona}
+How much longer? She sure
+is taking her sweet time.
+--------------------------------------------------End--
+{Barthello}
+I met Sir {Auron}!
+THE Sir {Auron}!
+--------------------------------------------------End--

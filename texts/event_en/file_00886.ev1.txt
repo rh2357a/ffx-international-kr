@@ -1,0 +1,240 @@
+{WINDOW}
+{Wakka}
+What's up?
+--------------------------------------------------End--
+{Lulu}
+{Yuna}'s saying she
+wants you with us.
+--------------------------------------------------End--
+{Yuna}
+I want to ask you to be my guardian.
+--------------------------------------------------End--
+{Wakka}
+{Yuna}! What?
+This is no time for jokes, ya?
+--------------------------------------------------End--
+{Wakka}
+He may be a {blitzball} whiz kid,
+but up against fiends, he's a newbie.
+--------------------------------------------------End--
+{Yuna}
+Not a guardian, then...
+I just want him nearby.
+--------------------------------------------------End--
+{Tidus}
+What? What do you mean?
+--------------------------------------------------End--
+{Yuna}
+It's just that, well...
+--------------------------------------------------End--
+{Lulu}
+We're all going to the temple anyway.
+Can't this wait till later?
+--------------------------------------------------End--
+{Yuna}
+I'm sorry.
+I shouldn't have...
+--------------------------------------------------End--
+{Tidus}
+There's nothing to be sorry about.
+I'm just not really sure
+what's going on.
+--------------------------------------------------End--
+{Yuna}
+My apologies.
+--------------------------------------------------End--
+{Gatta}
+Told you it'd be rough going in there.
+--------------------------------------------------End--
+{Luzzu}
+Only the Lord of the Wood could
+fall asleep after a battle like that.
+--------------------------------------------------End--
+{Luzzu}
+Let it go.
+Save your strength for the next battle.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Luzzu}
+A summoner and her guardians.
+Very impressive!
+--------------------------------------------------End--
+{Gatta}
+Sir, we should fight, too!
+--------------------------------------------------End--
+{Luzzu}
+We'll get our chance soon enough.
+--------------------------------------------------End--
+{Gatta}
+Young {Crusader}s gather round!
+--------------------------------------------------End--
+{Gatta}
+We'll beat {Sin} into the ground!
+--------------------------------------------------End--
+
+On our way, sir!
+--------------------------------------------------End--
+
+Yes, sir! On our way, sir!
+--------------------------------------------------End--
+{Luzzu}
+The Ochu is no garden-variety fiend.
+--------------------------------------------------End--
+{Luzzu}
+We could throw a hundred {Crusader}s
+at it and still lose.
+--------------------------------------------------End--
+{Luzzu}
+Ochu poison is a surefire way
+to get to the {Farplane}, and fast.
+--------------------------------------------------End--
+{Luzzu}
+The fiend before us is
+Ochu, Lord of the Wood!
+--------------------------------------------------End--
+{Luzzu}
+We've had trouble with this one before.
+Remember, discretion is the better
+part of valor.
+--------------------------------------------------End--
+{Luzzu}
+Do your best, kid.
+{Wakka}'s counting on you.
+--------------------------------------------------End--
+{Gatta}
+Standing guard, sir!
+--------------------------------------------------End--
+{Gatta}
+Company, halt!
+--------------------------------------------------End--
+{Gatta}
+Don't even think
+about fighting it.
+--------------------------------------------------End--
+{Gatta}
+Hey, after the tournament,
+you should join the {Crusader}s!
+--------------------------------------------------End--
+
+I can't believe you defeated Ochu!
+Say, how would you like to join the {Crusader}s?
+--------------------------------------------------End--
+
+Here's a little something for your victory.
+--------------------------------------------------End--
+
+I'd steer clear of Ochu, Lord of the Wood.
+It's a powerful fiend even we {Crusader}s avoid.
+--------------------------------------------------End--
+
+Are you heading for {Blue}{Kilika Temple}{White}?
+Then just follow this trail.
+--------------------------------------------------End--
+
+There are poisonous fiends in the forest.
+Be on your guard!
+--------------------------------------------------End--
+
+We {Crusader}s are training for
+the upcoming operation.
+Call on us if you see any {sinspawn}.
+--------------------------------------------------End--
+
+Are you okay? Don't be so reckless!
+Sometimes it's best to just go around it.
+--------------------------------------------------End--
+
+Fiends are everywhere.
+Never let your guard down.
+--------------------------------------------------End--
+
+Every {Crusader} must pray for
+the fiends' souls.
+{NEWPAGE}
+
+We all want the dead to find peace
+on the {Farplane}, right?
+--------------------------------------------------End--
+
+Good day, guardians!
+{NEWPAGE}
+
+Many fiends have been sighted
+in areas attacked by {Sin}.
+{NEWPAGE}
+
+Please be careful on your journey.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+t e p s w r s
+V C O I U
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--

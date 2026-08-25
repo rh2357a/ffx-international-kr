@@ -1,0 +1,55 @@
+{Tidus}
+Got it!
+--------------------------------------------------End--
+{Cid}
+Couldn't have done it without you!
+--------------------------------------------------End--
+{Cid}
+All right!
+--------------------------------------------------End--
+{Cid}
+Everyone look sharp!
+Time to hit the other side!
+--------------------------------------------------End--
+{Rikku}
+Easy for you to say!
+--------------------------------------------------End--
+{Rikku}
+The main gun's busted!
+--------------------------------------------------End--
+{Cid}
+Dang it! All right, back inside!
+Time for another plan!
+--------------------------------------------------End--
+{Tidus}
+No! We're going in!
+--------------------------------------------------End--
+{Tidus}
+Every blitzer knows: when you got
+the ball, you gotta score!
+--------------------------------------------------End--
+{Yuna}
+Let's go!
+--------------------------------------------------End--
+{Rikku}
+See you there!
+--------------------------------------------------End--
+{Lulu}
+A day with you is never dull!
+--------------------------------------------------End--
+{Wakka}
+Go, go, go!
+--------------------------------------------------End--
+{Auron}
+Foolhardy...
+but fun plan.
+--------------------------------------------------End--
+{Kimahri}
+On my honor as {Ronso}!
+--------------------------------------------------End--
+{Tidus}
+Hey! Star players first!
+--------------------------------------------------End--
+{WINDOW}
+
+--------------------------------------------------End--

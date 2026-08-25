@@ -1,0 +1,432 @@
+{Tidus}
+What the...?
+--------------------------------------------------End--
+
+The {Farplane} was cool, but I
+couldn't stop thinking about {Yuna}.
+--------------------------------------------------End--
+
+Her parents--they looked so happy together.
+--------------------------------------------------End--
+
+But it got me worried that maybe
+seeing them would make Yuna really
+consider {Seymor}'s proposal.
+--------------------------------------------------End--
+{Wakka}
+Yo, {Chappu}!
+--------------------------------------------------End--
+{Wakka}
+Meant to come see you earlier, ya?
+--------------------------------------------------End--
+{Wakka}
+Sorry!
+--------------------------------------------------End--
+{Wakka}
+I know you won't hold it against me.
+--------------------------------------------------End--
+{Wakka}
+I gave up the game.
+I'm a guardian from
+here on, you know?
+--------------------------------------------------End--
+{Wakka}
+This guy--looks a lot
+like you--showed up.
+--------------------------------------------------End--
+{Wakka}
+Travelling with him,
+I thought, maybe...
+--------------------------------------------------End--
+{Wakka}
+you were still alive somewhere, ya?
+--------------------------------------------------End--
+{Wakka}
+But, then again, here
+you are on the {Farplane}.
+--------------------------------------------------End--
+{Wakka}
+Guess your place is here.
+--------------------------------------------------End--
+{Wakka}
+So, how you been?
+--------------------------------------------------End--
+{Wakka}
+Oh, that guy I just told you 'bout.
+I gave him your sword.
+--------------------------------------------------End--
+{Wakka}
+He likes it.
+--------------------------------------------------End--
+{Wakka}
+Just a sec more.
+--------------------------------------------------End--
+{Lulu}
+Why don't you try calling someone?
+All you have to do is think about them.
+--------------------------------------------------End--
+{Lulu}
+He is dead, and I am still alive.
+--------------------------------------------------End--
+{Lulu}
+Coming here really makes that clear.
+--------------------------------------------------End--
+{Lulu}
+I should focus more on
+what I have to do now.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+{Lulu}
+I'm not even sure what I'm saying.
+--------------------------------------------------End--
+{Tidus}
+Don't you mean that you
+should leave {Chappu} behind?
+--------------------------------------------------End--
+{Tidus}
+I'm sure he was a great guy,
+but there'll be others.
+--------------------------------------------------End--
+{Lulu}
+Hmm...
+That's a possibility.
+--------------------------------------------------End--
+{Tidus}
+How about...
+{Wakka}?
+--------------------------------------------------End--
+{Lulu}
+What, me? With {Wakka}?
+--------------------------------------------------End--
+{Tidus}
+Yeah, you two get along great!
+--------------------------------------------------End--
+{Lulu}
+Getting along isn't enough.
+Not even close.
+--------------------------------------------------End--
+{Tidus}
+Oh, sorry. My mistake.
+--------------------------------------------------End--
+{Lulu}
+You'd do well to remember that.
+--------------------------------------------------End--
+{Lulu}
+Knowing a bit about women
+might come in handy some day.
+--------------------------------------------------End--
+{Tidus}
+Yeah, I'll remember.
+--------------------------------------------------End--
+{Lulu}
+I won't be forgetting either.
+--------------------------------------------------End--
+{Lulu}
+Goodbye, {Chappu}.
+--------------------------------------------------End--
+{Lulu}
+You always said I looked grumpy.
+--------------------------------------------------End--
+{Lulu}
+But those were the
+happiest days of my life.
+--------------------------------------------------End--
+{Tidus}
+So...{Yuna}?
+--------------------------------------------------End--
+{Yuna}
+I've decided.
+--------------------------------------------------End--
+{Tidus}
+Oh? Really?
+That's good.
+--------------------------------------------------End--
+{Yuna}
+I remember, when I was only
+seven years old, in {Bevelle} that day.
+--------------------------------------------------End--
+{Yuna}
+My father had defeated {Sin}, and
+the whole town was out in the streets.
+--------------------------------------------------End--
+{Yuna}
+Everyone was laughing.
+They all seemed so happy.
+--------------------------------------------------End--
+{Yuna}
+If I defeated {Sin}, that would
+make everyone happy...wouldn't it?
+--------------------------------------------------End--
+{Yuna}
+I must do what everyone
+wants, not just what I want.
+--------------------------------------------------End--
+{Tidus}
+Let's go back!
+You gotta tell {Seymor}.
+--------------------------------------------------End--
+{Yuna}
+Before that...
+--------------------------------------------------End--
+{Yuna}
+Call Sir {Jecht}.
+Give it a try.
+--------------------------------------------------End--
+{Yuna}
+Don't worry. He won't come.
+--------------------------------------------------End--
+
+Trying not to think about my old man
+made me think about him, of course.
+--------------------------------------------------End--
+{Yuna}
+See, told you!
+--------------------------------------------------End--
+
+He isn't here because
+he's not dead. He's {Sin}.
+--------------------------------------------------End--
+{Yuna}
+That means he's alive, you know?
+--------------------------------------------------End--
+
+What if my old man really is {Sin}?
+--------------------------------------------------End--
+
+What would I say to {Yuna}...
+heck, to everybody in {Spira}?
+--------------------------------------------------End--
+
+Wait, why should I have
+to apologize for him, anyway?
+--------------------------------------------------End--
+{Tidus}
+I'd rather never see him again.
+--------------------------------------------------End--
+{Yuna}
+What makes you hate him so?
+--------------------------------------------------End--
+{Tidus}
+Everything he does
+just makes me mad.
+--------------------------------------------------End--
+{Tidus}
+It was his fault that
+me and my mother...
+--------------------------------------------------End--
+{Tidus}
+Mom?
+--------------------------------------------------End--
+{Tidus}
+It's her!
+--------------------------------------------------End--
+{Yuna}
+She's very pretty.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{WINDOW}
+But...
+--------------------------------------------------End--
+{Tidus}
+Wait. No one ever performed
+the sending for her.
+--------------------------------------------------End--
+{Yuna}
+She must've accepted death
+while she was still alive.
+--------------------------------------------------End--
+{Tidus}
+Whoa there, that's my
+mother you're talking about.
+--------------------------------------------------End--
+{Yuna}
+Oh, I'm sorry!
+--------------------------------------------------End--
+{Tidus}
+It's okay.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+I think I just figured something out.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+What?
+--------------------------------------------------End--
+{Tidus}
+Why I hate my old man.
+--------------------------------------------------End--
+{Tidus}
+Oh, man...
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+I must sound so stupid.
+--------------------------------------------------End--
+{Yuna}
+I don't think so.
+--------------------------------------------------End--
+{Tidus}
+How embarrassing!
+--------------------------------------------------End--
+{Wakka}
+Well? Need some more time?
+--------------------------------------------------End--
+{Yuna}
+No, I'm ready.
+--------------------------------------------------End--
+{Lulu}
+Did I miss something?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+No one there?
+--------------------------------------------------End--
+{Lulu}
+She's not appearing.
+--------------------------------------------------End--
+{Tidus}
+Who is it?
+--------------------------------------------------End--
+{Lulu}
+None of your business.
+--------------------------------------------------End--
+{Tidus}
+Sorry.
+--------------------------------------------------End--
+{Lulu}
+No...it's not your fault.
+--------------------------------------------------End--
+{Lulu}
+Why aren't you here?
+--------------------------------------------------End--
+{Lulu}
+I need to be alone right now.
+--------------------------------------------------End--
+{Lulu}
+I'm still not the person
+I wanted to become, not yet.
+--------------------------------------------------End--
+{Lulu}
+I'll come back to let
+you know how things went.
+--------------------------------------------------End--
+{Lulu}
+I hope I'll bring
+back...good news.
+--------------------------------------------------End--
+
+Been a while, sis.
+--------------------------------------------------End--
+
+It's been seven years, but
+you still look the same.
+Geez, I'm older than you, now!
+--------------------------------------------------End--
+
+I guess it makes sense.
+--------------------------------------------------End--
+
+Hey, I...I brought you something!
+Check this out!
+--------------------------------------------------End--
+
+See? She looks just like you!
+Her name's "{Yuna}."
+--------------------------------------------------End--
+
+Boy was I surprised
+first time I saw her!
+--------------------------------------------------End--
+
+I almost thought you had come back!
+--------------------------------------------------End--
+
+{Yuna}'s a summoner, too--
+a pretty good one.
+--------------------------------------------------End--
+
+Ah, 'course she's not as good as you.
+--------------------------------------------------End--
+
+If you were still alive,
+I bet you'd fight just like her.
+--------------------------------------------------End--
+
+It's okay. {Yuna} will beat
+{Sin} for you, I know it.
+--------------------------------------------------End--
+
+So, don't you worry.
+Okay, sis?
+--------------------------------------------------End--
+
+See you.
+--------------------------------------------------End--
+{Tromell}
+I have prayed and prayed, yet
+Lord {Seymor} does not appear.
+--------------------------------------------------End--
+{Tromell}
+Has he not reached the {Farplane}?
+Has he become a fiend?
+--------------------------------------------------End--
+{Tromell}
+Oh, my poor Lord {Seymor}...
+Tell me, where do you wander?
+--------------------------------------------------End--
+{Tromell}
+When Lord {Jyscal} was alive, the
+{Guado} knew prosperity and honor.
+--------------------------------------------------End--
+{Tromell}
+But now, we {Guado}
+wither and crumble.
+--------------------------------------------------End--
+{Tromell}
+I, myself, could have
+done more to stop this.
+--------------------------------------------------End--
+{Tromell}
+Forgive me, Lord {Jyscal}!
+--------------------------------------------------End--
+{Tromell}
+Lord {Jyscal}!
+I beg your forgiveness!
+--------------------------------------------------End--
+{Tromell}
+Benevolent Lord {Jyscal},
+and most wise Lord {Seymor}.
+--------------------------------------------------End--
+{Tromell}
+The days spent in your
+service were the best
+in this old man's life.
+--------------------------------------------------End--
+{Tromell}
+Those of us left behind will
+soon be destroyed by {Sin}
+and join you in the {Farplane}.
+--------------------------------------------------End--
+{Tromell}
+I will serve you there
+as I have served you
+in this world, always.
+--------------------------------------------------End--
+{Tromell}
+Even should {Sin} disappear,
+the {Guado} are doomed
+without a leader.
+--------------------------------------------------End--

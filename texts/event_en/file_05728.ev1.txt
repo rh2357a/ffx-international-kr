@@ -1,0 +1,77 @@
+{Tidus}
+Get me outta here!
+I want out now!
+--------------------------------------------------End--
+{Tidus}
+You hear me?
+--------------------------------------------------End--
+{Auron}
+You waste your breath.
+--------------------------------------------------End--
+{Tidus}
+Man, I hope {Yuna}'s okay.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Auron}
+She's strong.
+She'll make it.
+--------------------------------------------------End--
+{Tidus}
+She'll make it?
+--------------------------------------------------End--
+{Tidus}
+What, so she can die?
+--------------------------------------------------End--
+{Tidus}
+Why is it...
+--------------------------------------------------End--
+{Tidus}
+everything in Spira seems to
+revolve around people dying?
+--------------------------------------------------End--
+{Auron}
+Ahh, the spiral of death.
+--------------------------------------------------End--
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Auron}
+Summoners challenge the bringer
+of death, {Sin}, and die doing so.
+--------------------------------------------------End--
+{Auron}
+Guardians give their lives
+to protect their summoner.
+--------------------------------------------------End--
+{Auron}
+The {fayth} are the souls of the dead.
+Even the maesters of {Yevon2} are unsent.
+--------------------------------------------------End--
+{Auron}
+{Spira} is full of death.
+--------------------------------------------------End--
+{Auron}
+Only {Sin} is reborn,
+and then only to bring more death.
+--------------------------------------------------End--
+{Auron}
+It is a cycle of death,
+spiraling endlessly.
+--------------------------------------------------End--
+{Kinoc}
+Come out.
+Your sentence has been decided.
+--------------------------------------------------End--
+{Auron}
+Sentence?
+Don't you mean execution?
+--------------------------------------------------End--
+{Kinoc}
+Really, now, what person
+would execute a dear friend?
+--------------------------------------------------End--
+{Auron}
+You would.
+--------------------------------------------------End--

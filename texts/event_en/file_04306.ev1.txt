@@ -1,0 +1,482 @@
+{Rikku}
+{Yunie}!
+--------------------------------------------------End--
+{Rikku}
+You're all right?
+--------------------------------------------------End--
+{Rikku}
+We were so worried!
+It's good to have you back!
+--------------------------------------------------End--
+{Yuna}
+Thank you.
+--------------------------------------------------End--
+{Tidus}
+Um...
+I...uh...
+--------------------------------------------------End--
+{Auron}
+{Kinoc}!
+--------------------------------------------------End--
+{Tidus}
+Why, you!
+--------------------------------------------------End--
+{Seymor}
+I have saved him.
+--------------------------------------------------End--
+{Seymor}
+He was a man who craved power.
+--------------------------------------------------End--
+{Seymor}
+And great power he had,
+but he feared losing it.
+--------------------------------------------------End--
+{Seymor}
+Trembling at unseen enemies,
+he spent his days scheming
+petty schemes.
+--------------------------------------------------End--
+{Seymor}
+Chased by his fears,
+never knowing rest.
+--------------------------------------------------End--
+{Seymor}
+You see...
+--------------------------------------------------End--
+{Seymor}
+Now, he has no worries.
+He has been granted sleep eternal.
+--------------------------------------------------End--
+{Seymor}
+Death is a sweet slumber.
+--------------------------------------------------End--
+{Seymor}
+All the pain of life is gently
+swept away... Ah, yes.
+--------------------------------------------------End--
+{Seymor}
+So you see...
+--------------------------------------------------End--
+{Seymor}
+if all life were to end
+in {Spira}, all suffering
+would end. Don't you see?
+--------------------------------------------------End--
+{Seymor}
+Do you not agree?
+--------------------------------------------------End--
+{Seymor}
+That, {Yuna}, is why I need you.
+--------------------------------------------------End--
+{Seymor}
+Come, Lady {Yuna}.
+--------------------------------------------------End--
+{Seymor}
+Come with me to {Zanarkand},
+the lost city of the dead.
+--------------------------------------------------End--
+{Seymor}
+With death on our side,
+we will save {Spira},
+and for this...
+--------------------------------------------------End--
+{Seymor}
+I will take from you your
+strength, {Yuna}, your life,
+and become the next {Sin}.
+--------------------------------------------------End--
+{Seymor}
+I will destroy {Spira}!
+I will save it!
+--------------------------------------------------End--
+{Tidus}
+You're totally nuts!
+--------------------------------------------------End--
+{Seymor}
+Unpleasant...
+--------------------------------------------------End--
+{Seymor}
+Very well.
+--------------------------------------------------End--
+{Seymor}
+I will give you your death.
+You seem to want it so.
+--------------------------------------------------End--
+{Kimahri}
+Run! Protect {Yuna}!
+--------------------------------------------------End--
+{Auron}
+Go!
+--------------------------------------------------End--
+{Tidus}
+No way!
+I'm fighting!
+--------------------------------------------------End--
+{Auron}
+I said go!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Yuna}
+I won't leave {Kimahri} behind!
+--------------------------------------------------End--
+{Auron}
+He is a guardian.
+Protecting you is everything.
+--------------------------------------------------End--
+{Yuna}
+{Auron}!
+--------------------------------------------------End--
+{Tidus}
+That's right!
+We're all guardians!
+--------------------------------------------------End--
+{Tidus}
+Yeah, and you know what that means?
+--------------------------------------------------End--
+{Tidus}
+{Yuna}...
+Anywhere you go, I'll follow!
+--------------------------------------------------End--
+{Yuna}
+Anywhere I go?
+--------------------------------------------------End--
+{Tidus}
+Yeah, anywhere!
+--------------------------------------------------End--
+{Yuna}
+Well, then!
+--------------------------------------------------End--
+{Tidus} & {Yuna}
+Let's go!
+--------------------------------------------------End--
+{Tidus}
+Hey, {Kimahri}!
+Leave some for us!
+--------------------------------------------------End--
+{Wakka}
+Hey! Wait for me!
+--------------------------------------------------End--
+{Rikku}
+Me, too!
+--------------------------------------------------End--
+{Lulu}
+I'll go, too!
+--------------------------------------------------End--
+{Tidus}
+Run!
+--------------------------------------------------End--
+{Wakka}
+Man, don't these guys ever give up?
+--------------------------------------------------End--
+
+Infidel!
+--------------------------------------------------End--
+
+You'll regret showing your
+face here! We'll strike you
+down in the name of {Yevon2}!
+--------------------------------------------------End--
+{Tidus}
+Blah, blah, blah.
+Yeah, so? Guys?
+--------------------------------------------------End--
+{Rikku}
+If they want a fight,
+let's give 'em one!
+--------------------------------------------------End--
+
+Prepare to charge!
+--------------------------------------------------End--
+{Shelinda}
+Stop!
+--------------------------------------------------End--
+
+Captain?
+--------------------------------------------------End--
+{Shelinda}
+Lady {Yuna} is not to be harmed!
+--------------------------------------------------End--
+{Shelinda}
+She's no traitor!
+That is an evil rumor
+spread by the {Al Bhed}!
+--------------------------------------------------End--
+{Rikku}
+What?
+--------------------------------------------------End--
+{Shelinda}
+Maester {Mika} himself told me.
+--------------------------------------------------End--
+
+Then...what are we to do?
+--------------------------------------------------End--
+{Rikku}
+Stand down!
+--------------------------------------------------End--
+{Shelinda}
+As she says!
+--------------------------------------------------End--
+{Rikku}
+What was that
+about evil {Al Bhed}?
+--------------------------------------------------End--
+{Shelinda}
+I... Truly, I do not
+understand it myself.
+--------------------------------------------------End--
+{Shelinda}
+All {Yevon2} seems to be
+in a state of confusion.
+--------------------------------------------------End--
+{Shelinda}
+Why, yesterday they called me
+out of the blue and made me
+captain of the guard!
+--------------------------------------------------End--
+{Auron}
+Short on believers?
+--------------------------------------------------End--
+{Shelinda}
+Yes, the chaos in the temples
+is worse than I'd imagined.
+--------------------------------------------------End--
+{Shelinda}
+It's horrible!
+--------------------------------------------------End--
+{Shelinda}
+And all the priests do
+is blame each other.
+--------------------------------------------------End--
+{Shelinda}
+I worry what will become of {Yevon2}.
+--------------------------------------------------End--
+{Shelinda}
+But no!
+--------------------------------------------------End--
+{Shelinda}
+I must be the rock that stands
+against the swirling tides, right?
+--------------------------------------------------End--
+{Shelinda}
+Lady {Yuna}, I must tell you,
+your courage has been a great
+inspiration to me.
+--------------------------------------------------End--
+{Tidus}
+Yeah, that's great, but we
+came here to see {Maester Mika}.
+Is he here?
+--------------------------------------------------End--
+{Shelinda}
+Yes, I shall
+arrange an audience.
+--------------------------------------------------End--
+{Shelinda}
+Please wait in the courtroom.
+--------------------------------------------------End--
+{Rikku}
+Hey, hey, wait!
+What was all that about
+the {Al Bhed} lying and stuff?
+--------------------------------------------------End--
+{Auron}
+Simple.
+--------------------------------------------------End--
+{Auron}
+{Yuna} has become
+{Mika}'s only hope.
+--------------------------------------------------End--
+{Rikku}
+Oh... Okay.
+--------------------------------------------------End--
+{Lulu}
+Just what does he think
+he can get away with?
+--------------------------------------------------End--
+{Tidus}
+Time to teach him some manners!
+--------------------------------------------------End--
+{Yuna}
+Yes, let's.
+--------------------------------------------------End--
+{Maroda}
+Hold there!
+This bridge is closed.
+--------------------------------------------------End--
+{Maroda}
+{Bevelle} is off limits by the
+temple's decree. No one may enter.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Pacce}
+Everyone's in mourning
+since {Maester Mika} died...
+--------------------------------------------------End--
+{Pacce}
+And it's been morning for days now!
+--------------------------------------------------End--
+{Maroda}
+{Pacce}...
+--------------------------------------------------End--
+{Maroda}
+At least, that's what they say.
+--------------------------------------------------End--
+{Maroda}
+The temple's falling apart
+with all four maesters gone.
+--------------------------------------------------End--
+{Maroda}
+They're afraid of riots,
+so they're turning everyone away.
+With our brother in the middle...
+--------------------------------------------------End--
+{Tidus}
+What's up with {Isaaru}?
+--------------------------------------------------End--
+{Maroda}
+They came crying to him to
+stay in {Bevelle}, to protect
+the temple and all that.
+--------------------------------------------------End--
+{Maroda}
+And you know our brother.
+It's not in him to refuse.
+--------------------------------------------------End--
+{Pacce}
+Oh, I guess our pilgrimage
+is done, then, huh?
+--------------------------------------------------End--
+{Maroda}
+Of course not! Geez...
+--------------------------------------------------End--
+{Maroda}
+Long story short...
+--------------------------------------------------End--
+{Maroda}
+You'll only find trouble in {Bevelle}.
+I'd stay out for your own safety.
+--------------------------------------------------End--
+{Maroda}
+That whole bit about {Yuna} being
+a traitor's just some {Al Bhed}
+rumor, I hear.
+--------------------------------------------------End--
+{Maroda}
+I just can't believe it.
+I mean, the {Al Bhed} helped us out!
+--------------------------------------------------End--
+{Maroda}
+Wait all you want.
+{Bevelle}'s gates are closed.
+--------------------------------------------------End--
+{Pacce}
+{Isaaru} sends his
+regards to Lady {Yuna}.
+--------------------------------------------------End--
+{Pacce}
+And...he says he's sorry, too.
+--------------------------------------------------End--
+{Pacce}
+I heard something funny the other day.
+--------------------------------------------------End--
+{Pacce}
+If a flying ship sings,
+we're supposed to sing along!
+--------------------------------------------------End--
+{Pacce}
+And they say that will beat {Sin}!
+--------------------------------------------------End--
+{Tidus}
+Better not go near the temple.
+--------------------------------------------------End--
+{Tidus}
+No use praying now anyway.
+--------------------------------------------------End--
+{O'aka}
+You're quite popular these days, eh?
+--------------------------------------------------End--
+{O'aka}
+Anything you want, I've got it!
+--------------------------------------------------End--
+{O'aka}
+Traitor or no, Lady {Yuna}'s
+always been a friend to {O'aka}.
+--------------------------------------------------End--
+{O'aka}
+Now's the time to
+make good your escape!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}All right.
+{CHOICE:31}No, thanks.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Ask again.
+{CHOICE:31}No, thanks.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

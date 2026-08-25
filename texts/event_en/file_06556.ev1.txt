@@ -1,0 +1,60 @@
+{Jecht}
+What are you shooting me for?
+--------------------------------------------------End--
+{Auron}
+So you don't do
+anything stupid again.
+--------------------------------------------------End--
+{Auron}
+I can't believe you
+attacked that shoopuf.
+--------------------------------------------------End--
+{Auron}
+Lord {Braska} had to pay
+the handler for damages from
+his own travel money.
+--------------------------------------------------End--
+{Jecht}
+I said I was sorry. It's never
+gonna happen again! I promise!
+--------------------------------------------------End--
+{Auron}
+Ah, a promise?
+--------------------------------------------------End--
+{Auron}
+Which you'll forget come tomorrow!
+--------------------------------------------------End--
+{Braska}
+{Auron}, please.
+He did apologize.
+--------------------------------------------------End--
+{Braska}
+He knows he was wrong.
+--------------------------------------------------End--
+{Jecht}
+That's it.
+--------------------------------------------------End--
+{Jecht}
+Only thing I drink
+from now on is shoopuf milk!
+--------------------------------------------------End--
+{Braska}
+You're sure?
+--------------------------------------------------End--
+{Jecht}
+We're on a journey to fight
+{Sin} and save {Spira}, right?
+--------------------------------------------------End--
+{Jecht}
+If I keep screwin' up...and...
+--------------------------------------------------End--
+{Jecht}
+making a fool of myself...
+--------------------------------------------------End--
+{Jecht}
+my wife and kid are
+never gonna forgive me.
+--------------------------------------------------End--
+{Auron}
+That's on the record.
+--------------------------------------------------End--

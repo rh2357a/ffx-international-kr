@@ -1,0 +1,358 @@
+{WINDOW}
+Save current game?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{Tidus}
+{Rikku}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Blitzball!
+--------------------------------------------------End--
+
+Hey!
+You okay?
+--------------------------------------------------End--
+{Tidus}
+Heeey!
+--------------------------------------------------End--
+
+Whoa-ho!
+--------------------------------------------------End--
+{Tidus}
+Yo! Hiya!
+--------------------------------------------------End--
+
+You wanna try that
+move one more time?
+--------------------------------------------------End--
+
+Finally, things were
+starting to look up.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+You're no amateur.
+Who you play for?
+--------------------------------------------------End--
+{Tidus}
+The {Zanarkand Abes}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+What team you say again?
+--------------------------------------------------End--
+{Tidus}
+Uh, I meant...
+Forget that.
+--------------------------------------------------End--
+{Tidus}
+I got too, uh...close to {Sin}
+and my head's all foggy-like.
+--------------------------------------------------End--
+{Tidus}
+So I don't know where this place is.
+Or even where I came from.
+--------------------------------------------------End--
+
+{Sin}'s toxin got to you.
+--------------------------------------------------End--
+
+But, you're still alive.
+--------------------------------------------------End--
+
+Praise be to {Yevon2}!
+--------------------------------------------------End--
+
+All right, back to practice!
+--------------------------------------------------End--
+
+I'm {Wakka}, coach and captain
+of the {Besaid Aurochs}, brudda.
+--------------------------------------------------End--
+{Wakka}
+What?
+You hungry?
+--------------------------------------------------End--
+{Wakka}
+Okay! Back to the village.
+I'll get you somethin'!
+--------------------------------------------------End--
+
+I felt like I could trust this
+{Wakka}, so I just had to ask.
+--------------------------------------------------End--
+{Wakka}
+Long time ago, there were a whole
+lot of cities in {Spira}. Big cities
+with machina--machines--to run 'em.
+--------------------------------------------------End--
+{Wakka}
+People played all day and
+let the machina do the work.
+--------------------------------------------------End--
+{Wakka}
+And then, well, take a look.
+--------------------------------------------------End--
+{Wakka}
+{Sin} came, and destroyed
+the machina cities.
+--------------------------------------------------End--
+{Wakka}
+And {Zanarkand} along with 'em.
+--------------------------------------------------End--
+{Wakka}
+Yeah, that was about a thousand
+years ago, just like you said.
+--------------------------------------------------End--
+{Wakka}
+If you ask me, {Sin}'s our punishment
+for letting things get out of hand.
+--------------------------------------------------End--
+{Wakka}
+What gets me, though...
+--------------------------------------------------End--
+{Wakka}
+is we gotta suffer, 'cause of what
+some goofballs did way back when!
+--------------------------------------------------End--
+{Wakka}
+'Course, we must always repent
+for our sins! That's important!
+--------------------------------------------------End--
+{Wakka}
+It's just that, it's hard to
+keep at it sometimes, you know?
+--------------------------------------------------End--
+
+It was just as {Rikku} said.
+--------------------------------------------------End--
+
+{Wakka} and {Rikku} couldn't both
+be lying. Why would they?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+But you from the {Zanarkand Abes}--
+that was a good one!
+--------------------------------------------------End--
+
+I appreciated the fact that
+{Wakka} was trying to cheer me up.
+--------------------------------------------------End--
+
+But at that time, all
+I could think about was...
+--------------------------------------------------End--
+
+everything that happened to
+me--all this--started with {Sin}.
+--------------------------------------------------End--
+
+Maybe if I could find {Sin}
+one more time, I could go home!
+--------------------------------------------------End--
+
+For now, I'd just live life until
+that time came. No more worrying
+about where, or when, I was.
+--------------------------------------------------End--
+
+Sure it was hard not to think of home.
+But I started to feel better already.
+--------------------------------------------------End--
+
+A little better...maybe.
+--------------------------------------------------End--
+Datto
+I gotta stop closing my eyes
+when the ball comes down.
+--------------------------------------------------End--
+Datto
+That toxin's nasty stuff, ya?
+You should go rest up.
+--------------------------------------------------End--
+Datto
+What am I saying?
+Take this, it might help!
+--------------------------------------------------End--
+Datto
+You being a blitzball player's
+probably what saved you out there.
+{NEWPAGE}
+Datto
+The best players--they can
+hold their breath, like, forever!
+{NEWPAGE}
+Datto
+I wish I could do that.
+--------------------------------------------------End--
+Datto
+We had an underwater race once, ya?
+To see how long we could go.
+{NEWPAGE}
+Datto
+Two laps and we were out, but 
+Cap'n {Wakka} went five, no sweat!
+--------------------------------------------------End--
+Letty
+I can head the ball pretty good.
+Today's just a bad day, ya?
+--------------------------------------------------End--
+Letty
+This is really weird, ya?
+I could do five in a row yesterday!
+--------------------------------------------------End--
+Letty
+I'm nowhere near Cap'n {Wakka},
+but I can hold my own underwater, ya?
+{NEWPAGE}
+Letty
+It's just that...
+I'm not so good with the ball.
+--------------------------------------------------End--
+Letty
+It true that the best players
+can even sleep underwater?
+{NEWPAGE}
+Letty
+Man, that's like...superhuman, you know?
+--------------------------------------------------End--
+Jassu
+That shot was spectacular, brudda!
+Wish I could shoot like that.
+--------------------------------------------------End--
+Jassu
+Cap'n {Wakka}'s waiting for you.
+You better get going, ya?
+--------------------------------------------------End--
+Jassu
+There's fiends on the road, ya?
+Use this if you get in trouble.
+--------------------------------------------------End--
+Botta
+I really want to make Cap'n {Wakka}
+proud at this year's tournament.
+--------------------------------------------------End--
+Botta
+Come practice with us once
+the toxin wears off, okay?
+--------------------------------------------------End--
+Botta
+Hope you get better soon, brudda.
+--------------------------------------------------End--
+Keepa
+Hey, I'll admit it. We're
+not the best blitzers in Spira.
+--------------------------------------------------End--
+Keepa
+"To do our best!" That's our motto.
+Guess it's not enough, though.
+--------------------------------------------------End--
+Keepa
+Here, take this.
+And do your best, ya?
+--------------------------------------------------End--
+Keepa
+We're always top dogs for the
+first few minutes of the game, ya?
+{NEWPAGE}
+Keepa
+Then we start to run out of breath.
+That's when they get us.
+{NEWPAGE}
+Keepa
+But Cap'n {Wakka}, man,
+he don't stop!
+{NEWPAGE}
+Keepa
+No halftime breath for him, ya?
+He just keeps going!
+--------------------------------------------------End--
+{Wakka}
+Hey, I'm not saying the
+team never existed, ya?
+--------------------------------------------------End--
+{Wakka}
+But you gotta figure a team livin' in
+luxury like that'd be pretty soft, eh?
+--------------------------------------------------End--
+{Tidus}
+It's true {Zanarkand} was destroyed,
+right? A thousand years ago?
+--------------------------------------------------End--
+{Tidus}
+So it's just a big pile
+of rubble now, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

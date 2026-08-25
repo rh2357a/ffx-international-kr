@@ -1,0 +1,222 @@
+{Auron}
+Is she all right?
+--------------------------------------------------End--
+{Tidus}
+Why should you care?
+--------------------------------------------------End--
+{Auron}
+If she dies,
+I wouldn't know what to do.
+--------------------------------------------------End--
+{Tidus}
+Don't say Mom is gonna die!
+--------------------------------------------------End--
+{Auron}
+I apologize.
+--------------------------------------------------End--
+{Jecht}
+See? So I told him what I
+thought of him, right there!
+--------------------------------------------------End--
+
+Really?
+--------------------------------------------------End--
+{Jecht}
+'Course!
+--------------------------------------------------End--
+
+I suppose, but...
+--------------------------------------------------End--
+{Tidus}
+Mommy...
+--------------------------------------------------End--
+
+Just a sec, dear.
+--------------------------------------------------End--
+{Jecht}
+Ah, go to him.
+He'll cry if you don't.
+--------------------------------------------------End--
+{Tidus}
+Whenever my old man was around,
+my mother wouldn't even look at me.
+--------------------------------------------------End--
+{Tidus}
+Maybe that's...
+--------------------------------------------------End--
+{Tidus}
+Maybe that's when I started
+to resent him, even hate him.
+--------------------------------------------------End--
+{Tidus}
+When he left us...
+--------------------------------------------------End--
+{Tidus}
+Mom just lost her energy.
+--------------------------------------------------End--
+{Tidus}
+The old lady next door told me...
+--------------------------------------------------End--
+{Tidus}
+when a lovebird dies,
+the one left behind...
+--------------------------------------------------End--
+{Tidus}
+It just gives up living
+so it can join its mate.
+--------------------------------------------------End--
+{Tidus}
+It was just like that.
+--------------------------------------------------End--
+{Tidus}
+I hated my old man even more.
+--------------------------------------------------End--
+{Tidus}
+But really, my old man...
+--------------------------------------------------End--
+{Jecht}
+What?
+--------------------------------------------------End--
+{Tidus}
+They say you don't practice
+anymore, that you're gonna retire.
+--------------------------------------------------End--
+{Jecht}
+Let them talk.
+--------------------------------------------------End--
+{Jecht}
+I'm still the best.
+--------------------------------------------------End--
+{Tidus}
+They say you're no good
+'cause you drink all the time.
+--------------------------------------------------End--
+{Jecht}
+I can quit drinkin' whenever I want!
+--------------------------------------------------End--
+{Tidus}
+Then do it now.
+--------------------------------------------------End--
+{Jecht}
+What did you say?
+--------------------------------------------------End--
+{Tidus}
+You just said you can!
+--------------------------------------------------End--
+{Jecht}
+Heh.
+Tomorrow, maybe.
+--------------------------------------------------End--
+{Tidus}
+Why not today?
+--------------------------------------------------End--
+{Jecht}
+Why do today what
+you can leave for tomorrow?
+--------------------------------------------------End--
+{Jecht}
+There he goes again...crying!
+--------------------------------------------------End--
+{Tidus}
+{Zanarkand}...
+--------------------------------------------------End--
+{Tidus}
+You homesick, too?
+--------------------------------------------------End--
+{Tidus}
+That's not your world anymore.
+You're {Sin} now.
+--------------------------------------------------End--
+{Tidus}
+Hey,
+I'm older now, you know?
+--------------------------------------------------End--
+{Tidus}
+I know.
+--------------------------------------------------End--
+{Tidus}
+You want this to end.
+--------------------------------------------------End--
+{Tidus}
+I'll find a way, promise.
+--------------------------------------------------End--
+{Tidus}
+Eh?
+--------------------------------------------------End--
+Fayth
+Long ago, there was a war.
+--------------------------------------------------End--
+{Tidus}
+Yeah, with machina, right?
+--------------------------------------------------End--
+Fayth
+Yes. A war between
+{Zanarkand} and {Bevelle}.
+--------------------------------------------------End--
+Fayth
+{Bevelle}'s machina assured their
+victory from the start.
+Spira had never seen such power.
+--------------------------------------------------End--
+Fayth
+The summoners of {Zanarkand}
+didn't stand a chance.
+--------------------------------------------------End--
+Fayth
+{Zanarkand} was
+doomed to oblivion.
+--------------------------------------------------End--
+Fayth
+That's why we tried to save
+it--if only in a memory.
+--------------------------------------------------End--
+{Tidus}
+What did you do?
+--------------------------------------------------End--
+Fayth
+The remaining summoners and the
+townspeople that survived the war...
+--------------------------------------------------End--
+Fayth
+They all became {fayth}--
+{fayth} for the summoning.
+--------------------------------------------------End--
+{Tidus}
+The summoning...
+You mean {Sin}?
+--------------------------------------------------End--
+Fayth
+No. I mean this place.
+--------------------------------------------------End--
+Fayth
+A {Zanarkand} that never sleeps.
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+Fayth
+The dreams of the {fayth}
+summoned the memories of the city.
+--------------------------------------------------End--
+Fayth
+They summoned all the buildings,
+all the people who lived there.
+--------------------------------------------------End--
+{Tidus}
+The people...
+What, they're all dreams?
+--------------------------------------------------End--
+{Tidus}
+Me, too?
+--------------------------------------------------End--
+Fayth
+Yes, you're a
+dream of the {fayth}.
+--------------------------------------------------End--
+Fayth
+You, your father, your
+mother, everyone. All dreams.
+--------------------------------------------------End--
+Fayth
+And if the {fayth} stop dreaming...
+--------------------------------------------------End--

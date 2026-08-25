@@ -1,0 +1,155 @@
+{Auron}
+Wait.
+--------------------------------------------------End--
+{Auron}
+It is here...somewhere.
+--------------------------------------------------End--
+{Tidus}
+What's here?
+--------------------------------------------------End--
+{Auron}
+Something you should see.
+--------------------------------------------------End--
+{Yuna}
+But, Sir {Auron}...
+--------------------------------------------------End--
+{Auron}
+It won't take long.
+--------------------------------------------------End--
+{O'aka}
+Welcome!
+--------------------------------------------------End--
+{O'aka}
+Holiday prices on all items in celebration
+of Maester {Seymor} {Guado}'s wedding!
+--------------------------------------------------End--
+{O'aka}
+Too expensive, ye think?
+--------------------------------------------------End--
+{O'aka}
+How about this?
+--------------------------------------------------End--
+{O'aka}
+I'll go with these
+prices for a while!
+--------------------------------------------------End--
+{O'aka}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Too pricey.
+{CHOICE:31}Just right.
+{CHOICE:32}Too cheap.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}U{White} {RIGHT} {Pink}O{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

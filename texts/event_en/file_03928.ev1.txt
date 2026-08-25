@@ -1,0 +1,83 @@
+{Yuna}
+Shoopufs!
+I haven't ridden one in so long!
+--------------------------------------------------End--
+{Tidus}
+What?
+You've been on one of these?
+--------------------------------------------------End--
+{Yuna}
+Well, just once.
+Ten years ago, with {Kimahri}.
+--------------------------------------------------End--
+{Yuna}
+Remember?
+--------------------------------------------------End--
+{Kimahri}
+Shoopuf shook,
+{Yuna} fall in water.
+--------------------------------------------------End--
+{Kimahri}
+Shoopuf scoop up
+{Yuna} with long nose.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} jump in
+three more times for fun.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} worried.
+--------------------------------------------------End--
+{Yuna}
+Whoops!
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} had fun.
+{Kimahri} happy.
+--------------------------------------------------End--
+{Yuna}
+I lived in the city of {Bevelle}
+until ten years ago.
+--------------------------------------------------End--
+{Yuna}
+I moved to {Besaid} after
+my father defeated {Sin}.
+--------------------------------------------------End--
+{Yuna}
+{Kimahri} was with me the whole way!
+--------------------------------------------------End--
+{Tidus}
+{Bevelle}?
+--------------------------------------------------End--
+{Yuna}
+It's the biggest city in {Spira}!
+The main temple of {Yevon2} is there.
+--------------------------------------------------End--
+{Yuna}
+Come on! Let's get on the shoopuf!
+--------------------------------------------------End--
+{Kimahri}
+{Biran} is troublemaker,
+but {Ronso} do not lie.
+--------------------------------------------------End--
+{Kimahri}
+Summoners disappearing--
+that was not lie.
+--------------------------------------------------End--
+{Tidus}
+Right, I'll be careful.
+--------------------------------------------------End--
+{Kimahri}
+Smells like oil.
+--------------------------------------------------End--
+{O'aka}
+{O'aka}, at your service!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--

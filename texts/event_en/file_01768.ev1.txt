@@ -1,0 +1,197 @@
+{Wakka}
+This is where I was born.
+I started blitz when I was five.
+--------------------------------------------------End--
+{Wakka}
+I joined the {Aurochs}
+at thirteen...ten years ago.
+--------------------------------------------------End--
+{Wakka}
+Ten years...and we never won a game.
+--------------------------------------------------End--
+{Wakka}
+Well, after last year's tournament,
+I quit. Time seemed right.
+--------------------------------------------------End--
+{Wakka}
+It's an ancient custom.
+People leaving the island
+pray here for a safe trip.
+--------------------------------------------------End--
+{Wakka}
+They say it works pretty good.
+--------------------------------------------------End--
+{Lulu}
+Take your time.
+--------------------------------------------------End--
+{Tidus}
+Let's get going, man!
+--------------------------------------------------End--
+{Wakka}
+We're gonna wait.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+Are you ready?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+What's going on?
+--------------------------------------------------End--
+{Wakka}
+{Chappu} didn't pray that day.
+Said he'd miss his boat.
+--------------------------------------------------End--
+{Wakka}
+That should do it!
+--------------------------------------------------End--
+{Tidus}
+This isn't the way to the pier.
+--------------------------------------------------End--
+{Tidus}
+What are you up to out here?
+--------------------------------------------------End--
+{Luzzu}
+Watching for fiends!
+--------------------------------------------------End--
+{Luzzu}
+We {Crusader}s must protect the village.
+--------------------------------------------------End--
+{Luzzu}
+Even if we cannot defeat {Sin},
+we do what we can.
+--------------------------------------------------End--
+{Tidus}
+Leave {Sin} to us.
+We'll think of something.
+--------------------------------------------------End--
+{Luzzu}
+Then you should pray before you go.
+--------------------------------------------------End--
+{Luzzu}
+All who leave the island pray
+for safe passage over there.
+--------------------------------------------------End--
+{Luzzu}
+{Gatta} always refused, though.
+--------------------------------------------------End--
+{Tidus}
+Well then, I will too.
+--------------------------------------------------End--
+{Tidus}
+Who needs hokey old superstitions?
+--------------------------------------------------End--
+{Tidus}
+I won't pray, and I'll
+beat {Sin} all the same!
+--------------------------------------------------End--
+{Luzzu}
+Well, I guess you have the spirit.
+--------------------------------------------------End--
+{Luzzu}
+Good luck.
+--------------------------------------------------End--
+{Luzzu}
+Even should the temple
+forsake us, we will do our duty.
+--------------------------------------------------End--
+{Luzzu}
+We are the shield that guards this land.
+--------------------------------------------------End--
+{Luzzu}
+I can't believe they're
+calling Lady {Yuna} a traitor.
+--------------------------------------------------End--
+{Luzzu}
+Calling Lady {Yuna} a traitor...
+there must be some mistake.
+--------------------------------------------------End--
+{Luzzu}
+Everyone in {Besaid} thinks so.
+--------------------------------------------------End--
+{Luzzu}
+As long as {Sin} remains,
+so does our duty.
+--------------------------------------------------End--
+{Luzzu}
+They say a flying ship
+gave {Sin} a good chase.
+--------------------------------------------------End--
+{Luzzu}
+Never let your guard down!
+{Sin} is the most evil of foes.
+--------------------------------------------------End--
+{Luzzu}
+All we can do is pray that this
+ship of the skies can defeat {Sin}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Pray.
+{CHOICE:31}Just watch.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

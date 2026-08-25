@@ -1,0 +1,181 @@
+{Cid}
+We gotta keep our distance, boys,
+but we can't let her get too far away.
+--------------------------------------------------End--
+{Cid}
+You all have to tell me
+when to move!
+--------------------------------------------------End--
+{Cid}
+But tell me quick, eh?
+This rig ain't so nimble, you hear?
+--------------------------------------------------End--
+{Tidus}
+Roger! I'll give the commands!
+--------------------------------------------------End--
+{Rikku}
+Not alone, you won't!
+--------------------------------------------------End--
+{Rikku}
+I can hear the song!
+--------------------------------------------------End--
+{Lulu}
+Yes, I can hear the Hymn, too.
+--------------------------------------------------End--
+{Rikku}
+They listened to us!
+--------------------------------------------------End--
+{Tidus}
+We won't let them down!
+--------------------------------------------------End--
+{Tidus}
+{Yuna}?
+--------------------------------------------------End--
+{Tidus}
+You don't need this anymore, right?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+Right?
+--------------------------------------------------End--
+{Wakka}
+Hey, guys? Guys?
+That's not good, ya?
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+GO!
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE!
+--------------------------------------------------End--
+{WINDOW}
+TIME'S UP!!!
+--------------------------------------------------End--
+{WINDOW}
+= 1st TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 2nd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 3rd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+Needletime!
+--------------------------------------------------End--
+{WINDOW}
+Needles!
+--------------------------------------------------End--
+{WINDOW}
+Whoopsie!
+--------------------------------------------------End--
+{WINDOW}
+Prickle!
+--------------------------------------------------End--
+{WINDOW}
+
+Destination Undetermined
+= Under Construction =
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Tomay{White}
+- Duties: Fetching water.
+  Takes his time and, as a
+  result, is often left
+  behind.
+- A little dim.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Rovivea{White}
+- Has no patience for
+  certain dim-witted friends.
+- Not a progressive thinker.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Chava{White}
+- Recently learned to
+  count to 50.
+- A little needy.
+- Attention deficit.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Alek & Aloja{White}
+- Two brothers, rarely separated.
+- They move as one, their closeness
+  a paragon of brotherhood.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Vachella{White}
+- Loves new things.
+- Hard on others, easy on self.
+- Stingy.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Robeya{White}
+- A real needle brain.
+- Likes cramped spaces.
+- Check out his great collection!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Isrra{White}
+- The philosopher about town.
+  Today, he digs holes. Again.
+- A cautious sort.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Elio{White}
+- To see what lies beyond the sands,
+  he travels far to distant lands.
+- Hyper-reactive and a bad poet.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Flaile{White}
+- The guy you never invite
+  but he always shows up anyway.
+- Cheeky.
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tomay's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Rovivea's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chava's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alek and Aloja's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Vachella's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Isrra's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Flaile's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Sphere del Perdedor!
+--------------------------------------------------End--

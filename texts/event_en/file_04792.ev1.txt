@@ -1,0 +1,323 @@
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--
+{Maechen}
+Would you like to hear a bit
+about the wondrous shoopuf?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}No stories, please!
+{CHOICE:31}Absolutely!
+--------------------------------------------------End--
+{Maechen}
+Perhaps you'd like to hear
+a bit about the Hypello, hmm?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+Thanks!
+--------------------------------------------------End--
+
+Aww, leaving already?
+Well, come back again, you hear?
+--------------------------------------------------End--
+
+There's a long wait to ride the
+shoopuf since space is limited.
+{NEWPAGE}
+
+But summoners get priority since they
+need to get on their way to {Zanarkand}.
+--------------------------------------------------End--
+
+Careful where you shop.
+This area is full of cunning merchants.
+--------------------------------------------------End--
+
+The merchants are ecstatic about
+the maester's marriage plans.
+{NEWPAGE}
+
+They're boosting profits by taking
+advantage of the people's festive mood.
+--------------------------------------------------End--
+
+Until recently, these merchants
+only sold to {Crusader}s.
+{NEWPAGE}
+
+They claimed to be giving the {Crusader}s
+a deal because of {Operation Mi'ihen}, but
+they were really just ripping them off.
+--------------------------------------------------End--
+
+With all the traitors and {Al Bhed} around,
+not many travellers pass through here anymore.
+--------------------------------------------------End--
+
+The merchants are suffering
+with so few customers.
+--------------------------------------------------End--
+
+They say {Sin} landed in {Bevelle}.
+It's better to stay away from the north.
+--------------------------------------------------End--
+
+Seems the {Guado} won't
+come out of {Guadosalam}.
+--------------------------------------------------End--
+
+I was going to return to {Bevelle}
+after the tournament in {Luca}...
+{NEWPAGE}
+
+but the {Crusader}s blocked the
+roads and I couldn't get through. 
+--------------------------------------------------End--
+
+My plans are ruined.
+Now what am I supposed to do?
+--------------------------------------------------End--
+
+The {Guado} can't stop
+talking about the marriage.
+{NEWPAGE}
+
+Well, I guess it's not every
+day they hear good news.
+--------------------------------------------------End--
+
+I want to quit the {Crusader}s
+and settle down in the country.
+--------------------------------------------------End--
+
+So Lady {Yuna}'s getting married, huh?
+That's great news.
+{NEWPAGE}
+
+I wish the {Crusader}s had defeated
+{Sin}... That would've been perfect.
+--------------------------------------------------End--
+
+By the time we get home, they'll
+be celebrating their marriage.
+--------------------------------------------------End--
+
+Welcome! You seem to
+have fine taste, sir!
+--------------------------------------------------End--
+
+Listen, buy from me and you won't
+have any problems down the line.
+--------------------------------------------------End--
+
+Well, hello there.
+Are you in luck today!
+--------------------------------------------------End--
+
+If you buy something now, I'll give you
+a big discount! Well, what do you say?
+--------------------------------------------------End--
+Driver
+Noo, I don shink sho.
+Ish bad idea, yesh.
+--------------------------------------------------End--
+{Lucil}
+Please, we beg of you!
+--------------------------------------------------End--
+Driver
+Imposhibibble! Imposhibibble!
+--------------------------------------------------End--
+{Tidus}
+What's wrong?
+--------------------------------------------------End--
+{Elma}
+This guy won't let
+our chocobo on the shoopuf!
+--------------------------------------------------End--
+{Tidus}
+It is kinda big.
+--------------------------------------------------End--
+{Elma}
+It's just not fair!
+--------------------------------------------------End--
+{Clasko}
+He does have a point, though.
+--------------------------------------------------End--
+{Elma}
+So, what?
+We just leave him behind?
+--------------------------------------------------End--
+{Clasko}
+Hey, I didn't say that. Just...
+--------------------------------------------------End--
+{Lucil}
+It is no good.
+We will have to find another way.
+--------------------------------------------------End--
+{Lucil}
+We will find a ford
+where we can cross on foot.
+--------------------------------------------------End--
+{Elma}
+Yes, Captain, sir!
+--------------------------------------------------End--
+{Clasko}
+But...that'll take days!
+--------------------------------------------------End--
+{Lucil}
+Where there's a will, there's a way.
+--------------------------------------------------End--
+{Clasko}
+Oh, boy...
+--------------------------------------------------End--
+{Elma}
+That's our captain!
+--------------------------------------------------End--
+
+Where there's a will, there's a way.
+--------------------------------------------------End--
+
+Those words stayed with me.
+--------------------------------------------------End--
+
+I wonder how Captain
+{Lucil} is doing.
+--------------------------------------------------End--
+{Wakka}
+Let the driver know
+when you're ready.
+--------------------------------------------------End--
+{Lulu}
+Riding a shoopuf
+isn't THAT much fun.
+--------------------------------------------------End--
+{Wakka}
+How little you know!
+--------------------------------------------------End--
+{Wakka}
+Some things little boys
+never grow out of!
+--------------------------------------------------End--
+{Wakka} & {Tidus}
+Right?
+--------------------------------------------------End--
+{Lulu}
+The merchants here are wily.
+Pick your shop well.
+--------------------------------------------------End--
+{Maechen}
+Pity.
+--------------------------------------------------End--
+{Maechen}
+There are many things
+we do not know about the shoopuf.
+--------------------------------------------------End--
+{Maechen}
+For example, what does it eat?
+It eats nothing!
+--------------------------------------------------End--
+{Maechen}
+The water it sucks through its shnoz
+somehow supports its considerable size.
+--------------------------------------------------End--
+{Maechen}
+Some theorize it eats teeny-weeny
+waterborne organisms.
+--------------------------------------------------End--
+{Maechen}
+And that, as they say, is that.
+--------------------------------------------------End--
+{Maechen}
+These shoopuf handlers belong to a race
+of water-dwellers known as the Hypello.
+--------------------------------------------------End--
+{Maechen}
+They may be slow on land, but in
+the water they're quick as silvery fish!
+--------------------------------------------------End--
+{Maechen}
+You'd think they'd make
+admirable players of {blitzball}.
+--------------------------------------------------End--
+{Maechen}
+But their lackadaisical disposition
+draws them to less strenuous pastimes.
+--------------------------------------------------End--
+{Maechen}
+And that, as they say, is that.
+--------------------------------------------------End--
+{Maechen}
+I believe I've said
+all there is to say.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

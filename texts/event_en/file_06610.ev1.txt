@@ -1,0 +1,75 @@
+{Jecht}
+After you get that
+aeon from {Besaid}...
+--------------------------------------------------End--
+{Jecht}
+Where're we going?
+--------------------------------------------------End--
+{Auron}
+Back the way we came.
+--------------------------------------------------End--
+{Auron}
+Then we go north from
+{Bevelle} and climb {Mt. Gagazet}.
+--------------------------------------------------End--
+{Braska}
+Beyond it lies...{Zanarkand}.
+--------------------------------------------------End--
+{Jecht}
+{Zanarkand}, huh?
+--------------------------------------------------End--
+{Jecht}
+It's been in ruins for
+a thousand years, right?
+--------------------------------------------------End--
+{Auron}
+So the legends say.
+No one knows for sure.
+--------------------------------------------------End--
+{Auron}
+It still could be your {Zanarkand}.
+--------------------------------------------------End--
+{Jecht}
+Thanks for trying, {Auron}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Jecht}
+I thought if I went with you guys
+I might find a way to go back.
+--------------------------------------------------End--
+{Jecht}
+But it's not that easy.
+--------------------------------------------------End--
+{Braska}
+I'm sorry.
+--------------------------------------------------End--
+{Jecht}
+No need to apologize, {Braska}.
+It's not your fault.
+--------------------------------------------------End--
+{Jecht}
+I should be thinking about
+fighting {Sin} now, anyway.
+--------------------------------------------------End--
+{Jecht}
+{Zanarkand} can wait.
+--------------------------------------------------End--
+{Jecht}
+But I will find my way back!
+--------------------------------------------------End--
+{Braska}
+Be careful, {Jecht}.
+--------------------------------------------------End--
+{Jecht}
+Hey, I'll be all right.
+--------------------------------------------------End--
+{Jecht}
+You're the one that should be careful.
+Wouldn't want your little girl to cry.
+--------------------------------------------------End--
+{Braska}
+She'll be all right.
+She's strong, like her mother was.
+--------------------------------------------------End--

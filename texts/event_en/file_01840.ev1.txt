@@ -1,0 +1,461 @@
+{WINDOW}
+{Yellow}Using the Sphere Grid{White}
+--------------------------------------------------End--
+{WINDOW}
+The Sphere Grid is used to develop your
+characters by activating nodes with spheres.
+Let's see how this is done.
+--------------------------------------------------End--
+
+You want to hear again?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah.
+{CHOICE:31}What?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+Sit, captive!
+--------------------------------------------------End--
+{Tidus}
+Hey, that hurts!
+--------------------------------------------------End--
+
+No moving, hear?
+--------------------------------------------------End--
+{Tidus}
+Whoa... Okay.
+--------------------------------------------------End--
+
+Search him!
+--------------------------------------------------End--
+
+Do you not speak?
+--------------------------------------------------End--
+{Tidus}
+Right. Whatever.
+--------------------------------------------------End--
+{Tidus}
+I said I don't understand!
+--------------------------------------------------End--
+
+Insolence!
+--------------------------------------------------End--
+
+Wait!
+--------------------------------------------------End--
+
+He said you can stay
+if you make yourself useful.
+--------------------------------------------------End--
+{Tidus}
+You...You understand me?
+--------------------------------------------------End--
+{Tidus}
+All right, I'll work!
+--------------------------------------------------End--
+
+Oh, almost forgot!
+--------------------------------------------------End--
+
+Okay! Let's get to work!
+--------------------------------------------------End--
+{Tidus}
+What's this?
+Some kind of crane?
+--------------------------------------------------End--
+
+Hey, you!
+Get away from there!
+--------------------------------------------------End--
+{Tidus}
+All right, all right!
+You don't have to shout!
+--------------------------------------------------End--
+
+We found the {airship}!
+--------------------------------------------------End--
+
+The records were right.
+--------------------------------------------------End--
+
+Now, how to drag it up?
+--------------------------------------------------End--
+
+You, outside!
+--------------------------------------------------End--
+{Tidus}
+Hey, I helped out, didn't I?
+--------------------------------------------------End--
+{Tidus}
+Uhh...hungry.
+--------------------------------------------------End--
+{Tidus}
+Whoa! Right on!
+--------------------------------------------------End--
+
+It's 'cause you eat too fast!
+--------------------------------------------------End--
+
+Hey!
+--------------------------------------------------End--
+{Tidus}
+Hello there. What is your name?
+--------------------------------------------------End--
+
+{Rikku}.
+--------------------------------------------------End--
+{Tidus}
+Whoa! You really do understand!
+--------------------------------------------------End--
+{Tidus}
+Why didn't you say so earlier?
+--------------------------------------------------End--
+{Rikku}
+I didn't get a chance to!
+--------------------------------------------------End--
+{Rikku}
+Everyone thought oui were a fiend.
+--------------------------------------------------End--
+{Tidus}
+Uh..."we"?
+--------------------------------------------------End--
+{Rikku}
+Oh, "oui" means "you."
+--------------------------------------------------End--
+{Tidus}
+Who are you guys, anyway?
+--------------------------------------------------End--
+{Rikku}
+We're {Al Bhed}. Can't you tell?
+--------------------------------------------------End--
+{Rikku}
+Wait. You're not an
+{Al Bhed}-hater, are you?
+--------------------------------------------------End--
+{Tidus}
+I don't even know
+what an {Al Bhed} is.
+--------------------------------------------------End--
+{Rikku}
+Where are you from?
+--------------------------------------------------End--
+{Tidus}
+{Zanarkand}.
+--------------------------------------------------End--
+{Tidus}
+I'm a {blitzball} player.
+Star player of the
+{Zanarkand Abes}!
+--------------------------------------------------End--
+{Rikku}
+Did you hit your head or something?
+--------------------------------------------------End--
+{Tidus}
+Um, you guys hit me.
+--------------------------------------------------End--
+{Rikku}
+Oh, right... Do you remember
+anything before that?
+--------------------------------------------------End--
+
+So I told her everything there was to tell
+--------------------------------------------------End--
+
+about {Zanarkand}...
+--------------------------------------------------End--
+
+About life there, {blitzball},
+and {Sin}'s attack...
+--------------------------------------------------End--
+
+and about how {Auron} and I
+were engulfed in this light.
+--------------------------------------------------End--
+
+I just said things as they came to mind.
+But then I started to wonder.
+--------------------------------------------------End--
+{Tidus}
+Did I say something funny?
+--------------------------------------------------End--
+{Rikku}
+You were near {Sin}.
+--------------------------------------------------End--
+{Rikku}
+Don't worry,
+you'll be better in no time.
+--------------------------------------------------End--
+{Rikku}
+They say your head gets
+funny when {Sin} is near.
+--------------------------------------------------End--
+{Rikku}
+Maybe you just had
+some kind of dream?
+--------------------------------------------------End--
+{Tidus}
+You mean I'm sick?
+--------------------------------------------------End--
+{Rikku}
+Because of {Sin}'s toxin, yeah.
+--------------------------------------------------End--
+{Tidus}
+You sure?
+--------------------------------------------------End--
+{Rikku}
+Yeah, there is no {Zanarkand} anymore.
+--------------------------------------------------End--
+{Rikku}
+{Sin} destroyed it
+a thousand years ago. 
+--------------------------------------------------End--
+{Rikku}
+So...no one plays {blitzball} there.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+What do you mean,
+a thousand years ago?
+--------------------------------------------------End--
+{Tidus}
+But I saw {Sin} attack {Zanarkand}!
+--------------------------------------------------End--
+{Tidus}
+You're saying that happened
+a thousand years ago? No way!
+--------------------------------------------------End--
+{Rikku}
+You said...
+--------------------------------------------------End--
+{Rikku}
+You play {blitzball}?
+--------------------------------------------------End--
+{Rikku}
+You know, you should go to {Luca}.
+--------------------------------------------------End--
+{Rikku}
+Someone might know
+who you are, or you
+might find
+--------------------------------------------------End--
+{Rikku}
+someone you recognize.
+--------------------------------------------------End--
+{Tidus}
+{Luca}?
+--------------------------------------------------End--
+{Rikku}
+Okay, leave it to me!
+I'll get you to Luca, promise!
+--------------------------------------------------End--
+{Rikku}
+You'd rather stay here?
+--------------------------------------------------End--
+{Rikku}
+Okay, I'll go tell the
+others. Wait here.
+--------------------------------------------------End--
+{Rikku}
+Oh, and one thing.
+--------------------------------------------------End--
+{Rikku}
+Don't tell anyone you're
+from {Zanarkand}, okay?
+--------------------------------------------------End--
+{Rikku}
+{Yevon2} says it's a holy place.
+You might upset someone.
+--------------------------------------------------End--
+
+My {Zanarkand}, some kind of holy place?
+Yeah right, I thought.
+--------------------------------------------------End--
+
+Since when?
+--------------------------------------------------End--
+
+{Yevon2}? {Sin}? {Luca}?
+--------------------------------------------------End--
+
+I thought {Sin} just took me to a
+faraway place, that I could go
+back in a day or two.
+--------------------------------------------------End--
+{Tidus}
+But a thousand years
+into the future?
+--------------------------------------------------End--
+{Tidus}
+No way!
+--------------------------------------------------End--
+
+{Sin}!
+--------------------------------------------------End--
+
+{Sin} is come!
+--------------------------------------------------End--
+
+Under us! Under us!
+--------------------------------------------------End--
+
+Move it!
+Get to work, immediately!
+--------------------------------------------------End--
+
+Go on, earn your pay.
+--------------------------------------------------End--
+
+If you're near death,
+really near death, use this!
+--------------------------------------------------End--
+
+You afraid of the sea?
+Weakling!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+We found some ancient ruins
+right beneath us.
+--------------------------------------------------End--
+
+It's not active now, but there
+should still be some power left.
+--------------------------------------------------End--
+
+We're gonna go down
+there and activate it...
+--------------------------------------------------End--
+
+and then we should be able to
+salvage the big prize!
+--------------------------------------------------End--
+
+We'll go as soon as you're ready!
+--------------------------------------------------End--
+
+Roger!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{WINDOW}
+
+{White}{Button Square}: Return to ship
+{Button X}: Dive{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. I!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}Y{White} {RIGHT} {Pink}A{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

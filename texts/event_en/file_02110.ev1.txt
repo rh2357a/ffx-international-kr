@@ -1,0 +1,181 @@
+{WINDOW}
+Battle with Al Bhed Machina
+    {CHOICE:30}Waiting for Command
+    {CHOICE:31}Seamless Test
+    {CHOICE:32}Retry Event
+    {CHOICE:33}Unconditional Win
+--------------------------------------------------End--
+
+D-Did you beat them?
+I was so scared I couldn't move!
+--------------------------------------------------End--
+
+The ferry docked here is
+headed for {Blue}{Kilika Port}{White}.
+--------------------------------------------------End--
+
+{Blue}Dock number 3{White} lies straight ahead.
+{Blue}Dock number 1{White} lies in the opposite direction.
+--------------------------------------------------End--
+
+When you've sailed the seas of {Spira}
+long enough, little surprises you anymore.
+--------------------------------------------------End--
+
+I'm sorry, sir, but the ferry
+will remain at anchor for a while.
+--------------------------------------------------End--
+
+This ferry will take you to {Blue}{Kilika}{White}.
+Would you like to board?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah, I'd like to board.
+{CHOICE:31}No, thanks.
+--------------------------------------------------End--
+
+We can leave any time you're ready.
+You have everything you need?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}Hold on.
+--------------------------------------------------End--
+
+Give me a holler when you're ready.
+Then we'll set sail for {Kilika}.
+--------------------------------------------------End--
+
+Hey, hey, outta my way!
+I'm tryin' to work here!
+--------------------------------------------------End--
+
+Come on, move it!
+The ship's clearing out soon!
+--------------------------------------------------End--
+
+The {Al Bhed} machina don't scare me!
+--------------------------------------------------End--
+
+Can't survive the seas of {Spira}
+getting freaked out by that!
+--------------------------------------------------End--
+
+Move it! Outta my way!
+I'm busy sorting the cargo!
+--------------------------------------------------End--
+
+Whenever guard duty gets boring,
+I try to remember how much the
+{Crusader}s need me right now.
+--------------------------------------------------End--
+
+We're standing guard to keep any
+suspicious characters from boarding.
+--------------------------------------------------End--
+
+With the warrior monks gone, it's
+up to us {Crusader}s to defend {Luca}.
+--------------------------------------------------End--
+
+Warrior monks are not tour guides!
+Don't bother us with your small talk.
+--------------------------------------------------End--
+
+Nothing out of the ordinary, sir!
+--------------------------------------------------End--
+
+I want to be a sailor and sail
+all over {Spira} when I grow up.
+--------------------------------------------------End--
+
+Big boats, small boats,
+gotta love 'em all!
+--------------------------------------------------End--
+
+Sis once got caught trying
+to sneak onto that ferry.
+--------------------------------------------------End--
+
+Take it easy, sis!
+You're too obsessed with ships.
+--------------------------------------------------End--
+
+I tell her how dangerous it is out
+on the ocean, but she never listens.
+--------------------------------------------------End--
+
+My granddaughter wants to be
+a sailor when she grows up.
+What a dreadful thought!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}The Other Dock 2
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

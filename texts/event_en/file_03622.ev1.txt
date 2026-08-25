@@ -1,0 +1,151 @@
+
+Gathering data for travellers is an important
+part of a Crusader's duties, too.
+--------------------------------------------------End--
+
+I admire that young Crusader's dedication.
+I must recruit him into the warrior monks.
+--------------------------------------------------End--
+
+The operation will commence soon.
+I must hurry.
+--------------------------------------------------End--
+
+I've configured this monitor to display
+information on fiends roaming around the
+{Luca} area.
+--------------------------------------------------End--
+
+Once you leave Luca, you'll have to travel
+the long and winding {Blue}{Mi'ihen Highroad}{White}.
+Watch out for fiends along the way!
+--------------------------------------------------End--
+
+You should check the sphere monitor before you
+set out. You'll find useful information in there.
+--------------------------------------------------End--
+
+Travellers check this monitor for fiend
+information before setting out on their journey.
+{NEWPAGE}
+
+It's our duty as {Crusader}s to collect
+this kind of information.
+--------------------------------------------------End--
+
+The Hymn of the Fayth is one of our
+favorites! We all sang really loud!
+--------------------------------------------------End--
+
+Enjoy the beautiful music!
+Immerse yourself in the stunning visuals!
+--------------------------------------------------End--
+
+I believe the Calm is right around the corner.
+Shall we celebrate early?
+--------------------------------------------------End--
+
+I suggest you proceed to the rear
+for a thorough explanation.
+--------------------------------------------------End--
+
+When Sin and the ship come flying through,
+listen to my drum and sing in tune!
+--------------------------------------------------End--
+
+If it's our music you want to hear,
+then go to the back and buy a sphere!
+--------------------------------------------------End--
+
+That drummer lookss like ush...
+Maybe he'sh a big relative of Hypello?
+--------------------------------------------------End--
+
+Thish ishn't the shtadium...?
+I shink I'm losht.
+--------------------------------------------------End--
+{O'aka}
+Hello, there!
+--------------------------------------------------End--
+{Tidus}
+Hey, weren't you in prison?
+--------------------------------------------------End--
+{O'aka}
+Nah, those monks
+are pushovers, I tell ye!
+--------------------------------------------------End--
+{O'aka}
+I'll fleece any priest,
+or my name's not {O'aka}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Sorry.
+It was our fault they locked you up.
+--------------------------------------------------End--
+{O'aka}
+No problem!
+Anything for a customer, eh?
+--------------------------------------------------End--
+{O'aka}
+You know...
+--------------------------------------------------End--
+{O'aka}
+I had a sister.
+{Wantz}'s older sister, you see.
+--------------------------------------------------End--
+{O'aka}
+A summoner, she was.
+Went on pilgrimage at a young age.
+--------------------------------------------------End--
+{O'aka}
+And that was it.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{O'aka}
+Me and {Wantz}, well, neither of us
+were fighters enough to be guardians.
+--------------------------------------------------End--
+{O'aka}
+I think about it every day, I do.
+If we could've helped her.
+--------------------------------------------------End--
+{O'aka}
+Least I can do is try to
+help another summoner, I figure.
+--------------------------------------------------End--
+{O'aka}
+And Lady {Yuna},
+she looks so much like...
+--------------------------------------------------End--
+{Tidus}
+Eh?
+--------------------------------------------------End--
+{O'aka}
+It's nothing.
+--------------------------------------------------End--
+{Tidus}
+Say, thanks.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{O'aka}
+{Wantz} has got all the good stuff.
+{O'aka} XXIII's retiring!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Change Model
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Model  :  {CHOICE:51}
+--------------------------------------------------End--

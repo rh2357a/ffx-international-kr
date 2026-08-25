@@ -1,0 +1,210 @@
+
+          
+--------------------------------------------------End--
+{Rikku}
+What's a {fayth} doing
+in a place like this?
+--------------------------------------------------End--
+{Tidus}
+Don't ask me!
+--------------------------------------------------End--
+{Lulu}
+They say it was stolen
+from a temple long ago.
+--------------------------------------------------End--
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Auron}
+With no {fayth},
+summoners cannot train.
+--------------------------------------------------End--
+{Auron}
+Without training, they
+cannot call the Final Aeon.
+--------------------------------------------------End--
+{Auron}
+Without the Final Aeon,
+they cannot defeat {Sin}.
+--------------------------------------------------End--
+{Auron}
+That is why.
+--------------------------------------------------End--
+{Rikku}
+'Cause then the summoner won't die!
+--------------------------------------------------End--
+{Wakka}
+That must be what
+the thief was thinking.
+--------------------------------------------------End--
+{Tidus}
+I kinda agree with him.
+--------------------------------------------------End--
+{Wakka}
+Peh! Another {Guado} fiend?
+--------------------------------------------------End--
+{Kimahri}
+No. An unsent.
+--------------------------------------------------End--
+{Lulu}
+It is...
+It's you, is it not, Lady Ginnem?
+--------------------------------------------------End--
+{Lulu}
+Forgive me.
+I was too young.
+--------------------------------------------------End--
+{Lulu}
+There is no human left
+in you now, is there?
+--------------------------------------------------End--
+{Lulu}
+Very well, then.
+--------------------------------------------------End--
+{Lulu}
+Allow me to perform my last duty to you.
+My last as your guardian.
+--------------------------------------------------End--
+{Lulu}
+Strange.
+I thought it would be sadder, somehow.
+--------------------------------------------------End--
+{Lulu}
+Maybe I've gotten used to farewells.
+--------------------------------------------------End--
+{Wakka}
+You're stronger now.
+--------------------------------------------------End--
+{Lulu}
+{Wakka},
+--------------------------------------------------End--
+{Lulu}
+I hope you're right.
+--------------------------------------------------End--
+{Lulu}
+{Yuna}, the {fayth} is inside.
+Go do what you came to do.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Warp to back of cavern
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Return
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Up}: Chamber of the Fayth{VAR07:81}{VAR07:E4}{Direcional Down}: Entrance
+{VAR07:E4}{Direcional Left}: ???{VAR07:81}{VAR07:E4}{Direcional Right}: ???
+{Button Circle}: Confirm
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Down}: Entrance
+{VAR07:E4}{Direcional Left}: ???{VAR07:60}{VAR07:E4}{Direcional Right}: ???
+{Button Circle}: Confirm
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}O{White} {RIGHT} {Pink}Y{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

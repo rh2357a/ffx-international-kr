@@ -1,0 +1,131 @@
+{Jecht}
+Who are you?
+--------------------------------------------------End--
+{Braska}
+You are the one they call {Jecht},
+the man from {Zanarkand}, are you not?
+--------------------------------------------------End--
+{Jecht}
+What of it?
+--------------------------------------------------End--
+{Auron}
+Watch your tongue, knave!
+--------------------------------------------------End--
+{Braska}
+My apologies.
+I am {Braska}, a summoner.
+--------------------------------------------------End--
+{Braska}
+I've come to take you from this place.
+--------------------------------------------------End--
+{Jecht}
+Sounds sweet.
+What's the catch?
+--------------------------------------------------End--
+{Braska}
+Ahhaha...
+That easy to see, was it?
+--------------------------------------------------End--
+{Braska}
+I soon leave on a pilgrimage...
+to {Zanarkand}.
+--------------------------------------------------End--
+{Jecht}
+Seriously?
+--------------------------------------------------End--
+{Braska}
+I would like you to join us.
+It will be a dangerous trip.
+--------------------------------------------------End--
+{Braska}
+Yet, if we do reach {Zanarkand}...
+--------------------------------------------------End--
+{Braska}
+my prayers will be answered, and
+you will be able to go home, we think.
+--------------------------------------------------End--
+{Braska}
+What say you?
+--------------------------------------------------End--
+{Jecht}
+Great, let's go!
+--------------------------------------------------End--
+{Braska}
+So quick?
+--------------------------------------------------End--
+{Jecht}
+Anything to get outta here!
+--------------------------------------------------End--
+{Braska}
+Then it's settled.
+--------------------------------------------------End--
+{Braska}
+{Auron}, tell the jailer
+to let this man free.
+--------------------------------------------------End--
+{Auron}
+Sir.
+--------------------------------------------------End--
+{Auron}
+But I must protest...
+This drunkard a guardian?
+--------------------------------------------------End--
+{Jecht}
+Hey!
+--------------------------------------------------End--
+{Jecht}
+You want to step
+in here and say that?
+--------------------------------------------------End--
+{Braska}
+What does it matter?
+--------------------------------------------------End--
+{Braska}
+No one truly believes that I, a fallen
+summoner wed to an {Al Bhed2}...
+--------------------------------------------------End--
+{Braska}
+could possibly defeat {Sin}.
+This is what they say.
+--------------------------------------------------End--
+{Braska}
+No one expects us to succeed.
+--------------------------------------------------End--
+{Auron}
+{Braska}, sir...
+--------------------------------------------------End--
+{Braska}
+Let's show them they're wrong.
+--------------------------------------------------End--
+{Braska}
+A fallen summoner,
+a man from {Zanarkand}...
+--------------------------------------------------End--
+{Braska}
+and a warrior monk, doomed to
+obscurity for refusing the hand
+of the priest's daughter.
+--------------------------------------------------End--
+{Braska}
+What delightful irony it would
+be if we defeated {Sin}!
+--------------------------------------------------End--
+{Jecht}
+Stop gabbin' and get me outta here!
+--------------------------------------------------End--
+{Jecht}
+Ahh... Free at last!
+--------------------------------------------------End--
+{Braska}
+Now, {Jecht}...
+--------------------------------------------------End--
+{Braska}
+I am in your hands
+until we reach {Zanarkand}.
+--------------------------------------------------End--
+{Jecht}
+Right, right.
+--------------------------------------------------End--
+{Jecht}
+So, what's a summer-ner, anyway?
+--------------------------------------------------End--

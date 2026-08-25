@@ -1,0 +1,695 @@
+
+Do you know what those ruins are from?
+--------------------------------------------------End--
+{Tidus}
+Some old city?
+--------------------------------------------------End--
+
+Correct. A city most ancient!
+--------------------------------------------------End--
+
+A terrible testament to {Sin}'s power.
+I tremble every time I see them.
+--------------------------------------------------End--
+
+Compared to {Sin}, humans
+are mere mudpuppies!
+--------------------------------------------------End--
+{Yuna}
+But I believe humans are the only
+ones capable of defeating {Sin}.
+--------------------------------------------------End--
+
+A good reply. I am relieved to hear
+you say that, m'lady summoner.
+--------------------------------------------------End--
+
+Where are my manners? I am {Maechen},
+a scholar. At your service, m'lady.
+--------------------------------------------------End--
+{Maechen}
+I am on a journey, studying the
+history of our world, {Spira},
+seeking its stories and secrets...
+--------------------------------------------------End--
+{Maechen}
+My travels have taken me
+to many places, and I am troubled
+by what I have seen.
+--------------------------------------------------End--
+{Maechen}
+Fragile smiles on people's faces
+crumbling at the mere mention of {Sin}.
+--------------------------------------------------End--
+{Maechen}
+They are counting on you, m'lady.
+Give them a reason
+to rejoice once more.
+--------------------------------------------------End--
+{Yuna}
+I will.
+--------------------------------------------------End--
+
+This is a statue of Lord {Mi'ihen}.
+--------------------------------------------------End--
+{Maechen}
+This is a statue of Lord {Mi'ihen}.
+--------------------------------------------------End--
+
+Eight centuries ago, he founded a
+legion known today as the {Crusader}s.
+--------------------------------------------------End--
+{Maechen}
+Eight centuries ago, he founded a
+legion known today as the {Crusader}s.
+--------------------------------------------------End--
+
+In just a few short years after
+their founding, their ranks grew
+throughout {Spira}.
+--------------------------------------------------End--
+{Maechen}
+In just a few short years after
+their founding, their ranks grew
+throughout {Spira}.
+--------------------------------------------------End--
+
+The maesters of {Yevon2} feared
+an uprising and accused them
+of rebellion.
+--------------------------------------------------End--
+{Maechen}
+The maesters of {Yevon2} feared
+an uprising and accused them
+of rebellion.
+--------------------------------------------------End--
+
+So Lord {Mi'ihen} walked along this
+very road to go face their charges
+and refute them.
+--------------------------------------------------End--
+{Maechen}
+So Lord {Mi'ihen} walked along this
+very road to go face their charges
+and refute them.
+--------------------------------------------------End--
+
+He succeeded in winning the
+maesters' trust, and his legion
+became an arm of the {Yevon2} clergy.
+--------------------------------------------------End--
+{Maechen}
+He succeeded in winning the
+maesters' trust, and his legion
+became an arm of the {Yevon2} clergy.
+--------------------------------------------------End--
+
+It was then that {Yevon2} gave
+them the name "{Crusader}s,"
+which they have kept ever since.
+--------------------------------------------------End--
+{Maechen}
+It was then that {Yevon2} gave
+them the name "{Crusader}s,"
+which they have kept ever since.
+--------------------------------------------------End--
+
+And the rest is history.
+--------------------------------------------------End--
+{Maechen}
+And the rest is history.
+--------------------------------------------------End--
+{Maechen}
+Ah, Lady {Yuna}'s guardians,
+I presume?
+--------------------------------------------------End--
+{Maechen}
+Although this is a highroad, fiends
+do appear. Be on your guard!
+--------------------------------------------------End--
+
+Although this is a highroad,
+fiends do appear. Be on your guard!
+--------------------------------------------------End--
+
+Lady Summoner, I presume?
+--------------------------------------------------End--
+{Yuna}
+Yes, I am {Yuna}.
+--------------------------------------------------End--
+
+I am {Lucil}, captain of
+the {Djose} Chocobo Knights.
+--------------------------------------------------End--
+
+And I'm {Elma}. We've been
+charged to guard the Highroad.
+--------------------------------------------------End--
+{Lucil}
+There have been reports of a large
+fiend appearing in this area,
+with a taste for chocobos.
+--------------------------------------------------End--
+{Lucil}
+Do take care, Summoner {Yuna},
+if you are to rent any chocobos.
+--------------------------------------------------End--
+{Yuna}
+Thank you. We will be careful.
+--------------------------------------------------End--
+{Lucil}
+Good. We should get back
+to our rounds. Farewell.
+--------------------------------------------------End--
+{Elma}
+Our prayers are with you.
+--------------------------------------------------End--
+{Tidus}
+A large fiend...
+--------------------------------------------------End--
+{Tidus}
+Let's go get him!
+--------------------------------------------------End--
+{Auron}
+Why?
+--------------------------------------------------End--
+{Tidus}
+It's the right thing to do.
+--------------------------------------------------End--
+{Auron}
+It's the right thing to do?
+--------------------------------------------------End--
+{Tidus}
+What'd I say now?
+--------------------------------------------------End--
+{Auron}
+{Jecht} said that a lot, too.
+--------------------------------------------------End--
+{Auron}
+And every time he said it,
+it meant trouble for {Braska} and me.
+--------------------------------------------------End--
+
+Ah, a summoner party.
+--------------------------------------------------End--
+{Yuna}
+You, too, are a summoner?
+--------------------------------------------------End--
+
+My name is {Belgemine}.
+You are...?
+--------------------------------------------------End--
+{Yuna}
+My name is {Yuna}.
+--------------------------------------------------End--
+{Belgemine}
+Ah, the high summoner's daughter.
+I've heard much of you.
+--------------------------------------------------End--
+{Belgemine}
+But you are still fresh
+on the road, are you not?
+--------------------------------------------------End--
+{Yuna}
+Yes, I am.
+--------------------------------------------------End--
+{Belgemine}
+I might have a few
+things to teach you.
+--------------------------------------------------End--
+{Belgemine}
+Let us see which are stronger.
+My aeons or yours.
+--------------------------------------------------End--
+{Belgemine}
+A one-on-one match.
+--------------------------------------------------End--
+{Belgemine}
+Not to the death, of course.
+What do you say?
+--------------------------------------------------End--
+{Belgemine}
+Well, it's your decision.
+--------------------------------------------------End--
+{Yuna}
+I'm sorry.
+--------------------------------------------------End--
+{Belgemine}
+Tell me if you change your mind.
+--------------------------------------------------End--
+{Belgemine}
+Have you changed your mind?
+You wish to train?
+--------------------------------------------------End--
+{Yuna}
+I'll do my best!
+--------------------------------------------------End--
+{Belgemine}
+Good.
+Before we begin...
+--------------------------------------------------End--
+{Belgemine}
+Your aeons have been healed. You can
+fight with your full strength. Come.
+--------------------------------------------------End--
+{Belgemine}
+Not bad for one so young.
+I underestimated you.
+--------------------------------------------------End--
+{Belgemine}
+Take this.
+You've earned it.
+--------------------------------------------------End--
+{Belgemine}
+You need more training.
+--------------------------------------------------End--
+{Belgemine}
+But you did well.
+--------------------------------------------------End--
+{Belgemine}
+You show promise.
+--------------------------------------------------End--
+{Belgemine}
+With more training,
+you could defeat {Sin}.
+--------------------------------------------------End--
+{Yuna}
+Thank you!
+--------------------------------------------------End--
+{Yuna}
+But I think you might defeat
+{Sin} before I am able to.
+--------------------------------------------------End--
+{Belgemine}
+I cannot.
+--------------------------------------------------End--
+{Belgemine}
+Or should I say...
+I was not able to.
+--------------------------------------------------End--
+{Yuna}
+You mean...
+--------------------------------------------------End--
+{Belgemine}
+Farewell, {Yuna}.
+We'll meet again.
+--------------------------------------------------End--
+
+Hey there, guardians. Here.
+Use this to defend our summoner well.
+--------------------------------------------------End--
+
+You're a guardian, right?
+I'd like to give you this.
+--------------------------------------------------End--
+
+Please give this to the lady summoner
+as a token of my gratitude.
+--------------------------------------------------End--
+
+I hear some big operation's about to start.
+--------------------------------------------------End--
+
+I don't know what the {Crusader}s
+are up to, but I say they're way
+out of their league.
+{NEWPAGE}
+
+Let the summoners take care of Sin.
+It's the only way!
+--------------------------------------------------End--
+
+The {Crusader}s can't beat {Sin}.
+History's proven that.
+--------------------------------------------------End--
+
+Where is he?
+--------------------------------------------------End--
+
+I got separated from my brother.
+I told him to meet here if that happened!
+--------------------------------------------------End--
+
+We have to get back home
+before the operation starts!
+--------------------------------------------------End--
+
+The {Crusader}s are really active.
+--------------------------------------------------End--
+
+I heard that {Crusader}s are marching
+in from all over {Spira}.
+--------------------------------------------------End--
+
+Mum's the word. I hear the temples of
+{Yevon2} are in on this, too.
+--------------------------------------------------End--
+
+Please rest assured. On {Guado}'s
+honor, we will guard the Highroad.
+--------------------------------------------------End--
+
+We should never forget the
+folly of {Operation Mi'ihen}.
+{NEWPAGE}
+
+Such a tragedy must never
+happen again.
+--------------------------------------------------End--
+
+The operation's failure should
+prove a good lesson to those
+who shun the teachings.
+--------------------------------------------------End--
+
+I hear the ferry's back in service.
+--------------------------------------------------End--
+
+There are seven legends about
+Lord Mi'ihen's statue...
+{NEWPAGE}
+
+but they're all so absurd!
+--------------------------------------------------End--
+
+They say the eyes follow you when
+you're not looking, and that it gets up
+and walks around in the night!
+{NEWPAGE}
+
+Silly, isn't it?
+--------------------------------------------------End--
+
+There's a legend that Lord Mi'ihen's
+sword still exists somewhere.
+{NEWPAGE}
+
+I think it's just an ancient myth.
+--------------------------------------------------End--
+
+I see a large shadow in the sky sometimes.
+{NEWPAGE}
+
+It's too big to be a bird.
+What could it be?
+--------------------------------------------------End--
+
+Maybe... Nah, it can't be.
+--------------------------------------------------End--
+
+I wonder if somebody's riding that thing.
+--------------------------------------------------End--
+
+Fiends are lurking everywhere.
+I have to be on my toes constantly.
+--------------------------------------------------End--
+
+They really need to guard
+the Highroad better.
+{NEWPAGE}
+
+The {Crusader}s, the warrior monks, I don't
+care who handles it, as long as it's safe.
+--------------------------------------------------End--
+
+I suppose it's too much to ask to
+secure a remote area like this one.
+{NEWPAGE}
+
+Out here, it's every man for himself.
+--------------------------------------------------End--
+
+There's gotta be something here...
+I can feel it.
+{NEWPAGE}
+
+But no matter how hard I look,
+I can't find a thing.
+--------------------------------------------------End--
+
+There should be inscriptions
+of some sort here.
+{NEWPAGE}
+
+Aw, well... I probably wouldn't
+be able to read them anyway.
+--------------------------------------------------End--
+
+Hey! What's that?
+{NEWPAGE}
+
+Ha!
+Made you look!
+--------------------------------------------------End--
+
+A lot of people are leaving {Bevelle}. I hear the
+temple's really clamping down on things there.
+--------------------------------------------------End--
+
+I hear the priests worry more about
+themselves than the people.
+{NEWPAGE}
+
+If {Maester Mika2} were still alive,
+this never would've happened.
+--------------------------------------------------End--
+
+Maybe {Sin} fell on {Bevelle} to punish
+the temple and what it's become.
+--------------------------------------------------End--
+
+From what I hear, {Sin}'s crash into
+{Bevelle} has wreaked utter havoc on
+the city.
+--------------------------------------------------End--
+
+I hope my warrior-monk cousin
+in {Bevelle} is all right.
+--------------------------------------------------End--
+
+I wish somebody would
+hurry up and destroy {Sin}.
+--------------------------------------------------End--
+
+Lord Mi'ihen once passed
+along this road.
+{NEWPAGE}
+
+With the {Crusader}s in disarray,
+I hope to find his guidance here.
+--------------------------------------------------End--
+
+The {Crusader}s shouldn't
+focus just on fighting {Sin}.
+{NEWPAGE}
+
+We should strive to establish
+peace more than anything.
+--------------------------------------------------End--
+
+Time to buck up and get to work.
+--------------------------------------------------End--
+
+We all had a swell time singing
+when that ship flew over us.
+{NEWPAGE}
+
+But we can't truly rejoice
+until the Calm comes.
+--------------------------------------------------End--
+
+I wonder what's gonna happen to {Spira}.
+{NEWPAGE}
+
+I'm getting all discombobulated
+thinking about it too much.
+--------------------------------------------------End--
+
+I guess whatever happens happens.
+--------------------------------------------------End--
+{Clasko}
+You have to leave your chocobos here.
+--------------------------------------------------End--
+{Clasko}
+Come on, everyone off!
+--------------------------------------------------End--
+{Clasko}
+All the other {Crusader}s are
+preparing for the operation.
+--------------------------------------------------End--
+{Clasko}
+But they put me here on guard duty.
+--------------------------------------------------End--
+{Clasko}
+This is all I'm good for anyway.
+--------------------------------------------------End--
+
+Hello!
+No charge this time!
+--------------------------------------------------End--
+
+You get to ride a chocobo once for
+free, but I see you already have one.
+{NEWPAGE}
+
+You can rent one free next time, then.
+--------------------------------------------------End--
+
+Do you want to ride a chocobo?
+--------------------------------------------------End--
+
+Do you want me to teach you
+how to ride a chocobo?
+--------------------------------------------------End--
+
+Please be careful on your trip.
+--------------------------------------------------End--
+
+This is a statue of Lord {Mi'ihen}, who
+founded the {Crusader}s several
+hundred years ago.
+--------------------------------------------------End--
+
+Lord {Mi'ihen} passed along this very
+road on his way to {St. Bevelle}.
+{NEWPAGE}
+
+Ever since then, this road has been
+known as {Mi'ihen Highroad}.
+--------------------------------------------------End--
+
+Lord {Mi'ihen} faithfully followed
+the teachings, unlike the {Crusader}s
+these days.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'm okay.
+{CHOICE:31}Teach me.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}How to Ride a Chocobo{White}
+
+{Blue}Movement:{White}
+Move far:{VAR07:E4}{Direcional Up}{VAR07:60}Move near:{VAR07:E4}{Direcional Down}
+Move left:{VAR07:E4}{Direcional Left}{VAR07:60}Move right:{VAR07:E4}{Direcional Right}
+
+{Blue}Getting on and off:{White}
+Press {VAR07:E8}{Button Circle} while facing chocobo to mount.
+Press {VAR07:E8}{Button X} to dismount.
+
+Chocobos can only be ridden along the {Mi'ihen Highroad}.
+You cannot enter {Luca} or pass beyond
+the Highroad while riding a chocobo.
+--------------------------------------------------End--
+{WINDOW}
+Your chocobo will wait for you where
+you leave it unless you leave the
+{Mi'ihen Highroad} on foot or you rent
+another chocobo.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let me ride one!
+{CHOICE:31}I'll walk.
+{CHOICE:32}How do you ride a chocobo?
+--------------------------------------------------End--
+{WINDOW}
+Fee: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Fight.
+{CHOICE:31}Pass.
+--------------------------------------------------End--
+
+A statue of someone subjugating a fiend.
+--------------------------------------------------End--
+
+A statue of {Mi'ihen},
+founder of the {Crusader}s.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--
+{AREA}
+Mi'ihen Highroad
+--------------------------------------------------End--
+{WINDOW}
+
+There is a valley in a vast plain
+with a great thorn beside.
+{NEWPAGE}
+
+From the thorn look cross
+the vale to the other side.
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--

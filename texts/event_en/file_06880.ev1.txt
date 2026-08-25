@@ -1,0 +1,254 @@
+{Dona}
+Look, I'm really tired.
+Leave me.
+--------------------------------------------------End--
+{Dona}
+If it's not an emergency,
+would you mind leaving?
+--------------------------------------------------End--
+{Tidus}
+Okay.
+--------------------------------------------------End--
+{Dona}
+Wait... There's something
+I want to ask you.
+--------------------------------------------------End--
+{Dona}
+What would you think if I said
+I...I was giving up my pilgrimage?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Sure! Sounds good to me.
+{CHOICE:31}Who cares?
+--------------------------------------------------End--
+{Dona}
+Unusual.
+--------------------------------------------------End--
+{Dona}
+Most people would never
+forgive a summoner who quit.
+--------------------------------------------------End--
+{Tidus}
+Why's that?
+--------------------------------------------------End--
+{Dona}
+Behind my back, they would
+say I was abandoning my duty.
+--------------------------------------------------End--
+{Tidus}
+So, who cares?
+--------------------------------------------------End--
+{Tidus}
+Why not do your own thing and
+let them say what they want!
+--------------------------------------------------End--
+{Dona}
+Easy for you to say.
+--------------------------------------------------End--
+{Dona}
+But...you do have a point.
+--------------------------------------------------End--
+{Dona}
+Maybe {Barthello} and I should
+go someplace far away.
+--------------------------------------------------End--
+{Dona}
+Show some sympathy!
+--------------------------------------------------End--
+{Tidus}
+Oh, like all the sympathy you
+showed me first time we met?
+--------------------------------------------------End--
+{Dona}
+You're right.
+--------------------------------------------------End--
+{Dona}
+Quitting now would be
+sort of anti-climactic, no?
+--------------------------------------------------End--
+{Dona}
+Tell {Yuna} something, would you?
+--------------------------------------------------End--
+{Dona}
+Tell her she still has a rival: me!
+--------------------------------------------------End--
+{Dona}
+Tell her she'd better
+do her best, or be bested.
+--------------------------------------------------End--
+{Dona}
+You'll tell her, won't you?
+--------------------------------------------------End--
+{Dona}
+Thanks for the company.
+I feel so much better now.
+--------------------------------------------------End--
+{Dona}
+It's too cramped
+to call aeons here.
+--------------------------------------------------End--
+{Dona}
+I'll leave this fight to you.
+Show us your stuff!
+--------------------------------------------------End--
+{Isaaru}
+We'll leave the other
+compartments to you.
+--------------------------------------------------End--
+
+Years of sweat and toil to build
+it, and now {Home} is rubble!
+--------------------------------------------------End--
+
+Come, {Guado}! I challenge you!
+I will fight till you are all dust!
+--------------------------------------------------End--
+
+I must tell the other players
+in {Luca} what has happened!
+--------------------------------------------------End--
+
+My friends, they died protecting
+{summoner}. I will do the same.
+--------------------------------------------------End--
+
+We don't know how {Sin} will react.
+--------------------------------------------------End--
+
+If you are prepared, we can
+attack {Sin} at any time!
+--------------------------------------------------End--
+
+The gravity, it bends!
+And with {Sin} at the center!
+--------------------------------------------------End--
+
+{Sin} is still living.
+How will we stop it?
+--------------------------------------------------End--
+
+You attack from the front?
+It is a crazy, but delightful plan!
+--------------------------------------------------End--
+
+Let us destroy {Sin}
+once and for all!
+--------------------------------------------------End--
+
+No time for tears and shouting!
+All we must do is rebuild our {Home}.
+--------------------------------------------------End--
+
+Okay, okay!
+--------------------------------------------------End--
+
+I finally have figured out how
+it is that this ship is moved.
+--------------------------------------------------End--
+
+When you battle with {Sin}
+I will be singing too, yes!
+--------------------------------------------------End--
+
+Leave the ship to my hands!
+You go now to the deck!
+--------------------------------------------------End--
+
+The ship must be tuned to
+be ready for the final fight!
+--------------------------------------------------End--
+
+Our ship is in top shape!
+Now, go and fell the great {Sin}!
+--------------------------------------------------End--
+
+The ship is fine, even
+inside {Sin}, I think.
+--------------------------------------------------End--
+
+I hit my head when the ship shook.
+Now I have a lump!
+--------------------------------------------------End--
+
+Not scared, not scared!
+Not scared, not scared!
+--------------------------------------------------End--
+
+When will we go {Home}?
+--------------------------------------------------End--
+
+Even without our {Home}, we must
+live on! I only hope I am able.
+--------------------------------------------------End--
+
+The corridor is protected by {summoner}.
+So this room should be safe!
+--------------------------------------------------End--
+
+We left kids on the ground.
+Safer for them.
+--------------------------------------------------End--
+
+I am glad you made it back from {Bevelle}.
+They didn't welcome us last time.
+--------------------------------------------------End--
+
+I will sing here too!
+Good luck!
+--------------------------------------------------End--
+
+I wish to be done with battle,
+to see my little brother again!
+--------------------------------------------------End--
+
+Do not be lazy!
+{Sin} is right before us!
+--------------------------------------------------End--
+
+Once the {Calm} comes,
+{Home} must be rebuilt.
+--------------------------------------------------End--
+
+Poor child, he does not understand
+that our {Home} is no more.
+--------------------------------------------------End--
+
+Chased by {fiend}! We are all
+very tired, and very scared.
+--------------------------------------------------End--
+
+It pains me most to see
+the children so scared.
+--------------------------------------------------End--
+
+The {summoner} and {guardian}
+seem full of worry.
+--------------------------------------------------End--
+
+I can use a weapon!
+I will show them how {Al Bhed} fight!
+--------------------------------------------------End--
+
+These things here belong to Mister {Rin}.
+They are not yours to take!
+--------------------------------------------------End--
+
+There is much to buy,
+so do not be shy!
+--------------------------------------------------End--
+
+Do you have all that you need?
+Talk to Mister {Rin}!
+--------------------------------------------------End--
+
+We must repair the damaged ship.
+But have we the parts?
+--------------------------------------------------End--
+
+It will be a battle most violent!
+Check that you have all you need!
+--------------------------------------------------End--
+
+All that is here is at your
+disposal! Be prepared!
+--------------------------------------------------End--

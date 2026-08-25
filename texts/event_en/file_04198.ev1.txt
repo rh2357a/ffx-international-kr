@@ -1,0 +1,244 @@
+{Cid}
+Here we go!
+--------------------------------------------------End--
+{Tidus}
+Yeah!
+--------------------------------------------------End--
+{Tidus}
+I'm coming for you, Dad!
+--------------------------------------------------End--
+{Yuna}
+I wonder if Sir {Jecht} is in pain.
+--------------------------------------------------End--
+{Tidus}
+Let's just end this...quickly.
+--------------------------------------------------End--
+{Tidus}
+The {fayth} said they
+would help us, right?
+--------------------------------------------------End--
+{Yuna}
+It bothers me,
+the way they said that.
+--------------------------------------------------End--
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Yuna}
+I mean, they've been fighting
+alongside us this whole time,
+but now they say they'll help?
+--------------------------------------------------End--
+{Tidus}
+I guess so...
+--------------------------------------------------End--
+{Yuna}
+Wait!
+--------------------------------------------------End--
+{Yuna}
+{Sin} is reborn when Yu Yevon
+merges with an aeon, isn't
+that right?
+--------------------------------------------------End--
+{Yuna}
+If I summon an aeon,
+Yu Yevon will join with it.
+--------------------------------------------------End--
+{Yuna}
+But at first, it'll
+be small, won't it?
+--------------------------------------------------End--
+{Tidus}
+Yeah...
+--------------------------------------------------End--
+{Tidus}
+Then, we might be able to beat
+it without the Final Summoning.
+--------------------------------------------------End--
+{Yuna}
+I don't know. What if
+Yu Yevon jumps again?
+--------------------------------------------------End--
+{Tidus}
+Then we'll take it down again!
+--------------------------------------------------End--
+{Tidus}
+We'll fight him until
+there's no place left to run!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Yuna}
+I never thought it
+would come down to this.
+--------------------------------------------------End--
+{Tidus}
+Yeah, I know.
+--------------------------------------------------End--
+{Tidus}
+Hey, the {fayth}, they're
+tired of this whole thing, too.
+--------------------------------------------------End--
+{Tidus}
+Let's let them rest.
+--------------------------------------------------End--
+{Yuna}
+The {fayth} said it's
+pointless to keep dreaming.
+--------------------------------------------------End--
+{Yuna}
+The dream will disappear, he said.
+--------------------------------------------------End--
+{Yuna}
+What did he mean?
+--------------------------------------------------End--
+{Yuna}
+And what is it that Yu Yevon
+is summoning from within {Sin}?
+--------------------------------------------------End--
+{Tidus}
+The dream of the {fayth}.
+--------------------------------------------------End--
+{Yuna}
+You won't...go away, will you?
+--------------------------------------------------End--
+{Rikku}
+{Yunie}! Guys! Come look!
+Something's happening to {Sin}!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+GO!
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE!
+--------------------------------------------------End--
+{WINDOW}
+TIME'S UP!!!
+--------------------------------------------------End--
+{WINDOW}
+= 1st TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 2nd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 3rd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+Needletime!
+--------------------------------------------------End--
+{WINDOW}
+Needles!
+--------------------------------------------------End--
+{WINDOW}
+Whoopsie!
+--------------------------------------------------End--
+{WINDOW}
+Prickle!
+--------------------------------------------------End--
+{WINDOW}
+
+Destination Undetermined
+= Under Construction =
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Tomay{White}
+- Duties: Fetching water.
+  Takes his time and, as a
+  result, is often left
+  behind.
+- A little dim.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Rovivea{White}
+- Has no patience for
+  certain dim-witted friends.
+- Not a progressive thinker.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Chava{White}
+- Recently learned to
+  count to 50.
+- A little needy.
+- Attention deficit.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Alek & Aloja{White}
+- Two brothers, rarely separated.
+- They move as one, their closeness
+  a paragon of brotherhood.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Vachella{White}
+- Loves new things.
+- Hard on others, easy on self.
+- Stingy.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Robeya{White}
+- A real needle brain.
+- Likes cramped spaces.
+- Check out his great collection!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Isrra{White}
+- The philosopher about town.
+  Today, he digs holes. Again.
+- A cautious sort.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Elio{White}
+- To see what lies beyond the sands,
+  he travels far to distant lands.
+- Hyper-reactive and a bad poet.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Flaile{White}
+- The guy you never invite
+  but he always shows up anyway.
+- Cheeky.
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tomay's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Rovivea's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chava's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alek and Aloja's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Vachella's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Isrra's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Flaile's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Sphere del Perdedor!
+--------------------------------------------------End--

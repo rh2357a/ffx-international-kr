@@ -1,0 +1,565 @@
+{Rikku}
+Pretty please?
+Just a few minutes?
+--------------------------------------------------End--
+{Yuna}
+I'm...a little tired.
+--------------------------------------------------End--
+{Yuna}
+Do you have a room available?
+--------------------------------------------------End--
+Clerk
+Ah, Lady Summoner.
+Yes, just over that way.
+--------------------------------------------------End--
+{Yuna}
+Thank you.
+--------------------------------------------------End--
+{Wakka}
+Uh, {Yuna}?
+--------------------------------------------------End--
+{Lulu}
+It's not like her.
+--------------------------------------------------End--
+{Auron}
+It's not easy being a guardian
+to a summoner so young.
+--------------------------------------------------End--
+{Auron}
+This is going to be some journey.
+--------------------------------------------------End--
+{Wakka}
+I wonder what's wrong with {Yuna}...
+--------------------------------------------------End--
+{Wakka}
+No point asking--mood she's in.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} resting. Go away.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} said go away.
+--------------------------------------------------End--
+{Lulu}
+{Yuna} looked preoccupied.
+--------------------------------------------------End--
+{Lulu}
+Was it because of {Jyscal}?
+--------------------------------------------------End--
+{Lulu}
+Don't tell {Rikku}, but we leave
+as soon as {Yuna}'s better.
+--------------------------------------------------End--
+{Tidus}
+Are you that scared?
+--------------------------------------------------End--
+{Rikku}
+When I was little, a fiend attacked me
+while I was swimming at the beach.
+--------------------------------------------------End--
+{Rikku}
+My brother tried to
+beat it back with a spell.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+But he missed and hit me instead!
+--------------------------------------------------End--
+{Rikku}
+It was a Thunder spell -- "Bzzzzzzt!"
+--------------------------------------------------End--
+{Tidus}
+Ouch!
+--------------------------------------------------End--
+{Rikku}
+I've been scared
+of lightning ever since.
+--------------------------------------------------End--
+{Lulu}
+But...it can be effective.
+--------------------------------------------------End--
+{Lulu}
+Magic is effective
+against marine fiends.
+--------------------------------------------------End--
+{Rikku}
+My brother said that, too.
+--------------------------------------------------End--
+{Lulu}
+You should learn some spells, too.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+Hmm... Maybe later.
+--------------------------------------------------End--
+{Rin}
+Nice to see you again.
+Welcome to the {Rin} Travel Agency.
+--------------------------------------------------End--
+{Rin}
+Oh?
+--------------------------------------------------End--
+{Rikku}
+Shhh!
+--------------------------------------------------End--
+{Rin}
+Hmm.
+--------------------------------------------------End--
+{Rin}
+That is good to hear.
+--------------------------------------------------End--
+{Rin}
+Allow me to present you
+with this book for your study.
+--------------------------------------------------End--
+{Rin}
+I see.  
+--------------------------------------------------End--
+{Rin}
+Well, it may not be
+essential for daily life.
+--------------------------------------------------End--
+{Rin}
+I wonder...
+--------------------------------------------------End--
+{Rin}
+Ah, as I thought!
+--------------------------------------------------End--
+{Rin}
+I've been wondering since I saw him
+at the {Mi'ihen} Highroad branch.
+--------------------------------------------------End--
+{Rin}
+Oh... He looks so much like him.
+--------------------------------------------------End--
+{Rin}
+Sir {Auron}!
+--------------------------------------------------End--
+{Rin}
+I wonder if you remember me?
+--------------------------------------------------End--
+{Rin}
+Ten years ago?
+At the beginning of Lord {Braska}'s {Calm}?
+--------------------------------------------------End--
+{Auron}
+Yes. I should thank you.
+--------------------------------------------------End--
+{Rin}
+Not at all.
+--------------------------------------------------End--
+{Rin}
+I could not leave
+a wounded man to die.
+--------------------------------------------------End--
+{Rin}
+However, I was surprised when I saw you
+gone the next morning, with that wound.
+--------------------------------------------------End--
+{Rin}
+An ordinary man would
+not have been able to walk.
+--------------------------------------------------End--
+{Auron}
+I'd rather...drop that subject, {Rin}.
+--------------------------------------------------End--
+{Rin}
+As you wish.
+--------------------------------------------------End--
+{Rin}
+Maester {Seymor} and
+his entourage passed by a while ago.
+--------------------------------------------------End--
+{Rin}
+And the maester
+is to be married soon?
+--------------------------------------------------End--
+{Tidus}
+Excuse me, where did you hear that?
+--------------------------------------------------End--
+{Rin}
+The {Guado} are telling everyone.
+--------------------------------------------------End--
+{Tidus}
+Oh they are, are they?
+--------------------------------------------------End--
+{Rin}
+Welcome to {Rin}'s.
+--------------------------------------------------End--
+{Wakka}
+Then let's just go on
+with the journey, ya?
+--------------------------------------------------End--
+{Wakka}
+I know how you feel.
+--------------------------------------------------End--
+{Wakka}
+Let's give {Rikku}
+a kick in the butt and go.
+--------------------------------------------------End--
+{Lulu}
+We're not through the {Thunder Plains}
+yet, so be prepared, all right?
+--------------------------------------------------End--
+{Lulu}
+Did you two have a fight?
+--------------------------------------------------End--
+{Auron}
+She's not going to move
+unless we do something.
+--------------------------------------------------End--
+{Yuna}
+If it's okay with {Rikku},
+shall we go?
+--------------------------------------------------End--
+{Rikku}
+It's not stopping, is it?
+--------------------------------------------------End--
+{Auron}
+Don't tell me you were hoping it would.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Auron}
+Fine. Stay here.
+--------------------------------------------------End--
+{Rikku}
+All right, already.
+--------------------------------------------------End--
+{Rikku}
+But!
+--------------------------------------------------End--
+{Rikku}
+You didn't have to say it
+like that, you know!
+--------------------------------------------------End--
+{Rikku}
+You could be more
+comforting or something!
+--------------------------------------------------End--
+{Rikku}
+You know, try to cheer me up?
+--------------------------------------------------End--
+{Rikku}
+You just don't get me
+at all, do you?
+--------------------------------------------------End--
+{Rikku}
+Hey! Are you listening?
+--------------------------------------------------End--
+{Rikku}
+I'm not scared!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+Whatever happens,
+we're still {Yuna}'s guardians.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I know.
+{CHOICE:31}Yeah, but...
+--------------------------------------------------End--
+{Rikku}
+I'm not scared, you hear?
+--------------------------------------------------End--
+{Rin}
+How goes your study of our language?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Okay.
+{CHOICE:31}No good.
+--------------------------------------------------End--
+{Rin}
+Would that be Sir {Auron},
+by any chance?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah! That's him.
+{CHOICE:31}Nope. Wrong guy.
+--------------------------------------------------End--
+
+Bilghen Memorial Travel Agency
+There's a copy of "All About Lightning."
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Read.
+{CHOICE:31}Don't read.
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Tidus}'s Record
+{NEWPAGE}
+{VAR12:30} lightning bolts have
+struck toward {Tidus}.
+{NEWPAGE}
+He successfully dodged
+{VAR12:31} bolts total, and
+{VAR12:32} consecutive bolts.
+{NEWPAGE}
+In commemoration of {Tidus}'s
+record, the committee plans
+to present a memento.
+--------------------------------------------------End--
+
+There's an original copy of "A History
+of Summoners, Thunder Plains Edition."
+--------------------------------------------------End--
+{WINDOW}
+Long ago, fiends known as Qactuars
+roamed the {Djose Continent} freely.
+They ran rampant, ravaging fields
+and tormenting travellers.
+{NEWPAGE}
+Then Lord {Gandof} appeared--a man
+later to become high summoner.
+He scoured the continent for the
+Qactuars and drove them to these plains.
+{NEWPAGE}
+Once he'd gathered the Qactuars together,
+Lord {Gandof} linked the sign of {Button Square},
+whereupon the Qactuars turned to smoke
+and were absorbed by a stone.
+{NEWPAGE}
+The Qactuars were thus sealed into stone,
+fated to face lightning day and night.
+{NEWPAGE}
+Until someone again links the {Button Square} sign
+and releases the seal, they shall
+suffer within the stone for their deeds.
+{NEWPAGE}
+Thus did Lord {Gandof} bring relief to
+peoples all over {Spira}. He believed
+that the battle with Sin was only one
+part of a summoner's greater mission.
+--------------------------------------------------End--
+
+Welcome to {Rin Travel Agency}!
+--------------------------------------------------End--
+
+We have a wide selection of quality
+merchandise to choose from.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Rest.
+{CHOICE:31}Buy weapons.
+{CHOICE:32}Buy items.
+{CHOICE:33}Leave.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XIV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}H{White} {RIGHT} {Pink}N{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

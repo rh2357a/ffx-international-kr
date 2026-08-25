@@ -1,0 +1,89 @@
+{O'aka}
+More than the {Guado}, at least.
+What do ye say?
+--------------------------------------------------End--
+{O'aka}
+Ohhh!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got anything?
+{CHOICE:31}Let's chat!
+{CHOICE:32}Forget it.
+--------------------------------------------------End--
+{O'aka}
+Thank ye!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{O'aka}
+{O'aka}, at yer service!
+--------------------------------------------------End--
+{O'aka}
+I tell ye, these {Guado}
+merchants are shrewd!
+--------------------------------------------------End--
+{O'aka}
+Rippin' off the pilgrims that
+come to visit the {Farplane}!
+--------------------------------------------------End--
+{O'aka}
+Listen, you watch that
+they don't get you, too!
+--------------------------------------------------End--
+{O'aka}
+Me, ye can trust!
+--------------------------------------------------End--
+
+My husband has long served as a guardian
+to the leaders of the {Guado}.
+{NEWPAGE}
+
+These days he accompanies Lord {Seymor}
+all over {Spira}.
+--------------------------------------------------End--
+
+We imagine Lord {Seymor} will rise to
+great glory in {Spira}.
+--------------------------------------------------End--
+
+For countless years, we {Guado} shunned
+the teachings of {Yevon2}.
+{NEWPAGE}
+
+But thanks to the late Lord {Jyscal},
+our bonds with the temple grew strong.
+--------------------------------------------------End--
+
+I heard that Lord {Seymor} studied
+the teachings in {Macalania}.
+--------------------------------------------------End--
+
+I believe that Lord {Seymor}
+will return for us.
+{NEWPAGE}
+
+But whether he will save us
+or destroy us, I know not.
+--------------------------------------------------End--
+
+Ah, one of Lady {Yuna}'s guardians.
+How may I help you today?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Buy weapons.
+{CHOICE:31}Buy items.
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+I have nothing special,
+but I hope I can be of aid.
+--------------------------------------------------End--
+
+Please return anytime.
+--------------------------------------------------End--
+
+If it please you, do come again.
+--------------------------------------------------End--

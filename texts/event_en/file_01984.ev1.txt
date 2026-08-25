@@ -1,0 +1,453 @@
+
+All hail Maester {Seymor}!
+--------------------------------------------------End--
+{Seymor}
+Brave {Crusader}s of {Spira},
+protectors of all {Spira}.
+--------------------------------------------------End--
+{Seymor}
+Believe in the path you have chosen,
+let faith be your strength!
+--------------------------------------------------End--
+{Seymor}
+I, {Seymor} {Guado}, maester of {Yevon2},
+will bear witness to your deeds today.
+--------------------------------------------------End--
+{WINDOW}
+
+Sir!
+--------------------------------------------------End--
+{Wakka}
+What's goin' on?
+--------------------------------------------------End--
+{Wakka}
+Why's Maester {Seymor} backing
+the {Crusader}s, eh?
+--------------------------------------------------End--
+{Wakka}
+They're using the {Al Bhed}'s machina!
+They're violating the teachings!
+--------------------------------------------------End--
+{Yuna}
+Even going against the teachings
+they're willing to risk
+it for the greater good.
+--------------------------------------------------End--
+{Yuna}
+Wakka, I think Maester
+{Seymor} sees that, too.
+--------------------------------------------------End--
+{Wakka}
+{Lulu}?
+--------------------------------------------------End--
+{Lulu}
+Hmm... I can only speculate.
+--------------------------------------------------End--
+{Auron}
+Ask him yourself.
+--------------------------------------------------End--
+{Seymor}
+Ah, Sir {Auron}. It is an honor.
+--------------------------------------------------End--
+{Seymor}
+I would be most interested
+in hearing what you've been
+doing these past ten years.
+--------------------------------------------------End--
+{Auron}
+I've got nothing to say about it.
+--------------------------------------------------End--
+{Seymor}
+I...see.
+--------------------------------------------------End--
+{Seymor}
+Sir {Auron} must be a
+great asset as a guardian.
+--------------------------------------------------End--
+{Yuna}
+Your Grace!
+--------------------------------------------------End--
+{Seymor}
+Please, there's no need for formalities.
+--------------------------------------------------End--
+{Wakka}
+Excuse me...
+--------------------------------------------------End--
+{Wakka}
+Maester {Seymor}?
+--------------------------------------------------End--
+{Wakka}
+Why is your Lordship...
+presently...present here...sir?
+--------------------------------------------------End--
+{Seymor}
+Please, speak as you normally would.
+--------------------------------------------------End--
+{Wakka}
+Isn't this operation against the teachings
+of {Yevon2}? Aren't you gonna stop them?
+--------------------------------------------------End--
+{Seymor}
+It's true... I should.
+--------------------------------------------------End--
+{Seymor}
+However...
+--------------------------------------------------End--
+{Seymor}
+Both the {Crusader}s and the {Al Bhed}
+truly wish peace for {Spira}.
+--------------------------------------------------End--
+{Seymor}
+This {Operation Mi'ihen} was born
+from that wish they share.
+--------------------------------------------------End--
+{Seymor}
+Although it may be sacrilege to
+{Yevon2}, their intentions are pure.
+--------------------------------------------------End--
+{Seymor}
+And I, {Seymor} {Guado}--
+the person, not the maester of {Yevon2}...
+--------------------------------------------------End--
+{Seymor}
+As a denizen of {Spira},
+I wish them well in their endeavor.
+--------------------------------------------------End--
+{Wakka}
+But, using machina...
+That's bad, isn't it?
+--------------------------------------------------End--
+{Seymor}
+Pretend you didn't see them.
+--------------------------------------------------End--
+{Wakka}
+Beg your pardon, but that's not
+something a maester should say!
+--------------------------------------------------End--
+{Seymor}
+Then, pretend I didn't say it.
+--------------------------------------------------End--
+{Wakka}
+You're kidding!
+--------------------------------------------------End--
+
+From the first time I laid eyes on him,
+I never did like {Seymor}...
+--------------------------------------------------End--
+
+But you know, some of the things he said
+that day... They made a lot of sense to me.
+--------------------------------------------------End--
+{Clasko}
+Excuse me, Lady Summoner {Yuna}?
+--------------------------------------------------End--
+{Yuna}
+Yes?
+--------------------------------------------------End--
+{Clasko}
+The command center...
+--------------------------------------------------End--
+{Clasko}
+Maester {Seymor} requests
+your presence there, ma'am.
+--------------------------------------------------End--
+{Yuna}
+Thank you.
+--------------------------------------------------End--
+{Clasko}
+Take that road to the
+command center. It's not far.
+--------------------------------------------------End--
+{Clasko}
+We're still in the midst of
+preparations this way. Sorry.
+--------------------------------------------------End--
+{Clasko}
+No, not this way, that way.
+I guess I'm not good at explaining.
+--------------------------------------------------End--
+{Clasko}
+I'm just doing my job.
+--------------------------------------------------End--
+{Clasko}
+I know, I know.
+I don't even make a good guide.
+--------------------------------------------------End--
+{Clasko}
+Much less a member of the
+proud order of Chocobo Knights.
+--------------------------------------------------End--
+{Clasko}
+Captain {Lucil} yells at me
+all the time. I'm a disgrace.
+--------------------------------------------------End--
+{Clasko}
+I'm just a good-for-nothing.
+--------------------------------------------------End--
+{Tidus}
+Come on, don't say that!
+Everyone's good at something!
+--------------------------------------------------End--
+{Clasko}
+No, no...
+I deserve it anyway.
+--------------------------------------------------End--
+
+Here, this should come in handy.
+--------------------------------------------------End--
+
+The {Crusader}s supplied us
+with some goods. Here you go.
+--------------------------------------------------End--
+
+Here, take this, and try to
+stay out of our way, okay?
+--------------------------------------------------End--
+
+You must take full precautions here.
+Please use this if the need arises.
+--------------------------------------------------End--
+
+Stay alert during your trip.
+I hope this helps.
+--------------------------------------------------End--
+
+We're sealing off this area for the
+operation. All passage will be denied.
+--------------------------------------------------End--
+
+Maester {Seymor} got you in,
+and now you wanna leave?
+--------------------------------------------------End--
+
+{Yevon2} did not forsake us after all.
+Now we can fight without regret.
+--------------------------------------------------End--
+
+I've dispatched my men on patrol.
+Fiends have infested the area.
+--------------------------------------------------End--
+
+{Master Seymor} came to witness our
+deeds here today. We will destroy Sin,
+even if it means our lives!
+--------------------------------------------------End--
+
+I must relay Lord {Seymor}'s message
+to the men. This will be great for morale!
+--------------------------------------------------End--
+
+I guess we have {Yevon2}'s blessing, since
+the maester himself wished us good fortune.
+--------------------------------------------------End--
+
+Who knows, Maester {Seymor} might
+even summon aeons and fight alongside us.
+--------------------------------------------------End--
+{Wakka}
+Curse these...!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+He really hates them, huh?
+--------------------------------------------------End--
+{Lulu}
+{Chappu}...
+--------------------------------------------------End--
+{Lulu}
+He left the sword {Wakka}
+gave him in {Besaid}.
+--------------------------------------------------End--
+{Lulu}
+And he fought with an {Al Bhed}
+machina weapon instead.
+--------------------------------------------------End--
+{Wakka}
+That's got nothing to do with it!
+--------------------------------------------------End--
+{Wakka}
+I just hate these
+sacrilegious contraptions!
+--------------------------------------------------End--
+
+I will be the one to finish {Sin} off.
+--------------------------------------------------End--
+
+We will use the ancient {machina}
+to destroy {Sin}.
+--------------------------------------------------End--
+
+The {Yevon2} fools will soon witness
+the power of the {Al Bhed}.
+--------------------------------------------------End--
+
+The cannon got out of place when we fired
+a test shot. Packed too much powder, I guess.
+--------------------------------------------------End--
+
+I have to set her in
+place before the operation.
+--------------------------------------------------End--
+
+Once {Sin} emerges from the sea,
+we'll commence firing.
+{NEWPAGE}
+
+Our shots should stun it long enough
+for the {Al Bhed} machina to finish it off.
+--------------------------------------------------End--
+
+We just fired a test shot,
+and this puppy roars!
+{NEWPAGE}
+
+It near knocked me out. Heck, it
+probably echoed as far as {Luca}!
+--------------------------------------------------End--
+
+{Sin}'s gonna be a huge target.
+We probably won't even have to aim.
+--------------------------------------------------End--
+{O'aka}
+Welcome to {O'aka}'s! The operation's
+only shop, open fer business!
+--------------------------------------------------End--
+{O'aka}
+Good day, lad!
+--------------------------------------------------End--
+{O'aka}
+Sneaked past the guards, I did!
+--------------------------------------------------End--
+{O'aka}
+Be makin' a fortune with
+"{Operation Mi'ihen}" prices!
+--------------------------------------------------End--
+{O'aka}
+But you, lad, you get a discount!
+I owes ya one, eh?
+--------------------------------------------------End--
+{O'aka}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+
+The warrior monks and the {Guado2}
+have joined forces to guard the Highroad.
+{NEWPAGE}
+
+Normally, it is the {Crusader}s' duty.
+{NEWPAGE}
+
+Maesters {Maester Kinoc} and {Seymor}
+consider the people's safety above all.
+--------------------------------------------------End--
+
+The {Crusader}s have done their duty.
+From now on, the warrior monks and
+the {Guado} will protect {Spira}.
+--------------------------------------------------End--
+
+I'm just a measly sentry now
+that the {Crusader}s failed.
+{NEWPAGE}
+
+Why do I have to suffer for
+what those faithless morons did?
+--------------------------------------------------End--
+
+The {Guado2} are pretty brusque,
+but they make reliable comrades.
+--------------------------------------------------End--
+
+Fiends are on the rampage!
+Be on your guard.
+--------------------------------------------------End--
+
+After {Operation Mi'ihen}, the
+warrior monks took over the
+Highroad guard duty.
+{NEWPAGE}
+
+But now they've pulled out, saying
+that they must protect {Bevelle}.
+{NEWPAGE}
+
+It seems it's time that we
+{Crusader}s resume our duty here.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let him be.
+{CHOICE:31}Cheer him up.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Up
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Down
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Rusty Sword}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+What is a statue of
+{Mi'ihen} doing here?
+--------------------------------------------------End--
+
+There's a {Yellow}sword{White} here, too...
+An offering to {Mi'ihen}?
+--------------------------------------------------End--
+
+It's a statue of someone. Looks like
+the same one that was in {Mi'ihen Highroad}.
+--------------------------------------------------End--
+
+There's a {Yellow}sword{White} here, too...
+What is its significance?
+--------------------------------------------------End--
+
+It won't open.
+--------------------------------------------------End--
+
+The {Yellow}{Celestial Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Celestial Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+The {Yellow}{Cloudy Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Cloudy Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+Not enough energy...
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Kilika Port
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--
+{AREA}
+Mushroom Rock Road
+--------------------------------------------------End--
+{AREA}
+Temple of Yevon-Djose
+--------------------------------------------------End--

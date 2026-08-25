@@ -1,0 +1,103 @@
+{Tidus}
+{Yuna}?
+--------------------------------------------------End--
+{Wakka}
+Inside, maybe?
+--------------------------------------------------End--
+{Tidus}
+Then what are we
+standing here for?
+--------------------------------------------------End--
+{Wakka}
+H-Hey!
+--------------------------------------------------End--
+{Tidus}
+You can stuff your taboos!
+--------------------------------------------------End--
+{Kinoc}
+There's the last of them.
+--------------------------------------------------End--
+{Kinoc}
+You are to stand trial.
+--------------------------------------------------End--
+{Auron}
+I expect it will be a fair trial.
+--------------------------------------------------End--
+{Kinoc}
+Of course it will.
+--------------------------------------------------End--
+{Shelinda}
+I'm afraid the grand maester
+is nowhere to be found!
+--------------------------------------------------End--
+{Tidus}
+S'okay, we were just leaving.
+--------------------------------------------------End--
+{Shelinda}
+Oh...I see.
+--------------------------------------------------End--
+{Rikku}
+Hey!
+--------------------------------------------------End--
+{Rikku}
+Maybe you could
+help us with the hymn.
+--------------------------------------------------End--
+{Tidus}
+Hey, good idea!
+--------------------------------------------------End--
+{Rikku}
+It's like, we need you to tell
+as many people as you can.
+--------------------------------------------------End--
+{Shelinda}
+What should I tell them?
+--------------------------------------------------End--
+{Rikku}
+A ship in the sky will
+sing the Hymn of the Fayth.
+--------------------------------------------------End--
+{Rikku}
+When they hear it,
+we need everyone to sing along!
+--------------------------------------------------End--
+{Wakka}
+Everyone in Spira!
+--------------------------------------------------End--
+{Shelinda}
+I'm not sure I understand.
+--------------------------------------------------End--
+{Rikku}
+You don't have to!
+Just tell everyone!
+--------------------------------------------------End--
+{Shelinda}
+A ship in the sky will
+sing the Hymn of the Fayth?
+--------------------------------------------------End--
+{Shelinda}
+So when they hear it,
+everyone should sing along, correct?
+--------------------------------------------------End--
+{Tidus}
+If they do, we might
+be able to defeat {Sin}!
+--------------------------------------------------End--
+{Shelinda}
+Truly?
+--------------------------------------------------End--
+{Yuna}
+Yes!
+--------------------------------------------------End--
+{Shelinda}
+That's wonderful!
+--------------------------------------------------End--
+{Shelinda}
+You can count on me!
+I shall tell all of Spira!
+--------------------------------------------------End--
+{WINDOW}
+Save current game?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--

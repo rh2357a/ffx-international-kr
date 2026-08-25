@@ -1,0 +1,290 @@
+{Yunalesca}
+Have you chosen the one
+to become your {fayth}?
+--------------------------------------------------End--
+{Yunalesca}
+Who will it be?
+--------------------------------------------------End--
+{Yuna}
+Might I ask something first?
+--------------------------------------------------End--
+{Yuna}
+Will {Sin} come back even should I
+use the Final Summoning to defeat it?
+--------------------------------------------------End--
+{Yunalesca}
+{Sin} is eternal.
+--------------------------------------------------End--
+{Yunalesca}
+Every aeon that defeats it
+becomes {Sin} in its place...
+--------------------------------------------------End--
+{Yunalesca}
+And thus is {Sin} reborn.
+--------------------------------------------------End--
+{Tidus}
+So that's why {Jecht}
+became {Sin}.
+--------------------------------------------------End--
+{Yunalesca}
+{Sin} is an inevitable part of
+{Spira}'s destiny. It is neverending.
+--------------------------------------------------End--
+{Wakka}
+Neverending?
+--------------------------------------------------End--
+{Wakka}
+But...but...if we atone for our crimes,
+{Sin} will stop coming back, ya?
+--------------------------------------------------End--
+{Wakka}
+Someday, it'll be gone, ya?
+--------------------------------------------------End--
+{Yunalesca}
+Will humanity ever
+attain such purity?
+--------------------------------------------------End--
+{Lulu}
+This...this cannot be!
+--------------------------------------------------End--
+{Lulu}
+The teachings state that we can
+exorcise {Sin} with complete atonement!
+--------------------------------------------------End--
+{Lulu}
+It's been our only
+hope all these years!
+--------------------------------------------------End--
+{Yunalesca}
+Hope is...comforting.
+--------------------------------------------------End--
+{Yunalesca}
+It allows us to accept fate,
+however tragic it might be.
+--------------------------------------------------End--
+{Auron}
+No!
+--------------------------------------------------End--
+{Tidus}
+No!
+--------------------------------------------------End--
+{Auron}
+Where is the sense in all this?
+--------------------------------------------------End--
+{Auron}
+{Braska} believed in {Yevon2}'s
+teachings and died for them!
+--------------------------------------------------End--
+{Auron}
+{Jecht} believed in {Braska}
+and gave his life for him!
+--------------------------------------------------End--
+{Yunalesca}
+They chose to die...
+because they had hope.
+--------------------------------------------------End--
+{Yunalesca}
+{Yevon2}'s teachings and
+the Final Summoning give
+the people of {Spira} hope.
+--------------------------------------------------End--
+{Yunalesca}
+Without hope, they would
+drown in their sorrow.
+--------------------------------------------------End--
+{Yunalesca}
+Now, choose.
+Who will be your {fayth}?
+--------------------------------------------------End--
+{Yunalesca}
+Who will be the one to
+renew {Spira}'s hope?
+--------------------------------------------------End--
+{Yuna}
+No one.
+--------------------------------------------------End--
+{Yunalesca}
+No. It is our only hope.
+--------------------------------------------------End--
+{Yunalesca}
+Your father sacrificed himself
+to give that hope to the people.
+--------------------------------------------------End--
+{Yunalesca}
+So they would forget sorrow.
+--------------------------------------------------End--
+{Yunalesca}
+Sorrow cannot be abolished.
+It is meaningless to try.
+--------------------------------------------------End--
+{Yunalesca}
+Poor creature.
+--------------------------------------------------End--
+{Yunalesca}
+You would throw away hope.
+--------------------------------------------------End--
+{Yunalesca}
+Well...
+--------------------------------------------------End--
+{Yunalesca}
+I will free you before you
+can drown in your sorrow.
+--------------------------------------------------End--
+{Yunalesca}
+It is better for you to die in
+hope than to live in despair.
+--------------------------------------------------End--
+{Yunalesca}
+Let me be your liberator.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} needs {Kimahri}.
+{Kimahri} protect {Yuna}.
+--------------------------------------------------End--
+{Rikku}
+Well, I'm fighting!
+--------------------------------------------------End--
+{Wakka}
+I can't believe we're gonna
+fight Lady {Yunalesca}! Gimme a break!
+--------------------------------------------------End--
+{Lulu}
+You can always run.
+--------------------------------------------------End--
+{Lulu}
+My thoughts exactly.
+--------------------------------------------------End--
+{Yunalesca}
+If I die, so does the Final Aeon.
+--------------------------------------------------End--
+{Yunalesca}
+And with it, {Spira}'s only hope.
+--------------------------------------------------End--
+{Tidus}
+Then we'll find {Spira} a new hope!
+--------------------------------------------------End--
+{Yunalesca}
+Fool. There is no other way.
+--------------------------------------------------End--
+{Yunalesca}
+Even if there was...
+Even if you did destroy {Sin}...
+--------------------------------------------------End--
+{Yunalesca}
+Yu Yevon the immortal
+would only create {Sin} anew.
+--------------------------------------------------End--
+{Tidus}
+Yu Yevon!?
+--------------------------------------------------End--
+{Yunalesca}
+Ah... {Zaon}...
+Forgive me...
+--------------------------------------------------End--
+{Yunalesca}
+{Spira} has been robbed of the light
+of hope... All that remains is sorrow.
+--------------------------------------------------End--
+{Yuna}
+I cannot believe what we just did.
+--------------------------------------------------End--
+{Tidus}
+Let's do something more unbelievable.
+--------------------------------------------------End--
+{Rikku}
+What?
+--------------------------------------------------End--
+{Tidus}
+I don't know how just yet.
+But I'll find out.
+--------------------------------------------------End--
+{Yuna}
+I would have gladly died.
+--------------------------------------------------End--
+{Yuna}
+I live for the people of {Spira},
+and would have gladly died for them.
+--------------------------------------------------End--
+{Yuna}
+But no more!
+The Final Summoning...
+--------------------------------------------------End--
+{Yuna}
+is a false tradition that
+should be thrown away.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+Wrong.
+--------------------------------------------------End--
+{Yuna}
+My father... My father wanted...
+--------------------------------------------------End--
+{Yuna}
+to make {Spira}'s sorrow go away.
+--------------------------------------------------End--
+{Yuna}
+Not just cover it up with lies!
+--------------------------------------------------End--
+{Yuna}
+My father... I loved him.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+So I...
+--------------------------------------------------End--
+{Yuna}
+I will live with my sorrow,
+I will live my own life!
+--------------------------------------------------End--
+{Yuna}
+I will defeat sorrow, in his place.
+--------------------------------------------------End--
+{Yuna}
+I will stand my ground and be strong.
+--------------------------------------------------End--
+{Yuna}
+I don't know when it will be
+but someday, I will conquer it.
+--------------------------------------------------End--
+{Yuna}
+And I will do it without...false hope.
+--------------------------------------------------End--
+{Auron}
+Now! This is it!
+--------------------------------------------------End--
+{Auron}
+Now is the time to choose!
+--------------------------------------------------End--
+{Auron}
+Die and be free of pain
+or live and fight your sorrow!
+--------------------------------------------------End--
+{Auron}
+Now is the time to shape your stories! 
+Your fate is in your hands!
+--------------------------------------------------End--
+{Wakka}
+Hah!
+--------------------------------------------------End--
+{Wakka}
+I'd never forgive myself--no way!
+Not if I ran away now.
+--------------------------------------------------End--
+{Wakka}
+Even in death, ya!
+--------------------------------------------------End--
+{Tidus}
+{Yuna}!
+--------------------------------------------------End--
+{Tidus}
+This is our story! Now let's see
+this thing through together.
+--------------------------------------------------End--
+{Tidus}
+Destroy {Sin}.
+--------------------------------------------------End--
+{Tidus}
+So it won't come back,
+and without the Final Aeon.
+--------------------------------------------------End--

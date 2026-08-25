@@ -1,0 +1,105 @@
+
+You're not gonna get better overnight
+with just any old training.
+{NEWPAGE}
+
+I suggest you ask the Goers
+for some tips instead.
+--------------------------------------------------End--
+
+It's already late.
+You should go get some rest.
+--------------------------------------------------End--
+
+You're from {Zanarkand}? Everyone on
+the ship's been talking about you.
+--------------------------------------------------End--
+
+You've got the biggest mouth
+of any blitzer I've ever seen!
+--------------------------------------------------End--
+
+No offense, but I'm a
+diehard {Luca Goers} fan.
+{NEWPAGE}
+
+Good luck, pal.
+You're gonna need it.
+--------------------------------------------------End--
+
+Maybe you're better off asking
+the Goers to coach you.
+--------------------------------------------------End--
+
+We're lucky that we didn't run
+into any fiends on the open sea.
+--------------------------------------------------End--
+
+I admire your zeal, but we're gonna
+leave you behind if you do that again.
+--------------------------------------------------End--
+
+We have two summoners
+and the Goers onboard.
+{NEWPAGE}
+
+It is my responsibility to carry
+them safely to their destination.
+--------------------------------------------------End--
+
+What, the {Besaid Aurochs}?
+They're more like cargo.
+--------------------------------------------------End--
+
+We're doing double duty on the watch
+to avoid ending up like the {S.S. Liki}.
+{NEWPAGE}
+
+Report to us immediately
+if you see any sign of {Sin}.
+--------------------------------------------------End--
+
+This ship is just a ferry.
+We're doomed if we run into {Sin}.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. V!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}A{White} {RIGHT} {Pink}E{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

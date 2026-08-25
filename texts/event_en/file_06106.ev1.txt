@@ -1,0 +1,228 @@
+
+Summoner {Yuna}, welcome.
+--------------------------------------------------End--
+{Yuna}
+Who are you?
+--------------------------------------------------End--
+
+{Belgemine}, keeper of Remiem.
+--------------------------------------------------End--
+{Yuna}
+You, too, are a summoner?
+--------------------------------------------------End--
+{Belgemine}
+I was once.
+--------------------------------------------------End--
+{Auron}
+You're dead.
+--------------------------------------------------End--
+{Belgemine}
+I died trying to defeat {Sin}.
+But I couldn't let go.
+--------------------------------------------------End--
+{Belgemine}
+I remain here to help others
+accomplish what I could not.
+--------------------------------------------------End--
+{Belgemine}
+I challenge you: If you cannot
+beat me, you'll never beat {Sin}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'll do my best.
+{CHOICE:31}Perhaps later.
+--------------------------------------------------End--
+{Belgemine}
+Welcome, {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+What is this place?
+--------------------------------------------------End--
+{Belgemine}
+Remiem Temple.
+--------------------------------------------------End--
+{Belgemine}
+Once a great religious center
+in the {Calm Lands}, lost after
+the battle with {Sin}.
+--------------------------------------------------End--
+{Tidus}
+And this is your home? What?
+You got something against company?
+--------------------------------------------------End--
+{Belgemine}
+It's a long story.
+Easier perhaps to show you.
+--------------------------------------------------End--
+{Tidus}
+You're dead, too?
+--------------------------------------------------End--
+{Belgemine}
+Don't send me just yet.
+--------------------------------------------------End--
+{Belgemine}
+There is still one thing
+left for me to do here.
+--------------------------------------------------End--
+{Belgemine}
+With the help I can give,
+a young summoner might just
+be able to defeat {Sin}.
+--------------------------------------------------End--
+{Belgemine}
+Well, {Yuna}?
+--------------------------------------------------End--
+{Belgemine}
+I challenge you: if you cannot
+beat me, you'll never beat {Sin}.
+--------------------------------------------------End--
+{Belgemine}
+Well, {Yuna}, shall we see how
+well your training serves you?
+--------------------------------------------------End--
+{Belgemine}
+I will be the judge of your
+aeons' strength. Are you
+good enough, I wonder?
+--------------------------------------------------End--
+{Belgemine}
+You've got quite a name to
+live up to, daughter of {Braska}. 
+--------------------------------------------------End--
+{Belgemine}
+If you've got what it takes to beat
+{Sin}, I should be no more than a
+bump in your path, right?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Ixion
+{CHOICE:33}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Ixion
+{CHOICE:33}Shiva
+{CHOICE:34}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Ixion
+{CHOICE:33}Shiva
+{CHOICE:34}Bahamut
+{CHOICE:35}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Ixion
+{CHOICE:33}Shiva
+{CHOICE:34}Bahamut
+{CHOICE:35}Yojimbo
+{CHOICE:36}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Ixion
+{CHOICE:33}Shiva
+{CHOICE:34}Bahamut
+{CHOICE:35}Yojimbo
+{CHOICE:36}Anima
+{CHOICE:37}Quit
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Valefor
+{CHOICE:31}Ifrit
+{CHOICE:32}Ixion
+{CHOICE:33}Shiva
+{CHOICE:34}Bahamut
+{CHOICE:35}Yojimbo
+{CHOICE:36}Anima
+{CHOICE:37}Magus Sisters
+{CHOICE:38}Quit
+--------------------------------------------------End--
+{Belgemine}
+Hmm... I see.
+--------------------------------------------------End--
+{Belgemine}
+Very well.
+Before we begin...
+--------------------------------------------------End--
+{Belgemine}
+Now, are you ready?
+--------------------------------------------------End--
+{Belgemine}
+You have made some progress,
+and for that I am glad.
+--------------------------------------------------End--
+{Belgemine}
+Take this.
+It may come in handy.
+--------------------------------------------------End--
+{Yuna}
+Thank you! Perhaps you'll
+teach me again someday?
+--------------------------------------------------End--
+{Belgemine}
+That's not possible.
+--------------------------------------------------End--
+{Belgemine}
+You have already surpassed
+your father. There is nothing
+more I can teach you.
+--------------------------------------------------End--
+{Belgemine}
+My work here on {Spira} is done.
+Time for me to go.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+Send her.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Perform sending.
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Belgemine}
+It is in your hands.
+--------------------------------------------------End--
+{Belgemine}
+Destroy {Sin} and save {Spira}.
+--------------------------------------------------End--
+
+The doors are sealed by a strange power.
+--------------------------------------------------End--
+
+Try using {Blossom Crown}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Use.
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+Try using {Flower Scepter}?
+--------------------------------------------------End--
+
+You've broken the seal...
+--------------------------------------------------End--
+
+but not completely.
+--------------------------------------------------End--

@@ -1,0 +1,169 @@
+{Tidus}
+What is this place?
+--------------------------------------------------End--
+{Lulu}
+Seven hundred years ago...
+--------------------------------------------------End--
+{Lulu}
+a monk who defied the
+teachings was sentenced here.
+--------------------------------------------------End--
+{Wakka}
+Oh, the traitor Omega, ya?
+--------------------------------------------------End--
+{Yuna}
+Omega's loathing of {Yevon2}
+has turned him into a fiend.
+--------------------------------------------------End--
+{Wakka}
+They say he liked it
+underground, out of the light.
+--------------------------------------------------End--
+{Tidus}
+So he's here?
+--------------------------------------------------End--
+{Auron}
+Scared?
+--------------------------------------------------End--
+{Tidus}
+Not a chance!
+--------------------------------------------------End--
+{Wakka}
+You're kidding me!
+--------------------------------------------------End--
+{Auron}
+That was not Omega.
+--------------------------------------------------End--
+{Auron}
+Just a shadow, born
+from Omega's wrath.
+--------------------------------------------------End--
+{Wakka}
+What, so the main man's still around?
+--------------------------------------------------End--
+{Tidus}
+Come on out, Omega!
+--------------------------------------------------End--
+{Yuna}
+When we meet, I will send it.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} appears.
+--------------------------------------------------End--
+
+{WINDOW}
+{WINDOW}
+A {Yellow}glyph{White} glows on the wall.
+--------------------------------------------------End--
+
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXVI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}W{White} {RIGHT} {Pink}Z{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

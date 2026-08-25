@@ -1,0 +1,568 @@
+
+
+--------------------------------------------------End--
+{Wakka}
+Where'd you meet
+Sir {Auron}, anyway?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'm not telling.
+{CHOICE:31}{Zanarkand}.
+--------------------------------------------------End--
+{Wakka}
+Ah, never mind.
+--------------------------------------------------End--
+{Wakka}
+{Sin}'s toxin sure is
+taking its time wearing off.
+--------------------------------------------------End--
+{Wakka}
+Anyway, I knew you'd find
+someone you knew here.
+--------------------------------------------------End--
+{Wakka}
+We'll be taking the {Blue}
+{Mi'ihen} Highroad{White} north,
+toward {Blue}{Djose} Temple{White}.
+--------------------------------------------------End--
+{Lulu}
+You're a real guardian now,
+so no mistakes. Understood?
+--------------------------------------------------End--
+{Auron}
+Remember, you're suffering from
+{Sin}'s toxin.
+Don't say otherwise.
+--------------------------------------------------End--
+
+There are so many people
+fleeing {Bevelle}. They say
+it's utter chaos over there.
+--------------------------------------------------End--
+
+Their owner's a {Crusader}
+and he hasn't returned yet...
+--------------------------------------------------End--
+
+They haven't eaten at all.
+They're waiting for their
+master to come home and feed them.
+--------------------------------------------------End--
+
+Their owner's a {Crusader}.
+I'm only looking after 'em
+while the operation's going on.
+--------------------------------------------------End--
+
+I'd hate to see these fellas left
+on their own. I hope their owner
+returns safely.
+--------------------------------------------------End--
+
+The {Crusader}s are guarding the stadium.
+If any fiends appear, we'll destroy
+them even if it means our lives.
+--------------------------------------------------End--
+
+I heard Lady {Yuna} is to marry. We will
+keep watch at the wedding to ensure
+nothing disrupts that happy day.
+--------------------------------------------------End--
+
+The warrior monks will defend
+{Luca} and keep the stadium
+secure. You can count on it.
+--------------------------------------------------End--
+
+Nothing you say will sway us.
+The {Crusader}s will proceed with
+the operation as planned.
+--------------------------------------------------End--
+
+I am well aware of the risks of this
+mission. But we cannot simply run away.
+--------------------------------------------------End--
+
+The Crusaders are kicking up a real
+ruckus down the Highroad. This operation
+of theirs is getting out of hand.
+--------------------------------------------------End--
+
+Well, if they really can wipe out {Sin},
+I guess it's worth a little confusion.
+--------------------------------------------------End--
+
+The youth of {Luca} are flocking
+to the {Crusader}s in droves!
+Lord Mi'ihen would be proud.
+--------------------------------------------------End--
+
+I hope the surviving {Crusader}s
+rest well and recover quickly.
+--------------------------------------------------End--
+
+I tried to stop the {Crusader}s,
+but I tell you, those youngsters
+won't listen to anybody!
+--------------------------------------------------End--
+
+I fear {Sin} will crush them
+and teach them just how futile
+repentance is then.
+--------------------------------------------------End--
+{Gatta}
+Hmm?
+--------------------------------------------------End--
+{Gatta}
+Whatcha doing here?
+The tournament's about to start!
+--------------------------------------------------End--
+{Tidus}
+I'm looking for someone.
+--------------------------------------------------End--
+{Luzzu}
+Well, you're looking in the wrong place.
+There aren't many people here.
+--------------------------------------------------End--
+{Gatta}
+Everyone's either at the stadium
+or watching the game on the sphere.
+--------------------------------------------------End--
+{Gatta}
+They love their {blitzball}.
+--------------------------------------------------End--
+{Tidus}
+Aren't you gonna watch?
+--------------------------------------------------End--
+{Luzzu}
+We'd like to, but we're
+waiting for some couriers.
+--------------------------------------------------End--
+{Luzzu}
+Hmm, they're late...
+--------------------------------------------------End--
+{Luzzu}
+Wanna ditch the courier
+and go watch the game?
+--------------------------------------------------End--
+{Gatta}
+But...but we're still on duty.
+What about the mission, sir?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Luzzu}
+See what I mean?
+--------------------------------------------------End--
+{Luzzu}
+We might be a little late, 
+but we will go watch you play.
+--------------------------------------------------End--
+{Gatta}
+You'd better be winning
+when we get there.
+--------------------------------------------------End--
+{Tidus}
+Yes, sir!
+--------------------------------------------------End--
+{Yuna}
+Are you sure?
+--------------------------------------------------End--
+{Wakka}
+Never liked long goodbyes anyway.
+--------------------------------------------------End--
+{Wakka}
+Sorry for making you wait, {Yuna}.
+I had some promises to keep, ya?
+--------------------------------------------------End--
+{Wakka}
+From now on,
+I'm your full-time guardian.
+--------------------------------------------------End--
+{Yuna}
+Then welcome back, Sir {Wakka}.
+--------------------------------------------------End--
+{Yuna}
+Good to have you with us.
+--------------------------------------------------End--
+{Wakka}
+Hey, it's good to be back, ya?
+--------------------------------------------------End--
+{Wakka}
+So, any news on what happened?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+Maester {Seymor}'s aeon...
+It was so powerful.
+--------------------------------------------------End--
+{Wakka}
+Do you think he's
+gonna stay here?
+--------------------------------------------------End--
+{Lulu}
+Sir {Auron} knows him, apparently.
+You were right.
+He did meet someone he knew. 
+--------------------------------------------------End--
+{Yuna}
+Do you think he'll find
+a way back to {Zanarkand}?
+--------------------------------------------------End--
+{Wakka}
+In any case,
+I'll miss having him around.
+--------------------------------------------------End--
+{Yuna}
+He's still in town, isn't he?
+I think I'll go see him...
+--------------------------------------------------End--
+{Yuna}
+Oh!
+--------------------------------------------------End--
+{Wakka}
+Whoa.
+--------------------------------------------------End--
+{Yuna}
+Sir {Auron}?
+--------------------------------------------------End--
+{Auron}
+{Yuna}.
+--------------------------------------------------End--
+{Yuna}
+Sir?
+--------------------------------------------------End--
+{Auron}
+I wish to become your guardian.
+Do you accept?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+You're serious?
+--------------------------------------------------End--
+{Auron}
+You refuse?
+--------------------------------------------------End--
+{Yuna}
+No, no!
+--------------------------------------------------End--
+{Yuna}
+We accept!
+Right, everyone?
+--------------------------------------------------End--
+{Wakka}
+O-Of course!
+No problem at all!
+--------------------------------------------------End--
+{Lulu}
+But...why?
+--------------------------------------------------End--
+{Auron}
+I promised {Braska}.
+--------------------------------------------------End--
+{Yuna}
+You promised my father?
+--------------------------------------------------End--
+{Yuna}
+Thank you, Sir {Auron}!
+You're welcome to join us!
+--------------------------------------------------End--
+{Auron}
+And...he comes too.
+--------------------------------------------------End--
+{Tidus}
+Hi...guys.
+Eh...howdy!
+--------------------------------------------------End--
+{Auron}
+This one I promised {Jecht}.
+--------------------------------------------------End--
+{Yuna}
+Is Sir {Jecht} alive?
+--------------------------------------------------End--
+{Auron}
+Can't say. Haven't
+seen him in ten years.
+--------------------------------------------------End--
+{Yuna}
+I...see.
+--------------------------------------------------End--
+{Auron}
+You'll meet eventually.
+--------------------------------------------------End--
+{Yuna}
+Yes, I'm looking forward to it!
+--------------------------------------------------End--
+{Auron}
+What's our itinerary?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+Where are we headed?
+--------------------------------------------------End--
+{Yuna}
+Hey! Come with me!
+--------------------------------------------------End--
+{Yuna}
+Hey, watch!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Hey, you got pretty good.
+--------------------------------------------------End--
+{Yuna}
+You sound sad.
+--------------------------------------------------End--
+{Tidus}
+Yeah, maybe.
+--------------------------------------------------End--
+{Yuna}
+Wanna scream?
+--------------------------------------------------End--
+{Tidus}
+I really don't think
+that's gonna help this time.
+--------------------------------------------------End--
+{Yuna}
+You know what?
+--------------------------------------------------End--
+{Yuna}
+It's embarrassing to say this myself...
+--------------------------------------------------End--
+{Yuna}
+But summoners and their guardians
+are kind of like {Spira}'s ray of light.
+--------------------------------------------------End--
+{Yuna}
+A lot of people in
+Spira depend on us.
+--------------------------------------------------End--
+{Yuna}
+I learned to practice smiling
+when I'm feeling sad, you know?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+I know it's hard.
+--------------------------------------------------End--
+{Tidus}
+Yeah...
+I understand. I think.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+Come on!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+You probably shouldn't
+laugh any more.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+I want my journey to
+be full of laughter.
+--------------------------------------------------End--
+{Tidus}
+Okay.
+--------------------------------------------------End--
+{Yuna}
+If we should get separated, just whistle.
+--------------------------------------------------End--
+{Yuna}
+I'll come running.
+I promise.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+Well, let's go.
+--------------------------------------------------End--
+{Yuna}
+Okay.
+--------------------------------------------------End--
+{Tidus}
+What're you looking at?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+Right, now let's see what you can do!
+--------------------------------------------------End--
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Tidus}
+This is weird!
+--------------------------------------------------End--
+{Yuna}
+Next, try laughing out loud!
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+{Yuna}
+Come on, show me!
+--------------------------------------------------End--
+{Yuna}
+Too funny!
+--------------------------------------------------End--
+{Tidus}
+It was your idea!
+--------------------------------------------------End--
+{Yuna}
+Um...thank you.
+--------------------------------------------------End--
+{Wakka}
+We were just worried
+you guys might've gone crazy!
+--------------------------------------------------End--
+{Yuna}
+Sorry!
+--------------------------------------------------End--
+{Yuna}
+Well then, alright.
+--------------------------------------------------End--
+{Yuna}
+Now, we will go to
+the temple at {Blue}Djose{White}.
+--------------------------------------------------End--
+{Yuna}
+And guardians?
+Don't forget to smile!
+--------------------------------------------------End--
+{Lulu}
+Not really.
+--------------------------------------------------End--
+{Lulu}
+We don't know where
+the fiends came from.
+--------------------------------------------------End--
+{Lulu}
+{Maester Mika} is safe and sound,
+thanks to Maester {Seymor}.
+--------------------------------------------------End--
+{Lulu}
+That's about it.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Wait Count
+    {CHOICE:33}Motion Frame
+    {CHOICE:34}Play Capture
+    {CHOICE:35}No Character Detection
+    {CHOICE:36}Change Model
+    {CHOICE:37}Invisible
+    {CHOICE:38}Control Map Line
+    {CHOICE:39}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Capture Select Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Wakka Joins
+    {CHOICE:32}Braska/Jecht Promise
+    {CHOICE:33}Yuna's Whistle
+--------------------------------------------------End--
+{WINDOW}
+Model  :  {CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Merge Capture
+    {CHOICE:30}Quit
+    {CHOICE:31}For Work
+    {CHOICE:32}From Beginning
+--------------------------------------------------End--
+{WINDOW}
+Promise Capture
+    {CHOICE:30}Quit
+    {CHOICE:31}For Work
+    {CHOICE:32}From Beginning
+--------------------------------------------------End--
+{WINDOW}
+Whistle Capture
+    {CHOICE:30}Quit
+    {CHOICE:31}Character Position
+    {CHOICE:32}For Work
+    {CHOICE:33}From the Beginning
+--------------------------------------------------End--
+{WINDOW}
+Frame  :  {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+    {CHOICE:30}End Setting
+    {CHOICE:31}01      {CHOICE:36}06
+    {CHOICE:32}02      {CHOICE:37}07
+    {CHOICE:33}03      {CHOICE:38}08
+    {CHOICE:34}04      {CHOICE:39}09
+    {CHOICE:35}05      {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30}  :  {CHOICE:53}
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Kilika Port
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--
+{AREA}
+Temple of Yevon-Djose
+--------------------------------------------------End--

@@ -1,0 +1,525 @@
+{WINDOW}
+{Lucil}
+Let's go!
+--------------------------------------------------End--
+{WINDOW}
+
+Fire!
+--------------------------------------------------End--
+{WINDOW}
+{Lucil}
+Charge!
+--------------------------------------------------End--
+{Wakka}
+It won't work anyway.
+--------------------------------------------------End--
+{Yuna}
+Don't say that.
+--------------------------------------------------End--
+{Yuna}
+It might be a hopeless campaign,
+and it might mean defying {Yevon2}...
+--------------------------------------------------End--
+{Yuna}
+But the {Crusader}s and the {Al Bhed}--
+they're doing their best to defeat {Sin}.
+--------------------------------------------------End--
+{Yuna}
+They want to rid {Spira}
+of {Sin} forever.
+--------------------------------------------------End--
+{Yuna}
+And that's just what
+we want, too, isn't it?
+--------------------------------------------------End--
+{Yuna}
+Isn't it?
+--------------------------------------------------End--
+{Wakka}
+Hmph! All right, all right!
+--------------------------------------------------End--
+{Wakka}
+But I still think machina are bad news.
+They're forbidden for a reason!
+--------------------------------------------------End--
+{Lucil}
+Lady Summoner!
+There you are!
+--------------------------------------------------End--
+{Lucil}
+The command center is that way.
+{Maester Kinoc} is also there.
+--------------------------------------------------End--
+{Yuna}
+{Maester Kinoc}, too?
+--------------------------------------------------End--
+{Lucil}
+Yes. Please hurry, my lady.
+--------------------------------------------------End--
+{Gatta}
+The operation will begin shortly.
+--------------------------------------------------End--
+{Gatta}
+Please check all your equipment.
+--------------------------------------------------End--
+{Wakka}
+Um, you all right?
+--------------------------------------------------End--
+{Gatta}
+Of course not!
+--------------------------------------------------End--
+{Gatta}
+I came here to fight {Sin}!
+--------------------------------------------------End--
+{Gatta}
+But they stick me here!
+--------------------------------------------------End--
+{Auron}
+If you want to prove yourself...
+--------------------------------------------------End--
+{Gatta}
+Huh?
+--------------------------------------------------End--
+{Auron}
+first you must complete
+the tasks you are given.
+--------------------------------------------------End--
+{Gatta}
+Just doing what they say?
+It just won't be enough.
+--------------------------------------------------End--
+{Gatta}
+That's right!
+It's not fair!
+--------------------------------------------------End--
+{Gatta}
+You'd think the same if you were me.
+--------------------------------------------------End--
+{Gatta}
+I'll do something...even if
+it means bending the rules.
+--------------------------------------------------End--
+{Gatta}
+I've got to show
+{Luzzu} what I can do.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+I'd heard from {Seymor}, but I
+didn't know if we'd actually meet.
+--------------------------------------------------End--
+
+Good to see you, {Auron}!
+Ten years, is it?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+That's Wen {Kinoc}, one of
+the Four Maesters of {Yevon2}.
+--------------------------------------------------End--
+{Lulu}
+He leads the warrior monks and
+also commands the {Crusader}s.
+--------------------------------------------------End--
+{Gatta}
+All troops ready to move
+at your command, sir!
+--------------------------------------------------End--
+{Kinoc}
+Good. Dismissed.
+--------------------------------------------------End--
+{Gatta}
+Sir!
+--------------------------------------------------End--
+{Kinoc}
+Tell me, {Auron}. Where have
+you been the last ten years?
+--------------------------------------------------End--
+{Auron}
+We don't have time
+for this now, do we?
+--------------------------------------------------End--
+{Kinoc}
+This plan won't work, you know that.
+--------------------------------------------------End--
+{Kinoc}
+We'll just let them
+dream a little longer.
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+{Seymor}
+Lord {Kinoc}...
+--------------------------------------------------End--
+{Kinoc}
+Oh, yes. Proceed.
+--------------------------------------------------End--
+{Auron}
+That {Kinoc}, a maester?
+--------------------------------------------------End--
+{Kinoc}
+I heard that, {Auron}.
+--------------------------------------------------End--
+{Kinoc}
+A lot has happened the last ten years.
+What were you doing, and where?
+--------------------------------------------------End--
+{Auron}
+Fulfilling a promise I made
+to a friend. I still am.
+--------------------------------------------------End--
+{Kinoc}
+Just tell me one thing:
+Have you seen {Zanarkand}?
+--------------------------------------------------End--
+{Auron}
+Go to {Yuna}.
+--------------------------------------------------End--
+{Kinoc}
+Being a maester has its privileges.
+I can just sit here and watch.
+--------------------------------------------------End--
+{Wakka}
+With them here, it's like {Yevon2}
+authorizes this whole operation!
+--------------------------------------------------End--
+{Lulu}
+Anything could happen.
+Make sure you're ready for combat.
+--------------------------------------------------End--
+{Yuna}
+I'm a little nervous.
+--------------------------------------------------End--
+{Yuna}
+I kinda...think we don't belong here.
+--------------------------------------------------End--
+
+It is time at last.
+--------------------------------------------------End--
+
+We must tell the {Al Bhed} waiting outside
+to begin the operation at once.
+--------------------------------------------------End--
+
+The fiends may break through.
+This place is not safe.
+--------------------------------------------------End--
+
+Make sure you're prepared
+to defend yourselves.
+Tell me when you're ready.
+--------------------------------------------------End--
+
+Are you ready?
+--------------------------------------------------End--
+
+Please hurry.
+--------------------------------------------------End--
+
+{Maester Kinoc}. Please.
+--------------------------------------------------End--
+{Yuna}
+Will {Sin} come?
+--------------------------------------------------End--
+
+{Sin} always returns for its spawn.
+--------------------------------------------------End--
+
+To make sure, we're going to
+encourage them to call out to it.
+--------------------------------------------------End--
+{Auron}
+You won't have to.
+It'll come.
+--------------------------------------------------End--
+
+I remembered {Auron} telling me.
+--------------------------------------------------End--
+
+{Sin} is my old man.
+{Sin} is {Jecht}.
+--------------------------------------------------End--
+{Auron}
+Look out!
+--------------------------------------------------End--
+{O'aka}
+What can I do for ya?
+--------------------------------------------------End--
+{O'aka}
+Monopoly's a great thing! Things are
+sellin' no matter what the price!
+--------------------------------------------------End--
+{O'aka}
+Oops! Sorry, I forgot.
+--------------------------------------------------End--
+{O'aka}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+
+We're only moments away from
+commencing {Operation Mi'ihen}.
+{NEWPAGE}
+
+{Spira}'s fate hangs on the
+outcome of this mission.
+{NEWPAGE}
+
+We will do our duty as soldiers
+and defeat {Sin} this day!
+--------------------------------------------------End--
+
+Sir!
+--------------------------------------------------End--
+
+Man, you'd think he'd shut up
+after five times--or was that six?
+--------------------------------------------------End--
+
+The captain just keeps repeating himself.
+He must be really nervous.
+--------------------------------------------------End--
+
+It's important to spur my men on every
+now and then. Maybe I should give
+them another pep talk to be sure...
+--------------------------------------------------End--
+
+The operation will begin momentarily.
+Please do not leave this area.
+--------------------------------------------------End--
+
+Please remain within this area.
+--------------------------------------------------End--
+
+We have the ancient {machina}.
+The operation will succeed.
+{NEWPAGE}
+
+Our {machina} will prove that
+{Yevon2}'s teachings are not the way.
+--------------------------------------------------End--
+
+A {summoner}...
+I shall report this later.
+--------------------------------------------------End--
+
+Being around {Yevon2}'s
+followers makes me sick.
+--------------------------------------------------End--
+
+We're inspecting the
+weapons right now.
+--------------------------------------------------End--
+
+They're {Al Bhed} machina, so
+we have to be extra cautious.
+--------------------------------------------------End--
+
+So far so good.
+I'm gonna run more tests.
+--------------------------------------------------End--
+
+Come on!
+Swing like a man!
+{NEWPAGE}
+
+Do you wanna avenge your
+sister or don't you?
+--------------------------------------------------End--
+
+Okay, come on now!
+Pretend I'm a fiend!
+--------------------------------------------------End--
+
+I'm gonna beat {Sin}!
+I'm gonna beat it!
+{NEWPAGE}
+
+I'm gonna beat it no matter what!
+--------------------------------------------------End--
+
+Die, die, die!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah, you should be out on the front lines.
+{CHOICE:31}Guarding the command center is important, too.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Not yet.
+{CHOICE:31}Yes.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+Yeah? What do you wanna know?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}About the cannons.
+{CHOICE:31}About the Chocobo Knights.
+{CHOICE:32}About this operation.
+{CHOICE:33}Never mind.
+--------------------------------------------------End--
+
+The {Al Bhed2} provided us with
+these cannons at no charge.
+{NEWPAGE}
+
+I hate the bastards, but I've got
+a little respect for them now.
+--------------------------------------------------End--
+
+These cannons have good range.
+We'll give {Sin} a shower it
+won't soon forget!
+--------------------------------------------------End--
+
+Only a select few can become
+Chocobo Knights.
+{NEWPAGE}
+
+You have to be a skilled rider or
+achieve some combat merit to become one.
+{NEWPAGE}
+
+Captain {Lucil} is no doubt the best
+of the bunch right now.
+--------------------------------------------------End--
+
+I just don't know how that wimp {Clasko}
+got knighted.
+{NEWPAGE}
+
+Well, he is good at earning
+their trust--the chocobos, that is.
+--------------------------------------------------End--
+
+We've researched {Sin}'s past behaviors
+in planning this operation.
+{NEWPAGE}
+
+{Sin} often turns up where its {sinspawn} are.
+{NEWPAGE}
+
+So we hunted down the {sinspawn} at various
+places and brought them here to lure it.
+{NEWPAGE}
+
+When it shows up, we're gonna hit it with
+the ancient machina, and it's bye-bye {Sin}.
+--------------------------------------------------End--
+
+The {Crusader}s' responsibility is
+to lure {Sin} and immobilize it.
+{NEWPAGE}
+
+The {Al Bhed} will deliver the
+finishing blow.
+{NEWPAGE}
+
+I wish it could be the other way around,
+but as long as we defeat {Sin}, who cares.
+--------------------------------------------------End--
+
+I'm short on various stuff,
+so I'm trying to buy them now.
+{NEWPAGE}
+
+Everything seems a bit pricier than usual.
+--------------------------------------------------End--
+
+Well, I guess I should just be thankful.
+I never imagined I could buy stuff out here.
+--------------------------------------------------End--
+
+Time to shop!
+--------------------------------------------------End--
+
+That merchant's obviously
+ripping people off.
+{NEWPAGE}
+
+I guess it can't be helped.
+He's the only game out here.
+--------------------------------------------------End--
+
+I asked him for a discount, and
+do you know what he said to me?
+{NEWPAGE}
+
+"Ye gonna die anyway,
+so what's the point?"
+--------------------------------------------------End--
+
+I wonder what that merchant's gonna do
+when the battle starts.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

@@ -1,0 +1,273 @@
+{O'aka}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+{O'aka}
+Great!
+I knew I could count on you, lad!
+--------------------------------------------------End--
+{O'aka}
+Eh? You want something else?
+--------------------------------------------------End--
+{O'aka}
+You need somethin' for the big
+rescue, eh? I've got just the thing!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{Tromell}
+Lady {Yuna},
+we've been expecting you.
+--------------------------------------------------End--
+{Tromell}
+We were surprised you
+decided to come so soon.
+--------------------------------------------------End--
+{Tromell}
+Pleasantly surprised, of course.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} sends his apologies
+for having left without notice.
+--------------------------------------------------End--
+{Yuna}
+It's quite all right.
+--------------------------------------------------End--
+{Yuna}
+I have one question,
+if I may, sir.
+--------------------------------------------------End--
+{Tromell}
+My lady?
+--------------------------------------------------End--
+{Yuna}
+I want to keep journeying,
+even if I marry.
+--------------------------------------------------End--
+{Yuna}
+Do you think that Maester
+{Seymor} would let me?
+--------------------------------------------------End--
+{Tromell}
+But of course, my lady.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} wishes
+nothing else, I'm sure.
+--------------------------------------------------End--
+{Yuna}
+Goodbye.
+--------------------------------------------------End--
+{WINDOW}
+{Tromell}
+Well...
+--------------------------------------------------End--
+{Tromell}
+We must follow {Guado} tradition.
+--------------------------------------------------End--
+{Tromell}
+I'll have to ask you to wait
+here a little while longer.
+--------------------------------------------------End--
+{Tromell}
+I'll send someone to escort you.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+{WINDOW}
+I...
+--------------------------------------------------End--
+{Auron}
+We're all with you.
+Do as you will.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+{WINDOW}
+Thank you.
+--------------------------------------------------End--
+{Auron}
+Sorry.
+--------------------------------------------------End--
+{Auron}
+That was your line.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{WINDOW}
+{Yuna}!
+--------------------------------------------------End--
+{Yuna}
+Yessir!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{WINDOW}
+Oh, no!
+--------------------------------------------------End--
+{Wakka}
+{Al Bhed}!
+--------------------------------------------------End--
+{O'aka}
+Curse that {Rin} for
+taking up a place like this!
+--------------------------------------------------End--
+{O'aka}
+He'll be rich by tomorrow
+all on account of this celebration thing!
+--------------------------------------------------End--
+{O'aka}
+Hmm? What?
+You buyin' somethin' from me?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Of course!
+{CHOICE:31}Maybe next time.
+--------------------------------------------------End--
+{O'aka}
+Should've expected as much.
+--------------------------------------------------End--
+{Clasko}
+Hi there.
+--------------------------------------------------End--
+{Clasko}
+Would you look at this?
+--------------------------------------------------End--
+{Clasko}
+They always leave me behind.
+--------------------------------------------------End--
+{Clasko}
+Oh. You want me to scratch you?
+--------------------------------------------------End--
+{Clasko}
+There. Good boy!
+--------------------------------------------------End--
+{Tidus}
+How'd you know what it wanted?
+--------------------------------------------------End--
+{Clasko}
+I've always been able
+to tell how chocobos feel.
+--------------------------------------------------End--
+{Clasko}
+Maybe I'd make a better chocobo
+breeder than Chocobo Knight, huh?
+--------------------------------------------------End--
+{Clasko}
+Hey, what job do
+you see me doing?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Chocobo Knight.
+{CHOICE:31}Chocobo Breeder.
+--------------------------------------------------End--
+{Clasko}
+Oh... Really?
+--------------------------------------------------End--
+{Clasko}
+For a moment I thought
+you'd say "breeder."
+--------------------------------------------------End--
+{Clasko}
+Yeah! I think so too!
+--------------------------------------------------End--
+{Clasko}
+Hmm...
+You know, I might just give it a try.
+--------------------------------------------------End--
+{Clasko}
+We'll have to get some
+new chocobos to rebuild our unit.
+--------------------------------------------------End--
+{Clasko}
+I wonder how long
+that's gonna take. Ah, well...
+--------------------------------------------------End--
+{Clasko}
+Should I resign my commission?
+--------------------------------------------------End--
+{Clasko}
+Would Captain {Lucil} let me?
+{Elma} would probably laugh at me.
+--------------------------------------------------End--
+{Clasko}
+Wow, I think this is the first time
+I've seriously thought about my life.
+--------------------------------------------------End--
+{Clasko}
+I should be fighting,
+but my legs refuse to move.
+--------------------------------------------------End--
+{Clasko}
+I don't deserve to
+be a Chocobo Knight.
+--------------------------------------------------End--
+{Clasko}
+You think so, too, don't you?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}It can happen to anyone.
+{WINDOW}
+{CHOICE:31}Yeah, you're no knight.
+--------------------------------------------------End--
+{Clasko}
+It's always like this.
+--------------------------------------------------End--
+{Clasko}
+I thought so.
+Thanks for being honest with me.
+--------------------------------------------------End--
+{Clasko}
+I'm going to resign my commission.
+--------------------------------------------------End--
+{Clasko}
+Um...
+Shouldn't you go rescue them?
+--------------------------------------------------End--
+
+Hurry to {Macalania Temple}.
+Lord {Seymor} is expecting you.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XVI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}B{White} {RIGHT} {Pink}P{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

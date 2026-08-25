@@ -1,0 +1,72 @@
+{WINDOW}
+
+{Button Circle}: Search an area.
+--------------------------------------------------End--
+{WINDOW}
+
+List: Select airship destination list.
+--------------------------------------------------End--
+{WINDOW}
+
+Input: Password entry.
+--------------------------------------------------End--
+{WINDOW}
+
+Free search: Explore Spira.
+--------------------------------------------------End--
+{WINDOW}
+
+Select destination.
+--------------------------------------------------End--
+{WINDOW}
+
+New location.
+--------------------------------------------------End--
+{WINDOW}
+
+Proceed?
+--------------------------------------------------End--
+{WINDOW}
+The Al Bhed have left riddles in 1000
+year old ruins, scattered across Spira.
+Decipher them to learn the passwords.
+--------------------------------------------------End--
+GODHAND
+--------------------------------------------------End--
+VICTORIOUS
+--------------------------------------------------End--
+MURASAME
+--------------------------------------------------End--
+{WINDOW}
+Password decipher failed!
+--------------------------------------------------End--
+{WINDOW}
+Password No. {VAR12:30}: Deciphered!
+--------------------------------------------------End--
+{WINDOW}
+Already deciphered.
+--------------------------------------------------End--
+{WINDOW}
+Located {Yellow}Baaj Temple{White}!
+Added to airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Located {Yellow}Omega Ruins{White}!
+Added to airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Located {Yellow}Besaid Falls{White}!
+Added to airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Located {Yellow}Mi'ihen Ruins{White}!
+Added to airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Located {Yellow}Battle Site{White}!
+Added to airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Located {Yellow}Sanubia Sands{White}!
+Added to airship destination list!
+--------------------------------------------------End--

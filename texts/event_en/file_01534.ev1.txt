@@ -1,0 +1,542 @@
+
+"Praise be to {Yevon2}."
+--------------------------------------------------End--
+
+That's what I would have said,
+if I was a follower of {Yevon2}.
+--------------------------------------------------End--
+
+We were all there,
+and in one piece.
+--------------------------------------------------End--
+
+Even if I had a headache
+from wondering what was
+in store for us next.
+--------------------------------------------------End--
+{Tidus}
+"What now?"
+--------------------------------------------------End--
+{Tidus}
+You act first and
+think later, don't you?
+--------------------------------------------------End--
+{Tidus}
+I mean, can't you be a little
+more responsible? We're all
+depending on you. You know?
+--------------------------------------------------End--
+{Tidus}
+No, no, no.
+Just a suggestion.
+--------------------------------------------------End--
+{Tidus}
+Is that a lecture?
+--------------------------------------------------End--
+{Tidus}
+Hey, {Wakka}, would you cheer up?
+Look, we only did what we had to do.
+--------------------------------------------------End--
+{Wakka}
+It doesn't matter!
+Don't you see?
+--------------------------------------------------End--
+{Wakka}
+I've always walked the
+path of {Yevon2}...
+--------------------------------------------------End--
+{Wakka}
+but now, I'm a traitor.
+--------------------------------------------------End--
+{Wakka}
+How could this happen?
+--------------------------------------------------End--
+{Wakka}
+Damn.
+--------------------------------------------------End--
+{Tidus}
+It's not {Rikku}'s fault either.
+--------------------------------------------------End--
+{Wakka}
+You don't know how I feel.
+--------------------------------------------------End--
+{Rikku}
+I'm sure {Yunie}'s okay.
+She's breathing fine and all.
+--------------------------------------------------End--
+{Rikku}
+How are {Lulu} and {Wakka}?
+--------------------------------------------------End--
+{Tidus}
+Well, {Wakka}'s in shock.
+Can't blame him, either.
+--------------------------------------------------End--
+{Tidus}
+And {Lulu}, well, she's
+just the same as always.
+--------------------------------------------------End--
+{Rikku}
+She's so together.
+All grown up, I guess.
+--------------------------------------------------End--
+{Tidus}
+I guess.
+--------------------------------------------------End--
+{Rikku}
+Well, just give me five or six more years.
+--------------------------------------------------End--
+{Tidus}
+So, {Kimahri}, how
+do we get out of here?
+--------------------------------------------------End--
+{Rikku}
+Hey, don't change the subject!
+--------------------------------------------------End--
+{Kimahri}
+We climb.
+--------------------------------------------------End--
+{Rikku}
+Kimahri, too!
+--------------------------------------------------End--
+{Kimahri}
+Only those who try will become.
+--------------------------------------------------End--
+{Rikku}
+Huh?
+--------------------------------------------------End--
+{Tidus}
+I think he means you have to work
+hard if you want to be like {Lulu}.
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+Oh! I will!
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} think {Rikku}
+should stay {Rikku}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+How can you laugh
+at a time like this!?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{Yuna}!
+--------------------------------------------------End--
+{Yuna}
+I wanted to confront Maester {Seymor}
+about his father, Lord {Jyscal}.
+--------------------------------------------------End--
+{Yuna}
+I wanted to convince him to turn
+himself in to {Yevon2}'s judgement.
+--------------------------------------------------End--
+{Lulu}
+In exchange for marriage?
+--------------------------------------------------End--
+{Yuna}
+Yes, if that's what it took.
+--------------------------------------------------End--
+{Tidus}
+So, what did {Seymor} say?
+--------------------------------------------------End--
+{Yuna}
+He didn't say anything.
+--------------------------------------------------End--
+{Yuna}
+Now...now I don't even
+think it was worth it.
+--------------------------------------------------End--
+{Yuna}
+I should've told you
+what I was going to do.
+--------------------------------------------------End--
+{Auron}
+Enough.
+--------------------------------------------------End--
+{Auron}
+Dwelling in the past is futile.
+--------------------------------------------------End--
+{Rikku}
+Hey! You don't have
+to say it like that!
+--------------------------------------------------End--
+{Auron}
+You want to waste time
+listening to her regrets?
+--------------------------------------------------End--
+{Rikku}
+You don't have to say it like that.
+--------------------------------------------------End--
+{Auron}
+Our immediate concern
+is {Yuna}'s pilgrimage.
+--------------------------------------------------End--
+{Auron}
+Are you willing to go on?
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Yuna}
+But then, do you think
+{Yevon2} will allow it?
+--------------------------------------------------End--
+{Auron}
+The {fayth} are the ones that
+give power to the summoners.
+--------------------------------------------------End--
+{Auron}
+Not the temples or the teachings.
+--------------------------------------------------End--
+{Auron}
+If the temples try to stop us...
+--------------------------------------------------End--
+{Auron}
+then we will defy {Yevon2} if we must.
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+I can't believe you said that!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Whoa!
+--------------------------------------------------End--
+{Lulu}
+Sir {Auron}!?
+--------------------------------------------------End--
+{Wakka}
+Count me out.
+--------------------------------------------------End--
+{Lulu}
+But still, we have transgressed
+and must face our punishment.
+--------------------------------------------------End--
+{Yuna}
+We must go to {Blue}{Bevelle}{White}.
+--------------------------------------------------End--
+{Yuna}
+We must speak with Maester Mika
+and explain what has happened.
+--------------------------------------------------End--
+{Yuna}
+There is no other way, I think.
+--------------------------------------------------End--
+{Wakka}
+I agree.
+--------------------------------------------------End--
+{Yuna}
+Sir {Auron}...
+--------------------------------------------------End--
+{Auron}
+So it is decided.
+--------------------------------------------------End--
+{Yuna}
+Will you come with us?
+--------------------------------------------------End--
+{Auron}
+I am the troublemaker, after all.
+--------------------------------------------------End--
+{Tidus}
+Yeah, that's right!
+--------------------------------------------------End--
+{Tidus}
+You can always count on
+{Auron} to complicate things!
+--------------------------------------------------End--
+{Rikku}
+Yeah!
+--------------------------------------------------End--
+{Rikku}
+{Kimahri} roars, and
+{Auron} runs off, and...
+--------------------------------------------------End--
+{Auron}
+I never asked you to follow me.
+--------------------------------------------------End--
+{Tidus}
+Hey, but that's
+what friends are for.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Right?
+--------------------------------------------------End--
+{Rikku}
+Yep!
+--------------------------------------------------End--
+{Yuna}
+Thank you.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+Friends, huh?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+Man... How can you all
+act like nothing's wrong?
+--------------------------------------------------End--
+{Wakka}
+Must got nerves of
+steel or something.
+--------------------------------------------------End--
+{Lulu}
+You're too edgy. Listen
+to the hymn and calm down.
+--------------------------------------------------End--
+{Tidus}
+Is that coming from the temple?
+--------------------------------------------------End--
+{Yuna}
+Yes, it is {Yevon2}'s gift.
+It soothes the hearts of the faithful.
+--------------------------------------------------End--
+{Tidus}
+Who is that singing?
+--------------------------------------------------End--
+{Tidus}
+The {fayth}?
+What? It can sing?
+--------------------------------------------------End--
+{Auron}
+{Jecht} used to sing this song...
+--------------------------------------------------End--
+{Tidus}
+Yeah, over and over.
+--------------------------------------------------End--
+{Tidus}
+But not this good, that's for sure.
+--------------------------------------------------End--
+{Auron}
+Another trait you share.
+--------------------------------------------------End--
+{Tidus}
+What, you were listening?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+Hey!
+--------------------------------------------------End--
+{Rikku}
+Are you saying
+I'll never be like {Lulu}?
+--------------------------------------------------End--
+{Rikku}
+{Kimahri}!
+--------------------------------------------------End--
+{Wakka}
+We have to atone, to make up
+for the sins we have committed.
+--------------------------------------------------End--
+{Wakka}
+Of course...
+--------------------------------------------------End--
+{Wakka}
+it's not like I ever liked
+Maester {Seymor}, ya?
+--------------------------------------------------End--
+{Wakka}
+No way I'll ever forgive him
+for killing Lord {Jyscal}...
+--------------------------------------------------End--
+{Wakka}
+and for trying to do us
+all in too, you know?
+--------------------------------------------------End--
+{Wakka}
+But still, the bunch of us
+going against {Yevon2}?
+--------------------------------------------------End--
+{Wakka}
+No way!
+--------------------------------------------------End--
+{Yuna}
+I'm sure that {Maester Mika}
+will listen to us.
+--------------------------------------------------End--
+{Wakka}
+Wonder what the
+{Aurochs} are doing now.
+--------------------------------------------------End--
+{Wakka}
+Say, you feel something
+weird in the air?
+--------------------------------------------------End--
+{Wakka}
+Some kind of bad vibes or something.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah!
+{CHOICE:31}Nope.
+--------------------------------------------------End--
+{Wakka}
+I thought so.
+--------------------------------------------------End--
+{Wakka}
+Oh? Maybe I'm coming
+down with something.
+--------------------------------------------------End--
+{Wakka}
+I really feel weird.
+--------------------------------------------------End--
+{Kimahri}
+No sign of enemy.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} will wake soon.
+{Kimahri} knows this.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} feel no danger.
+--------------------------------------------------End--
+{Kimahri}
+This place smell different now.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} not know
+if this good or bad.
+--------------------------------------------------End--
+{Auron}
+What now, I wonder.
+--------------------------------------------------End--
+{Auron}
+A lecture?
+--------------------------------------------------End--
+{Auron}
+You should place
+trust in your friends.
+--------------------------------------------------End--
+{Auron}
+But you can't expect someone
+to protect you all the time.
+--------------------------------------------------End--
+{Auron}
+You would do well
+to remember that.
+--------------------------------------------------End--
+{Auron}
+It's advice.
+--------------------------------------------------End--
+{Auron}
+The Hymn, hmm...
+--------------------------------------------------End--
+{Auron}
+Young summoners are
+magnets for trouble.
+--------------------------------------------------End--
+{Lulu}
+We're under the lake ice, aren't we?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Maybe.
+{CHOICE:31}Who knows?
+--------------------------------------------------End--
+{Lulu}
+Look. That's the
+bottom of the temple.
+--------------------------------------------------End--
+{Lulu}
+We've fallen a long way.
+--------------------------------------------------End--
+{Lulu}
+So now we're the traitors
+that killed a maester.
+--------------------------------------------------End--
+{Lulu}
+The {fayth}.
+--------------------------------------------------End--
+{Lulu}
+Of course it can.
+Don't be a fool.
+--------------------------------------------------End--
+{Lulu}
+Say, isn't the ground shaking?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+Heh heh. Friends, huh?
+--------------------------------------------------End--
+{Rikku}
+First time a non-{Al Bhed}
+called me that.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

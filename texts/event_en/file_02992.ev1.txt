@@ -1,0 +1,1068 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+We have been expecting you, Lady {Yuna}.
+Welcome to {Guadosalam}.
+--------------------------------------------------End--
+
+This way, my lady. This way.
+--------------------------------------------------End--
+{Wakka}
+Whoa, whoa, whoa!
+--------------------------------------------------End--
+
+Oh, I beg your pardon.
+I am called {Tromell Guado}.
+--------------------------------------------------End--
+{Tromell}
+I am in the direct service
+of our leader, the great
+{Seymor} {Guado}.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} has
+very important business
+with Lady {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+Business with me?
+Whatever could it be, I wonder?
+--------------------------------------------------End--
+{Tromell}
+Please, come inside
+the manor. All will
+be explained.
+--------------------------------------------------End--
+{Tromell}
+Of course, your
+friends are also
+welcome.
+--------------------------------------------------End--
+{Rikku}
+Twist our arms, why don't ya?
+--------------------------------------------------End--
+{Rikku}
+Ah, I almost forgot!
+--------------------------------------------------End--
+{Rikku}
+What would you do without me?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Customizing Equipment
+--------------------------------------------------End--
+{WINDOW}
+Now that {Rikku} has joined the party,
+you can {Yellow}customize{White} weapons and armor.
+Let's take a look!
+--------------------------------------------------End--
+{Lulu}
+{Yuna}, the high summoner's daughter.
+{Seymor}, the leader of the {Guado}.
+--------------------------------------------------End--
+{Lulu}
+Married in the name of {Yevon2},
+overcoming the barriers of race.
+--------------------------------------------------End--
+{Lulu}
+It would give {Spira} something
+cheery to talk about, for a change.
+--------------------------------------------------End--
+{Wakka}
+Sounds just like a passin' daydream,
+like {Auron} says.
+--------------------------------------------------End--
+{Tidus}
+Come on, let's just
+get on with the pilgrimage!
+--------------------------------------------------End--
+{Tidus}
+I mean, marriage?
+--------------------------------------------------End--
+{Rikku}
+Hmmm. Jealous?
+--------------------------------------------------End--
+{Tidus}
+What? No way!
+--------------------------------------------------End--
+{Tidus}
+We gotta defeat {Sin}.
+Romance can wait!
+--------------------------------------------------End--
+{Wakka}
+He sure picked a fine time
+to lay this one on us.
+--------------------------------------------------End--
+{Yuna}
+Maybe it is a fine time.
+--------------------------------------------------End--
+{Tidus}
+You serious?
+--------------------------------------------------End--
+{Yuna}
+If my getting married
+would help {Spira}...
+--------------------------------------------------End--
+{Yuna}
+if it would make people happy...
+--------------------------------------------------End--
+{Yuna}
+If I could do that for people...
+maybe I should do what I can.
+--------------------------------------------------End--
+{Yuna}
+I never imagined doing
+anything like this.
+--------------------------------------------------End--
+{Yuna}
+But, I won't answer till
+I know what's right.
+--------------------------------------------------End--
+{Tidus}
+Seriously?
+--------------------------------------------------End--
+{Rikku}
+You could always just quit
+your pilgrimage and get married.
+--------------------------------------------------End--
+{Yuna}
+I will...go on.
+--------------------------------------------------End--
+{Yuna}
+I'm sure that Lord {Seymor}
+will understand.
+--------------------------------------------------End--
+{Rikku}
+Umm, I guess so...
+--------------------------------------------------End--
+{Yuna}
+I am a summoner!
+--------------------------------------------------End--
+{Yuna}
+I must fight and defeat {Sin}.
+--------------------------------------------------End--
+{Auron}
+Like {Braska} before you.
+--------------------------------------------------End--
+
+I had to stop myself from shouting:
+--------------------------------------------------End--
+
+What's there to think about?
+--------------------------------------------------End--
+{Yuna}
+I'm going to the {Blue}{Farplane}{White}.
+--------------------------------------------------End--
+{Yuna}
+I'm going to see my father
+and think on this.
+--------------------------------------------------End--
+{Lulu}
+Go on, we'll be
+right behind you.
+--------------------------------------------------End--
+
+I wondered why none of the others
+ever asked {Yuna}.
+--------------------------------------------------End--
+
+Do you love {Seymor}?
+Do you even like him?
+--------------------------------------------------End--
+{Yuna}
+I will go...
+meet with Maester {Seymor}.
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+{WINDOW}
+{Yuna}!
+--------------------------------------------------End--
+{Auron}
+{Jyscal} is the {Guado}'s
+problem, not yours.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{WINDOW}
+Umm...
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+{WINDOW}
+What?
+--------------------------------------------------End--
+{Tidus}
+So, {Lulu}, what do you think
+about {Yuna} getting married?
+--------------------------------------------------End--
+{Lulu}
+As long as the pilgrimage
+continues, either way's fine.
+--------------------------------------------------End--
+{Tidus}
+That's it?
+--------------------------------------------------End--
+{Tidus}
+What if she doesn't even
+like the guy? Is that okay?
+--------------------------------------------------End--
+{Lulu}
+People marry for many reasons.
+--------------------------------------------------End--
+{Tidus}
+What's that mean?
+--------------------------------------------------End--
+{Lulu}
+Sometimes marriage doesn't
+require love, you know?
+--------------------------------------------------End--
+{Lulu}
+Defeat {Sin}, and bring joy
+to the people of {Spira}.
+--------------------------------------------------End--
+{Lulu}
+Get married, and bring joy
+to the people of {Spira}.
+--------------------------------------------------End--
+{Lulu}
+For {Yuna}, they're just
+two ways down the same road.
+--------------------------------------------------End--
+{Lulu}
+All you need is determination.
+--------------------------------------------------End--
+{Lulu}
+If you have that, you don't need love.
+--------------------------------------------------End--
+{Tidus}
+I don't know...
+--------------------------------------------------End--
+{Tidus}
+I just don't get it.
+--------------------------------------------------End--
+{Rikku}
+Wait up, I'll go with ya!
+--------------------------------------------------End--
+{Rikku}
+{Yunie}'s not getting
+married, is she?
+--------------------------------------------------End--
+{Tidus}
+Seems that way.
+--------------------------------------------------End--
+{Rikku}
+It's your big chance, huh?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I don't care.
+{CHOICE:31}I guess you're right.
+{CHOICE:32}I'd rather have you, {Rikku}.
+--------------------------------------------------End--
+{Rikku}
+That's no thing to say!
+--------------------------------------------------End--
+{Rikku}
+I think she should get married
+and stop being a summoner.
+--------------------------------------------------End--
+{Tidus}
+You serious?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{WINDOW}
+Yeah.
+--------------------------------------------------End--
+{Tidus}
+Why?
+--------------------------------------------------End--
+{Rikku}
+Because it's tough, you know?
+--------------------------------------------------End--
+{Rikku}
+In the end, she has to fight {Sin}.
+--------------------------------------------------End--
+{Tidus}
+Yeah, but she...
+--------------------------------------------------End--
+{Tidus}
+She would never marry
+someone who wanted her to quit.
+--------------------------------------------------End--
+{Rikku}
+I guess you're right.
+Too bad.
+--------------------------------------------------End--
+{Rikku}
+That's the way to go!
+--------------------------------------------------End--
+{Rikku}
+Then, you could take her away
+and live a quiet life somewhere.
+--------------------------------------------------End--
+{Rikku}
+Yeah, sounds good to me!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{WINDOW}
+Oh!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{WINDOW}
+H-Honest?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{WINDOW}
+See ya!
+--------------------------------------------------End--
+{Rikku}
+Maybe someday{Pink}!
+--------------------------------------------------End--
+{Lulu}
+Listen.
+--------------------------------------------------End--
+{Lulu}
+If {Yuna} gets married, then I...
+--------------------------------------------------End--
+{Tidus}
+What? That again?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+{WINDOW}
+Yes.
+--------------------------------------------------End--
+{Lulu}
+If she is to marry, I would
+want her to marry for love.
+--------------------------------------------------End--
+{Tidus}
+See?
+--------------------------------------------------End--
+{Lulu}
+But...
+--------------------------------------------------End--
+{Lulu}
+If {Yuna} said she
+wanted to marry the one she loves,
+--------------------------------------------------End--
+{Lulu}
+I would have to object.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Tidus}
+Uh... You're not making much sense.
+--------------------------------------------------End--
+{Lulu}
+I know.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{WINDOW}
+{Lulu}...
+--------------------------------------------------End--
+{Lulu}
+I've talked enough about that.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{WINDOW}
+What?
+--------------------------------------------------End--
+{Lulu}
+I'm sorry, just forget about it.
+--------------------------------------------------End--
+{Tidus}
+Geez! Grumpy!
+--------------------------------------------------End--
+{Lulu}
+You'll understand one of these days.
+--------------------------------------------------End--
+{Lulu}
+I just don't want to give it words.
+Not yet.
+--------------------------------------------------End--
+{Lulu}
+I shouldn't have to say this,
+but don't fall in love with her. 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Okay.
+{CHOICE:31}Too late.
+{CHOICE:32}You're more my type, {Lulu}.
+--------------------------------------------------End--
+{Lulu}
+That's fine, then.
+--------------------------------------------------End--
+{Lulu}
+I see.
+--------------------------------------------------End--
+{Lulu}
+But...
+--------------------------------------------------End--
+{Lulu}
+You must keep your feelings inside,
+until the pilgrimage is over.
+--------------------------------------------------End--
+{Lulu}
+Interesting.
+--------------------------------------------------End--
+{Lulu}
+I suppose I could add you to my list.
+--------------------------------------------------End--
+{Lulu}
+I wish you good luck, little boy.
+You're going to need it.
+--------------------------------------------------End--
+{Rikku}
+Say, you ever think
+about gettin' married?
+--------------------------------------------------End--
+{Tidus}
+Me? No, never.
+--------------------------------------------------End--
+{Rikku}
+I think about it a lot.
+--------------------------------------------------End--
+{Tidus}
+Aren't you a little young?
+--------------------------------------------------End--
+{Rikku}
+Some people marry really
+young in {Spira}, you know.
+--------------------------------------------------End--
+{Tidus}
+You mean people our age
+get married?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{WINDOW}
+Yeah.
+--------------------------------------------------End--
+{Rikku}
+Fiends are around,
+and there's always {Sin}, right?
+--------------------------------------------------End--
+{Rikku}
+One of them might
+get you, you know?
+--------------------------------------------------End--
+{Rikku}
+Lots of people marry the first person
+they fall in love with, just like that!
+--------------------------------------------------End--
+{Tidus}
+Really?
+--------------------------------------------------End--
+{Rikku}
+I'll probably be the same way.
+--------------------------------------------------End--
+{Rikku}
+You an only child?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{WINDOW}
+Yeah.
+--------------------------------------------------End--
+{Rikku}
+I got an older brother, myself.
+--------------------------------------------------End--
+{Tidus}
+Huh.
+--------------------------------------------------End--
+{Rikku}
+I wish I had some younger
+brothers and sisters, though...
+--------------------------------------------------End--
+{Tidus}
+So ask your parents.
+--------------------------------------------------End--
+{Rikku}
+Mom died...
+A machina went on a rampage...
+--------------------------------------------------End--
+{Tidus}
+I'm sorry.
+--------------------------------------------------End--
+{Rikku}
+When I get married,
+I'm gonna have lots of kids!
+--------------------------------------------------End--
+{Rikku}
+That way they'll all
+have brothers and sisters!
+--------------------------------------------------End--
+{Rikku}
+What?
+--------------------------------------------------End--
+{Tidus}
+You're really thinking about your
+future, aren't you? That's great.
+--------------------------------------------------End--
+{Rikku}
+It's pretty normal, I think.
+--------------------------------------------------End--
+{Rikku}
+Hey, maybe {Yuna}'s back!
+--------------------------------------------------End--
+{Wakka}
+For a while there, I was a little worried
+about what was gonna happen, ya?
+--------------------------------------------------End--
+{Lulu}
+I'm a little worried about Lord {Jyscal}.
+--------------------------------------------------End--
+{Lulu}
+I wonder if Maester
+{Seymor} has heard.
+--------------------------------------------------End--
+{Lulu}
+Leave the {Guado}'s problems
+to the {Guado}...they say.
+--------------------------------------------------End--
+{Kimahri}
+{Guado} potions good.
+Buy some before leaving.
+--------------------------------------------------End--
+{Rikku}
+When we leave here, we have to go
+through the {Blue}{Thunder Plains}{White} next, you know.
+--------------------------------------------------End--
+{Rikku}
+I can't stand thunder!
+--------------------------------------------------End--
+{Auron}
+We leave as soon as {Yuna} returns.
+I trust you'll be ready.
+--------------------------------------------------End--
+{WINDOW}
+{Shelinda}
+{WINDOW}
+My...
+--------------------------------------------------End--
+{Shelinda}
+Was the lady summoner
+not with you?
+--------------------------------------------------End--
+{Tidus}
+No. She's at {Seymor}'s place.
+--------------------------------------------------End--
+{Shelinda}
+That's "Maester {Seymor}."
+Or "Lord {Seymor}."
+--------------------------------------------------End--
+{Tidus}
+Oh, I'll be careful. Sorry.
+--------------------------------------------------End--
+{Shelinda}
+That's all right.
+--------------------------------------------------End--
+{Shelinda}
+Maester {Seymor} left
+{Guadosalam} a short while ago.
+--------------------------------------------------End--
+{Tidus}
+You serious?
+--------------------------------------------------End--
+{Shelinda}
+I believe he went
+to the temple in {Blue}Macalania{White}.
+--------------------------------------------------End--
+{Shelinda}
+Maester {Seymor}
+is also the high priest of that temple.
+--------------------------------------------------End--
+{Tidus}
+Whoa, I gotta tell the others!
+--------------------------------------------------End--
+{Shelinda}
+Please, tell the lady {Yuna} that
+I am doing just as she advised me!
+--------------------------------------------------End--
+{Shelinda}
+I, too, will go to the temple
+in Macalania shortly.
+--------------------------------------------------End--
+{Tidus}
+They say {Seymor} went
+to Macarena Temple.
+--------------------------------------------------End--
+{Wakka}
+{Macalania Temple}.
+--------------------------------------------------End--
+{Tidus}
+Aye.
+--------------------------------------------------End--
+{Wakka}
+What I don't get is...
+--------------------------------------------------End--
+{Wakka}
+Why would the lord maester
+head off without a peep to anyone?
+--------------------------------------------------End--
+{Rikku}
+Maybe he wasn't expecting
+{Yuna}'s answer so soon.
+--------------------------------------------------End--
+{Wakka}
+Ah, that's probably it.
+--------------------------------------------------End--
+{Auron}
+{Yuna}, what is it?
+--------------------------------------------------End--
+{Yuna}
+Oh, nothing.
+--------------------------------------------------End--
+{Auron}
+Hmm... You're a poor liar.
+--------------------------------------------------End--
+{Yuna}
+It's true. It's nothing!
+--------------------------------------------------End--
+{Yuna}
+Come on, let's go.
+--------------------------------------------------End--
+{Tromell}
+Why are you in {Guadosalam}?
+What business have you here?
+--------------------------------------------------End--
+{Tidus}
+You wanna start something?
+--------------------------------------------------End--
+{Tromell}
+If it would please you
+to harm a defenseless old man...
+--------------------------------------------------End--
+{Tromell}
+then burn me, boil me, it matters not.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} is gone.
+No lord rises to take his place.
+--------------------------------------------------End--
+{Tromell}
+The {Guado} merely wait for
+{Sin} to come and finish us off.
+--------------------------------------------------End--
+{Tromell}
+Why should I care what you do to me?
+--------------------------------------------------End--
+{Tromell}
+If it meant rejoining Lord {Jyscal}
+and Lord {Seymor}...
+--------------------------------------------------End--
+{Tromell}
+then your taking off my head
+would be the greatest kindness.
+--------------------------------------------------End--
+{Tromell}
+Come to kill the old man?
+I welcome it!
+--------------------------------------------------End--
+{Tromell}
+Or are you here to laugh?
+Laugh at the fallen {Guado}?
+--------------------------------------------------End--
+
+A ferocious storm is ripping through
+the Thunder Plains. Please, remain inside.
+--------------------------------------------------End--
+
+Lord {Seymor} awaits at
+{Macalania Temple}. Please, make haste.
+--------------------------------------------------End--
+
+None may enter this lordless manor.
+--------------------------------------------------End--
+
+It is to remain sealed until a new
+lord is chosen to lead the {Guado2}.
+--------------------------------------------------End--
+
+Present yourself to Lord {Seymor}
+before approaching the {Farplane}.
+--------------------------------------------------End--
+
+A guardian abandoning his summoner?
+Most unbecoming.
+--------------------------------------------------End--
+
+Remember, the {Farplane} is sacrosanct.
+Proper conduct, please.
+--------------------------------------------------End--
+
+Please refrain from speaking
+of Lord {Jyscal}.
+{NEWPAGE}
+
+We must avoid unseemly rumors
+for the sake of {Spira}'s harmony.
+--------------------------------------------------End--
+
+Please, leave the matter of
+Lord {Jyscal} to us {Guado}.
+--------------------------------------------------End--
+
+We have no intention of fighting you,
+for we know that we cannot win.
+--------------------------------------------------End--
+
+Many brave {Guado} have given their lives.
+Now, only a handful remain.
+--------------------------------------------------End--
+
+Although we {Guado} differ from
+humans in appearance, our respect
+for the dead is the same.
+--------------------------------------------------End--
+
+People come to {Guadosalam} from every corner
+of {Spira} to see their loved ones again.
+--------------------------------------------------End--
+
+Why Lord {Jyscal}?
+We gave him such a warm sending.
+--------------------------------------------------End--
+
+This is most disturbing. We must
+inform Lord {Seymor} at once.
+--------------------------------------------------End--
+
+We know not what has befallen
+Lord {Jyscal}...
+{NEWPAGE}
+
+But Lord {Seymor} will soon shed
+light upon this matter.
+--------------------------------------------------End--
+
+We are simply obeying
+Lord {Seymor}'s orders.
+--------------------------------------------------End--
+
+Many a Guado met an untimely death
+in the name of Lord {Seymor}.
+{NEWPAGE}
+
+With most of our youth dead now, the
+future of the {Guado} appears grim indeed.
+--------------------------------------------------End--
+
+Living with the {Farplane} as we do,
+we {Guado} live with death every day.
+{NEWPAGE}
+
+We are prepared to face our own
+deaths at {Sin}'s hand.
+--------------------------------------------------End--
+
+{Sin} embodies death's sheer force.
+After all, no man can stop the inevitable.
+--------------------------------------------------End--
+
+I suppose you think we look...
+odd, don't you?
+{NEWPAGE}
+
+That's fine. We {Guado} are
+used to that sort of thing.
+--------------------------------------------------End--
+
+But if you ask me, you humans
+look absolutely disgusting.
+{NEWPAGE}
+
+Still, what does it matter?
+Such nonsense is beneath us, no?
+--------------------------------------------------End--
+
+Once, a human child simply looked at me
+and then burst into tears. That hurt.
+--------------------------------------------------End--
+
+Is Lord {Seymor} really going to marry?
+Aww...
+--------------------------------------------------End--
+
+One of my friends patrols the roads.
+If you meet him, please say hello for me!
+--------------------------------------------------End--
+
+We lost so many in
+the recent struggles...
+--------------------------------------------------End--
+
+My best friend walks the {Farplane}.
+I...I can't go on like this.
+--------------------------------------------------End--
+
+I want to go to him...
+To see him on the {Farplane}.
+--------------------------------------------------End--
+
+Humans! Humans!
+A summoner and her guardians!
+--------------------------------------------------End--
+
+Wait, I know.
+Keeheehee.
+--------------------------------------------------End--
+
+Lord {Jyscal} came back!
+Don't you find it intriguing?
+--------------------------------------------------End--
+
+Maybe Lord {Seymor} knows why!
+After all, he is of Lord {Jyscal}'s blood.
+--------------------------------------------------End--
+
+Don't you need to catch up
+with Lord {Seymor}?
+--------------------------------------------------End--
+
+Must keep quiet about Lord {Jyscal}.
+A grownup said so.
+--------------------------------------------------End--
+
+Keeheehee!
+--------------------------------------------------End--
+
+Everyone will die.
+{Guado}, humans, {Ronso}, and {Al Bhed}!
+{NEWPAGE}
+
+Only {Sin} will remain,
+forever!
+--------------------------------------------------End--
+
+Once everyone in {Spira}'s dead,
+it'll get real stuffy on the {Farplane}.
+--------------------------------------------------End--
+
+Keeheehee!
+--------------------------------------------------End--
+
+We {Guado} protect the {Farplane}
+so the dead can rest in peace.
+--------------------------------------------------End--
+
+I beg you, please tell no one
+about Lord {Jyscal}.
+{NEWPAGE}
+
+Why, if word leaked out that the lord of
+the {Guado} and a maester of {Yevon2} wandered
+from the {Farplane}...
+{NEWPAGE}
+
+we {Guado2} would become the laughingstock
+of all {Spira}! Yevon have mercy upon us.
+--------------------------------------------------End--
+
+We {Guado2} will solve our own problems.
+Please understand.
+--------------------------------------------------End--
+
+The {Guado2} are deeply saddened
+by the loss of so many of our own.
+{NEWPAGE}
+
+If only I could restore their cheer
+through {blitzball}.
+--------------------------------------------------End--
+
+No {Guado2} has the strength
+to weave dark conspiracies any more.
+--------------------------------------------------End--
+
+Since embracing {Yevon2}, we {Guado2}
+have learned the joy that is {blitzball}.
+--------------------------------------------------End--
+
+I hope that the people of {Spira}
+will find peace through {blitz}ball.
+--------------------------------------------------End--
+
+I want to congratulate Lord {Seymor} on his
+marriage by blitzing like nobody's blitzed before.
+--------------------------------------------------End--
+
+{Guadosalam} is a natural stronghold.
+No fiends will find their way in here.
+--------------------------------------------------End--
+
+Lord {Seymor}'s aeon destroyed the
+fiends that appeared in {Luca Stadium}.
+{NEWPAGE}
+
+That display of Lord {Seymor}'s
+raw power struck me speechless.
+{NEWPAGE}
+
+But it was all a show.
+I feel so...
+--------------------------------------------------End--
+
+I'm sorry.
+I cannot put it into words.
+--------------------------------------------------End--
+
+It's called endurance training.
+Stay out of my way.
+--------------------------------------------------End--
+
+What do you want?
+I'll face you in the sphere pool soon enough.
+--------------------------------------------------End--
+
+{Luca}'s tournament was completely
+upstaged by {Seymor}'s aeon.
+{NEWPAGE}
+
+And by showing support for the excommunicated
+Crusaders, {Seymor}'s popularity is growing fast.
+--------------------------------------------------End--
+
+First a tribe, then a temple, and now...a bride.
+Everything just falls into {Seymor}'s lap.
+--------------------------------------------------End--
+
+Now that {Seymor} is dead, no one
+knows who will rise to take his place.
+{NEWPAGE}
+
+That means that I still have a chance.
+--------------------------------------------------End--
+
+Once I lead the {Guado Glories} to victory,
+I will become the next lord here.
+{NEWPAGE}
+
+Until then, the {Farplane} cannot have me!
+Whatever it takes, I will live to see that day.
+--------------------------------------------------End--
+
+No one will lord over the {Guado} but me!
+Mwahahaha.
+--------------------------------------------------End--

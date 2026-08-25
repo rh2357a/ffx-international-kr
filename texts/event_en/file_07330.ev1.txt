@@ -1,0 +1,216 @@
+
+You'd better hurry!
+The game can't start without you!
+--------------------------------------------------End--
+
+Show us your moves out there, man!
+--------------------------------------------------End--
+
+They say you've got some tricks
+even your old man couldn't do!
+--------------------------------------------------End--
+
+Dinner's on me if you win!
+I even saved a table for you.
+--------------------------------------------------End--
+
+I don't feel so good...like I'm
+on a roller coaster going down.
+--------------------------------------------------End--
+
+Maybe all this excitement's
+gotten to me.
+--------------------------------------------------End--
+
+Hurry up!
+The game's about to start!
+--------------------------------------------------End--
+
+We're counting on you, ace!
+--------------------------------------------------End--
+
+Whoa... I got the shivers.
+Maybe I'm coming down with something...
+--------------------------------------------------End--
+
+Do you feel cold? Nah, maybe
+it's just me. Never mind.
+--------------------------------------------------End--
+
+Man, tickets for tonight's
+game cost an arm and a leg!
+--------------------------------------------------End--
+
+The tickets were all sold out!
+I hope someone's got some extra.
+--------------------------------------------------End--
+
+They'll let me in if I say,
+"{Tidus} and I are buds," right?
+--------------------------------------------------End--
+
+I won't tell anyone else.
+It'll be our secret!
+--------------------------------------------------End--
+
+Aw, too bad...
+I would have cheered for you.
+--------------------------------------------------End--
+
+It's okay, really!
+I'll be fine here...alone...
+--------------------------------------------------End--
+
+R-Really?
+You're the greatest!
+{NEWPAGE}
+
+How can I repay you?
+Here, have this!
+--------------------------------------------------End--
+
+Oh, well.
+It was worth a try.
+--------------------------------------------------End--
+
+Well, well! If it
+isn't {Jecht} junior!
+--------------------------------------------------End--
+
+From the look on your face,
+you'd think you already won!
+--------------------------------------------------End--
+
+All of {Zanarkand}'s watching now,
+so put on a show for 'em!
+--------------------------------------------------End--
+
+Show them what
+{blitzball}'s all about!
+--------------------------------------------------End--
+
+It's gonna be a killer
+game tonight. I know it!
+--------------------------------------------------End--
+
+Tonight's game is gonna be
+one for the history books!
+--------------------------------------------------End--
+
+The {Zanarkand Abes} are counting
+on you! Don't let them down!
+--------------------------------------------------End--
+
+You'd better hurry... Or are you
+just trying to warm up the crowd?
+--------------------------------------------------End--
+
+I'm sure you'll get MVP this year.
+--------------------------------------------------End--
+
+You are {Jecht}'s son, after all!
+--------------------------------------------------End--
+
+Hey, Mr. Star Player of the Abes!
+Do your stuff out there tonight!
+--------------------------------------------------End--
+
+Their defense won't
+know what hit them!
+--------------------------------------------------End--
+
+Careful, the {Zanarkand Duggles}
+mean business tonight!
+--------------------------------------------------End--
+
+I hear the {Zanarkand Duggles} play dirty!
+--------------------------------------------------End--
+
+Hit 'em with a {Jecht} Shot, okay?
+--------------------------------------------------End--
+
+Your dad was the best, {Tidus}.
+I wish I had a dad like yours!
+--------------------------------------------------End--
+
+Good luck, {Tidus}!
+--------------------------------------------------End--
+
+Come on, you're gonna be late!
+Hurry! Hurry!
+--------------------------------------------------End--
+
+The {Zanarkand Abes} rule!
+--------------------------------------------------End--
+
+My mom's a big fan of yours, too!
+She said to invite you to dinner!
+--------------------------------------------------End--
+
+You'd better win tonight,
+or I'll deck you one! Pow!
+--------------------------------------------------End--
+
+I wanna play on your team
+when I grow up, {Tidus}!
+--------------------------------------------------End--
+
+I was in a coffee shop, running away
+from home when I heard the news.
+--------------------------------------------------End--
+
+Our hero, Jecht, gone.
+Vanished into thin air!
+--------------------------------------------------End--
+
+My dad must have been his biggest fan.
+I knew how sad he'd be.
+Heck, we all were that day.
+--------------------------------------------------End--
+
+"Zanar," I says to myself,
+"What are you thinking?"
+--------------------------------------------------End--
+
+I went running straight back home.
+We sat up talking 'bout Jecht all night.
+--------------------------------------------------End--
+
+My dad and I never talked so much.
+Whoa... Didn't mean to reminisce, folks.
+--------------------------------------------------End--
+
+Anyway... Ten years later, the
+Jecht Memorial Cup tournament is today!
+--------------------------------------------------End--
+
+The two teams that have won through
+to the finals are...of course, the Abes
+from A-East, and the Duggles from C-South.
+--------------------------------------------------End--
+
+I know there's a lot of people out there
+today to see the star of the Abes!
+--------------------------------------------------End--
+
+In just one year, he's become
+the team's number one player!
+--------------------------------------------------End--
+
+He's Jecht's blood, and the new
+hope of blitzball! What kind of
+super play will he show us today?
+--------------------------------------------------End--
+
+Will we see his father's legendary
+shot? I don't think I'm the only
+one excited here, folks!
+--------------------------------------------------End--
+
+Can't you get me a ticket?
+I want to see the game up close.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Sure thing.
+{CHOICE:31}Sorry.
+--------------------------------------------------End--

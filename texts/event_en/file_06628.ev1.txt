@@ -1,0 +1,44 @@
+{Jecht}
+Smallest heap of huts I ever seen!
+--------------------------------------------------End--
+{Braska}
+Now, that looks like
+a fine place to live.
+--------------------------------------------------End--
+{Braska}
+Hmm...
+--------------------------------------------------End--
+{Braska}
+{Auron}.
+--------------------------------------------------End--
+{Auron}
+My lord?
+--------------------------------------------------End--
+{Braska}
+When this is over...
+could you bring {Yuna} here?
+--------------------------------------------------End--
+{Braska}
+I want her to lead a life
+far away from this conflict.
+--------------------------------------------------End--
+{Auron}
+You have my word.
+I will bring her here.
+--------------------------------------------------End--
+{Braska}
+Thank you, {Auron}.
+You are a good friend.
+--------------------------------------------------End--
+{Jecht}
+What are you guys doin'?
+Let's go!
+--------------------------------------------------End--
+{Jecht}
+I'm so hungry
+I could eat a shoopuf whole!
+--------------------------------------------------End--
+{Braska}
+Sorry.
+Well, let's go then.
+--------------------------------------------------End--

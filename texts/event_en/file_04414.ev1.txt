@@ -1,0 +1,70 @@
+
+{WINDOW}
+A {Yellow}Djose Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Destruction Sphere{White} is inserted here.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one sphere at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+You see a sphere-shaped recess.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take sphere.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Djose Sphere{White}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Insert sphere.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} glows on the wall.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Touch glyph.
+{WINDOW}
+{CHOICE:31}Do nothing.
+--------------------------------------------------End--
+{Wakka}
+All right! 
+Guardians, at attention!
+--------------------------------------------------End--
+{Yuna}
+We are ready.
+--------------------------------------------------End--
+{Wakka}
+All right... 
+Let's do it!
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Djose Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Djose Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--

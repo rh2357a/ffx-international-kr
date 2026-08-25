@@ -1,0 +1,191 @@
+
+{WINDOW}
+{Yellow}You cannot push the pedestal over steps.{White}
+--------------------------------------------------End--
+
+You can obtain hidden items by 
+using {Yellow}Destruction Spheres{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} glows on the wall.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Touch glyph.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+{WINDOW}
+You see a sphere-shaped recess.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Besaid Sphere{White}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Insert sphere.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Besaid Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Besaid Sphere{White} is set here.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take sphere.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Besaid Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one sphere at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Glyph Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Destruction Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The door seems to be locked
+by an unseen force.
+--------------------------------------------------End--
+
+{WINDOW}
+Something can be placed in the recess.
+--------------------------------------------------End--
+
+Move the pedestal set with
+a sphere to the correct place.
+{NEWPAGE}
+
+If you move it improperly,
+step on the {Yellow}shining glyph{White} to return
+the pedestal to its original place.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Touch symbols.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+You found a {Yellow}{Besaid} Sphere{White}.
+--------------------------------------------------End--
+
+Maybe this wasn't such a good idea
+after all.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+{WINDOW}
+Hey!
+--------------------------------------------------End--
+{Wakka}
+What's gotten into you?
+--------------------------------------------------End--
+{Wakka}
+Hey, it's okay.
+--------------------------------------------------End--
+{Wakka}
+Only summoners, apprentice summoners,
+and their guardians can enter here.
+--------------------------------------------------End--
+{Wakka}
+It's a tradition.
+Very important.
+--------------------------------------------------End--
+{Tidus}
+So what about you?
+--------------------------------------------------End--
+{Wakka}
+Me? I'm a guardian.
+--------------------------------------------------End--
+{Tidus}
+A guardian?
+--------------------------------------------------End--
+{Wakka}
+Summoners go on a pilgrimage
+to pray at every temple in {Spira}.
+--------------------------------------------------End--
+{Wakka}
+Guardians protect them.
+--------------------------------------------------End--
+{Wakka}
+The guardians in there now...
+--------------------------------------------------End--
+{Wakka}
+One of them's got a short fuse,
+and who knows what the other's thinking.
+--------------------------------------------------End--
+{Wakka}
+Well, now that we've come this far...
+--------------------------------------------------End--
+{Wakka}
+might as well go all the way!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}The Cloister of Trials{White}
+Those who seek to learn of Yevon's secret
+arts are tested by the {Yellow}Cloister of Trials{White}.
+Find the right way, and you will be
+taken to the {Blue}Chamber of the Fayth{White}.
+Examine objects with {Button Circle} to open the way.
+--------------------------------------------------End--
+
+A strange {Yellow}glyph{White} glows.
+--------------------------------------------------End--
+
+You must use a sphere to go any further.
+--------------------------------------------------End--
+
+{Yellow}Glyph Spheres{White} open the way to
+the {Blue}Chamber of the Fayth{White}.
+--------------------------------------------------End--
+
+{Yellow}Destruction Spheres{White} open the way to
+hidden treasure.
+--------------------------------------------------End--
+
+It seems that {Yellow}{Besaid} Spheres{White}
+are also necessary.
+--------------------------------------------------End--
+
+You can carry only one sphere
+at a time.
+--------------------------------------------------End--

@@ -1,0 +1,544 @@
+{Tidus}
+As if I could sleep!
+--------------------------------------------------End--
+{Lulu}
+This might be the last time
+we can rest like this.
+--------------------------------------------------End--
+{Maechen}
+Mr. {Rin}'s shops are all over {Spira}.
+They are quite convenient when
+you're on the road.
+--------------------------------------------------End--
+{Shelinda}
+I've heard that the proprietor,
+Mr. {Rin}, is an {Al Bhed}.
+--------------------------------------------------End--
+{Shelinda}
+But I was very relieved to find that
+he keeps nothing sacrilegious here.
+--------------------------------------------------End--
+
+{OPurple}Pardon me.
+--------------------------------------------------End--
+{Tidus}
+Sorry?
+--------------------------------------------------End--
+
+Ah, forgive me, sir.
+--------------------------------------------------End--
+
+I meant to say "pardon me,"
+but it came out in {Al Bhed}.
+--------------------------------------------------End--
+{Tidus}
+Oh, you're an {Al Bhed}?
+--------------------------------------------------End--
+
+I am {Rin},
+owner of this establishment.
+--------------------------------------------------End--
+{Rin}
+{OPurple}Nice to meet you.
+--------------------------------------------------End--
+{Rin}
+It means, "nice to meet you."
+--------------------------------------------------End--
+{Tidus}
+Well {OPurple}helly doo sad wee{White} to you, too.
+--------------------------------------------------End--
+{Rin}
+If you are interested...
+--------------------------------------------------End--
+{Rin}
+{Al Bhed} primers can be found
+all over {Spira}.
+--------------------------------------------------End--
+{Rin}
+Finding them and learning
+our language might be fun.
+--------------------------------------------------End--
+{Rin}
+Here, let me give you one in
+commemoration of our meeting.
+--------------------------------------------------End--
+{Rin}
+Although you might want to be careful
+where you speak our language.
+--------------------------------------------------End--
+{Tidus}
+Yeah, I hear {Al Bhed} aren't
+liked much. Oh, sorry!
+--------------------------------------------------End--
+{Rin}
+{OPurple}It is a shame.
+--------------------------------------------------End--
+
+Someone, help! The chocobos!
+--------------------------------------------------End--
+{Auron}
+That's our cue, let's go.
+--------------------------------------------------End--
+{Rin}
+Thank you for your help.
+Please, use this.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rin}
+It is a ferocious beast.
+Be prepared!
+--------------------------------------------------End--
+{Rin}
+We appreciate this thing you have done.
+--------------------------------------------------End--
+{Rin}
+Thank you.
+--------------------------------------------------End--
+{Rin}
+It means "I thank you."
+--------------------------------------------------End--
+{Rin}
+There are branches of my
+travel agency all over {Spira}.
+--------------------------------------------------End--
+{Rin}
+Your patronage is always welcome.
+--------------------------------------------------End--
+
+You guys already
+got a room, right?
+--------------------------------------------------End--
+
+There are so many things I want,
+I can't decide what to get.
+--------------------------------------------------End--
+
+Say... Will you buy something for me?
+--------------------------------------------------End--
+
+I'm just kidding.
+--------------------------------------------------End--
+
+Yeah, I'm kidding.
+--------------------------------------------------End--
+
+Buy it yourself.
+I'm not your mom.
+--------------------------------------------------End--
+
+Man, I'm beat. I woke
+up early for nothing.
+--------------------------------------------------End--
+
+I left early this morning only to find
+the end of the Highroad closed to traffic.
+{NEWPAGE}
+
+So I had to turn back.
+What a waste of time.
+--------------------------------------------------End--
+
+Oh, you didn't know? The {Crusader}s
+have sealed off the Highroad.
+--------------------------------------------------End--
+
+Is it true? Th-There's a fiend outside!?
+No way! I'm staying right here!
+--------------------------------------------------End--
+
+What are you standing around for?
+Go take care of it!
+--------------------------------------------------End--
+
+Welcome to {Rin}'s Travel Agency.
+--------------------------------------------------End--
+
+Would you care to rest?
+--------------------------------------------------End--
+
+Welcome to {Rin}'s Travel Agency.
+--------------------------------------------------End--
+
+Do you wish to make a purchase?
+--------------------------------------------------End--
+
+A fellow {Crusader} and I promised
+to meet here after the operation and
+have some drinks.
+--------------------------------------------------End--
+
+That guy always keeps his promises.
+I'm not leaving here until he comes.
+--------------------------------------------------End--
+
+I know what happened to his friend,
+but I...I just can't tell him.
+--------------------------------------------------End--
+
+I'm sure we'll see our fellow
+Crusaders if we wait here.
+{NEWPAGE}
+
+We can't depend on the temple,
+so I guess it's all on us.
+--------------------------------------------------End--
+
+We owe the {Al Bhed2} so much for all
+their help. I'd like to repay them someday.
+--------------------------------------------------End--
+
+We've mustered a lot of men. They
+just keep coming. Soon we'll be able
+to restore the {Crusader}s!
+--------------------------------------------------End--
+
+Once we have enough men, we're gonna
+head north, taking care of the fiends
+along the way.
+{NEWPAGE}
+
+And when we reach {Bevelle},
+we're gonna challenge {Sin} again.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Buy something for her.
+{CHOICE:31}You've gotta be kidding.
+{CHOICE:32}No, you buy me something.
+--------------------------------------------------End--
+
+I thought I'd quit the {Crusader}s for
+good, but singing the Hymn changed
+my mind.
+{NEWPAGE}
+
+I can't just sit around while those
+guys on the flying ship are risking
+their lives fighting {Sin}!
+--------------------------------------------------End--
+
+I will fight as a {Crusader}
+even if my family objects.
+--------------------------------------------------End--
+
+I told them I could fight, but
+they said to get off the ship.
+{NEWPAGE}
+
+{Cid} has become quite the fox
+treating me like an old man.
+--------------------------------------------------End--
+
+{Rin} is up there, so he'll
+keep an eye on {Cid}.
+--------------------------------------------------End--
+
+I never thought I would teach {Al Bhed}
+to the people of {Yevon2}.
+{NEWPAGE}
+
+These are strange times.
+--------------------------------------------------End--
+
+You're a guardian, right?
+I think this'll help.
+--------------------------------------------------End--
+
+The sphere monitor will teach you how to
+use it. Have you read the instructions yet?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+Then you should be okay.
+--------------------------------------------------End--
+
+In that case, you should view the sphere
+monitor there and find out how to use it.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Rest.
+{CHOICE:31}No.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+There are various books.
+Many are written in {Al Bhed}.
+--------------------------------------------------End--
+
+Weapons, armor, and food are sold here.
+{NEWPAGE}
+
+Purchase at the counter.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. VIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}R{White} {RIGHT} {Pink}H{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Scans memory cards (8MB) (for PlayStation{Registered}2)
+for {Al Bhed} primers and adds them to your
+collection. Use these spheres to expand your
+{Al Bhed} vocabulary.
+--------------------------------------------------End--
+{WINDOW}
+Select a slot:
+{CHOICE:30}MEMORY CARD slot 1
+{CHOICE:31}MEMORY CARD slot 2
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 1
+--------------------------------------------------End--
+{WINDOW}
+Do not remove/insert memory cards (8MB)
+(for PlayStation{Registered}2) or controllers.
+Do not open disc tray.
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 1!
+--------------------------------------------------End--
+{WINDOW}
+No {FINAL FANTASY X} INTERNATIONAL
+saved game data found!
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 2
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 2!
+--------------------------------------------------End--

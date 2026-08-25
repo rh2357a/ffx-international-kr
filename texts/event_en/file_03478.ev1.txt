@@ -1,0 +1,279 @@
+{Tidus}
+Something up there?
+--------------------------------------------------End--
+{Lulu}
+Let's go!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Lightning and Shadows{White}
+Strike the final blow upon
+the summoner that appears
+with the thunder's roar!
+--------------------------------------------------End--
+{Yuna}
+Everyone...wait.
+--------------------------------------------------End--
+{Wakka}
+What's up?
+--------------------------------------------------End--
+{Yuna}
+I have something to tell you.
+--------------------------------------------------End--
+{Lulu}
+Here?
+--------------------------------------------------End--
+{Rikku}
+We're almost out of here! Let's go!
+--------------------------------------------------End--
+{Yuna}
+I have to say it now!
+--------------------------------------------------End--
+{Auron}
+Over there.
+--------------------------------------------------End--
+
+Somehow, my bad feelings
+always come true.
+--------------------------------------------------End--
+{Yuna}
+I've decided to marry.
+--------------------------------------------------End--
+{Lulu}
+I thought so.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+B-But why?
+Why'd you change your mind?
+--------------------------------------------------End--
+{Yuna}
+For {Spira}'s future...
+and {Yevon2}'s unity.
+--------------------------------------------------End--
+{Yuna}
+I thought it would
+be the best thing to do.
+--------------------------------------------------End--
+{Auron}
+That's not good enough.
+--------------------------------------------------End--
+{Lulu}
+Wait, is it...
+--------------------------------------------------End--
+{Lulu}
+Is it because of Lord {Jyscal}?
+--------------------------------------------------End--
+{Tidus}
+Hey! That sphere!
+--------------------------------------------------End--
+{Auron}
+Show me.
+--------------------------------------------------End--
+{Wakka}
+You're kidding, ya?
+--------------------------------------------------End--
+{Auron}
+As you wish.
+--------------------------------------------------End--
+{Tidus}
+Wait a minute, {Auron}!
+--------------------------------------------------End--
+{Auron}
+No, I'm not.
+--------------------------------------------------End--
+{Tidus}
+But that's...
+--------------------------------------------------End--
+{Wakka}
+{Yuna}, just one question.
+--------------------------------------------------End--
+{Wakka}
+Can't you just talk
+to Maester {Seymor}?
+--------------------------------------------------End--
+{Wakka}
+You've got to marry him?
+--------------------------------------------------End--
+{Yuna}
+I don't know.
+--------------------------------------------------End--
+{Yuna}
+But I think it is the right thing to do.
+--------------------------------------------------End--
+{Wakka}
+Okay, I guess.
+--------------------------------------------------End--
+{Rikku}
+{Yunie}...
+--------------------------------------------------End--
+{Rikku}
+Quiet!
+--------------------------------------------------End--
+{Rikku}
+I wish we could help somehow, some way!
+--------------------------------------------------End--
+{Yuna}
+It's okay...
+I'll be fine.
+--------------------------------------------------End--
+
+She says, "I'm sorry."
+He says, "It's fine."
+--------------------------------------------------End--
+
+She's "willing" to face {Sin}.
+She's "privileged."
+--------------------------------------------------End--
+
+I didn't understand.
+--------------------------------------------------End--
+
+But somehow,
+I felt like I didn't belong.
+--------------------------------------------------End--
+
+But if I didn't belong with them,
+I'd be stuck in {Spira}, alone.
+--------------------------------------------------End--
+
+And being alone in that place, well,
+I didn't want to think about it.
+--------------------------------------------------End--
+{Auron}
+Next, we're going
+to {Blue}{Macalania Temple}{White}.
+--------------------------------------------------End--
+{Auron}
+{Yuna} can talk with
+{Seymor} there.
+--------------------------------------------------End--
+{Auron}
+We guardians will wait until they're
+done, and plan our next move.
+--------------------------------------------------End--
+{Auron}
+Understood?
+--------------------------------------------------End--
+{Yuna}
+I can't.
+--------------------------------------------------End--
+{Yuna}
+I must speak to
+Maester {Seymor} first.
+--------------------------------------------------End--
+{Yuna}
+I truly am sorry,
+but this is...
+--------------------------------------------------End--
+{Yuna}
+It is a personal matter.
+--------------------------------------------------End--
+{Yuna}
+I'm sorry.
+--------------------------------------------------End--
+{Auron}
+Just one thing.
+--------------------------------------------------End--
+{Yuna}
+I won't quit my pilgrimage.
+--------------------------------------------------End--
+{Auron}
+Then it is...fine.
+--------------------------------------------------End--
+{Tidus}
+You don't care? I mean,
+you're not going to stop her?
+--------------------------------------------------End--
+{Auron}
+As long as she is
+willing to face {Sin}...
+--------------------------------------------------End--
+{Auron}
+all else is her concern.
+--------------------------------------------------End--
+{Auron}
+That is a summoner's privilege.
+As long as she journeys.
+--------------------------------------------------End--
+{WINDOW}
+
+You heathen!
+--------------------------------------------------End--
+
+A strange stone.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+The password is...
+{NEWPAGE}
+
+MURASAME
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--

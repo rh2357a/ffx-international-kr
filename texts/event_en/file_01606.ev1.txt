@@ -1,0 +1,317 @@
+{Auron}
+We rest here.
+--------------------------------------------------End--
+{Wakka}
+But, this is an {Al Bhed} shop!
+--------------------------------------------------End--
+{Auron}
+Is that a problem?
+--------------------------------------------------End--
+{Wakka}
+They don't believe in {Yevon2},
+and in Luca they... 
+--------------------------------------------------End--
+{Wakka}
+They kidnapped {Yuna}!
+--------------------------------------------------End--
+{Auron}
+Where were her guardians?
+--------------------------------------------------End--
+{Yuna}
+Sir {Auron}'s just concerned
+about your health.
+--------------------------------------------------End--
+{Wakka}
+I'm not tired one bit!
+--------------------------------------------------End--
+{Auron}
+Well I am.
+--------------------------------------------------End--
+{Lulu}
+To the chocobo corral!
+--------------------------------------------------End--
+{Auron}
+Now I know I can count on you.
+--------------------------------------------------End--
+{Tidus}
+Gimme a break. I just woke up.
+--------------------------------------------------End--
+{Tidus}
+Like you did much!
+--------------------------------------------------End--
+{Auron}
+It was your idea to fight that thing.
+--------------------------------------------------End--
+{Auron}
+If you're always so groggy,
+just stay awake.
+--------------------------------------------------End--
+{Tidus}
+Yeah right, thanks for the tip.
+--------------------------------------------------End--
+{Rin}
+Have you an interest in
+renting some chocobos?
+--------------------------------------------------End--
+{Rin}
+As a token of our gratitude,
+the first time is free of charge.
+--------------------------------------------------End--
+{Rin}
+Please ask the attendant,
+if you wish to rent.
+--------------------------------------------------End--
+
+Thank you so much
+for saving the chocobos!
+--------------------------------------------------End--
+
+Hello!
+No charge this time!
+--------------------------------------------------End--
+
+You get to ride a chocobo once for
+free, but I see you already have one.
+{NEWPAGE}
+
+You can rent one free next time, then.
+--------------------------------------------------End--
+
+Do you want to ride a chocobo?
+--------------------------------------------------End--
+
+Do you want me to teach you
+how to ride a chocobo?
+--------------------------------------------------End--
+
+Please be careful on your trip.
+--------------------------------------------------End--
+{Elma}
+Summoners and guardians!
+I saw the fight. I was impressed!
+--------------------------------------------------End--
+{Elma}
+Right now we're charged with
+getting people off the Highroad.
+--------------------------------------------------End--
+{Elma}
+But you... Well, you have a
+have a summoner, so you can stay.
+--------------------------------------------------End--
+{Elma}
+Don't tell anyone,
+but this is a really boring job.
+--------------------------------------------------End--
+{Elma}
+Oh, I took care of
+that fiend for you.
+--------------------------------------------------End--
+
+Some harsh words have been
+directed at us {Al Bhed} lately.
+{NEWPAGE}
+
+They say it is our fault that the
+operation failed.
+--------------------------------------------------End--
+
+I am used to being hated, but now
+I do not feel like working anymore.
+--------------------------------------------------End--
+
+I am fed up of working with morons.
+--------------------------------------------------End--
+
+We're keeping an eye on the {Al Bhed2}
+so they don't take advantage of the people.
+--------------------------------------------------End--
+
+We got off the ship with the children
+under the orders of Elder {Cid}.
+{NEWPAGE}
+
+The elder probably senses it will be
+a tough battle.
+--------------------------------------------------End--
+
+I pray for your safety. I do not wish
+harm on any more people.
+--------------------------------------------------End--
+
+The children are happy.
+Everything is so new to them.
+--------------------------------------------------End--
+
+I must watch over the children. It is
+dangerous here. They could fall off the cliff.
+--------------------------------------------------End--
+
+I will be angry if those {Yevon2} monks
+hurt the children.
+{NEWPAGE}
+
+I do not think they will, but
+I cannot trust them.
+--------------------------------------------------End--
+
+When I hear the word {Yevon2}, I think of
+the {fiend} attack on our {Home}.
+--------------------------------------------------End--
+
+I guess all children are innocent,
+whether they are ours or {Al Bhed}.
+--------------------------------------------------End--
+
+As a {Yevon2} monk, I have denounced the
+{Al Bhed2} for defying the teachings.
+{NEWPAGE}
+
+By doing so, I have only stirred senseless
+conflicts throughout {Spira}.
+{NEWPAGE}
+
+I deeply regret my folly.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'm okay.
+{CHOICE:31}Teach me.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}How to Ride a Chocobo{White}
+
+{Blue}Movement:{White}
+Move far:{VAR07:E4}{Direcional Up}{VAR07:60}Move near:{VAR07:E4}{Direcional Down}
+Move left:{VAR07:E4}{Direcional Left}{VAR07:60}Move right:{VAR07:E4}{Direcional Right}
+
+{Blue}Getting on and off:{White}
+Press {VAR07:E8}{Button Circle} while facing chocobo to mount.
+Press {VAR07:E8}{Button X} to dismount.
+
+Chocobos can only be ridden along the {Mi'ihen Highroad}.
+You cannot enter {Luca} or pass beyond
+the Highroad while riding a chocobo.
+--------------------------------------------------End--
+{WINDOW}
+Your chocobo will wait for you where
+you leave it unless you leave the
+{Mi'ihen Highroad} on foot or you rent
+another chocobo.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let me ride one!
+{CHOICE:31}I'll walk.
+{CHOICE:32}How do you ride a chocobo?
+--------------------------------------------------End--
+{WINDOW}
+Fee: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+
+Henceforth, I will work to engender harmony
+between the {Al Bhed2} and our people.
+--------------------------------------------------End--
+
+A {fiend} tried to attack us, but
+Mom blew it away with {machina}.
+{NEWPAGE}
+
+Don't make her angry. You don't want
+to see her when she is angry.
+--------------------------------------------------End--
+
+Is this our new {Home}?
+--------------------------------------------------End--
+
+I wanted to ride on the ship, too.
+It was a great battle, right?
+--------------------------------------------------End--
+
+Huh? The battle is not over?
+Then maybe we should sing again.
+--------------------------------------------------End--
+
+That is the biggest puddle
+I have ever seen!
+--------------------------------------------------End--
+
+There are many unusual plants.
+I wonder how they taste.
+--------------------------------------------------End--
+
+I am taking care of the chocobos.
+{NEWPAGE}
+
+Take good care of them when you
+ride them, okay?
+--------------------------------------------------End--
+
+The sunlight is gentle here
+compared to {Bikanel}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

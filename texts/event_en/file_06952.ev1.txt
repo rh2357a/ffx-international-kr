@@ -1,0 +1,795 @@
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Blitzball Tutorial{White}
+{CHOICE:30}Moving
+{CHOICE:31}Action Commands
+{CHOICE:32}Passing
+{CHOICE:33}Shooting
+{CHOICE:34}Using HP
+{CHOICE:35}Encounters
+{CHOICE:36}Breakthroughs
+{CHOICE:37}Techcopy
+{CHOICE:38}Stats
+{CHOICE:39}Status Ailments
+{CHOICE:3A}Techniques
+{CHOICE:3B}Game Modes
+{CHOICE:3C}End Tutorial
+--------------------------------------------------End--
+{WINDOW}
+Ten games are played during a {Yellow}league{White}
+season, with the winner determined
+by total points. 3 points are awarded
+for a win, and 1 point for a tie.
+You can press {Button Triangle} to forfeit a game,
+but only when your team is losing.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Tournaments{White} span two to three matches.
+There are no draws, so a match ending
+with tied scores goes into overtime.
+You can press {Button Triangle} to forfeit a game,
+but only when your team is losing.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Exhibition{White} games are for practice.
+No experience points are awarded for
+playing, but you can copy techniques.
+Press {Button Triangle} at any time to forfeit the game.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Status Ailments{White}{WINDOW}
+
+{CHOICE:30}Poison
+{CHOICE:31}Sleep
+{CHOICE:32}Wither
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Poison{White} accelerates the loss of HP
+while the player has the ball.
+Poisoned players do not recover
+HP even when rid of the ball.
+In time, poison runs its course.
+--------------------------------------------------End--
+{WINDOW}
+Poison also {Yellow}disables techniques{White}.
+Shooting techs are lost first,
+followed by tackling techs and
+passing techs if the poison effects
+are stacked with {Yellow}Pile Venom{White}.
+--------------------------------------------------End--
+{WINDOW}
+A player becomes {Yellow}unable to act{White} when put to {Yellow}sleep{White}.
+The player will wake after a while, or when he
+is hit by the ball.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Wither{White} reduces a single stat by half.
+The effects wear off over time.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Techniques{White}{WINDOW}
+
+You can learn blitzball techniques
+by {Yellow}techcopying{White} them from opposing players,
+or by {Yellow}using the prizes{White} given to the top teams of
+each season or tournament.
+--------------------------------------------------End--
+{WINDOW}
+Initially, each player can only
+learn certain techniques.
+--------------------------------------------------End--
+{WINDOW}
+But by learning certain {Yellow}key techniques{White},
+a player can increase the number of
+techniques available to him.
+--------------------------------------------------End--
+{WINDOW}
+The required key techniques vary by
+player. Each time a player learns a key
+technique, he gains access to a broader
+range of techniques.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}HP{White}
+  - Spent when carrying the ball.
+  - Spent when shooting and passing.
+  - Recovers when moving without the ball.
+  - PA and SH are halved when HP is too low.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}EN{White}  (Endurance)
+  - Ability to withstand tackles.
+  - Opposing stat: AT.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}PA{White}
+  - Passing accuracy.
+  - Higher PA enables longer passes.
+  - Opposing stat: BL.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}SH{White}
+  - Shooting skill.
+  - Higher SH enables longer shots.
+  - Opposing stats: BL, CA.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}AT{White}
+  - Attack strength of tackles.
+  - Opposing stat: EN.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}BL{White}
+  - Skill at blocking shots & passes.
+  - Opposing stats: PA, SH.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}CA{White}
+  - Goalie's skill at catching shots.
+  - Opposing stat: SH.
+--------------------------------------------------End--
+{WINDOW}
+
+--------------------------------------------------End--
+{WINDOW}
+In blitzball, players expend
+{Yellow}HP{White} to perform actions.
+--------------------------------------------------End--
+{WINDOW}
+Think of HP here as {Yellow}stamina{White},
+because players remain conscious
+even if their HP drops to 0.
+--------------------------------------------------End--
+{WINDOW}
+The first thing to remember is that
+whoever has the ball steadily loses HP
+while carrying it through the water.
+--------------------------------------------------End--
+{WINDOW}
+Watch how {Tidus}'s HP falls
+from {Yellow}{VAR12:30}{White} as he carries the ball.
+--------------------------------------------------End--
+{WINDOW}
+As you can see, HP decreases
+when the ball is carried.
+--------------------------------------------------End--
+{WINDOW}
+Shooting and passing also
+consume HP. Let's take a look.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Shoot{White}.
+Each shot consumes {Yellow}10{White} HP.
+Watch closely as {Tidus}
+loses {Yellow}10{White} HP.
+--------------------------------------------------End--
+{WINDOW}
+As you can see, his HP
+decreased from {Yellow}{VAR12:31}{White} to {Yellow}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+In blitzball, all actions require HP.
+--------------------------------------------------End--
+{WINDOW}
+Now let's see what happens
+when HP runs low.
+--------------------------------------------------End--
+{WINDOW}
+Players can still shoot even
+if their HP falls below {Yellow}10{White}.
+--------------------------------------------------End--
+{WINDOW}
+But when they do, their shots
+are only {Yellow}half{White} as effective.
+--------------------------------------------------End--
+{WINDOW}
+Whenever HP is too low, the commands
+are highlighted {Blue}blue{White}. Also, note that
+SH is reduced from {Yellow}10{White} to {Yellow}5{White}.
+--------------------------------------------------End--
+{WINDOW}
+Each player slowly regains HP
+once he is rid of the ball.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 5:{White}
+- Carrying the ball consumes HP.
+- Players regain HP once rid of the ball.
+- Passing and shooting require HP.
+- Insufficient HP reduces PA and SH by half.
+--------------------------------------------------End--
+{WINDOW}
+Now let's look at how to {Yellow}shoot{White}.
+Shooting is very similar to passing.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Shoot{White}.
+--------------------------------------------------End--
+{WINDOW}
+That is explained elsewhere.
+Please select {Yellow}Shoot{White}.
+--------------------------------------------------End--
+{WINDOW}
+A player's shooting accuracy is displayed as {Yellow}SH{White}.
+Check {Tidus}'s SH, now at {Yellow}10{White}.
+--------------------------------------------------End--
+{WINDOW}
+A {Yellow}goalkeeper{White} defends the goal
+from {Tidus}'s shots.
+--------------------------------------------------End--
+{WINDOW}
+Let's do it.
+Open the command window
+by pressing {Button Square}.
+--------------------------------------------------End--
+{WINDOW}
+A shot loses SH as it travels through
+the water, just as a pass loses PA.
+--------------------------------------------------End--
+{WINDOW}
+A shot that reaches the goal with
+SH of at least {Yellow}1{White} will score.
+If a shot's SH is depleted, it will fail.
+--------------------------------------------------End--
+{WINDOW}
+Once you select {Yellow}Shoot{White}, the goalkeeper's
+stats appear beneath yours.
+--------------------------------------------------End--
+{WINDOW}
+Your teammates' stats are displayed on
+a {Blue}blue{White} background. The opposing team's
+stats are displayed on a {Red}red{White} background.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}CA{White} represents the
+goalkeeper's ability to
+catch incoming shots.
+--------------------------------------------------End--
+{WINDOW}
+In this example, Raudy's goalkeeping
+ability is shown as {Yellow}8{White}.
+--------------------------------------------------End--
+{WINDOW}
+Let's resume.
+Keep an eye on the shot's
+{Yellow}SH{White} as it decreases.
+--------------------------------------------------End--
+{WINDOW}
+Check {Tidus}'s {Yellow}SH{White} now.
+--------------------------------------------------End--
+{WINDOW}
+Here, we take the shot's {Yellow}SH{White} and
+subtract the goalkeeper's {Yellow}CA{White}..
+--------------------------------------------------End--
+{WINDOW}
+If no SH remains,
+then the shot fails.
+--------------------------------------------------End--
+{WINDOW}
+Be aware that the actual CA applied
+here is randomized, ranging from 50 to
+150 percent of the goalie's current CA.
+--------------------------------------------------End--
+{WINDOW}
+Here the goalkeeper has a CA of {Yellow}8{White},
+so the actual amount subtracted
+may vary from {Yellow}4{White} to {Yellow}12{White}.
+--------------------------------------------------End--
+{WINDOW}
+So, let's see whether
+the shot's {Yellow}SH{White} score will
+remain above {Yellow}0{White}.
+--------------------------------------------------End--
+{WINDOW}
+Since the shot lost some SH as
+it travelled through the water,
+it is currently at {Yellow}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+The shot was successful
+because SH is at {Yellow}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+Now let's see what happens when you miss a shot.
+Switch to {Yellow}Manual{White} movement, swim far
+from the goal, and try shooting from there.
+--------------------------------------------------End--
+{WINDOW}
+The shot failed because
+its SH hit {Yellow}0{White}.
+--------------------------------------------------End--
+{WINDOW}
+Now let's try scoring a goal.
+Switch to {Yellow}Manual{White} movement, swim closer
+to the goal, and try shooting from there.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 4:{White}
+- SH represents shooting accuracy.
+- Each shot loses SH the farther it travels.
+- The goalie's CA is subtracted from SH.
+- If final SH is less than or equal to {Yellow}0{White}, the shot fails.
+--------------------------------------------------End--
+{WINDOW}
+Now, let's take a look at {Yellow}passing{White}.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Pass{White}.
+--------------------------------------------------End--
+{WINDOW}
+That is explained elsewhere.
+Please select {Yellow}Pass{White}.
+--------------------------------------------------End--
+{WINDOW}
+Select a receiver for your pass.
+His stats are shown at the top right.
+--------------------------------------------------End--
+{WINDOW}
+Your pass is complete,
+and now {VAR12:30} has the ball.
+--------------------------------------------------End--
+{WINDOW}
+Stats determine the outcome
+of each pass.
+--------------------------------------------------End--
+{WINDOW}
+Take a look at the number
+shown next to {Yellow}PA{White}.
+--------------------------------------------------End--
+{WINDOW}
+That number, {Yellow}10{White}, represents
+{VAR12:30}'s {Yellow}passing accuracy{White}.
+--------------------------------------------------End--
+{WINDOW}
+Let's pass the ball back to {Tidus}.
+Open the command window by pressing {Button Square}.
+--------------------------------------------------End--
+{WINDOW}
+Keep an eye on the PA score, now at {Yellow}10{White},
+as the ball travels back to {Tidus}.
+--------------------------------------------------End--
+{WINDOW}
+Did you notice the gradual
+decrease in PA?
+--------------------------------------------------End--
+{WINDOW}
+The friction of the water causes the
+pass's PA to gradually {Yellow}decrease{White}.
+--------------------------------------------------End--
+{WINDOW}
+If its PA reaches {Yellow}0{White}, the pass
+becomes uncatchable.
+--------------------------------------------------End--
+{WINDOW}
+Now let's watch {Tidus}
+throw a bad pass.
+We'll set his PA to {Yellow}3{White}.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Square} and pass the ball.
+Keep an eye on {Tidus}'s PA, now at {Yellow}3{White}.
+--------------------------------------------------End--
+{WINDOW}
+When a pass fails, the ball
+becomes {Yellow}loose{White}. A loose ball
+can be claimed by anyone.
+--------------------------------------------------End--
+{WINDOW}
+Therefore, a player with high PA can
+successfully throw longer passes.
+--------------------------------------------------End--
+{WINDOW}
+Likewise, a player with low PA
+often throws bad passes, giving
+the other team a chance at the ball.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 3:{White}
+- PA represents passing accuracy.
+- Each pass loses PA the farther it travels.
+- Once PA reaches {Yellow}0{White}, the pass becomes uncatchable.
+--------------------------------------------------End--
+{WINDOW}
+Now, let's practice passing for a while.
+--------------------------------------------------End--
+{WINDOW}
+Please select {Tidus}.
+--------------------------------------------------End--
+{WINDOW}
+In order to make a player perform
+an action, you must choose an
+{Yellow}action command{White}.
+--------------------------------------------------End--
+{WINDOW}
+You can open the action command window
+by pressing the {Button Square} button.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Square} now.
+--------------------------------------------------End--
+{WINDOW}
+The game pauses while the action
+command window is open, so you have
+ample time to think about your next move.
+--------------------------------------------------End--
+{WINDOW}
+That is explained elsewhere.
+Please select {Yellow}Dribble{White}.
+--------------------------------------------------End--
+{WINDOW}
+There are three available commands:
+{Yellow}Pass{White}, {Yellow}Shoot{White}, and {Yellow}Dribble{White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Dribble{White} simply makes the
+player resume movement.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Pass{White} and {Yellow}Shoot{White} are the
+most important commands.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 2:{White}
+- {Button Square} opens the action command window.
+- The three commands are Pass, Shoot, and Dribble.
+- Dribble simply makes the player resume movement.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Movement{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+--------------------------------------------------End--
+{WINDOW}
+In blitzball, there are five players
+per team in the sphere pool.
+--------------------------------------------------End--
+{WINDOW}
+The {Yellow}Overhead Map{White} shows all players' current
+positions and the direction each is facing.
+Here, only one team is shown on the field.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} is carrying the ball now.
+--------------------------------------------------End--
+{WINDOW}
+The ball carrier is displayed as a
+{Yellow}circled arrow{White} on the Map.
+--------------------------------------------------End--
+{WINDOW}
+Now let's watch the players move.
+--------------------------------------------------End--
+{WINDOW}
+It may seem confusing at first,
+but it's actually quite simple.
+--------------------------------------------------End--
+{WINDOW}
+By default, player movement is set to {Yellow}Auto{White}, so
+everyone moves around the pool automatically.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}Overhead Map{White} to
+check the players' positions.
+--------------------------------------------------End--
+The triangular frame inside the {Red}red{White}
+circle is the opposing team's goal.
+--------------------------------------------------End--
+{WINDOW}
+Here it is. This goal is always on the
+left-hand side of the {Yellow}Overhead Map{White}.
+--------------------------------------------------End--
+{WINDOW}
+Let's resume.
+Try to keep track of your
+position in relation to the goal.
+--------------------------------------------------End--
+{WINDOW}
+Next, let's try moving
+the ball carrier manually.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Triangle}.
+--------------------------------------------------End--
+{WINDOW}
+Now you've enabled {Yellow}Manual{White} movement.
+Press {Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right} to move the player manually.
+--------------------------------------------------End--
+{WINDOW}
+Note that it becomes harder to manage your
+teammates while manually controlling the carrier.
+This mode is recommended for {Yellow}veteran{White} blitzers.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Triangle} again.
+--------------------------------------------------End--
+{WINDOW}
+Now you're back to {Yellow}Auto{White} movement.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 1:{White}
+- Use the {Yellow}Overhead Map{White} to keep track of play.
+- Change movement modes with {Button Triangle}.
+- Players move automatically when on defense.
+--------------------------------------------------End--
+{WINDOW}
+Only the ball carrier can be moved manually.
+All other players stay on Auto.
+--------------------------------------------------End--
+{WINDOW}
+Try switching between Manual and
+Auto to get a feel for both modes.
+--------------------------------------------------End--
+{WINDOW}
+In Manual A mode, the direction of
+movement corresponds to the Overhead Map.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Left} moves the player toward the opposing team's
+goal, and {Direcional Right} toward your own team's goal.
+--------------------------------------------------End--
+{WINDOW}
+In addition to Manual A, there is
+also a mode called Manual B. Stick
+with Auto movement for now.
+--------------------------------------------------End--
+{WINDOW}
+Movement modes are only applicable when
+you're on {Yellow}offense{White}. When you're on {Yellow}defense{White},
+your entire team moves on Auto.
+--------------------------------------------------End--
+{WINDOW}
+Please select Auto.
+--------------------------------------------------End--
+{WINDOW}
+Please select Manual.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+{CHOICE:35}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E} HP
+{CHOICE:36}Back 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D} HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E} HP
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}{VAR12:31}
+{VAR12:32}{VAR12:33}
+{VAR12:34}{VAR12:35}
+{VAR12:36}{VAR12:37}
+{VAR12:38}{VAR12:39}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31} 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+{CHOICE:34}Break to {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31} 
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+{CHOICE:34}Break to {VAR12:34}
+{CHOICE:35}Break to {VAR12:35} 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}{White}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{Blue}{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}{White}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+{CHOICE:32}{White}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}{White}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}{Blue}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:4F}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30}-Man Breakthrough
+--------------------------------------------------End--
+{WINDOW}
+No Break
+--------------------------------------------------End--
+{WINDOW}
+Action: Pass
+--------------------------------------------------End--
+{WINDOW}
+Action: Shoot
+--------------------------------------------------End--
+{WINDOW}
+Action: Dribble
+--------------------------------------------------End--
+{WINDOW}
+Technique: {VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:40}{VAR12:30}
+--------------------------------------------------End--
+Aurochs Player 0
+--------------------------------------------------End--
+Aurochs Player 1
+--------------------------------------------------End--
+Aurochs Player 2
+--------------------------------------------------End--
+Aurochs Player 3
+--------------------------------------------------End--
+Aurochs Player 4
+--------------------------------------------------End--
+Aurochs Player 5
+--------------------------------------------------End--
+Goers Player 0
+--------------------------------------------------End--
+Goers Player 1
+--------------------------------------------------End--
+Goers Player 2
+--------------------------------------------------End--
+Goers Player 3
+--------------------------------------------------End--
+Goers Player 4
+--------------------------------------------------End--
+Goers Player 5
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Pass to:{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+
+What a great play!
+The Goers score first!
+--------------------------------------------------End--
+
+The Aurochs are no match
+for the Goers, folks!
+They're just floundering out there!
+--------------------------------------------------End--
+
+And it's halftime!
+{VAR12:30} - {VAR12:31}
+--------------------------------------------------End--
+
+The Goers are just playing great, Bobba.
+Really great.
+--------------------------------------------------End--
+
+The score's tied, but the Goers
+still have the momentum.
+--------------------------------------------------End--
+
+The crowd is cheering
+for the Aurochs!
+Isn't this exciting?
+--------------------------------------------------End--
+
+Goal! Goal! Goal!
+Unbelievable! What a
+miraculous comeback!
+--------------------------------------------------End--
+
+The crowd is going wild!
+--------------------------------------------------End--

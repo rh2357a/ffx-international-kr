@@ -1,0 +1,145 @@
+{Auron}
+We must talk.
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+{Auron}
+There is something you should know.
+--------------------------------------------------End--
+{Tidus}
+I know...it's about you, right?
+--------------------------------------------------End--
+{Auron}
+I am also an unsent.
+--------------------------------------------------End--
+{Auron}
+You are not surprised?
+--------------------------------------------------End--
+{Tidus}
+I think I kinda knew.
+It was {Yunalesca}, wasn't it?
+--------------------------------------------------End--
+{Auron}
+When {Braska} and {Jecht}
+died defeating {Sin}...
+--------------------------------------------------End--
+{Auron}
+I just couldn't accept it.
+--------------------------------------------------End--
+{Auron}
+I came back here...
+tried to avenge them.
+--------------------------------------------------End--
+{Auron}
+But she struck me down.
+--------------------------------------------------End--
+{Auron}
+Somehow I made my way,
+crawling, down Mount Gagazet.
+--------------------------------------------------End--
+{Auron}
+But my strength left me
+just outside {Bevelle}.
+That's where {Kimahri} found me.
+--------------------------------------------------End--
+{Auron}
+I told him about {Yuna}...
+just before I died.
+--------------------------------------------------End--
+{Auron}
+I've been wandering ever since,
+never going to the {Farplane}.
+--------------------------------------------------End--
+{Tidus}
+{Auron}...
+--------------------------------------------------End--
+{Auron}
+Don't make that face.
+Being dead has its advantages.
+--------------------------------------------------End--
+{Auron}
+I was able to ride {Sin}
+and go to your {Zanarkand}.
+--------------------------------------------------End--
+{Tidus}
+And you've been watching over
+me since then, haven't you?
+--------------------------------------------------End--
+{Tidus}
+Why?
+--------------------------------------------------End--
+{Tidus}
+What's the big idea?
+Why me?
+--------------------------------------------------End--
+{Auron}
+It is one of those things
+that is difficult to explain.
+--------------------------------------------------End--
+{Auron}
+Very well, I will show you.
+--------------------------------------------------End--
+{Auron}
+My memories.
+--------------------------------------------------End--
+{Jecht}
+Can I ask you one last favor?
+--------------------------------------------------End--
+{Jecht}
+Uh...
+--------------------------------------------------End--
+{Jecht}
+Nah. Never mind.
+--------------------------------------------------End--
+{Auron}
+Out with it!
+--------------------------------------------------End--
+{Jecht}
+Okay. Listen good.
+--------------------------------------------------End--
+{Jecht}
+Take care of my son.
+--------------------------------------------------End--
+{Jecht}
+My son, in {Zanarkand}.
+He's such a crybaby.
+--------------------------------------------------End--
+{Jecht}
+He needs someone there
+to hold his hand, see?
+--------------------------------------------------End--
+{Jecht}
+Take care of him, will you?
+--------------------------------------------------End--
+{Auron}
+But how am I supposed
+to go to {Zanarkand}?
+--------------------------------------------------End--
+{Jecht}
+Hey! You said it yourself!
+--------------------------------------------------End--
+{Jecht}
+There must be a way to
+get there, right? You'll find it.
+--------------------------------------------------End--
+{Auron}
+All right, I will!
+--------------------------------------------------End--
+{Auron}
+I give you my word.
+--------------------------------------------------End--
+{Auron}
+I'll take care of your son.
+I'll guard him with my life.
+--------------------------------------------------End--
+{Jecht}
+Thanks, {Auron}.
+--------------------------------------------------End--
+{Jecht}
+You were always such a stiff,
+but that's what I liked about you.
+--------------------------------------------------End--
+{Auron}
+That is why.
+--------------------------------------------------End--

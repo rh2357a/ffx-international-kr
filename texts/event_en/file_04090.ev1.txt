@@ -1,0 +1,6 @@
+{WINDOW}
+Six treasures lie within six temples.
+Open every {Yellow}chest{White} within each {Yellow}Cloister of Trials{White}.
+Then stand before this statue to open the way
+to the {Blue}Chamber of the Fayth{White}.
+--------------------------------------------------End--

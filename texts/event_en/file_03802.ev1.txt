@@ -1,0 +1,26 @@
+{Lulu}
+It's too quiet.
+--------------------------------------------------End--
+{Lulu}
+A trap?
+--------------------------------------------------End--
+{Tidus}
+Who cares?
+{Yuna}'s waiting for us!
+--------------------------------------------------End--
+{Rikku}
+Huh?
+--------------------------------------------------End--
+{Wakka}
+What's a machina doing in the temple?
+--------------------------------------------------End--
+{Rikku}
+I suppose it comes in handy.
+--------------------------------------------------End--
+{Wakka}
+That's not what I mean! The teachings!
+What about the teachings?
+--------------------------------------------------End--
+{Rikku}
+Hey, don't look at me!
+--------------------------------------------------End--

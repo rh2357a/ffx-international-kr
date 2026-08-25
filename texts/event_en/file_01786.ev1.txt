@@ -1,0 +1,92 @@
+{Lulu}
+He does look a lot like {Chappu}.
+I was surprised, too,
+the first time I saw him.
+--------------------------------------------------End--
+{Lulu}
+But no matter what he
+looks like, he isn't {Chappu}.
+--------------------------------------------------End--
+{Lulu}
+You shouldn't have brought
+him here in the first place!
+--------------------------------------------------End--
+{Wakka}
+Yeah, but...he needed our help!
+--------------------------------------------------End--
+{Lulu}
+Excuses again?
+--------------------------------------------------End--
+{Wakka}
+Yeah, but... 
+--------------------------------------------------End--
+{Lulu}
+That's it. No more.
+Enough, {Wakka}!
+--------------------------------------------------End--
+{Tidus}
+I hate you!
+--------------------------------------------------End--
+
+He's dead, okay? Dead!
+--------------------------------------------------End--
+{Tidus}
+Scary!
+--------------------------------------------------End--
+{Tidus}
+So, who's {Chappu}?
+--------------------------------------------------End--
+{Wakka}
+My little brother, {Chappu}.
+He looked like you.
+--------------------------------------------------End--
+{Tidus}
+He's dead?
+--------------------------------------------------End--
+{Wakka}
+He was with the {Crusader}s when they
+fought {Sin} last year. He didn't make it.
+--------------------------------------------------End--
+{Wakka}
+I first heard on the
+day of the tournament.
+--------------------------------------------------End--
+{Tidus}
+Oh, so that's why.
+--------------------------------------------------End--
+{Wakka}
+I became a guardian
+to fight {Sin}, ya?
+--------------------------------------------------End--
+{Tidus}
+Revenge, then?
+--------------------------------------------------End--
+{Wakka}
+That was the idea.
+--------------------------------------------------End--
+{Wakka}
+I'm more worried about a stupid
+game now than avenging my brother.
+--------------------------------------------------End--
+{Wakka}
+Well, after the next tournament,
+I'll be a guardian full-time.
+--------------------------------------------------End--
+{Wakka}
+I know it kinda looks like
+I'm using you, but I'm not.
+--------------------------------------------------End--
+{Tidus}
+Don't worry.
+I mean, I owe you a lot.
+--------------------------------------------------End--
+{Tidus}
+You really helped me out, you know?
+--------------------------------------------------End--
+{Tidus}
+What I mean is...
+thanks, {Wakka}.
+--------------------------------------------------End--
+{Wakka}
+Stop, you're embarrassing me!
+--------------------------------------------------End--

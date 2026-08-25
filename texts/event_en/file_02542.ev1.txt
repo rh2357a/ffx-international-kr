@@ -1,0 +1,374 @@
+{Auron}
+You're worried about {Yuna}.
+--------------------------------------------------End--
+{Tidus}
+'Course I'm worried about her.
+--------------------------------------------------End--
+{Tidus}
+What is she thinking?
+--------------------------------------------------End--
+{Auron}
+The simplest answer would be...
+--------------------------------------------------End--
+{Auron}
+in exchange for
+agreeing to marry him...
+--------------------------------------------------End--
+{Auron}
+she hopes to negotiate
+with {Seymor}.
+--------------------------------------------------End--
+{Tidus}
+Negotiate what?
+--------------------------------------------------End--
+{Auron}
+I wonder.
+--------------------------------------------------End--
+{Tidus}
+What? All by herself?
+--------------------------------------------------End--
+{Auron}
+She's strong, but {Seymor}
+is the better negotiator.
+--------------------------------------------------End--
+{Tidus}
+Well then, why don't we
+do something about it?
+--------------------------------------------------End--
+{Auron}
+{Yuna} wants it this way.
+--------------------------------------------------End--
+{Tidus}
+Argh!
+--------------------------------------------------End--
+{Tidus}
+I just don't get it!
+Doesn't she trust us?
+--------------------------------------------------End--
+{Auron}
+On the contrary...
+--------------------------------------------------End--
+{Auron}
+She doesn't want us caught up
+in whatever it is she's planning.
+--------------------------------------------------End--
+{Tidus}
+Yeah, that's what I thought.
+--------------------------------------------------End--
+{Tidus}
+But that makes me worry even more.
+--------------------------------------------------End--
+{Tidus}
+She could just tell us.
+--------------------------------------------------End--
+{Auron}
+That's the way she is.
+--------------------------------------------------End--
+{Auron}
+She's naive, serious to a fault,
+and doesn't ask for help.
+--------------------------------------------------End--
+{Tidus}
+You're probably right.
+--------------------------------------------------End--
+{Auron}
+{Yuna}'s easy to read.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+Yeah, she is.
+--------------------------------------------------End--
+{Auron}
+But hard to guard.
+--------------------------------------------------End--
+{Auron}
+Stand by her, always.
+--------------------------------------------------End--
+{Rikku}
+Slowpokes!
+--------------------------------------------------End--
+{Tidus}
+Sorry!
+--------------------------------------------------End--
+
+It's funny how calm I was.
+--------------------------------------------------End--
+
+Maybe it was because I'd realized that
+{Yuna} wasn't marrying {Seymor} for love.
+Not really.
+--------------------------------------------------End--
+
+It was just her duty--something she had
+to do before returning to her pilgrimage.
+--------------------------------------------------End--
+
+That's what I kept
+telling myself, anyway.
+--------------------------------------------------End--
+
+And well, maybe...
+--------------------------------------------------End--
+
+I realized that {Yuna} and
+I'd never... You know...
+--------------------------------------------------End--
+{Tidus}
+{Yuna}, let's go.
+--------------------------------------------------End--
+{Lucil}
+Lady {Yuna}, it is good to see
+you made it through safely.
+--------------------------------------------------End--
+{Lucil}
+And, if I may,
+congratulations on your betrothal.
+--------------------------------------------------End--
+{Elma}
+Maester {Seymor}'s
+people are expecting you.
+--------------------------------------------------End--
+{Lucil}
+Take that road
+to go to {Blue}{Macalania Temple}{White}.
+--------------------------------------------------End--
+{Lucil}
+This road leads to {Bevelle}.
+--------------------------------------------------End--
+{Lucil}
+You should hurry to the temple in Macalania.
+--------------------------------------------------End--
+{Elma}
+This isn't the way to the temple!
+--------------------------------------------------End--
+{Elma}
+Weren't you listening
+to Captain {Lucil}?
+--------------------------------------------------End--
+{Lucil}
+We've received several reports of
+summoners disappearing
+these last few days.
+--------------------------------------------------End--
+{Lucil}
+Please be careful, my lady.
+--------------------------------------------------End--
+{Lucil}
+When our assignment here is done
+we will be heading north.
+--------------------------------------------------End--
+{Lucil}
+Hopefully we'll catch some
+chocobos and rebuild our unit.
+--------------------------------------------------End--
+{Lucil}
+But I must say...
+it's been a while.
+--------------------------------------------------End--
+{Lucil}
+Maybe too long since
+we've had anything to celebrate.
+--------------------------------------------------End--
+{Elma}
+We're on watch duty at the temple
+at least until the wedding's done.
+--------------------------------------------------End--
+{Elma}
+Anyone tries to crash our party,
+we'll send 'em packing!
+--------------------------------------------------End--
+{Elma}
+Oh, yeah, {Clasko}'s back there
+with the chocobo.
+--------------------------------------------------End--
+{Elma}
+Stop and say hi
+if you've got the time.
+--------------------------------------------------End--
+{Elma}
+Next time you see us, we'll be the
+proud Chocobo Knights once again!
+--------------------------------------------------End--
+
+Hm? What do you want?
+--------------------------------------------------End--
+
+I'm waiting for my dad!
+--------------------------------------------------End--
+
+It's too dangerous to walk to
+{Blue}{Macalania Temple}{White} without my dad.
+--------------------------------------------------End--
+
+Are you a guardian?
+Keep up the good work.
+--------------------------------------------------End--
+
+I'd like to go to {Blue}{Macalania Temple}{White}
+with my son, but with so many fiends here,
+I'd feel better with my husband along.
+--------------------------------------------------End--
+
+I guess you could say
+he is like my guardian.
+--------------------------------------------------End--
+
+Maester {Seymor} awaits.
+Please hurry to {Blue}{Macalania Temple}{White}.
+--------------------------------------------------End--
+
+I leave Lady {Yuna} in your hands
+until you are through these woods.
+--------------------------------------------------End--
+
+I'm supposed to meet my dad
+here, but he's late!
+--------------------------------------------------End--
+
+Oh, no. Maybe he forgot
+where we're supposed to meet...
+--------------------------------------------------End--
+
+My dad forgets a lot of things.
+--------------------------------------------------End--
+
+I'm supposed to meet my husband here,
+but he hasn't shown up for the longest time.
+--------------------------------------------------End--
+
+I hope nothing bad has happened.
+--------------------------------------------------End--
+
+He's so forgetful. Maybe he's just
+forgotten our meeting place.
+--------------------------------------------------End--
+
+I was reunited with my wife
+thanks to all of you.
+--------------------------------------------------End--
+
+But now my boy's missing.
+He went into the woods alone.
+--------------------------------------------------End--
+
+I guess he went looking for me
+since I was late. I'd better find
+him before the fiends do.
+--------------------------------------------------End--
+
+I finally met up with my
+husband, thanks to your help.
+I can't thank you enough.
+--------------------------------------------------End--
+
+But my son went off into the
+woods before my husband came.
+--------------------------------------------------End--
+
+I...I don't know what to do.
+--------------------------------------------------End--
+{Wantz}
+{O'aka}'s, open for business!
+--------------------------------------------------End--
+{Wantz}
+Welcome! We've got
+some goodies today!
+--------------------------------------------------End--
+{Wantz}
+Hey, that's my treasure!
+--------------------------------------------------End--
+{Wantz}
+Uh...keep it a secret, will ya?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any items?
+{CHOICE:31}Got any weapons?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+                                               Thunder Plains
+                                Guadosalam
+                     Luca                        Moonflow
+
+      Besaid
+              Kilika Port
+                                Temple of Yevon-Djose
+--------------------------------------------------End--
+{AREA}
+Macalania Woods
+--------------------------------------------------End--
+{AREA}
+Temple of Yevon-Macalania
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--

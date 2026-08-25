@@ -1,0 +1,35 @@
+{WINDOW}
+{FINAL FANTASY X} INTERNATIONAL not properly installed
+on hard disk drive!
+Please re-install {FINAL FANTASY X} INTERNATIONAL if you
+wish to use hard disk drive for gameplay.
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 1 and 2!
+At least 64KB of free space is required to
+save {FINAL FANTASY X} INTERNATIONAL data.
+--------------------------------------------------End--
+{WINDOW}
+Play game anyway?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Insufficient free space on memory card (8MB)
+(for PlayStation{Registered}2) in MEMORY CARD slot 1.
+At least 64KB of free space is required to
+save {FINAL FANTASY X} INTERNATIONAL data.
+--------------------------------------------------End--
+{WINDOW}
+Insufficient free space on memory card (8MB)
+(for PlayStation{Registered}2) in MEMORY CARD slot 1 and 2.
+At least 64KB of free space is required to
+save {FINAL FANTASY X} INTERNATIONAL data.
+--------------------------------------------------End--
+{WINDOW}
+Insufficient free space on memory card (8MB)
+(for PlayStation{Registered}2) in MEMORY CARD slot 2.
+At least 64KB of free space is required to
+save {FINAL FANTASY X} INTERNATIONAL data.
+--------------------------------------------------End--

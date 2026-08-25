@@ -1,0 +1,115 @@
+{Tidus}
+Anybody there?
+--------------------------------------------------End--
+{Tidus}
+{Auron}!
+--------------------------------------------------End--
+{Tidus}
+Heeey!
+--------------------------------------------------End--
+{Tidus}
+What do we have here?
+Nope, can't read it.
+--------------------------------------------------End--
+{WINDOW}
+
+In the land where bolts of light
+illuminate the blackest night
+{NEWPAGE}
+
+With {Macalania} behind
+the fourth pillar you sight
+{NEWPAGE}
+
+look not on the left
+but on the right.
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Scans memory cards (8MB) (for PlayStation{Registered}2)
+for {Al Bhed} primers and adds them to your
+collection. Use these spheres to expand your
+{Al Bhed} vocabulary.
+--------------------------------------------------End--
+{WINDOW}
+Select a slot:
+{CHOICE:30}MEMORY CARD slot 1
+{CHOICE:31}MEMORY CARD slot 2
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 1
+--------------------------------------------------End--
+{WINDOW}
+Do not remove/insert memory cards (8MB)
+(for PlayStation{Registered}2) or controllers.
+Do not open disc tray.
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 1!
+--------------------------------------------------End--
+{WINDOW}
+No {FINAL FANTASY X} INTERNATIONAL
+saved game data found!
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 2
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 2!
+--------------------------------------------------End--

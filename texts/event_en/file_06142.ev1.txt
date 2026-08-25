@@ -1,0 +1,33 @@
+{WINDOW}
+{Yellow}The First Trial of {Gagazet}{White}
+Aim for the center with {Wakka}'s ball!
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Throw ball
+{Button X}: Back
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}The Second Trial of {Gagazet}{White}
+Hit the three panels simultaneously.
+Check each size before deciding who to send.
+--------------------------------------------------End--
+
+{WINDOW}
+{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}: Select hole
+{Button Circle}: Confirm
+{Button X}: Back
+--------------------------------------------------End--
+{WINDOW}
+You did it!
+--------------------------------------------------End--
+{WINDOW}
+Under Construction
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}The Summoner's Trial{White}
+If you would face me, you
+must first face my trial!
+{Yellow}Use {Wakka}'s ball
+to hit the center!{White}
+--------------------------------------------------End--

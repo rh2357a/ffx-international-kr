@@ -1,0 +1,13 @@
+{Tidus}
+{Font Italic}Dad?{Font Normal}
+--------------------------------------------------End--
+{Tidus}
+{Font Italic}I know.
+The Final Summoning's gone.{Font Normal}
+--------------------------------------------------End--
+{Tidus}
+{Font Italic}But I'll think of something!{Font Normal}
+--------------------------------------------------End--
+{Tidus}
+{Font Italic}Just give me a little more time!{Font Normal}
+--------------------------------------------------End--

@@ -1,0 +1,69 @@
+{Auron}
+This may well answer
+a few questions.
+--------------------------------------------------End--
+{Auron}
+Wonderful.
+--------------------------------------------------End--
+{Rikku}
+Will {Yuna} be all right?
+--------------------------------------------------End--
+{Auron}
+Without us, no.
+--------------------------------------------------End--
+{Wakka}
+Where you goin'?
+--------------------------------------------------End--
+{Tidus}
+You saw, didn't you?
+{Seymor}'s bad news!
+--------------------------------------------------End--
+{Wakka}
+But he's a maester!
+--------------------------------------------------End--
+{Tidus}
+Fine! Stay here if you want!
+--------------------------------------------------End--
+{Lulu}
+Come on, {Wakka}.
+Let's at least hear him out.
+--------------------------------------------------End--
+{Wakka}
+This can't be happening.
+--------------------------------------------------End--
+
+Lord {Jyscal}... How horrifying!
+I shall pretend I did not witness that.
+--------------------------------------------------End--
+
+This does not bode well.
+Please be careful.
+--------------------------------------------------End--
+
+Ever since that incident involving
+Lord {Seymor}, I've had a hard time
+sleeping at night.
+--------------------------------------------------End--
+
+Wish I'd never seen that sphere.
+--------------------------------------------------End--
+
+I can't believe what the sphere has shown!
+There must be some mistake.
+{NEWPAGE}
+
+I shall keep the sphere safe here,
+and return it to Lady {Yuna}.
+--------------------------------------------------End--
+
+The temple undergoes its
+own trial of faith, now.
+{NEWPAGE}
+
+If only a leader would appear
+to restore its former glory.
+--------------------------------------------------End--
+
+In time, the {Guado2} will come
+to see the light of {Yevon2}, too.
+--------------------------------------------------End--

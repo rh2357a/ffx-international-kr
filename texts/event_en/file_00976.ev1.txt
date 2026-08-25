@@ -1,0 +1,345 @@
+{WINDOW}
+{CHOICE:30}             {CHOICE:FF}
+{CHOICE:31}             {CHOICE:FF}
+{CHOICE:32}             {CHOICE:FF}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Character Advancement System Selection
+--------------------------------------------------End--
+{WINDOW}
+{FINAL FANTASY X} INTERNATIONAL features two
+versions of the character advancement Sphere Grid:
+
+{Blue}Standard Sphere Grid{White}
+For beginners - first time playing? Use this Grid!
+
+{Blue}Expert Sphere Grid{White}
+For repeaters - this Grid is more flexible, but
+difficult to use if you are not familiar with the
+standard Grid.
+--------------------------------------------------End--
+{WINDOW}
+Select a Sphere Grid to use!
+
+{VAR07:4A}{CHOICE:30}Standard Sphere Grid
+{VAR07:4A}{CHOICE:31}Expert Sphere Grid
+--------------------------------------------------End--
+{WINDOW}
+You have selected the:
+{Blue}Standard Sphere Grid{White}.
+(You cannot switch Grids in-game!)
+Is this the one you want?
+
+{VAR07:5E}{CHOICE:30}Yes
+{VAR07:5E}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+You have selected the:
+{Blue}Expert Sphere Grid{White}.
+(You cannot switch Grids in-game!)
+Is this the one you want?
+
+{VAR07:5E}{CHOICE:30}Yes
+{VAR07:5E}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+Use the HDD?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}             {CHOICE:FF}
+{CHOICE:31}             {CHOICE:FF}
+
+--------------------------------------------------End--
+{WINDOW}
+FFX STARTMAP
+--------------------------------------------------End--
+{WINDOW}
+
+[FFX KOREA VER.3]
+
+
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}EVENT
+{CHOICE:31}MAP
+{CHOICE:32}PROGRAM
+{CHOICE:33}BATTLE
+{CHOICE:34}NEWGAME
+{CHOICE:35}LOAD
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}MASTER(NEWGAME)
+{CHOICE:31}LOCAL(EVENT)
+{CHOICE:32}LOCAL(MAP)
+{CHOICE:33}BATTLE(NEWGAME)
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}BACK{CHOICE:FF}{VAR07:54}{CHOICE:35}Chiba
+{CHOICE:31}Iwabuchi{CHOICE:FF}{VAR07:54}{CHOICE:36}Toriyama
+{CHOICE:32}Nakazato{CHOICE:FF}{VAR07:54}{CHOICE:37}Nogami
+{CHOICE:33}{Gray}Saito{White}{CHOICE:FF}{VAR07:54}{CHOICE:38}Matsuda
+{CHOICE:34}{Gray}Tanba{CHOICE:FF}{VAR07:54}{CHOICE:39}Kataoka{White}
+{CHOICE:3A}Nojima{CHOICE:FF}{VAR07:54}{CHOICE:3B}Kitase
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}[01]New Game{CHOICE:FF}{VAR07:6D}{CHOICE:31}Battle : ON{CHOICE:FF}
+{CHOICE:32}[02]{Baaj Island}{CHOICE:FF}{VAR07:6D}{CHOICE:33}[03]{Besaid Island}{CHOICE:FF}
+{CHOICE:34}[04]{S.S. Liki}{CHOICE:FF}{VAR07:6D}{CHOICE:35}[05]{Kilika Island}{CHOICE:FF}
+{CHOICE:36}[06]{S.S. Winno}{CHOICE:FF}{VAR07:6D}{CHOICE:37}[07]{Luca Seaport}{CHOICE:FF}
+{CHOICE:38}[07]Bltzball{CHOICE:FF}{VAR07:6D}{CHOICE:39}[08]{Mi'ihen Highroad}{CHOICE:FF}
+{CHOICE:3A}[09]{Operation Mi'ihen}{CHOICE:FF}{VAR07:6D}{CHOICE:3B}[10]{Djose Temple}{CHOICE:FF}
+{CHOICE:3C}[11]{Moonflow}{CHOICE:FF}{VAR07:6D}{CHOICE:3D}[12]{Guadosalam}{CHOICE:FF}
+{CHOICE:3E}[13]{Thunder Plains}{CHOICE:FF}{VAR07:6D}{CHOICE:3F}{Blue}[2nd Half]{White}{CHOICE:FF}
+{CHOICE:40}BACK{CHOICE:FF}{VAR07:6D}{Pink}VER. 3/19 18:30{White}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}[01]New Game{CHOICE:FF}{VAR07:6D}{CHOICE:31}Battle : OFF{CHOICE:FF}
+{CHOICE:32}[02]{Baaj Island}{CHOICE:FF}{VAR07:6D}{CHOICE:33}[03]{Besaid Island}{CHOICE:FF}
+{CHOICE:34}[04]{S.S. Liki}{CHOICE:FF}{VAR07:6D}{CHOICE:35}[05]{Kilika Island}{CHOICE:FF}
+{CHOICE:36}[06]{S.S. Winno}{CHOICE:FF}{VAR07:6D}{CHOICE:37}[07]{Luca Seaport}{CHOICE:FF}
+{CHOICE:38}[07]Bltzball{CHOICE:FF}{VAR07:6D}{CHOICE:39}[08]{Mi'ihen Highroad}{CHOICE:FF}
+{CHOICE:3A}[09]{Operation Mi'ihen}{CHOICE:FF}{VAR07:6D}{CHOICE:3B}[10]{Djose Temple}{CHOICE:FF}
+{CHOICE:3C}[11]{Moonflow}{CHOICE:FF}{VAR07:6D}{CHOICE:3D}[12]{Guadosalam}{CHOICE:FF}
+{CHOICE:3E}[13]{Thunder Plains}{CHOICE:FF}{VAR07:6D}{CHOICE:3F}{Blue}[2nd Half]{White}{CHOICE:FF}
+{CHOICE:40}BACK{CHOICE:FF}{VAR07:6D}{Pink}VER. 3/19 18:30{White}
+--------------------------------------------------End--
+{WINDOW}
+SORRY! UNDERCONSTRUCTION!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}[14]{Macalania} Forest{CHOICE:FF}{VAR07:6D}{CHOICE:31}[14]{Macalania} Lake{CHOICE:FF}
+{CHOICE:32}[15]{Bikanel}{CHOICE:FF}{VAR07:6D}{CHOICE:33}[16]Airship
+{CHOICE:34}[16]{Bevelle}{CHOICE:FF}{VAR07:6D}{CHOICE:35}[17]{Calm Lands}
+{CHOICE:36}[18]{Mt. Gagazet}{CHOICE:FF}{VAR07:6D}{CHOICE:37}[19]{Zanarkand Ruins}
+{CHOICE:38}[20]Last Battle{CHOICE:FF}{VAR07:6D}{CHOICE:39}[Aeon battel check]{CHOICE:FF}
+{CHOICE:3A}BACK{CHOICE:FF}{VAR07:6D}{Pink}VER. 3/19 18:30{White}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}NewGame
+{CHOICE:31}Fire at the Ruins
+{CHOICE:32}{Tidus}'s home
+{CHOICE:33}"{Sin}"'s attack
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Baaj Temple} "Somebody around...?"
+{CHOICE:31}{Baaj Temple} "Brr..."
+{CHOICE:32}{Baaj Temple} Boss Battle
+{CHOICE:33}Cid's ship (1st half)
+{CHOICE:34}Cid's ship (2nd half)
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Besaid}Floating at the beach
+{CHOICE:31}{Besaid}End of beach event
+{CHOICE:32}{Besaid Village}Arrival to town
+{CHOICE:33}{Besaid Temple}Trial
+{CHOICE:34}Valefor
+{CHOICE:35}Next morning
+{CHOICE:36}End of events at {Besaid Village}
+{CHOICE:37}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Binoculars
+{CHOICE:31}Yuna's Lineage
+{CHOICE:32}Battle with {Sin}'s Fin
+{CHOICE:33}After battle with {Sin}
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Kilika Port}Twilight
+{CHOICE:31}{Kilika Port}Next morning
+{CHOICE:32}{Kilika Woods}
+{CHOICE:33}{Kilika Temple}
+{CHOICE:34}{Kilika Temple}'s Trial{White}
+{CHOICE:35}End of events at {Kilika Temple}
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Luca} Port{White}
+{CHOICE:31}Anteroom
+{CHOICE:32}Date at {Luca}
+{CHOICE:33}Save {Yuna}!
+{CHOICE:34}At Al Bhed's Ship
+{CHOICE:35}After the tournament
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let the games begin!
+{CHOICE:31}Last match - 1st half -
+{CHOICE:32}Last match - 2nd half -
+{CHOICE:33}Fiends appear
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Mi'ihen Highroad} Entrance
+{CHOICE:31}Arrival at {Rin Travel Agency}
+{CHOICE:32}Battle with Chocobo Eater
+{CHOICE:33}Chocobo Eater defeated
+{CHOICE:34}Party defeated
+{CHOICE:35}End of events at {Mi'ihen Highroad's End}
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Maester {Seymour} arrives
+{CHOICE:31}{Mushroom Rock Road} - free - 
+{CHOICE:32}Arrival at H.Q.
+{CHOICE:33}{Operation Mi'ihen} begins
+{CHOICE:34}{Sin} appears
+{CHOICE:35}After the session
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Djose} Path
+{CHOICE:31}Arrival at {Djose Temple}
+{CHOICE:32}{Isaaru} appears
+{CHOICE:33}{Djose Temple} Trials
+{CHOICE:34}Departing
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Moonflow}South path
+{CHOICE:31}Arrival at {Moonflow}
+{CHOICE:32}Ride Shoopuf...?
+{CHOICE:33}MoonFlow boss
+{CHOICE:34}{Moonflow} North path
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Arrival at {Guadosalam}
+{CHOICE:31}{Seymour}'s Manor
+{CHOICE:32}Way to {Farplane}
+{CHOICE:33}Arrival at {Farplane}
+{CHOICE:34}After {Farplane}
+{CHOICE:35}After {Jyscal Guado} appearance
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Thunder Plains}(1st half)
+{CHOICE:31}{Thunder Plains}'s Rin Hotel 
+{CHOICE:32}{Thunder Plains}(2nd half)
+{CHOICE:33}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Entrance of {Macalania Woods}
+{CHOICE:31}Arrival at Sphere Springs
+{CHOICE:32}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Lake Macalania} shore
+{CHOICE:31}The Al Bhed attack!{White}
+{CHOICE:32}Arrival at {Macalania Temple}
+{CHOICE:33}Battle with {Seymour}
+{CHOICE:34}{Macalania Temple} Trial
+{CHOICE:35}Escape from {Macalania Temple}
+{CHOICE:36}Mysterious Land
+{CHOICE:37}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Sanubia Desert}'s Oasis
+{CHOICE:31}Arrival at {Home2}
+{CHOICE:32}{Home2}'s entrance
+{CHOICE:33}Room of the Summoners
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Airship launches
+{CHOICE:31}Everybody agree
+{CHOICE:32}Fiends' attack
+{CHOICE:33}Battle with Evrae
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Wedding ceremonies
+{CHOICE:31}After the wedding
+{CHOICE:32}Bevelle Trial
+{CHOICE:33}Fayth
+{CHOICE:34}The Hearing
+{CHOICE:35}In Jail
+{CHOICE:36}Escape from subway
+{CHOICE:37}Great Bridge
+{CHOICE:38}Camp
+{CHOICE:39}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Arrival at Calm Lands
+{CHOICE:31}Calm Lands' boss
+{CHOICE:32}Bottom of the gorge
+{CHOICE:33}Remiem
+{CHOICE:34}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Village of the Ronzo
+{CHOICE:31}Mt. Gagazet's trail
+{CHOICE:32}Battle with Seymour
+{CHOICE:33}Mountain's peak
+{CHOICE:34}The trail continues
+{CHOICE:35}Battle with the Keeper
+{CHOICE:36}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Arrival at the ruins
+{CHOICE:31}Path to the {Yevon2} Dome
+{CHOICE:32}Arrival at {Yevon2} Dome
+{CHOICE:33}{Yevon2} Dome's Trial
+{CHOICE:34}Battle with the Keeper
+{CHOICE:35}{Yevon2} Dome's underground
+{CHOICE:36}vs{Yunalesca}
+{CHOICE:37}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Back to the Airship
+{CHOICE:31}Meeting Maica{White}
+{CHOICE:32}Airship - FREE - 
+{CHOICE:33}Temple of Yevon=Baaj
+{CHOICE:34}Omega Dungeon
+{CHOICE:35}Last Battle
+{CHOICE:36}Battle with Sin
+{CHOICE:37}Inside Sin
+{CHOICE:38}Battle with Seymour
+{CHOICE:39}Battle with Jecht
+{CHOICE:3A}Battle with Aeons
+{CHOICE:3B}Ending
+{CHOICE:3C}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Djose cleared
+{CHOICE:31}After Guadosalam
+{CHOICE:32}After Bevelle
+{CHOICE:33}After getting the Airship
+{CHOICE:34}Last Battle
+{CHOICE:35}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Intro
+{CHOICE:31}Battle!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Valefor}
+{CHOICE:31}{Ifrit}
+{CHOICE:32}{Ixion}
+{CHOICE:33}Shiva
+{CHOICE:34}{Bahamut}
+{CHOICE:35}{Yojimbo}
+{CHOICE:36}{Anima}
+{CHOICE:37}Megas
+{CHOICE:38}Penance
+{CHOICE:39}Set Flag
+{CHOICE:3A}BACK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR07:E6}                 {CHOICE:FF}
+{CHOICE:31}{VAR07:E6}                 {CHOICE:FF}
+{CHOICE:32}{VAR07:E6}                 {CHOICE:FF}
+{CHOICE:33}{VAR07:E6}                 {Gray}DEBUG
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}BATTLE
+{CHOICE:31}SKIP STORY
+{CHOICE:32}CONFIG
+{CHOICE:33}{Gray}FOR STAFF
+
+--------------------------------------------------End--

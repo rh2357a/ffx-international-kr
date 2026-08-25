@@ -1,0 +1,434 @@
+{Cid}
+Well, this is it, eh?
+--------------------------------------------------End--
+{Tidus}
+Yu Yevon's hiding somewhere inside
+{Sin}, and we're gonna find him.
+--------------------------------------------------End--
+{Cid}
+Well, that sounds pretty simple.
+--------------------------------------------------End--
+{Tidus}
+Simple is the way you like it, right?
+--------------------------------------------------End--
+{Cid}
+You got that right.
+--------------------------------------------------End--
+{Rikku}
+Pops!
+I'm countin' on you!
+--------------------------------------------------End--
+{Cid}
+Right, got you covered!
+--------------------------------------------------End--
+{Cid}
+How's that?
+--------------------------------------------------End--
+{Rikku}
+Right on!
+--------------------------------------------------End--
+{Lulu}
+A singing ship in the sky.
+--------------------------------------------------End--
+{Tidus}
+All right, we're going in!
+--------------------------------------------------End--
+{Wakka}
+How we gonna get inside?
+--------------------------------------------------End--
+{Tidus}
+The easy way! How else?
+--------------------------------------------------End--
+{Cid}
+Hey, how you plan
+on getting inside?
+--------------------------------------------------End--
+{Tidus}
+If we can't get through the mouth,
+we'll rip open a new one!
+You with me?
+--------------------------------------------------End--
+{Brother}
+Father! I know what to use!
+--------------------------------------------------End--
+{Cid}
+Aha! Of course!
+--------------------------------------------------End--
+{Tidus}
+Of course!
+--------------------------------------------------End--
+{Cid}
+All right!
+--------------------------------------------------End--
+{Cid}
+We'll give that thing a new blowhole.
+All you gotta do is jump!
+--------------------------------------------------End--
+{Tidus}
+Roger!
+--------------------------------------------------End--
+{Cid}
+I won't tell ya to be careful.
+Do your worst, kiddo!
+--------------------------------------------------End--
+{Tidus}
+Roger!
+--------------------------------------------------End--
+{Brother}
+Wait!
+--------------------------------------------------End--
+{Brother}
+{Rikku}, you...guard.
+--------------------------------------------------End--
+{Tidus}
+Will do!
+--------------------------------------------------End--
+{Cid}
+Here goes!
+Everyone, hold on to something!
+--------------------------------------------------End--
+{Cid}
+Here we go!
+--------------------------------------------------End--
+{Cid}
+Ready? Fire!
+--------------------------------------------------End--
+{Cid}
+Yeehaw! Where next?
+--------------------------------------------------End--
+{Brother}
+It is over.
+--------------------------------------------------End--
+{Cid}
+What? We have only begun!
+--------------------------------------------------End--
+{Brother}
+But the main gun, it is broken!
+--------------------------------------------------End--
+{Cid}
+Th-That cannot be!
+--------------------------------------------------End--
+{Cid}
+The final showdown with {Sin}!
+I say let's get this show on the road!
+--------------------------------------------------End--
+{Wakka}
+There's something I want
+to say before the fight.
+--------------------------------------------------End--
+{Wakka}
+I guess I didn't know
+anything about the {Al Bhed}.
+--------------------------------------------------End--
+{Wakka}
+Didn't know anything.
+Didn't want to listen to anything.
+--------------------------------------------------End--
+{Wakka}
+I was a big jerk.
+--------------------------------------------------End--
+{Wakka}
+So, I...
+Well, uh...
+--------------------------------------------------End--
+{Wakka}
+I'm sorry, ya?
+Please forgive me.
+--------------------------------------------------End--
+{Cid}
+Don't let it bother you.
+--------------------------------------------------End--
+{Cid}
+Hey, I'm guilty of hating
+those durn Yevonites, myself!
+--------------------------------------------------End--
+{Cid}
+There's a lot of folk in this world--
+some of 'em good, some of 'em bad.
+--------------------------------------------------End--
+{Cid}
+That's all there is to it.
+--------------------------------------------------End--
+{Wakka}
+When this is all over, we'll
+help you look for your {Zanarkand}!
+--------------------------------------------------End--
+{Wakka}
+A {Spira} without {Sin}...
+Hard to imagine, ya?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{Rikku}
+Aww... Now I'm feeling
+all warm inside.
+--------------------------------------------------End--
+{Rikku}
+My pop says he's got
+a special surprise for {Sin}.
+--------------------------------------------------End--
+{Rikku}
+Can't wait till this is over
+so we can relax for a change!
+--------------------------------------------------End--
+{Rikku}
+Don't worry, we'll be fine!
+Everyone'll sing for us. I know it!
+--------------------------------------------------End--
+{Rikku}
+Figures.
+--------------------------------------------------End--
+{Auron}
+I must admit I was worried at
+the beginning, but you've done well.
+--------------------------------------------------End--
+{Auron}
+One more trial to pass.
+--------------------------------------------------End--
+{Auron}
+Our stories will end together.
+--------------------------------------------------End--
+{Auron}
+Don't keep {Jecht} waiting.
+He never was a patient man.
+--------------------------------------------------End--
+{Lulu}
+We'll be bringing a new Calm.
+One that will last forever.
+--------------------------------------------------End--
+{Lulu}
+This will be a battle unmatched in
+the thousand years since {Sin}'s birth.
+--------------------------------------------------End--
+{Lulu}
+{Spira} without {Sin}...
+Why is it so hard to imagine?
+--------------------------------------------------End--
+{Lulu}
+Afterwards--after we defeat {Sin}--
+promise you'll stay with {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+All those teachings...
+what were they for?
+--------------------------------------------------End--
+{Yuna}
+Sorry, I was just thinking.
+--------------------------------------------------End--
+{Yuna}
+We're...still going forward, right?
+--------------------------------------------------End--
+{Yuna}
+We can think about what will
+happen after we beat {Sin}, right?
+--------------------------------------------------End--
+{Brother}
+I have to warn you,
+thinking is not my forte.
+--------------------------------------------------End--
+{Brother}
+So if you want a plan,
+go to someone else.
+--------------------------------------------------End--
+{Brother}
+I have to fly the airship now.
+Goodbye.
+--------------------------------------------------End--
+{Brother}
+Will {Sin} truly return again?
+--------------------------------------------------End--
+{Brother}
+What will we do?
+--------------------------------------------------End--
+{Brother}
+The song! It is not working on {Sin}!
+--------------------------------------------------End--
+{Brother}
+You go into {Sin} once more, eh?
+Leave it to me!
+--------------------------------------------------End--
+{Brother}
+We will fly anywhere
+you want to go!
+--------------------------------------------------End--
+{Wakka}
+I hope everyone got the message.
+--------------------------------------------------End--
+{Brother}
+{Sin}!
+--------------------------------------------------End--
+{Lulu}
+Well? Let's go!
+--------------------------------------------------End--
+{Cid}
+Now that's what I call a plan!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

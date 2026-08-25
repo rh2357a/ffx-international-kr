@@ -1,0 +1,137 @@
+{Rikku}
+No, not that way!
+--------------------------------------------------End--
+
+{Al Bhed} verification!
+--------------------------------------------------End--
+
+Are you {Al Bhed}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Sey
+{CHOICE:31}No
+{CHOICE:32}Yes
+{CHOICE:33}On
+--------------------------------------------------End--
+
+Name the son of the {Al Bhed} leader.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Al Bhed Psyches}
+{CHOICE:31}{Cid}
+{CHOICE:32}{Rin Travel Agency}
+{CHOICE:33}{Brother}
+--------------------------------------------------End--
+
+On what island do the {Al Bhed} live?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Yevon2}
+{CHOICE:31}{Bikanel Island}
+{CHOICE:32}{O'aka XXIII}
+{CHOICE:33}{Home}
+--------------------------------------------------End--
+
+What is {Al Bhed} in {Al Bhed3}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Al Bhed
+{CHOICE:31}Ab Lhed
+{CHOICE:32}El Bhad
+{CHOICE:33}Al Dheb
+--------------------------------------------------End--
+{WINDOW}
+
+The first digit is 4 plus 1.
+The second digit is 7 minus 1.
+The third digit is 3 times 1.
+The fourth digit is 2 plus 1.
+--------------------------------------------------End--
+{WINDOW}
+Password: {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Scans memory cards (8MB) (for PlayStation{Registered}2)
+for {Al Bhed} primers and adds them to your
+collection. Use these spheres to expand your
+{Al Bhed} vocabulary.
+--------------------------------------------------End--
+{WINDOW}
+Select a slot:
+{CHOICE:30}MEMORY CARD slot 1
+{CHOICE:31}MEMORY CARD slot 2
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 1
+--------------------------------------------------End--
+{WINDOW}
+Do not remove/insert memory cards (8MB)
+(for PlayStation{Registered}2) or controllers.
+Do not open disc tray.
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 1!
+--------------------------------------------------End--
+{WINDOW}
+No {FINAL FANTASY X} INTERNATIONAL
+saved game data found!
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 2
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 2!
+--------------------------------------------------End--

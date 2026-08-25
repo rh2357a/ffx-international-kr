@@ -1,0 +1,100 @@
+{Cid}
+No time!
+Go, go, go!
+--------------------------------------------------End--
+{Brother}
+{Three minute} left!
+--------------------------------------------------End--
+{Cid}
+Hurry, hurry!
+You have {one minute}!
+--------------------------------------------------End--
+{Tidus}
+Where's {Yuna}?
+--------------------------------------------------End--
+{Cid}
+Everyone on board?
+--------------------------------------------------End--
+
+Everyone alive!
+--------------------------------------------------End--
+{Tidus}
+I said, where is she?
+--------------------------------------------------End--
+{Tidus}
+Answer me!
+Answer me, damn you!
+--------------------------------------------------End--
+{Cid}
+What'll you do when
+you find her, eh?
+--------------------------------------------------End--
+{Tidus}
+I didn't know anything about what
+a summoner is supposed to do.
+--------------------------------------------------End--
+{Tidus}
+And I told her all those things
+without even knowing.
+--------------------------------------------------End--
+{Tidus}
+I've got to tell her.
+I've got to tell her I'm sorry!
+--------------------------------------------------End--
+{Cid}
+That's it? You're gonna
+tell her you're sorry?
+--------------------------------------------------End--
+{Cid}
+And then you just drag her
+to {Zanarkand} and make her
+fight {Sin}, huh?
+--------------------------------------------------End--
+{Cid}
+You're all the same--
+let the summoner die so
+we can live in peace!
+--------------------------------------------------End--
+{Tidus}
+No!
+--------------------------------------------------End--
+{Tidus}
+I'm not gonna let {Yuna} die!
+--------------------------------------------------End--
+{Cid}
+Hah! Words!
+Show me action!
+--------------------------------------------------End--
+{Tidus}
+I'm telling you,
+she won't die!
+--------------------------------------------------End--
+{Cid}
+Boy, don't forget those words,
+'cause if you do...
+--------------------------------------------------End--
+{Cid}
+I'm gonna make you regret it.
+--------------------------------------------------End--
+{Tidus}
+I won't.
+--------------------------------------------------End--
+{Tidus}
+So you know where she is?
+--------------------------------------------------End--
+{Cid}
+'Course not.
+That's why we're gonna look!
+--------------------------------------------------End--
+{Cid}
+Using this airship!
+--------------------------------------------------End--
+{Wakka}
+A-Airship?
+--------------------------------------------------End--
+{Brother}
+Father! Ready to go!
+--------------------------------------------------End--
+{Cid}
+Yeehaa! A flight {1000 years} overdue!
+--------------------------------------------------End--

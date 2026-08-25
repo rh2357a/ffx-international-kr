@@ -1,0 +1,267 @@
+{Barthello}
+Hey!
+--------------------------------------------------End--
+{Barthello}
+You, have you seen {Dona}?
+--------------------------------------------------End--
+{Tidus}
+{Dona}? Can't say I have.
+--------------------------------------------------End--
+{Wakka}
+What's up?
+--------------------------------------------------End--
+{Barthello}
+We got separated on the way here.
+--------------------------------------------------End--
+{Barthello}
+Damn it all!
+I've got to find her!
+--------------------------------------------------End--
+{Auron}
+Calm down.
+--------------------------------------------------End--
+{Barthello}
+But, if anything happens to her...
+--------------------------------------------------End--
+{Auron}
+Running around in a panic
+is not going to help.
+--------------------------------------------------End--
+{Auron}
+Right now, you have
+to keep cool, and search.
+--------------------------------------------------End--
+{Barthello}
+But--
+--------------------------------------------------End--
+{Auron}
+Guard your emotions,
+then guard your summoner.
+--------------------------------------------------End--
+{Barthello}
+You're right.
+--------------------------------------------------End--
+{Auron}
+Shall we search?
+--------------------------------------------------End--
+{Barthello}
+No, I've taken up
+enough of your time.
+--------------------------------------------------End--
+{Barthello}
+Thank you, Sir {Auron}.
+--------------------------------------------------End--
+{Wakka}
+What's up?
+--------------------------------------------------End--
+{Rikku}
+Oh, I just wanted
+to wish him good luck.
+--------------------------------------------------End--
+
+It feels like there's
+something around here, doesn't it?
+--------------------------------------------------End--
+
+Yeah, there's definitely something
+around here. I wonder what it could be?
+--------------------------------------------------End--
+
+You might want to remember this place.
+--------------------------------------------------End--
+
+You found my dad!
+Thanks a bunch!
+--------------------------------------------------End--
+
+It's easier to get to {Macalania Temple}
+now that this road's open again.
+--------------------------------------------------End--
+
+I used to be able to pass through this way
+when I was a child, but then a big tree
+blocked off the road.
+{NEWPAGE}
+
+I'm glad someone cut it down!
+--------------------------------------------------End--
+
+I'm just taking a break now.
+Even with a shortcut, it can
+get tiring, you know?
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Cloudy Mirror}{White}?
+{CHOICE:30}No.
+{CHOICE:31}Yes.
+--------------------------------------------------End--
+
+The butterfly that changes color
+attracts the red and blue butterflies.
+{NEWPAGE}
+
+Red butterflies are ill omens.
+Get too close and they
+will summon deadly fiends.
+{NEWPAGE}
+
+Blue butterflies lead to good fortune!
+Find seven and a treasure will be yours.
+--------------------------------------------------End--
+
+Luck is a fickle thing.
+Traveller, find the blue
+butterflies as quickly as you can.
+--------------------------------------------------End--
+
+A butterfly with rainbow wings
+Will lead the way to secret things.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-{Macalania Woods} Butterfly Hunt-{White}
+Approach the butterfly of many hues,
+and its red and blue brethren shall appear.
+--------------------------------------------------End--
+{WINDOW}
+Try to catch seven of the blue
+butterflies, but beware the reds, for
+they call powerful fiends when threatened.
+--------------------------------------------------End--
+{WINDOW}
+Butterflies disappear after a certain time.
+Try catching the blue butterflies
+while avoiding the red ones.
+--------------------------------------------------End--
+
+Have you the Celestial Weapons?
+--------------------------------------------------End--
+{WINDOW}
+Who will present their weapon?
+{CHOICE:30}{Tidus}
+{CHOICE:31}{Yuna}
+{CHOICE:32}{Auron}
+{CHOICE:33}{Kimahri}
+{CHOICE:34}{Wakka}
+{CHOICE:35}{Lulu}
+{CHOICE:36}{Rikku}
+{CHOICE:37}No one.
+--------------------------------------------------End--
+
+{Tidus} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+The weapon has already
+attained its peak power.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Sun Sigil}...
+--------------------------------------------------End--
+{WINDOW}
+Complete the ritual?
+
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+{WINDOW}
+The weapon's power has grown!
+--------------------------------------------------End--
+{WINDOW}
+The weapon attains its maximum power!
+--------------------------------------------------End--
+{WINDOW}
+
+Nothing happened.
+--------------------------------------------------End--
+
+This weapon is not yet ready
+for further strengthening.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Sun Crest}...
+--------------------------------------------------End--
+
+It seems the time has not yet arrived.
+--------------------------------------------------End--
+
+{Yuna} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Moon Sigil}...
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Moon Crest}...
+--------------------------------------------------End--
+
+{Auron} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Saturn Sigil}...
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Saturn Crest}...
+--------------------------------------------------End--
+
+{Kimahri} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Jupiter Sigil}...
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Jupiter Crest}...
+--------------------------------------------------End--
+
+{Wakka} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Mercury Sigil}...
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Mercury Crest}...
+--------------------------------------------------End--
+
+{Lulu} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Mars Sigil}...
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Mars Crest}...
+--------------------------------------------------End--
+
+{Rikku} does not have a Celestial Weapon.
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Venus Sigil}
+--------------------------------------------------End--
+{WINDOW}
+
+You must offer the {Venus Crest}...
+--------------------------------------------------End--
+{WINDOW}
+Present other weapons?
+
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--
+
+{WINDOW}
+{Red}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--

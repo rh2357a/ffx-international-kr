@@ -1,0 +1,270 @@
+Extra 1
+.........
+--------------------------------------------------End--
+Extra 2
+.........
+--------------------------------------------------End--
+Extra 3
+.........
+--------------------------------------------------End--
+Extra 4
+.........
+--------------------------------------------------End--
+Extra 5
+.........
+--------------------------------------------------End--
+Extra 6
+.........
+--------------------------------------------------End--
+Extra 7
+.........
+--------------------------------------------------End--
+Extra 8
+.........
+--------------------------------------------------End--
+Extra 9
+.........
+--------------------------------------------------End--
+Extra 10
+.........
+--------------------------------------------------End--
+Extra 11
+.........
+--------------------------------------------------End--
+Extra 12
+.........
+--------------------------------------------------End--
+Extra 13
+.........
+--------------------------------------------------End--
+Extra 14
+.........
+--------------------------------------------------End--
+
+People from all over {Spira}
+gather here.
+{NEWPAGE}
+
+The monks of {Yevon2}, the {Al Bhed2},
+{Crusader}s, warrior monks, {Ronso},
+{Guado}, you name it.
+{NEWPAGE}
+
+People of different cultures and
+values come together as one to
+cheer on blitzball.
+{NEWPAGE}
+
+There is no other place in {Spira}
+as wonderful as this.
+--------------------------------------------------End--
+
+There hasn't been any major incident since
+the fiend attack. Just kids who get lost
+in the stadium now and then.
+--------------------------------------------------End--
+
+We no longer have the strength
+to fight...
+{NEWPAGE}
+
+Should the fiends reappear, run
+for your lives!
+--------------------------------------------------End--
+
+Thanks to the citizens' pitching in, the
+stadium has been repaired in no time.
+--------------------------------------------------End--
+
+Please do not throw objects or lean
+against the railing at any time!
+--------------------------------------------------End--
+
+Sphere pictures are allowed, but
+please refrain from using a flash.
+--------------------------------------------------End--
+
+The crowd and the players went wild
+when the ship flew by!
+It was a struggle to keep 'em under control.
+--------------------------------------------------End--
+
+The warrior monks have left, but the
+{Crusader}s are back to help guard the area.
+--------------------------------------------------End--
+
+I don't want the warrior monks stationed
+inside the stadium. They're too uptight.
+--------------------------------------------------End--
+
+The fiends broke in, all because the
+{Crusader}s ditched guard duty this year.
+{NEWPAGE}
+
+It's all their fault! They should
+have been helping us instead of
+devising some foolish plan!
+--------------------------------------------------End--
+
+The {Crusader}s are dreamin'!
+Do they really think the operation will succeed?
+--------------------------------------------------End--
+
+Even though the grand maester
+is here, we're short on security.
+{NEWPAGE}
+
+If only the {Crusader}s were
+still here like last year...
+--------------------------------------------------End--
+
+Everyone in {Spira} has been looking
+forward to this tournament.
+No one would dare disrupt it.
+--------------------------------------------------End--
+
+Such a free-spirited city...
+I do not wish to return to Bevelle.
+--------------------------------------------------End--
+
+I'm off duty.
+Let me be.
+--------------------------------------------------End--
+
+Nothing beats watching a blitz game
+after a long stint at sea.
+--------------------------------------------------End--
+
+Since games are played every day,
+the guards are always on duty.
+--------------------------------------------------End--
+
+Incompetent guardians! That's why so many
+summoners are vanishing, I tell you.
+--------------------------------------------------End--
+
+I heard {Master Seymor} helped kill off
+some {sinspawn} at {Operation Mi'ihen}.
+--------------------------------------------------End--
+
+Even with the recent fiend scare,
+I can't believe how crowded it is.
+--------------------------------------------------End--
+
+It's too bad the {Aurochs}' record
+losing streak had to end. That was
+the only thing going for them.
+--------------------------------------------------End--
+
+Those fiends really put a
+damper on the tournament.
+--------------------------------------------------End--
+
+I was watching {Master Seymor}'s
+aeon from here. It was awesome!
+--------------------------------------------------End--
+
+Games are held every day,
+even after the tournament.
+--------------------------------------------------End--
+
+{Maester Mika2} has already
+returned to {Bevelle}.
+--------------------------------------------------End--
+
+{Wakka}'s pretty beat up.
+I don't think he'll play in the finals.
+--------------------------------------------------End--
+
+Looks like the {Aurochs} are burnt out.
+They don't stand a chance in the finals.
+--------------------------------------------------End--
+
+I must be dreaming.
+The {Aurochs} are in the finals?
+--------------------------------------------------End--
+
+What are you doing out here?
+You should be out there by the
+bench cheering on your teammates!
+--------------------------------------------------End--
+
+No need to watch this match.
+We all know the {Aurochs} are
+gonna lose the first round anyway.
+--------------------------------------------------End--
+
+Why aren't you out there playing?
+You're pretty confident for an {Aurochs} player.
+--------------------------------------------------End--
+
+I've decided to stay in {Luca} until
+the Calm comes. The more, the merrier
+when it comes to celebrations.
+--------------------------------------------------End--
+
+There's a flying ship by the dock.
+When do you think it'll fight {Sin}?
+--------------------------------------------------End--
+
+So many people...
+Much more than in the {Calm Lands}.
+--------------------------------------------------End--
+
+I've seen many things in my time at sea, but
+nothing like that flying ship at dock number 1.
+--------------------------------------------------End--
+
+Only the {Guado2} and the warrior monks
+are guarding the streets. Why aren't
+they asking the {Ronso} for help?
+--------------------------------------------------End--
+
+I hope watching the game will ease the
+Crusaders' pain over their dreadful defeat.
+--------------------------------------------------End--
+
+{Ronso} warriors value their horns, and
+the people of {Luca} value blitzball.
+--------------------------------------------------End--
+
+True believers of the teachings
+will not support the {Crusader}s.
+--------------------------------------------------End--
+
+Many {Ronso} have left {Luca} to guard
+their sacred mountain, {Gagazet}.
+--------------------------------------------------End--
+
+Throughout the long history of {Yevon2},
+this is the first time a summoner has
+ever been appointed maester.
+--------------------------------------------------End--
+
+You have to admire the {Aurochs}' fighting spirit.
+But the {Ronso} warriors deserve some credit, too.
+--------------------------------------------------End--
+
+The {Aurochs}' victory must be a
+blessing from {Yevon2}.
+--------------------------------------------------End--
+
+Those {Al Bhed} players are playing well.
+You can tell they're hungry for the championship.
+--------------------------------------------------End--
+
+The Psyches and the {Aurochs} are
+not enemies of the {Ronso Fangs}.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Change Crowd Model
+    {CHOICE:33}No Detection/Ignore ID
+    {CHOICE:34}Control Map Line
+    {CHOICE:35}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Model  :  {CHOICE:51}
+--------------------------------------------------End--

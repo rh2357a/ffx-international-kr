@@ -1,0 +1,41 @@
+{Wakka}
+Wha...what was that just now?
+That really Lord {Jyscal}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Wait, I know!
+{WINDOW}
+{CHOICE:31}Just listen.
+--------------------------------------------------End--
+{Tidus}
+He wasn't sent,
+so he became a fiend, right?
+--------------------------------------------------End--
+{Yuna}
+I don't understand how a man like
+Lord {Jyscal} could die and not be sent.
+--------------------------------------------------End--
+{Lulu}
+I would think that he was sent once...
+--------------------------------------------------End--
+{Lulu}
+but he stayed on {Spira}.
+--------------------------------------------------End--
+{Lulu}
+Something, a powerful emotion could have
+bound him to this world. Such things happen.
+--------------------------------------------------End--
+{Rikku}
+That's against the rules, isn't it?
+--------------------------------------------------End--
+{Auron}
+It means he died an unclean death.
+--------------------------------------------------End--
+{Tromell}
+Come to kill the old man?
+I welcome it!
+--------------------------------------------------End--
+{Tromell}
+Or are you here to laugh?
+Laugh at the fallen {Guado}?
+--------------------------------------------------End--

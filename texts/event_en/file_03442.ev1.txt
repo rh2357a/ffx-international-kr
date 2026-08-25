@@ -1,0 +1,81 @@
+
+This is the {Temple of Yevon-Djose}.
+It is famous for its association with
+Lord {Mi'ihen}, founder of the {Crusader}s.
+{NEWPAGE}
+
+Had he witnessed this dreadful sight...
+Oh, I could just imagine his grief.
+--------------------------------------------------End--
+
+It is a quiet morning.
+{NEWPAGE}
+
+Many {Crusader}s departed
+for the {Farplane} last night.
+--------------------------------------------------End--
+
+Maester {Mika} carried {Spira}
+on his shoulders for fifty years.
+{NEWPAGE}
+
+I'm sure he is resting peacefully
+on the {Farplane} now.
+--------------------------------------------------End--
+
+I wonder who the next grand maester will be.
+--------------------------------------------------End--
+
+In my youth, I trained with Maester {Jyscal}.
+{NEWPAGE}
+
+We rose above our differences and
+became friends, human and {Guado}.
+--------------------------------------------------End--
+
+We're all out of healing potions.
+{NEWPAGE}
+
+Even so, more wounded men
+are being brought here.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Blitz Fan Lv. 1{White}
+Name: Sonio
+Favorite team: {Kilika Beasts}
+He appears to be just an ordinary fan.
+You cannot sign him to a contract.
+--------------------------------------------------End--
+
+I solemnly pray Lady {Yuna} will become a
+wonderful summoner. Please take care of her.
+--------------------------------------------------End--
+
+Lady {Yuna} performed the sending all night.
+{NEWPAGE}
+
+I imagine it must have been quite
+hard on such a young summoner.
+--------------------------------------------------End--
+
+My fellow monks have left the temple.
+{NEWPAGE}
+
+They said that nothing will change so long
+as we remain within these confines.
+--------------------------------------------------End--
+
+I cannot say they are right or wrong.
+--------------------------------------------------End--
+
+We plan to station warrior monks in
+various locales to prepare for a
+possible raid by fiends and {Al Bhed}.
+--------------------------------------------------End--
+
+Captain, please! Wake up!
+--------------------------------------------------End--
+
+You were the best, Captain!
+We'll never forget you!
+--------------------------------------------------End--

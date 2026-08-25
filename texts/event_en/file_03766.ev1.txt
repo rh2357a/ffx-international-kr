@@ -1,0 +1,196 @@
+
+Hic! Eh...I've been protecting
+Maester {Seymor} since he was a wee lad.
+--------------------------------------------------End--
+
+Ask me anything ye want to know 'bout
+Maester {Seymor}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Seymor} as a young child.
+{CHOICE:31}{Seymor} as a young man.
+{CHOICE:32}{Seymor} as a monk.
+{CHOICE:33}{Seymor} as a summoner.
+{CHOICE:34}Don't care to know.
+--------------------------------------------------End--
+
+Both {Guado} and human blood flow
+through Maester {Seymor}'s veins.
+{NEWPAGE}
+
+This mixed heritage caused him a
+deal of grief in his childhood.
+{NEWPAGE}
+
+But because of that very experience...
+{NEWPAGE}
+
+he grew to become a great leader
+who aspired to bring {Guado} and
+humans together in friendship.
+--------------------------------------------------End--
+
+Ye do wanna know more
+about Maester {Seymor}, no?
+--------------------------------------------------End--
+
+Lord {Braska} vanquished {Sin}
+when Lord {Seymor} was about your age.
+{NEWPAGE}
+
+During the celebration of the Calm's
+arrival, {Maester Mika2} ordained
+Lord {Jyscal} a maester of {Yevon2}.
+{NEWPAGE}
+
+He praised Lord {Jyscal}'s achievements,
+including the conversion of the {Guado2}
+to the teachings of Yevon.
+{NEWPAGE}
+
+Maester {Seymor} was still a young lad
+then, but he tried hard to assist Lord {Jyscal}.
+--------------------------------------------------End--
+
+As a monk, Maester {Seymor} soon
+distinguished himself.
+{NEWPAGE}
+
+His accomplishments were many and
+acclaimed by all. He shot up through
+the ranks quickly, he did.
+{NEWPAGE}
+
+Aye, he rose high on his own, never
+riding Lord {Jyscal}'s coattails.
+{NEWPAGE}
+
+He's truly a remarkable young man.
+--------------------------------------------------End--
+
+As a summoner, Maester {Seymor}'s
+strength is matchless.
+{NEWPAGE}
+
+Yet, he became a maester of {Yevon2}
+instead of undertaking the pilgrimage
+to battle {Sin}.
+{NEWPAGE}
+
+I think he believes that there's more to a
+summoner's duty than just destroying {Sin}.
+--------------------------------------------------End--
+
+Don't you hold back, now.
+--------------------------------------------------End--
+
+With {Seymor} gone and
+Maester {Mika} dead...
+{NEWPAGE}
+
+we've lost all our emotional support.
+--------------------------------------------------End--
+
+This is truly a disgrace.
+Monks are supposed to guide the
+people, not behave like this.
+--------------------------------------------------End--
+
+I can't believe {Seymor}'s getting married.
+It's certainly something to celebrate!
+--------------------------------------------------End--
+
+Please give this congratulatory gift
+to Lady Yuna.
+--------------------------------------------------End--
+
+When {Seymor} was first
+ordained a monk, he was my junior.
+{NEWPAGE}
+
+Now look at him!
+He's a maester, betrothed to a summoner.
+{NEWPAGE}
+
+I'm absolutely nothing
+compared to him.
+--------------------------------------------------End--
+
+{Seymor} doesn't flaunt his status.
+He's a down-to-earth gentleman.
+--------------------------------------------------End--
+
+{Seymor}'s actions are inexcusable,
+but I cannot condemn him...
+{NEWPAGE}
+
+because I remember how he suffered at
+the hands of both human and {Guado2}
+in his youth.
+--------------------------------------------------End--
+
+If he hadn't strayed from the path,
+I believe {Seymor} would have
+become a fine maester.
+--------------------------------------------------End--
+
+Maester {Seymor} always
+smells so nice!
+{NEWPAGE}
+
+Isn't he grand?
+--------------------------------------------------End--
+
+The {Guado} used to come here
+often, but now, everyone's gone.
+--------------------------------------------------End--
+
+I miss my {Guado} friends.
+--------------------------------------------------End--
+
+I thought I heard a scream!
+{NEWPAGE}
+
+I know we're celebrating Maester {Seymor}'s
+marriage, but it musn't get out of hand.
+--------------------------------------------------End--
+
+These are leftovers from the banquet.
+Go ahead, take 'em with you, lad.
+--------------------------------------------------End--
+
+The {Guado} have apparently lost their
+willpower and are in low spirits. They
+never leave {Guadosalam} anymore.
+--------------------------------------------------End--
+
+I feel like shutting myself away in a
+temple, too. I just can't believe
+anything anymore.
+--------------------------------------------------End--
+
+Such a fine day to celebrate!
+The monks should let loose today!
+--------------------------------------------------End--
+
+Live it up, everyone! Have a
+blast and make everyone happy!
+--------------------------------------------------End--
+
+With rank set aside like this, I believe
+everyone is behaving a little too wildly.
+--------------------------------------------------End--
+
+Strip away the exterior, and the
+devout monk is just another man,
+it seems.
+--------------------------------------------------End--
+
+Did you see my cousin outside?
+We're always competing with each other.
+--------------------------------------------------End--
+
+But unlike him, I'm a diligent worker.
+I only sleep on the job sometimes...
+Not all the time.
+--------------------------------------------------End--

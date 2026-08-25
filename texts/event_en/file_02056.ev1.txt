@@ -1,0 +1,46 @@
+{Wakka}
+Hey, over here!
+--------------------------------------------------End--
+{Tidus}
+What? Ow!
+--------------------------------------------------End--
+{Wakka}
+Wait till you see this!
+--------------------------------------------------End--
+{Tidus}
+I can't see anything!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Ready!
+--------------------------------------------------End--
+{WINDOW}
+
+Okay.
+--------------------------------------------------End--
+
+I had never seen anything like it in my life.
+--------------------------------------------------End--
+
+Sure, it was a little scary,
+but still...
+--------------------------------------------------End--
+
+I could feel a strange kind of
+gentleness coming from it.
+--------------------------------------------------End--
+
+I remember...
+--------------------------------------------------End--
+
+That night, we talked for
+the first time.
+--------------------------------------------------End--
+
+I didn't know it then, but after
+that night, everything changed.
+--------------------------------------------------End--
+
+For everyone...
+For me...
+--------------------------------------------------End--

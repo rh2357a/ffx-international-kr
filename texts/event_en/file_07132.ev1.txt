@@ -1,0 +1,353 @@
+{Lulu}
+I hope that you're not
+too mad at {Wakka}.
+--------------------------------------------------End--
+{Tidus}
+Hey, not at all.
+--------------------------------------------------End--
+{Lulu}
+Thank you.
+--------------------------------------------------End--
+{Tidus}
+Say, what do you think of {Rikku}?
+--------------------------------------------------End--
+{Lulu}
+Me?
+--------------------------------------------------End--
+{Lulu}
+She's...fun to be with.
+--------------------------------------------------End--
+{Tidus}
+That all?
+--------------------------------------------------End--
+{Lulu}
+Well, I can tell she's not a bad person.
+--------------------------------------------------End--
+{Tidus}
+Yeah.
+--------------------------------------------------End--
+{Tidus}
+You know what the problem is?
+She's just another {Al Bhed} to {Wakka}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+{Wakka}'s head is
+as hard as a rock.
+--------------------------------------------------End--
+{Tidus}
+I bet it's because of {Yevon2}.
+Or, you know, something like that.
+--------------------------------------------------End--
+{Lulu}
+Well, there's more to it than that.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+{Wakka} doesn't like the {Al Bhed}
+because of his brother {Chappu}.
+--------------------------------------------------End--
+{Tidus}
+Oh...he used a 
+machina weapon, right?
+--------------------------------------------------End--
+{Tidus}
+And got killed by {Sin}.
+--------------------------------------------------End--
+{Tidus}
+Killed by my old man.
+--------------------------------------------------End--
+{Tidus}
+Damn you, {Jecht}.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+What?
+--------------------------------------------------End--
+{Tidus}
+Oh, nothing!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Hey...
+--------------------------------------------------End--
+{Tidus}
+Can someone, like, a
+human become {Sin} ever?
+--------------------------------------------------End--
+{Lulu}
+I can't say that I know, but why?
+--------------------------------------------------End--
+{Tidus}
+Just a thought.
+--------------------------------------------------End--
+{Lulu}
+{Sin} is the punishment for, and the
+incarnation of, crimes we have committed.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+So, no one really knows what it is?
+--------------------------------------------------End--
+{Lulu}
+There's no need to know
+so no one asks.
+--------------------------------------------------End--
+{Lulu}
+You run or you fight.
+That is really all you can do.
+--------------------------------------------------End--
+{Lulu}
+There's no sense brooding over it.
+--------------------------------------------------End--
+{Tidus}
+What, that's all?
+I mean, you don't even wonder?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+You really do come from a world
+where there is no {Sin}, like you say.
+--------------------------------------------------End--
+{Tidus}
+Sorry about {Wakka}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+He didn't have to be so mean, ya?
+--------------------------------------------------End--
+{Rikku}
+I almost cried.
+--------------------------------------------------End--
+{Tidus}
+Uh...{Rikku}?
+--------------------------------------------------End--
+{Rikku}
+Just kidding!
+--------------------------------------------------End--
+{Rikku}
+It's okay.
+At least you're still nice.
+--------------------------------------------------End--
+{Rikku}
+Hey, do I look like
+{Yunie}, you think?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Rikku}
+Well, my dad's sister is
+{Yunie}'s mother, you get it?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Oh...
+--------------------------------------------------End--
+{Tidus}
+I had no idea!
+If you say so.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+Okay! I guess you're
+guarding your family, then.
+--------------------------------------------------End--
+{Rikku}
+{Yuna}'s not the only one
+that I want to protect.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Rikku}
+We {Al Bhed} want to protect
+all of the summoners, you know?
+--------------------------------------------------End--
+{Rikku}
+Summoners are...
+--------------------------------------------------End--
+{Rikku}
+Well, you could say that...
+--------------------------------------------------End--
+{Rikku}
+they sacrifice themselves to,
+well...to bring happiness to {Spira}.
+--------------------------------------------------End--
+{Tidus}
+What do you mean?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+Oh!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{Rikku}?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+Yes?
+--------------------------------------------------End--
+{Tidus}
+"Sacrifice themselves"?
+--------------------------------------------------End--
+{Rikku}
+You know, the pilgrimage...
+--------------------------------------------------End--
+{Rikku}
+It...uh...takes a lot out of you.
+--------------------------------------------------End--
+{Tidus}
+Oh, right.
+--------------------------------------------------End--
+{Tidus}
+But you know, {Yuna}'s real
+serious about being a summoner.
+--------------------------------------------------End--
+{Tidus}
+For {Yuna}, well the pilgrimage
+kinda means everything to her.
+--------------------------------------------------End--
+{Tidus}
+You are going to help her,
+too, aren't you, {Rikku}?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+Um...   
+--------------------------------------------------End--
+{Tidus}
+So you shouldn't say that
+{Yuna}'s sacrificing herself.
+--------------------------------------------------End--
+{Tidus}
+{Rikku}?
+--------------------------------------------------End--
+{Rikku}
+I hope you're right.
+--------------------------------------------------End--
+{Tidus}
+You're no fun to ride with at all.
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+What?
+--------------------------------------------------End--
+{Tidus}
+I'll take {Kimahri} over you any day!
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+Hmph.
+--------------------------------------------------End--
+{Auron}
+Just don't do anything rash.
+--------------------------------------------------End--
+{Tidus}
+What's that mean?
+--------------------------------------------------End--
+{Auron}
+I'm saying you should
+not complicate matters.
+--------------------------------------------------End--
+{Auron}
+Or you'll find yourself
+trapped, understand?
+--------------------------------------------------End--
+{Tidus}
+I don't need you to tell me that!
+--------------------------------------------------End--
+{Tidus}
+I guess there's some sense
+in what you're saying.
+--------------------------------------------------End--
+{Auron}
+Make mistakes.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Auron}
+That's what youth is for after all.
+Do not waste it.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+So which is it!?
+--------------------------------------------------End--
+{Tidus}
+Say...
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+What do you think about {Rikku}
+being an {Al Bhed}?
+--------------------------------------------------End--
+{Kimahri}
+{Ronso} are followers of {Yevon2}.
+{Ronso} dislike {Al Bhed}.
+--------------------------------------------------End--
+{Tidus}
+Oh, I get it.
+--------------------------------------------------End--
+{Kimahri}
+Not {Kimahri}.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Huh?
+--------------------------------------------------End--
+{Kimahri}
+{Al Bhed} are {Al Bhed}.
+{Rikku} is {Rikku}.
+--------------------------------------------------End--
+{Kimahri}
+{Rikku} swore to protect {Yuna}.
+--------------------------------------------------End--
+{Kimahri}
+And {Rikku} is not a liar.
+{Kimahri} can tell.
+--------------------------------------------------End--
+{Kimahri}
+So, she is a friend.
+--------------------------------------------------End--
+{Tidus}
+You know, you might want
+to tell her that later.
+--------------------------------------------------End--
+{Tidus}
+I think she needs to know
+that we still want her with us.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} is surprised.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Why?
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} think you are kind.
+--------------------------------------------------End--
+{Tidus}
+Uh, don't tell anyone, okay?
+--------------------------------------------------End--

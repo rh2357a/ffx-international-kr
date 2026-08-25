@@ -1,0 +1,37 @@
+{Braska}
+{Auron}, could you
+stand closer to him?
+--------------------------------------------------End--
+{Jecht}
+What's the matter?
+Afraid I might bite?
+--------------------------------------------------End--
+{Auron}
+{Jecht}...
+--------------------------------------------------End--
+{Braska}
+Good. That should do it.
+--------------------------------------------------End--
+{Jecht}
+{Braska}! You should take one, too.
+It'd make a great gift for little {Yuna}!
+--------------------------------------------------End--
+{Braska}
+I suppose.
+--------------------------------------------------End--
+{Auron}
+Lord {Braska}...
+--------------------------------------------------End--
+{Auron}
+We shouldn't be
+wasting our time like this!
+--------------------------------------------------End--
+{Jecht}
+What's the hurry, man?
+--------------------------------------------------End--
+{Auron}
+Let me tell you what the hurry is!
+--------------------------------------------------End--
+{Braska}
+{Auron}!
+--------------------------------------------------End--

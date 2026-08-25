@@ -1,0 +1,11 @@
+{Wakka}
+This is a shoopuf.
+--------------------------------------------------End--
+{Tidus}
+Whoa... Let's ride!
+Come on, let's go!
+--------------------------------------------------End--
+{Wakka}
+All right!
+We board soon as we're ready, ya?
+--------------------------------------------------End--

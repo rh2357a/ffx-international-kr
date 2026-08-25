@@ -1,0 +1,324 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+Thou seem'st weary, good traveller.
+Wouldst thou sit and rest thy feet awhile?
+{NEWPAGE}
+
+Ah, belike my speech perplexes thee?
+{NEWPAGE}
+
+'Tis old {Guado} I speak, a tongue seldom
+heard within even {Guadosalam} now.
+--------------------------------------------------End--
+
+A dying breed we are, speakers of
+the old tongue.
+{NEWPAGE}
+
+I fear this precious legacy
+hath but little time remaining.
+--------------------------------------------------End--
+
+Many {Guado} shun the old tongue, favouring
+instead the speech of foreign tribes.
+'Tis a pity, verily.
+--------------------------------------------------End--
+
+Long ago, the {Guado} would have
+none of humans.
+{NEWPAGE}
+
+But Lord {Jyscal} took it on him to
+reform old ways, and opened our
+eyes to the outside world...
+{NEWPAGE}
+
+And thus did we enter modern times.
+--------------------------------------------------End--
+
+Lord {Jyscal} and Lord {Seymor}
+brought change to {Guado2} traditions,
+setting us a new course.
+--------------------------------------------------End--
+
+Our youth are all dead.
+Our future seemeth likewise dead.
+{NEWPAGE}
+
+O that the {Guado2} had remained
+here, protecting the {Farplane}
+instead of populating it!
+--------------------------------------------------End--
+
+With Lord {Seymor} gone, {Tromell}
+hath lost all hope.
+{NEWPAGE}
+
+Belike he will soon follow
+his master to the {Farplane}.
+--------------------------------------------------End--
+
+{Sin} will surely crush
+the {Guado} now.
+--------------------------------------------------End--
+
+Good traveller, prithee forgive us
+our antiquated prattling.
+--------------------------------------------------End--
+
+Once, all {Guado2} spoke
+the old tongue.
+{NEWPAGE}
+
+But when Lord {Jyscal} brought
+us to the light of {Yevon2}...
+{NEWPAGE}
+
+the old tongue fell out of
+favour with many, and suffers
+now a slow demise.
+--------------------------------------------------End--
+
+The youth laugh upon us as stale old
+relics who live too much in the past.
+--------------------------------------------------End--
+
+Didst thou know Lord {Seymor}'s
+mother was human?
+{NEWPAGE}
+
+When Lord {Seymor} first took on
+himself the {Guado} leadership, many
+refused to acknowledge him as lord.
+{NEWPAGE}
+
+They felt his blood was impure, tainted.
+But none feel so now.
+--------------------------------------------------End--
+
+Our youth all but worship
+Lord {Seymor}.
+{NEWPAGE}
+
+If he bade them leap from a cliff,
+they would greet death smiling.
+--------------------------------------------------End--
+
+Lord {Seymor} detests the old tongue.
+It shames us.
+--------------------------------------------------End--
+
+Lord {Seymor} took many lives.
+{NEWPAGE}
+
+It seems he is now revenged on
+both {Guado} and human.
+--------------------------------------------------End--
+
+In wedding that human maiden,
+Lord {Jyscal} broke ancient tradition.
+{NEWPAGE}
+
+Some rebell'd at Lord {Seymor}'s
+birth, desiring the half-breed
+child driven off.
+{NEWPAGE}
+
+To quell the outcry, Lord {Jyscal}
+tearfully exiled his wife and son
+to {Baaj Island}.
+--------------------------------------------------End--
+
+Years later, Lord {Seymor} returned.
+He said his mother had died.
+{NEWPAGE}
+
+But he was no longer the lost child
+banish'd so long ago. He had returned a
+master of the summoner's art.
+{NEWPAGE}
+
+The half-breed boy once so reviled
+thus reversed his fortunes and won
+deep respect.
+--------------------------------------------------End--
+
+They say Lord {Seymor} discovered
+his gift for summoning as a mere child.
+--------------------------------------------------End--
+
+Lord {Seymor} instructs the {Guado}
+youth on numerous subjects.
+{NEWPAGE}
+
+Thanks to him, I learned about {Yevon2}'s
+teachings and the history of {Spira}.
+--------------------------------------------------End--
+
+Lord {Seymor} is a great teacher.
+He explains everything quite clearly.
+--------------------------------------------------End--
+
+Everyone is talking about Lady {Yuna}--
+how she's the daughter
+of {High Summoner Braska}.
+{NEWPAGE}
+
+She fought alongside Lord {Seymor}
+during {Operation Mi'ihen}, right?
+--------------------------------------------------End--
+
+If Lady {Yuna} marries into the {Guado2} tribe,
+we will all welcome her warmly.
+--------------------------------------------------End--
+
+What happened to Lord {Seymor}?
+{NEWPAGE}
+
+I heard the rumors,
+but I can't believe it.
+--------------------------------------------------End--
+
+How could Lord {Seymor} do that
+to Lord {Jyscal}?
+--------------------------------------------------End--
+
+The elders just won't
+give up the old tongue.
+{NEWPAGE}
+
+I keep telling them how unseemly it
+is, babbling like that to guests.
+--------------------------------------------------End--
+
+It's just what old folks do, I guess.
+Please, take no offense.
+--------------------------------------------------End--
+
+Some say that it was the {Guado}
+who threw {Spira} into chaos.
+{NEWPAGE}
+
+It pains me to admit it,
+but they're right.
+--------------------------------------------------End--
+
+{Luca} has informed us that the {Guado2}
+team may continue to compete in tournaments.
+{NEWPAGE}
+
+We were saved by the
+{Luca}ns' generosity.
+--------------------------------------------------End--
+
+I want to return the favor by giving
+them a performance to remember.
+--------------------------------------------------End--

@@ -1,0 +1,401 @@
+{Kelk}
+conspired with the {Al Bhed},
+and joined in their insurrection.
+--------------------------------------------------End--
+{Kelk}
+These are traitorous and unforgivable
+crimes that disturb the order of {Yevon2}.
+--------------------------------------------------End--
+{Kelk}
+Tell this court what possessed
+you to participate in such violence.
+--------------------------------------------------End--
+{Yuna}
+Their battles, their sacrifices--
+were they all in vain?
+--------------------------------------------------End--
+{Mika}
+There is nothing futile in the life
+and death of a summoner.
+--------------------------------------------------End--
+
+The High Court of {Yevon2}
+is now in session.
+--------------------------------------------------End--
+
+The sacred offices of this court
+seek nothing but absolute truth,
+in {Yevon2}'s name.
+--------------------------------------------------End--
+
+To those on trial: Believe in
+{Yevon2}, and speak only the truth.
+--------------------------------------------------End--
+{Lulu}
+{Master Kelk Ronso}.
+--------------------------------------------------End--
+{Kelk}
+Summoner {Yuna}.
+--------------------------------------------------End--
+{Kelk}
+You have sworn to protect
+the people of {Yevon2}, true?
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Kelk}
+Then, consider:
+--------------------------------------------------End--
+{Kelk}
+You have inflicted dire injury
+upon Maester {Seymor} {Guado}...
+--------------------------------------------------End--
+{Yuna}
+Your Grace...
+--------------------------------------------------End--
+{Yuna}
+The real traitor is Maester {Seymor}!
+--------------------------------------------------End--
+{Yuna}
+He killed his father {Jyscal}
+with his own hands!
+--------------------------------------------------End--
+{Kelk}
+What is this!
+--------------------------------------------------End--
+{Seymor}
+Hmm?
+Hadn't you heard?
+--------------------------------------------------End--
+{Yuna}
+Not only that...
+--------------------------------------------------End--
+{Yuna}
+Maester {Seymor} is already dead!
+--------------------------------------------------End--
+{Lulu}
+It is a summoner's sacred duty to send
+the souls of the departed to the Farplane!
+--------------------------------------------------End--
+{Lulu}
+{Yuna} was only doing
+her job as a summoner!
+--------------------------------------------------End--
+{Yuna}
+Grand {Maester Mika2}...
+Please, send {Seymor} now!
+--------------------------------------------------End--
+{Mika}
+Send the unsent to
+where they belong?
+--------------------------------------------------End--
+{Yuna}
+Yes!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Yuna}
+Maester?
+--------------------------------------------------End--
+{Mika}
+Send the dead...hmm?
+--------------------------------------------------End--
+{Mika}
+You would have to send me, too.
+--------------------------------------------------End--
+{Wakka}
+What!
+--------------------------------------------------End--
+{Kelk}
+Grand {Maester Mika} is a wise leader.
+Even in death, he is invaluable to Spira.
+--------------------------------------------------End--
+{Kinoc}
+Enlightened rule by the dead is preferable
+to the misguided failures of the living.
+--------------------------------------------------End--
+{Seymor}
+Life is but a passing dream, but
+the death that follows is eternal.
+--------------------------------------------------End--
+{Mika}
+Men die. Beasts die. Trees die.
+Even continents perish.
+--------------------------------------------------End--
+{Mika}
+Only the power of death
+truly commands in Spira.
+--------------------------------------------------End--
+{Mika}
+Resisting its power is futile.
+--------------------------------------------------End--
+{Yuna}
+But what of {Sin}?
+--------------------------------------------------End--
+{Yuna}
+I am a summoner, my lord,
+like my father before me!
+--------------------------------------------------End--
+{Yuna}
+I am on a pilgrimage to stop
+the death that {Sin} brings.
+--------------------------------------------------End--
+{Yuna}
+Are you... Are you telling
+me that, too, is futile?
+--------------------------------------------------End--
+{Yuna}
+Grand {Maester Mika2},
+I am not alone!
+--------------------------------------------------End--
+{Yuna}
+All the people who
+have opposed {Sin}...
+--------------------------------------------------End--
+{Mika}
+Not in vain.
+--------------------------------------------------End--
+{Mika}
+No matter how many summoners give
+their lives, {Sin} cannot be truly defeated.
+--------------------------------------------------End--
+{Mika}
+The rebirth cannot be stopped.
+--------------------------------------------------End--
+{Mika}
+Yet the courage of those who
+fight gives the people hope.
+--------------------------------------------------End--
+{Auron}
+Never futile...
+but never ending.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Mika}
+Indeed, that is
+the essence of {Yevon2}.
+--------------------------------------------------End--
+{Yuna}
+Lord {Mika}!
+--------------------------------------------------End--
+{Mika}
+{Yevon2} is embodied by eternal,
+unchanging continuity, summoner.
+--------------------------------------------------End--
+{Yuna}
+No...that can't be right!
+--------------------------------------------------End--
+{Mika}
+Those who question these truths--
+they are traitors!
+--------------------------------------------------End--
+{Yuna}
+Lord {Mika}!
+--------------------------------------------------End--
+{Mika}
+How fares the {Ronso} maester?
+--------------------------------------------------End--
+{Seymor}
+It seems my father's
+murder troubles him.
+--------------------------------------------------End--
+{Mika}
+Ever the {Ronso}.
+--------------------------------------------------End--
+{Mika}
+Hard-headed,
+hardly useful.
+--------------------------------------------------End--
+{Seymor}
+However...
+--------------------------------------------------End--
+{Seymor}
+The summoner {Yuna},
+daughter to {High Summoner Braska}...
+--------------------------------------------------End--
+{Seymor}
+She may be of some
+use to us alive.
+--------------------------------------------------End--
+{Mika}
+She has disturbed
+the order of {Yevon2}.
+--------------------------------------------------End--
+{Mika}
+She cannot be allowed to live.
+--------------------------------------------------End--
+{Seymor}
+I understand.
+--------------------------------------------------End--
+{Kinoc}
+Let it go, {Seymor}.
+--------------------------------------------------End--
+{Kinoc}
+No one thrown into the Via
+Purifico has ever survived.
+--------------------------------------------------End--
+{Mika}
+Yet there is always a small
+chance that they might.
+--------------------------------------------------End--
+{Mika}
+Place guards at the exit.
+Kill any who emerge.
+--------------------------------------------------End--
+{Seymor}
+Sir. Leave that to me.
+--------------------------------------------------End--
+{Mika}
+First your father, now your bride?
+--------------------------------------------------End--
+{Seymor}
+Allow me to do this
+because she is my bride.
+--------------------------------------------------End--
+{Kinoc}
+Wait. I will go, too.
+--------------------------------------------------End--
+{Seymor}
+You do not trust me?
+--------------------------------------------------End--
+{Kinoc}
+Would you trust a man
+who murdered his father?
+--------------------------------------------------End--
+{Seymor}
+Very well.
+As you wish.
+--------------------------------------------------End--
+{Mika}
+Why are you here?
+You must go and defeat {Sin}, quickly!
+--------------------------------------------------End--
+{Mika}
+You have obtained the Final Aeon
+from {Yunalesca}, have you not?
+--------------------------------------------------End--
+{Tidus}
+Well, we did meet her.
+--------------------------------------------------End--
+{Yuna}
+We fought and defeated her.
+--------------------------------------------------End--
+{Mika}
+What!
+--------------------------------------------------End--
+{Auron}
+Summoners and guardians will
+be sacrificed for the
+Final Summoning no more!
+--------------------------------------------------End--
+{Mika}
+You have profaned and subverted
+a thousand-year-old tradition? 
+--------------------------------------------------End--
+{Mika}
+Fools! Infants!
+Do you realize what you've done?
+--------------------------------------------------End--
+{Mika}
+You've taken away the only
+means of calming {Sin}!
+--------------------------------------------------End--
+{Tidus}
+Hey, maybe that's not the only way!
+We think we've got another.
+--------------------------------------------------End--
+{Mika}
+Why...
+--------------------------------------------------End--
+{Mika}
+Preposterous!
+There is no other way!
+--------------------------------------------------End--
+{Auron}
+The grand maester, running away?
+--------------------------------------------------End--
+{Mika}
+Spira has lost its only hope.
+Destruction is inevitable.
+--------------------------------------------------End--
+{Mika}
+Yu Yevon's spiral of
+death will consume us all.
+--------------------------------------------------End--
+{Mika}
+I have no desire to
+watch {Spira} die.
+--------------------------------------------------End--
+{Yuna}
+It won't die!
+--------------------------------------------------End--
+{Tidus}
+Who is this Yu Yevon guy?
+--------------------------------------------------End--
+{Lulu}
+Lady {Yunalesca} also mentioned him.
+--------------------------------------------------End--
+{Rikku}
+Wait, gramps!
+Who's Yu Yevon?
+--------------------------------------------------End--
+{Mika}
+He who crafts the souls of
+the dead into unholy armor.
+--------------------------------------------------End--
+{Mika}
+An armor called {Sin}.
+--------------------------------------------------End--
+{Mika}
+Clad in it, Yu Yevon is invincible.
+--------------------------------------------------End--
+{Mika}
+And the only thing that could have
+pierced that armor, you have destroyed!
+--------------------------------------------------End--
+{Mika}
+Nothing can stop it now.
+--------------------------------------------------End--
+{Wakka}
+Disappear on us, will ya?
+Rotten son of a shoopuf!
+--------------------------------------------------End--
+{Shelinda}
+Where...where is the grand maester?
+--------------------------------------------------End--
+{Yuna}
+He, um...
+--------------------------------------------------End--
+{Auron}
+He's not here yet.
+How long must we wait?
+--------------------------------------------------End--
+{Shelinda}
+That's odd... I'll go
+look for His Grace.
+--------------------------------------------------End--
+{Tidus}
+It's you.
+--------------------------------------------------End--
+
+Come, to my room.
+--------------------------------------------------End--
+{Yuna}
+Okay.
+--------------------------------------------------End--
+{Wakka}
+Who you talking to?
+--------------------------------------------------End--
+{Tidus}
+Oh. Uh, no one.
+--------------------------------------------------End--
+{Yuna}
+I must go see the {fayth}.
+--------------------------------------------------End--
+{Auron}
+I see.
+--------------------------------------------------End--

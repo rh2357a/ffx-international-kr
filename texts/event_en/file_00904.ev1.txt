@@ -1,0 +1,269 @@
+{Yuna}
+Goodbye.
+--------------------------------------------------End--
+
+Lady {Yuna}!
+Don't forget me, okay?
+--------------------------------------------------End--
+
+I'll be good while you're
+gone! I promise, ya?
+--------------------------------------------------End--
+
+Here, take this. Daddy
+says it's an offering.
+--------------------------------------------------End--
+
+I have to keep watch!
+{Sin} could come any day!
+--------------------------------------------------End--
+
+When are the {Aurochs}
+gonna come back?
+--------------------------------------------------End--
+
+All I wanna do is join the Crusaders,
+but they say I'm too young!
+--------------------------------------------------End--
+
+I wonder if the fiends will
+go away once Sin's gone...
+--------------------------------------------------End--
+
+We'll miss Lady Yuna!
+Come back soon, ya?
+--------------------------------------------------End--
+
+Where are you going
+on that big boat?
+--------------------------------------------------End--
+
+When is Lady {Yuna} going
+to bring us the Calm?
+--------------------------------------------------End--
+
+Look at me! I'm Lady {Yuna}!
+I'll be a summoner when I grow up!
+--------------------------------------------------End--
+
+There's a ship, flying in the sky!
+I saw it! Honest!
+--------------------------------------------------End--
+
+I sung and everything, so now
+Lady {Yuna}'s Calm will come, ya?
+--------------------------------------------------End--
+
+I heard there's some foreigners around.
+Be on your guard!
+--------------------------------------------------End--
+
+There was a summoner here a while ago.
+One of his guardians was my age!
+{NEWPAGE}
+
+His name was {Pacce} or something.
+--------------------------------------------------End--
+
+Some mean-looking people were here,
+looking for {Yuna}!
+--------------------------------------------------End--
+
+I wonder if all this singing's
+really gonna help beat {Sin}.
+--------------------------------------------------End--
+
+I knew this time would
+come someday. I knew.
+--------------------------------------------------End--
+
+Please watch over Lady {Yuna}.
+--------------------------------------------------End--
+
+Here, have this.
+You may find use for it.
+--------------------------------------------------End--
+
+A summoner arrived
+here just recently.
+{NEWPAGE}
+
+He seemed to have disappeared.
+But where to, so quickly?
+--------------------------------------------------End--
+
+I believe his name was
+Lord {Isaaru}...yes, that's it.
+--------------------------------------------------End--
+
+I heard the sailors' gossip
+about Lady {Yuna} getting married?
+--------------------------------------------------End--
+
+I should think Lady {Yuna} would be the
+last to marry and quit her pilgrimage!
+--------------------------------------------------End--
+
+The people of {Besaid} are friends to Lady {Yuna}.
+Come to us if you are ever in need.
+--------------------------------------------------End--
+
+That flying ship--now that's what
+I call a blessing of {Yevon2}.
+--------------------------------------------------End--
+
+I got separated from Sir {Luzzu}
+and {Gatta} during the battle.
+{NEWPAGE}
+
+They haven't come back yet.
+Where could they be?
+--------------------------------------------------End--
+
+That new plan, it must be working.
+I mean, I haven't seen {Sin} around, have you?
+--------------------------------------------------End--
+
+Hey, no one's loafing around here!
+I'm keeping a lookout for {Sin}!
+--------------------------------------------------End--
+
+{Sin} is still out there.
+This is a job for the {Crusader}s!
+--------------------------------------------------End--
+
+Haven't seen {Sin} in a long while.
+Perhaps the {Crusader}s have stopped it at last?
+--------------------------------------------------End--
+
+Oh hoh hoh, have I news for you!
+{NEWPAGE}
+
+The daughter of Lord {Braska}
+is to marry the leader of the {Guado}!
+--------------------------------------------------End--
+
+What? Already knew, did you?
+Hmph. You're no fun.
+--------------------------------------------------End--
+
+We're getting fewer and fewer
+passengers--maybe due to all
+the turmoil in the temples.
+--------------------------------------------------End--
+
+Just once in my life,
+I'd like to ride on a flying ship.
+--------------------------------------------------End--
+
+Oh! There are so many
+things I want to tell her.
+{NEWPAGE}
+
+But seeing her there, smiling...
+I just can't say them.
+--------------------------------------------------End--
+
+Hey, you! The sea's crawling with
+fiends, so give this to {Yuna}, okay?
+--------------------------------------------------End--
+
+I won't cry...
+I won't, ya?
+--------------------------------------------------End--
+
+They're really leaving.
+--------------------------------------------------End--
+
+Here, a farewell gift
+from all the village.
+--------------------------------------------------End--
+
+I understand why some people
+didn't come down here.
+{NEWPAGE}
+
+It's hard to say goodbye.
+--------------------------------------------------End--
+
+May {Yevon2}'s blessings be with
+our summoner on her pilgrimage.
+--------------------------------------------------End--
+
+Here, a gift from the temple
+to sanctify her departure.
+--------------------------------------------------End--
+
+The journey will be long. Believe the
+teachings, and you will not go astray.
+--------------------------------------------------End--
+
+We're headed for {Blue}{Kilika Island}{White}.
+All aboard!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah, let's go!
+{CHOICE:31}Not just yet.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

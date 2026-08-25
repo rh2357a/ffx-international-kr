@@ -1,0 +1,371 @@
+{Tidus}
+Is that the {Djose} temple?
+--------------------------------------------------End--
+{Lucil}
+{Yuna}, it is good to see you
+and your companions are well.
+--------------------------------------------------End--
+{Yuna}
+Yourselves as well, Captain.
+We were worried. Praise be to {Yevon2}!
+--------------------------------------------------End--
+{Lucil}
+We escaped with our lives, but
+our troops were decimated.
+--------------------------------------------------End--
+{Elma}
+Of all our chocobos,
+only this one made it.
+--------------------------------------------------End--
+{Clasko}
+We make pretty poor Chocobo Mounted
+Forces without chocobos.
+--------------------------------------------------End--
+{Lucil}
+We turned our backs on the teachings
+and cast away our faith.
+--------------------------------------------------End--
+{Lucil}
+This...this is our just reward.
+--------------------------------------------------End--
+{Lucil}
+Off so early?
+--------------------------------------------------End--
+{Lucil}
+Lady {Yuna}, you must be exhausted
+after working so hard last night.
+Will you be okay?
+--------------------------------------------------End--
+{Yuna}
+I feel that I have rested enough.
+But, thank you for your kindness!
+--------------------------------------------------End--
+{Yuna}
+Will you be leaving, too?
+--------------------------------------------------End--
+{Lucil}
+Yes, first we cross the {Moonflow},
+and then we head north in search of
+chocobos to replace those we have lost.
+--------------------------------------------------End--
+{Elma}
+Once we find chocobos, our
+Mounted Forces will ride again!
+--------------------------------------------------End--
+{Tidus}
+Huh?
+Aren't you missing someone?
+--------------------------------------------------End--
+{Clasko}
+Captain!
+Waaaaait for meee!
+--------------------------------------------------End--
+{Elma}
+What took you so long?
+We're leaving!
+--------------------------------------------------End--
+{Clasko}
+You expect me to keep
+up with a chocobo!?
+--------------------------------------------------End--
+{Lucil}
+Lady {Yuna}, I wish you good fortune.
+{Elma}! {Clasko}! Let's go!
+--------------------------------------------------End--
+{Elma}
+Ma'am!
+--------------------------------------------------End--
+{Clasko}
+Eh!? C-Can't I just rest a sec...?
+--------------------------------------------------End--
+{Elma}
+No complaints!
+--------------------------------------------------End--
+
+No traitors allowed!
+--------------------------------------------------End--
+
+Stay away from the temple!
+Leave at once!
+--------------------------------------------------End--
+
+Try to understand our position.
+We'd rather not do this, believe me.
+--------------------------------------------------End--
+
+Traitors! Just kidding.
+Sorry about all that fuss.
+--------------------------------------------------End--
+
+Hey, it's been a long time!
+How's it going?
+--------------------------------------------------End--
+
+We're behind you all the way!
+Good luck!
+--------------------------------------------------End--
+
+Good luck.
+Destroy {Sin} for us all, all right?
+--------------------------------------------------End--
+
+Come back anytime!
+--------------------------------------------------End--
+
+Take care!
+Damn, I wish we could go with you!
+--------------------------------------------------End--
+{Lucil}
+So many died in vain...
+It was a mistake.
+--------------------------------------------------End--
+{Elma}
+It's just you, now. But don't worry,
+we're here for you!
+--------------------------------------------------End--
+{Clasko}
+We should never have
+ignored the teachings.
+--------------------------------------------------End--
+
+You can't defeat {Sin} with machina.
+The summoners are our only hope.
+{NEWPAGE}
+
+{Yevon2}'s teachings are the way.
+The {Crusader}s were fools for defying them.
+--------------------------------------------------End--
+
+Here, take this.
+I don't need it anymore.
+--------------------------------------------------End--
+
+We should live according to the teachings.
+I learned that the hard way.
+--------------------------------------------------End--
+
+The {Crusader}s have fallen apart, so
+I'm going to help out with guard duty
+here at the temple for a while.
+{NEWPAGE}
+
+It's the least I can do to repay them
+for taking us in.
+--------------------------------------------------End--
+
+Maybe I should quit the {Crusader}s
+and become a warrior monk.
+--------------------------------------------------End--
+
+The temple's security is pretty tight.
+{NEWPAGE}
+
+This place is guarded so well, ain't
+no way any fiends or traitors will get in.
+--------------------------------------------------End--
+
+I hear Lady {Yuna}'s getting married.
+Shucks, I'm her biggest fan.
+{NEWPAGE}
+
+I'll be on duty at the wedding, to make
+sure nothing happens there.
+--------------------------------------------------End--
+
+We're facing tough times. The monks
+all seem dejected, and hardly anyone
+visits the temple anymore.
+{NEWPAGE}
+
+I'm okay, though. I'll live by the
+teachings no matter what.
+--------------------------------------------------End--
+
+The warrior monks left for {Bevelle},
+so it's our job to protect this temple.
+--------------------------------------------------End--
+
+I beat myself up all night for taking
+part in that disastrous operation.
+{NEWPAGE}
+
+Then a monk told me that if I had time
+for remorse, I should spend it praying.
+{NEWPAGE}
+
+He's right. It's my duty to pray
+for my departed men.
+--------------------------------------------------End--
+
+The monk gave me this, but
+I think you should have it.
+--------------------------------------------------End--
+
+I will pray for all my lost comrades.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+Guarding the temple is my duty.
+I'm trying to stay focused and
+not worry about anything else.
+--------------------------------------------------End--
+
+Frankly, this isn't half as exciting
+as devising strategies against {Sin}.
+{NEWPAGE}
+
+I wouldn't mind leading my old
+troops into battle right now.
+--------------------------------------------------End--
+
+More and more people question
+the teachings these days.
+{NEWPAGE}
+
+I only hope it doesn't lead to another
+tragedy like {Operation Mi'ihen}.
+--------------------------------------------------End--
+
+The {Crusader}s defied the teachings, and
+look at what happened to them! Once you're
+on the {Farplane}, there's no turning back!
+--------------------------------------------------End--
+
+The {Crusader}s deeply regret
+their actions.
+{NEWPAGE}
+
+I believe it's time to put the past
+behind us and forgive them.
+{NEWPAGE}
+
+Yevon shall forgive those who
+seek redemption.
+--------------------------------------------------End--
+
+Should you need a place to recuperate,
+please return. You are always welcome here.
+--------------------------------------------------End--
+
+I believe the wounded soldiers
+will find solace in our prayers.
+--------------------------------------------------End--
+
+This is {Djose} Temple, located at the
+heart of the {Djose Continent}.
+{NEWPAGE}
+
+Please feel free to rest here.
+--------------------------------------------------End--
+
+There is nothing I can do but pray.
+My faith in {Yevon2} will never die.
+--------------------------------------------------End--

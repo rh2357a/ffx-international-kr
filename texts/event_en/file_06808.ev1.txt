@@ -1,0 +1,1013 @@
+{WINDOW}
+{CHOICE:30}League
+{CHOICE:31}{Gray}Tournament{White}
+{CHOICE:32}Exhibition
+{CHOICE:33}Tutorial
+{CHOICE:34}Team Data
+{CHOICE:35}Cancel
+{CHOICE:36}Reset Data
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}League
+{CHOICE:31}Tournament
+{CHOICE:32}Exhibition
+{CHOICE:33}Tutorial
+{CHOICE:34}Team Data
+{CHOICE:35}Cancel
+{CHOICE:36}Reset Data
+--------------------------------------------------End--
+{WINDOW}
+
+Spira League: Round {VAR12:30}
+{VAR07:50}{VAR12:31}{VAR07:78}vs. {VAR12:32}
+{VAR07:50}{VAR12:33}{VAR07:78}vs. {VAR12:34}
+{VAR07:50}{VAR12:35}{VAR07:78}vs. {VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+
+Starting game vs. {VAR12:30}.
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:8F}{VAR12:30}
+{VAR12:3D}{VAR07:8F}{VAR12:31}
+{VAR07:8F}{VAR12:32}
+{VAR07:8F}{VAR12:33}
+{VAR07:8F}{VAR12:34}
+{VAR07:8F}{VAR12:35}
+{VAR07:44}{VAR12:3C}{VAR07:72}{VAR12:3A}
+{VAR07:72}{VAR12:3B}
+--------------------------------------------------End--
+{WINDOW}
+
+Yevon Cup Finals
+Championship Match:
+{VAR12:31} vs. {VAR12:32}
+
+Consolation Match:
+{VAR12:33} vs. {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+Yevon Cup: Round {VAR12:30}
+{VAR07:50}{VAR12:31}{VAR07:78}vs. {VAR12:32}
+{VAR07:50}{VAR12:33}{VAR07:78}vs. {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+There is no tournament being held at this time.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} vs. Luca Goers
+{CHOICE:31} vs. Kilika Beasts
+{CHOICE:32} vs. Al Bhed Psyches
+{CHOICE:33} vs. Ronso Fangs
+{CHOICE:34} vs. Guado Glories
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Team Data{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Team Data{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Team Data{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+{CHOICE:38}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+All player data and abilities will
+be reset to the default settings.
+--------------------------------------------------End--
+{WINDOW}
+Reset data?
+{CHOICE:30}No
+{CHOICE:31}Yes
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}Assign Positions{White}
+Select this game's Left
+Forward (LF), Right Forward
+(RF), Midfielder (MF), Left
+Defense (LD), Right Defense
+(RD), and Goalkeeper (GL).
+--------------------------------------------------End--
+{WINDOW}
+
+Positions
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+Proceed?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}Set Player Techniques{White}
+Players level three and up
+can use techniques.
+Available slots multiply as
+a player goes up levels, up
+to a maximum of five slots.
+--------------------------------------------------End--
+{WINDOW}
+Set Techs
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}Done
+--------------------------------------------------End--
+{WINDOW}
+
+Set Techs
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+Done
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:48}Current HP: {VAR12:33}
+{OCyan}Key Techniques:{White}
+{VAR12:30}  {VAR12:31}  {VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:31}{VAR07:67}{CHOICE:3A}{VAR12:3B}{VAR07:8E}{CHOICE:44}{VAR12:45}
+{CHOICE:31}{VAR12:32}{VAR07:67}{CHOICE:3B}{VAR12:3C}{VAR07:8E}{CHOICE:45}{VAR12:46}
+{CHOICE:32}{VAR12:33}{VAR07:67}{CHOICE:3C}{VAR12:3D}{VAR07:8E}{CHOICE:46}{VAR12:47}
+{CHOICE:33}{VAR12:34}{VAR07:67}{CHOICE:3D}{VAR12:3E}{VAR07:8E}{CHOICE:47}{VAR12:48}
+{CHOICE:34}{VAR12:35}{VAR07:67}{CHOICE:3E}{VAR12:3F}{VAR07:8E}{CHOICE:48}{VAR12:49}
+{CHOICE:35}{VAR12:36}{VAR07:67}{CHOICE:3F}{VAR12:40}{VAR07:8E}{CHOICE:49}{VAR12:4A}
+{CHOICE:36}{VAR12:37}{VAR07:67}{CHOICE:40}{VAR12:41}{VAR07:8E}{CHOICE:4A}{VAR12:4B}
+{CHOICE:37}{VAR12:38}{VAR07:67}{CHOICE:41}{VAR12:42}{VAR07:8E}{CHOICE:4B}{VAR12:4C}
+{CHOICE:38}{VAR12:39}{VAR07:67}{CHOICE:42}{VAR12:43}{VAR07:8E}{CHOICE:4C}{VAR12:4D}
+{CHOICE:39}{VAR12:3A}{VAR07:67}{CHOICE:43}{VAR12:44}{VAR07:8E}{CHOICE:4D}{VAR12:4E}
+{VAR07:8E}{CHOICE:4E}Drop Tech
+{VAR07:8E}{CHOICE:4F}Next Page{VAR07:AC}
+
+
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:31}{VAR07:67}{CHOICE:3A}{VAR12:3B}{VAR07:8E}{CHOICE:44}{VAR12:45}
+{CHOICE:31}{VAR12:32}{VAR07:67}{CHOICE:3B}{VAR12:3C}{VAR07:8E}{CHOICE:45}{VAR12:46}
+{CHOICE:32}{VAR12:33}{VAR07:67}{CHOICE:3C}{VAR12:3D}{VAR07:8E}{CHOICE:46}{VAR12:47}
+{CHOICE:33}{VAR12:34}{VAR07:67}{CHOICE:3D}{VAR12:3E}{VAR07:8E}{CHOICE:47}{VAR12:48}
+{CHOICE:34}{VAR12:35}{VAR07:67}{CHOICE:3E}{VAR12:3F}{VAR07:8E}{CHOICE:48}{VAR12:49}
+{CHOICE:35}{VAR12:36}{VAR07:67}{CHOICE:3F}{VAR12:40}{VAR07:8E}{CHOICE:49}{VAR12:4A}
+{CHOICE:36}{VAR12:37}{VAR07:67}{CHOICE:40}{VAR12:41}{VAR07:8E}{CHOICE:4A}{VAR12:4B}
+{CHOICE:37}{VAR12:38}{VAR07:67}{CHOICE:41}{VAR12:42}{VAR07:8E}{CHOICE:4B}{VAR12:4C}
+{CHOICE:38}{VAR12:39}{VAR07:67}{CHOICE:42}{VAR12:43}{VAR07:8E}{CHOICE:4C}{VAR12:4D}
+{CHOICE:39}{VAR12:3A}{VAR07:67}{CHOICE:43}{VAR12:44}{VAR07:8E}{CHOICE:4D}{VAR12:4E}
+{VAR07:8E}{CHOICE:4E}Drop Tech
+{VAR07:8E}{CHOICE:4F}Previous Page{VAR07:AC}
+
+
+--------------------------------------------------End--
+{WINDOW}
+Not enough HP to equip.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}Set Mark{White}
+Makes players follow their
+mark in Mark Mode and learn
+their techniques.
+Players can only learn
+Techs highlighted in blue.
+--------------------------------------------------End--
+{WINDOW}
+Set Mark
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}Done
+--------------------------------------------------End--
+{WINDOW}
+
+Set Mark
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+Done
+--------------------------------------------------End--
+{WINDOW}
+Mark:
+{CHOICE:30}{VAR12:38}
+{CHOICE:31}{VAR12:39}
+{CHOICE:32}{VAR12:3A}
+{CHOICE:33}{VAR12:3B}
+{CHOICE:34}{VAR12:3C}
+{CHOICE:35}{VAR12:3D}
+{CHOICE:36}No Mark
+--------------------------------------------------End--
+{WINDOW}
+Proceed?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Knocks away up to two
+opposing players.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Invisible shot. Knocks away
+three opposing players. 
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Adds random amount to SH.
+Press {Button Circle} to select.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Control direction with left
+analog stick. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Poisons goalkeeper.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Poisons goalkeeper.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Poisons goalkeeper.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Puts goalkeeper to sleep.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Puts goalkeeper to sleep.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Puts goalkeeper to sleep.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Lowers goalie's BL and CA.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Lowers goalie's BL and CA.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Lowers goalie's BL and CA.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Poisons opponents.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Poisons opponents.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Poisons opponents.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Puts opponents to sleep.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Puts opponents to sleep.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Puts opponents to sleep.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Lowers opponents' EN, AT,
+and BL. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Lowers opponents' EN, AT,
+and BL. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  PA +{VAR12:32}
+Lowers opponents' EN, AT,
+and BL. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}
+Player can shoot free balls
+unblocked. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}
+Player can shoot free balls
+unblocked. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}
+Player can shoot free balls
+unblocked. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Inflicts poison.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Inflicts poison.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Inflicts poison.
+{VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Puts target to sleep if EN is
+reduced to 0. 100% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Puts target to sleep if EN is
+reduced to 0. 100% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Puts target to sleep if EN is
+reduced to 0. 100% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Lowers target's EN, PA,
+and SH. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Lowers target's EN, PA,
+and SH. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  AT +{VAR12:32}
+Lowers target's EN, PA,
+and SH. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Absorbed: {VAR12:31}  AT +{VAR12:32}
+Absorb HP. Own HP must be
+over {VAR12:31}. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Absorbed: {VAR12:31}  AT +{VAR12:32}
+Absorb HP. Own HP must be
+over {VAR12:31}. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Absorbed: {VAR12:31}  AT +{VAR12:32}
+Absorb HP. Own HP must be
+over {VAR12:31}. {VAR12:33}% chance.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Evade tackles. Player may be
+disoriented after evading.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Evade tackles. Player may be
+disoriented after evading.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Blocks poison.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Blocks poison.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Blocks sleep.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Blocks sleep.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Prevents stat reduction.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Prevents stat reduction.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Prevents HP drain.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Prevents HP drain.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}
+Puts spin on the ball. Harder
+for goalkeeper to control.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}
+Raises goalkeeper's ball
+control ability.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+Equip HP Cost: {VAR12:31}
+Find and intercept the ball
+carrier from farther away.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Participate in encounters
+from farther away.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+Equip HP Cost: {VAR12:31}
+Cumulate poison effects.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+Equip HP Cost: {VAR12:31}
+Cumulate the effects of
+stat-lowering techniques.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+Equip HP Cost: {VAR12:31}
+Speeds up HP recovery when
+not carrying the ball.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Powers up player after
+waking from sleep.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+Equip HP Cost: {VAR12:31}
+Lowers all stats to 1/2, but
+doubles experience points.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+Equip HP Cost: {VAR12:31}  AT +{VAR12:32}
+Slows SH and PA loss
+during passes and shots.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31} {VAR12:33}% chance
+Stats randomized after
+waking. Press {Button Circle} to select.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}+ {VAR12:33}% chance
+Adds random amount to CA.
+Press {Button Circle} to select.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow}{VAR12:30}{White}
+HP Cost: {VAR12:31}  SH +{VAR12:32}
+Sum of original {Aurochs}'s SH
+on team added to {Wakka}'s!
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{VAR12:33}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{VAR12:32}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{VAR12:31}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan}{VAR12:30}{White}
+{OCyan}{VAR12:31}{White}
+{OCyan}{VAR12:32}{White}
+{OCyan}{VAR12:33}{White}
+{OCyan}{VAR12:34}{White}
+--------------------------------------------------End--
+{WINDOW}
+
+No Mark
+--------------------------------------------------End--
+{WINDOW}
+
+PRIZES
+1st Place: {VAR12:30}
+2nd Place: {VAR12:31}
+3rd Place: {VAR12:32}
+Top Scorer: {VAR12:33}
+--------------------------------------------------End--

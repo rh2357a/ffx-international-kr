@@ -1,0 +1,112 @@
+
+Oh, what a great day!
+The breeze must feel wonderful.
+--------------------------------------------------End--
+
+Wanna man the helm?
+Yeah, right. Just kidding.
+--------------------------------------------------End--
+
+So you're with Lady {Yuna}?
+That means you're a guardian.
+{NEWPAGE}
+
+Hmm... I guess I shouldn't
+judge a book by its cover.
+--------------------------------------------------End--
+
+Maybe I'll go have chat with Lady {Yuna}, too.
+--------------------------------------------------End--
+
+There was talk about warrior monks
+coming on board to guard the ship.
+{NEWPAGE}
+
+But the captain declined the offer.
+We can take care of ourselves, he said.
+--------------------------------------------------End--
+
+If {Sin} can't sink this ship, nothing can!
+We're guaranteed a safe voyage.
+--------------------------------------------------End--
+
+There's been turmoil on shore, but it's
+got nothing to do with us out here.
+--------------------------------------------------End--
+
+Even if {Sin} appears, I'll just do
+my best to follow the captain's orders.
+--------------------------------------------------End--
+
+Even if it's against {Yevon2}'s teachings,
+I want to sail that flying ship!
+--------------------------------------------------End--
+
+I wonder who's the captain of that
+flying ship? He's probably calm and
+cool like our captain.
+--------------------------------------------------End--
+
+We'll arrive in {Kilika} before nightfall.
+Go on, take a nap or something.
+--------------------------------------------------End--
+
+The {S.S. Liki} is funded
+by {Yevon2}.
+--------------------------------------------------End--
+
+Ocean weather can be fickle, but
+I doubt we'll see any storms today.
+{NEWPAGE}
+
+Of course, there is one thing
+worse than any storm, and its
+coming cannot be foretold...
+--------------------------------------------------End--
+
+The cargo that the {Crusader}s loaded
+on board worries me. It better not
+be anything sacrilegious.
+--------------------------------------------------End--
+
+It's a miracle this ship can still sail,
+after the stomping {Sin} gave her.
+{NEWPAGE}
+
+But I fear some of my crew will
+never recover from the ordeal.
+--------------------------------------------------End--
+
+Let's hope that the great sea will
+ease the pain of a battered sailor.
+--------------------------------------------------End--
+
+The trouble in the temples has
+got me worried. {Yevon2}'s support is
+the only thing keeping this ship running.
+{NEWPAGE}
+
+These are troubled times, I tell you,
+what with {Yevon2} all shaken up.
+--------------------------------------------------End--
+
+Well, this ship's survived {Sin}!
+She'll weather this, too.
+--------------------------------------------------End--
+
+We can't rely on {Yevon2}'s support
+anymore. We plan to go on running
+the ship on our own.
+--------------------------------------------------End--
+
+We can't let a flying ship get
+away with all the glory! Our
+pride as seamen is on the line!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--

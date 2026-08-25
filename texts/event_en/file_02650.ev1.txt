@@ -1,0 +1,134 @@
+{Shelinda}
+Word has gotten around about me.
+--------------------------------------------------End--
+{Shelinda}
+Now all the {Crusader}s
+are ignoring me!
+--------------------------------------------------End--
+{Shelinda}
+Thank you so much
+for your words yesterday.
+--------------------------------------------------End--
+{Maechen}
+A safe journey to you!
+--------------------------------------------------End--
+{Maechen}
+Would you like to
+hear about the Highroad?
+--------------------------------------------------End--
+{Maechen}
+Hmm...pity.
+--------------------------------------------------End--
+{Maechen}
+We are currently travelling a part of the
+{Mi'ihen} Highroad called the Newroad.
+--------------------------------------------------End--
+{Maechen}
+Naturally, that suggests that
+there is, or was, an Oldroad.
+--------------------------------------------------End--
+{Maechen}
+The road that runs below this Newroad
+is the original {Mi'ihen} Highroad.
+--------------------------------------------------End--
+{Maechen}
+Hence, the road that Lord {Mi'ihen}
+walked is not this road, but the Oldroad.
+--------------------------------------------------End--
+{Maechen}
+The Newroad was built to
+replace the Oldroad destroyed
+by {Sin} five hundred years ago.
+--------------------------------------------------End--
+{Maechen}
+But sometimes, standing on the
+Oldroad and reminiscing about the past
+can be a pleasurable pastime.
+--------------------------------------------------End--
+
+The road's finally opened, so
+I'm planning on heading north.
+{NEWPAGE}
+
+Actually, I'm kinda scared about going.
+A lot of people died there.
+--------------------------------------------------End--
+
+I'll bet the dead soldiers became fiends,
+and are creeping around.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Not one bit.
+{CHOICE:31}Please.
+--------------------------------------------------End--
+
+There are some {Al Bhed} wandering around.
+What are they up to now?
+--------------------------------------------------End--
+
+The {Al Bhed} wouldn't be acting so big
+if the warrior monks were here.
+--------------------------------------------------End--
+
+That ship is an {Al Bhed2} machina, right?
+I can't believe the clergy's relying on it.
+--------------------------------------------------End--
+
+If the temples were to disappear,
+what would we pray to?
+--------------------------------------------------End--
+
+We live in the desert, so
+I have never seen so many flowers.
+--------------------------------------------------End--
+
+I like the flower here and the flower
+in the desert. I like them both.
+--------------------------------------------------End--
+
+My dad is riding on an {airship}.
+--------------------------------------------------End--
+
+I sang out loud so that Dad can hear me.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. IX!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}E{White} {RIGHT} {Pink}I{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

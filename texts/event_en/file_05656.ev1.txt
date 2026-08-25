@@ -1,0 +1,80 @@
+{WINDOW}
+{CHOICE:30}To train as a summoner.
+{CHOICE:31}To gain the power to destroy fiends.
+{CHOICE:32}To defeat the most powerful of enemies.
+--------------------------------------------------End--
+{WINDOW}
+Asking price
+{VAR12:30} Gil
+--------------------------------------------------End--
+
+Make your offer.
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}: Select amount
+{Button Circle}: Confirm
+--------------------------------------------------End--
+{WINDOW}
+How much will you pay?
+{CHOICE:56} Gil
+--------------------------------------------------End--
+{WINDOW}
+
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+Hire for {VAR12:31} Gil.
+{CHOICE:30}Make offer.
+{CHOICE:31}Change amount.
+--------------------------------------------------End--
+
+Do we have a deal?
+--------------------------------------------------End--
+
+You are a fading dream,
+but one touched by reality.
+--------------------------------------------------End--
+
+{Spira} will not forget its reality,
+nor the one who saved it.
+--------------------------------------------------End--
+
+Run, dream; run on.
+Pass beyond the waking,
+and walk into the daylight.
+--------------------------------------------------End--
+
+I am the blade of vengeance.
+They dare only whisper my name: 
+{Yojimbo}.
+--------------------------------------------------End--
+
+Summoner, I ask you.
+What do you want of me?
+--------------------------------------------------End--
+
+If you desire my strength,
+you must pay my price.
+--------------------------------------------------End--
+
+You expect a phoenix,
+yet you offer chicken feed!
+--------------------------------------------------End--
+
+Adequate...
+You are my client henceforth.
+--------------------------------------------------End--
+
+You alone realize my true value.
+You are a master worth serving.
+--------------------------------------------------End--
+
+My sword shall guard you
+on your journey, summoner.
+--------------------------------------------------End--
+
+No deal. Maybe next time.
+--------------------------------------------------End--

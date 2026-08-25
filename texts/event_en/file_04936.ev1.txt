@@ -1,0 +1,393 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{Shelinda}
+Oh, how fare you, Sir Guardian?
+--------------------------------------------------End--
+{Shelinda}
+It seems that Maester {Seymor}
+has returned to {Guadosalam}.
+--------------------------------------------------End--
+{Shelinda}
+The maester is also the
+high priest of {Macalania Temple}.
+--------------------------------------------------End--
+{Shelinda}
+So he administers both the
+temple and {Guado} affairs.
+--------------------------------------------------End--
+{Shelinda}
+He's young,
+but he deserves our respect.
+--------------------------------------------------End--
+{Shelinda}
+I hope to get an audience with
+Maester {Seymor}, myself.
+--------------------------------------------------End--
+{Shelinda}
+Please, tell the lady {Yuna} that
+I am doing just as she advised me!
+--------------------------------------------------End--
+{Shelinda}
+I, too, will go to the temple
+in Macalania shortly.
+--------------------------------------------------End--
+{Maechen}
+Care to hear about the
+{Farplane} or the pyreflies?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}No, thanks.
+{CHOICE:31}Tell me about the {Farplane}.
+{CHOICE:32}Tell me about the pyreflies.
+--------------------------------------------------End--
+{Maechen}
+Pity. Suit yourself.
+--------------------------------------------------End--
+{Maechen}
+Ahem!
+--------------------------------------------------End--
+{Maechen}
+The {Farplane}'s the place where
+pyreflies born from a sending gather.
+--------------------------------------------------End--
+{Maechen}
+They appear in the shape of people
+who've died and gone to the {Farplane}.
+--------------------------------------------------End--
+{Maechen}
+Quite the phenomenon;
+how I wish I understood it more fully!
+--------------------------------------------------End--
+{Maechen}
+The {Al Bhed} have
+a theory, you know.
+--------------------------------------------------End--
+{Maechen}
+They say the pyreflies are
+just reacting to visitors'
+thoughts and dreams.
+--------------------------------------------------End--
+{Maechen}
+But only the dead appear on
+the {Farplane}. No image of
+the living has ever been seen.
+--------------------------------------------------End--
+{Maechen}
+It's a great mystery!
+But maybe...
+--------------------------------------------------End--
+{Maechen}
+Maybe the dead leave a bit
+of themselves in the hearts
+of the living.
+--------------------------------------------------End--
+{Maechen}
+And that little bit borrows
+the pyreflies' power for
+their paranormal performance!
+--------------------------------------------------End--
+{Maechen}
+Or maybe not.
+Who knows?
+--------------------------------------------------End--
+{Maechen}
+And that, as they say, is that.
+--------------------------------------------------End--
+{Maechen}
+They may be called "pyreflies" but
+they aren't really "flies," you see.
+--------------------------------------------------End--
+{Maechen}
+They're those lights you
+see whenever a fiend dies.
+--------------------------------------------------End--
+{Maechen}
+The little fellows are responsible
+for a few fantastic phenomena.
+--------------------------------------------------End--
+{Maechen}
+Visions of the past, spheres, fiends--
+these are all the pyreflies' doing.
+--------------------------------------------------End--
+{Maechen}
+In fact...
+--------------------------------------------------End--
+{Maechen}
+pyreflies have something
+to do with aeons, too.
+--------------------------------------------------End--
+{Maechen}
+The dreams of the fayth reach
+through the spirit of the summoner...
+--------------------------------------------------End--
+{Maechen}
+And that which is unreal
+becomes real for all to see!
+--------------------------------------------------End--
+{Maechen}
+Can't get enough?
+Like to hear it one more time?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}No, thanks.
+{CHOICE:31}What about this {Farplane}?
+{CHOICE:32}Let's hear about these pyreflies.
+--------------------------------------------------End--
+
+Thank you so much for destroying
+that {Al Bhed} contraption.
+{NEWPAGE}
+
+Those heathens are despicable.
+I feel so relieved now.
+--------------------------------------------------End--
+
+If you see any more of those
+{Al Bhed2}, you go right
+ahead and beat them up.
+--------------------------------------------------End--
+
+Too scared of the thunder to go on?
+And you call yourself a guardian!
+--------------------------------------------------End--
+
+They say that Lord {Seymor}'s
+bride has to be a summoner.
+--------------------------------------------------End--
+
+Soon {Sin} will come for us all.
+Human, {Guado}, it makes no difference.
+{NEWPAGE}
+
+Go on and pray.
+{Yevon2} will do nothing to stop it.
+--------------------------------------------------End--
+
+I just want to stay here
+in {Guadosalam}.
+--------------------------------------------------End--
+
+We {Guado2} help the warrior monks
+patrol the roads beyond.
+{NEWPAGE}
+
+Why wouldn't we do all we can
+for the good of {Spira}?
+--------------------------------------------------End--
+
+Someday when the {Crusader}s regroup,
+we'll want them to help us, too.
+--------------------------------------------------End--
+
+There's an {Al Bhed2} shop out on
+the {Thunder Plains}. I wonder what
+they're plotting now.
+--------------------------------------------------End--
+
+If the {Al Bhed} strike, I will arm
+myself and fight alongside my brethren.
+--------------------------------------------------End--
+
+Some advice from one blitzer to another:
+Stay away from {Guadosalam}.
+--------------------------------------------------End--
+
+We {Guado} have lost our purpose.
+No one knows what chaos may ensue.
+--------------------------------------------------End--
+
+The {Guado} welcome all guests.
+Would you like to rest here?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah, thanks!
+{CHOICE:31}Maybe later.
+--------------------------------------------------End--
+
+Oh? You want to rest here?
+--------------------------------------------------End--
+
+Then let me show you
+a {Guado}'s hospitality.
+--------------------------------------------------End--
+
+Very well.
+Come back anytime.
+--------------------------------------------------End--
+
+Very well. I know about you, but
+I'd never turn away a guest.
+--------------------------------------------------End--
+
+He that is too secure is not safe...
+Oh! Never mind. I was just rambling.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

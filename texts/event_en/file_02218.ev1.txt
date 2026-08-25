@@ -1,0 +1,218 @@
+
+{WINDOW}
+{Button Circle}: Up
+--------------------------------------------------End--
+{Lucil}
+We've been expecting you.
+Please proceed to the command center.
+--------------------------------------------------End--
+{Lucil}
+The presence of a maester
+and a summoner is great
+for the troops' morale--
+--------------------------------------------------End--
+{Lucil}
+myself included. Thank you
+for being here, my lady.
+--------------------------------------------------End--
+{Lucil}
+Depending on the way things turn
+out, we might suffer casualties.
+--------------------------------------------------End--
+{Lucil}
+In such an event, we would
+be grateful if you could
+perform the sending, my lady.
+--------------------------------------------------End--
+{Lucil}
+We may have to fight here,
+as well. Stay alert.
+--------------------------------------------------End--
+{Elma}
+Lady Summoner!
+What are you doing here?
+--------------------------------------------------End--
+{Elma}
+Well, with your guardians near you
+shouldn't have anything to worry about.
+--------------------------------------------------End--
+{Elma}
+Don't say we shouldn't be
+using machina! Not now, please?
+--------------------------------------------------End--
+{Elma}
+I hope Captain {Lucil} notices
+my efforts in this mission!
+--------------------------------------------------End--
+
+There is increasing fiend activity.
+This may not be much help, but...
+--------------------------------------------------End--
+
+A summoner's entourage!
+Please accept this.
+--------------------------------------------------End--
+
+After the operation, my compadres and I
+are heading straight to {Luca}.
+{NEWPAGE}
+
+It's gonna be a blast. We've already
+reserved a place and everything.
+--------------------------------------------------End--
+
+Do you think {Yevon2} will take
+us back in if we succeed?
+--------------------------------------------------End--
+{Shelinda}
+In the end, I wasn't able
+to stop them, as you can see.
+--------------------------------------------------End--
+{Shelinda}
+But seeing their fierce determination,
+I couldn't just sit there.
+--------------------------------------------------End--
+{Shelinda}
+So I decided that I would do
+everything in my power to help them.
+--------------------------------------------------End--
+{Shelinda}
+Truly, I know nothing of
+the ways of fighting, but
+I do know some white magic.
+--------------------------------------------------End--
+{Shelinda}
+I'm hoping that will be
+of some use to them.
+--------------------------------------------------End--
+{Shelinda}
+Is there anything I can
+do to help you?
+--------------------------------------------------End--
+{Shelinda}
+Take care!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Getting Away{White}
+
+- Battle will begin if your pursuers
+  get too close.
+- Run as fast as you can to thin out
+  enemy forces.
+- The screen will flash to warn you
+  when pursuers are near:
+    Not flashing - Safe, for now.
+    {Yellow}Yellow{White} - Pursuers approaching!
+    {Red}Red{White} - Capture imminent! 
+- Even if you can't see your pursuers
+  they will catch you if they get close,
+  so stay on your guard at all times.
+--------------------------------------------------End--
+{WINDOW}
+Lost one pursuer!
+--------------------------------------------------End--
+
+{Yevon2}'s emblem bears mystic powers.
+{NEWPAGE}
+
+Step onto the platform, and you shall see.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}We're fine!
+{CHOICE:31}Please heal us.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Down
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Up
+--------------------------------------------------End--
+
+It won't open.
+--------------------------------------------------End--
+
+The {Yellow}{Celestial Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Celestial Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+The {Yellow}{Cloudy Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Cloudy Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+Not enough energy...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

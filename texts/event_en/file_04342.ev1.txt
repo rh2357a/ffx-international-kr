@@ -1,0 +1,37 @@
+
+Ahem. Sir, if you don't mind...
+--------------------------------------------------End--
+
+The wounded are fighting
+to stay in this world.
+{NEWPAGE}
+
+We have done all we can.
+They must not be disturbed.
+--------------------------------------------------End--
+
+Please go no further.
+--------------------------------------------------End--
+
+Welcome to the {Djose Temple} Inn.
+Our rooms are so quiet, you'll
+forget all about the thunder.
+--------------------------------------------------End--
+
+Would you care to rest?
+--------------------------------------------------End--
+
+This inn belongs to {Djose Temple}.
+Will you be staying with us for the night?
+--------------------------------------------------End--
+
+I'm sorry, but our beds are all taken
+by the wounded. You can stay if you
+don't mind sleeping on the floor.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Rest a bit.
+{CHOICE:31}Buy weapons.
+{CHOICE:32}Buy items.
+{CHOICE:33}Leave.
+--------------------------------------------------End--

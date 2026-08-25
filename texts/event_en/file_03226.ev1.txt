@@ -1,0 +1,178 @@
+
+Oooh, them's fascinatin'
+clothes you're wearing!
+--------------------------------------------------End--
+
+Yewh! Filthy, filthy! These won't
+sell or me name's not {O'aka}!
+--------------------------------------------------End--
+
+Don't look like you
+got much money, either.
+--------------------------------------------------End--
+
+I've no business with ye.
+Outta me way!
+--------------------------------------------------End--
+{Tidus}
+Who do you think you are?
+--------------------------------------------------End--
+
+{O'aka} XXIII, merchant extraordinaire!
+--------------------------------------------------End--
+{Tidus}
+{O'aka} the who?
+--------------------------------------------------End--
+{O'aka}
+Don't know me?
+Well, not many do, not yet.
+--------------------------------------------------End--
+{O'aka}
+But someday, the name {O'aka}
+will be spoken all over {Spira}!
+--------------------------------------------------End--
+{O'aka}
+Say, lad, you wouldn't
+have a bit o' Gil to lend?
+--------------------------------------------------End--
+{O'aka}
+I guess it pays to ask!
+Thank ye kindly, lad!
+--------------------------------------------------End--
+{O'aka}
+Fine seed money for the
+{O'aka} merchant empire!
+--------------------------------------------------End--
+{O'aka}
+Eh, it figures.
+--------------------------------------------------End--
+{O'aka}
+Have you got some to lend?
+--------------------------------------------------End--
+{O'aka}
+Much obliged, lad!
+I'll be sure to pay ye back!
+--------------------------------------------------End--
+{O'aka}
+Should've expected as much.
+--------------------------------------------------End--
+{Gatta}
+Restricted area!
+Our operation depends on this cargo!
+--------------------------------------------------End--
+{Gatta}
+Why don't you go topside?
+--------------------------------------------------End--
+{Gatta}
+The fresh sea breeze might
+help restore your memory!
+--------------------------------------------------End--
+{Luzzu}
+I'm not at liberty
+to talk about our plan.
+--------------------------------------------------End--
+{Luzzu}
+If people think you're with us,
+you'll be excommunicated, too!
+--------------------------------------------------End--
+{Luzzu}
+Some things you're
+better off not knowing.
+Take it from me.
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total loan: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}Select amount
+{Button Circle}Confirm
+--------------------------------------------------End--
+{WINDOW}
+How much do you want to lend?
+Lend {CHOICE:56} Gil to {O'aka}.
+--------------------------------------------------End--
+{O'aka}
+Hey, lad. I appreciate yer offer,
+but ye ain't got enough Gil.
+--------------------------------------------------End--
+{O'aka}
+Ye really gonna lend me {VAR12:32} Gil?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Wait a minute.
+{CHOICE:31}No sweat.
+{CHOICE:32}Cancel.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+{WINDOW}
+
+"Power Room."
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

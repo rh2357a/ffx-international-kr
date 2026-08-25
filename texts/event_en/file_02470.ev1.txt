@@ -1,0 +1,317 @@
+{Shelinda}
+Ah! There you are!
+--------------------------------------------------End--
+{Shelinda}
+So Lady {Yuna}
+is getting married.
+--------------------------------------------------End--
+{Shelinda}
+You shouldn't kid around
+about these things.
+--------------------------------------------------End--
+{Shelinda}
+Maester {Seymor}
+and Lady {Yuna}...
+--------------------------------------------------End--
+{Shelinda}
+I couldn't be happier...
+even if it was my own wedding.
+--------------------------------------------------End--
+{Shelinda}
+Now, victims of {Sin} will have
+something to be joyful about.
+--------------------------------------------------End--
+{Tidus}
+Yeah, I guess so.
+--------------------------------------------------End--
+{Shelinda}
+You're not happy?
+--------------------------------------------------End--
+{Tidus}
+Nah, it's complicated.
+--------------------------------------------------End--
+{Tidus}
+Say...
+--------------------------------------------------End--
+{Tidus}
+Do you know where {Yuna} is?
+--------------------------------------------------End--
+{Shelinda}
+I believe...
+--------------------------------------------------End--
+{Shelinda}
+she's gone to the Cloister of
+Trials with Maester {Seymor}.
+--------------------------------------------------End--
+{Tromell}
+Ah, Lady {Yuna}'s guardians!
+I haven't thanked you for
+your help earlier.
+--------------------------------------------------End--
+{Tromell}
+Thanks to you, I was able to
+bring Lady {Yuna} here safely.
+--------------------------------------------------End--
+{Tromell}
+You have my sincerest gratitude.
+--------------------------------------------------End--
+{Tromell}
+It...isn't much,
+but I want you to have this.
+--------------------------------------------------End--
+
+Lord {Jyscal}!
+--------------------------------------------------End--
+
+A sphere, in Lady
+{Yuna}'s belongings...
+--------------------------------------------------End--
+{O'aka}
+Hurray for Maester
+{Seymor}'s wedding!
+--------------------------------------------------End--
+{O'aka}
+Oh, I hear Lady {Yuna} is
+still going to continue
+her journey, ah?
+--------------------------------------------------End--
+{O'aka}
+I wonder if that means she
+and Maester {Seymor} will
+fight {Sin} together?
+--------------------------------------------------End--
+{O'aka}
+Just like Lady {Yunalesca}
+and Lord {Zaon}!
+--------------------------------------------------End--
+{Yuna}
+Please...
+--------------------------------------------------End--
+{Auron}
+Give us a chance to explain.
+--------------------------------------------------End--
+{Tromell}
+No need, I already know
+what I'll tell the other maesters.
+--------------------------------------------------End--
+{Auron}
+Meaning...?
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} was the leader
+of the {Guado} before becoming
+a maester.
+--------------------------------------------------End--
+{Tidus}
+You're not letting us go.
+--------------------------------------------------End--
+{Tromell}
+Let you go? Lord {Seymor} would
+never forgive us if we did.
+--------------------------------------------------End--
+{Rikku}
+Wait, wait!
+--------------------------------------------------End--
+{Rikku}
+{Jyscal}'s sphere!
+We can show it to them!
+--------------------------------------------------End--
+{Tromell}
+You mean this?
+--------------------------------------------------End--
+{Tromell}
+The {Guado} take care
+of {Guado} affairs.
+--------------------------------------------------End--
+{Kimahri}
+Away!
+--------------------------------------------------End--
+{Auron}
+Run!
+--------------------------------------------------End--
+{Shelinda}
+Please send my best
+regards to Lady {Yuna}.
+--------------------------------------------------End--
+{Shelinda}
+I am indebted to Lady {Yuna}.
+--------------------------------------------------End--
+{Shelinda}
+Wherever they are to hold
+the ceremonies, I'll make
+sure to be there.
+--------------------------------------------------End--
+{Shelinda}
+I will be travelling north
+to tell the people there the
+wonderful news!
+--------------------------------------------------End--
+{Shelinda}
+What has happened?
+Is there anything I can do?
+--------------------------------------------------End--
+{Tromell}
+Well... We have much to
+do before the ceremony.
+--------------------------------------------------End--
+{Tromell}
+We are all going to be very busy.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} and Lady {Yuna}'s
+marriage will help foster goodwill
+between us and humankind.
+--------------------------------------------------End--
+{Tromell}
+Lord {Jyscal}, rest his soul,
+would be pleased. I'm sure of it.
+--------------------------------------------------End--
+
+Entry is not permitted. Lady {Yuna} is
+on her way to the Cloister of Trials.
+--------------------------------------------------End--
+
+That {Ronso}, he...
+--------------------------------------------------End--
+
+{Bevelle} will hear about this!
+--------------------------------------------------End--
+
+The high priest of {Macalania Temple}
+was Maester {Seymor}.
+{NEWPAGE}
+
+A new high priest has not yet
+been appointed in his place.
+{NEWPAGE}
+
+We await further instructions
+from {St. Bevelle}.
+--------------------------------------------------End--
+
+The temple cannot operate much
+longer without a high priest.
+--------------------------------------------------End--
+
+Why would the lady
+have such a thing?
+--------------------------------------------------End--
+
+Before, both humans and {Guado}
+came to pray at the temple.
+{NEWPAGE}
+
+Now, nobody comes.
+How long before our own hearts
+grow chill and void of faith?
+--------------------------------------------------End--
+
+There are times when I think about
+quitting the clergy and going home.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+Those who once criticized the
+{Al Bhed} are now blaming the {Guado}.
+{NEWPAGE}
+
+Hmph, always blaming others for
+everything. Have they no shame?
+--------------------------------------------------End--
+
+Hmph, the {Ronso} will probably
+be singled out next. Just you watch.
+--------------------------------------------------End--
+
+We're the life of the party!
+It's our job to be happy and merry!
+Join us!
+--------------------------------------------------End--
+
+Listen to our magnificent music!
+We'll have a ball!
+--------------------------------------------------End--
+
+Let us add joy to the wedding
+by contributing our song!
+--------------------------------------------------End--
+
+Forget about {Sin}'s terror
+for a moment and listen to
+this exquisite piece.
+--------------------------------------------------End--
+
+Hey, this place is just like mine!
+It's damp and cold and makes me
+sleepy.
+--------------------------------------------------End--
+
+We'd better start the wedding
+before I get too sleepy.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

@@ -1,0 +1,256 @@
+
+I made a Movie Sphere of all
+of us singing.
+--------------------------------------------------End--
+
+Whenever I come to Luca, I always buy
+a sphere to take back to my family.
+--------------------------------------------------End--
+
+Can I interest you in one of our
+limited edition {Blue}Music Spheres{White}?
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Yeah, definitely!
+    {CHOICE:31}What's a Music Sphere?
+    {CHOICE:32}No, thanks.
+--------------------------------------------------End--
+
+Please come again.
+--------------------------------------------------End--
+
+Just as the name implies, it is a
+sphere that plays music, performed
+by the Yevon Musical Troupe.
+--------------------------------------------------End--
+
+Each sphere contains one song.
+--------------------------------------------------End--
+
+You will also need to use the audiovisual
+{Blue}control panel{White} found in the main hall.
+--------------------------------------------------End--
+
+So, would you like to purchase
+a memento of your travels?
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Yeah, definitely!
+    {CHOICE:31}No, thanks.
+--------------------------------------------------End--
+
+You already have the entire collection of songs.
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Currently owned: {VAR12:31}/{VAR12:32}
+--------------------------------------------------End--
+
+We have a special Music Sphere offer
+available exclusively to those who
+have purchased the entire collection.
+--------------------------------------------------End--
+
+Since this is a special offer,
+it is only available as a set.
+Would you like to purchase it?
+--------------------------------------------------End--
+
+{Yellow}Special Music Sphere Set: 40,000 Gil{White}
+
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Of course!
+    {CHOICE:31}No, thanks.
+--------------------------------------------------End--
+
+I'm awfully sorry.
+Only one per customer, please.
+--------------------------------------------------End--
+{WINDOW}
+Currently available: {VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+
+Music Sphere: {Blue}{VAR12:37}{White} x 2,000 Gil
+       {Yellow}Total{White}: {VAR12:38} Gil
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Specify number.
+    {CHOICE:31}Record all.
+    {CHOICE:32}Quit.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}: Select
+{Button Circle}: Confirm
+--------------------------------------------------End--
+{WINDOW}
+Music Sphere: {CHOICE:51}
+{Yellow}Enter 00 to cancel
+--------------------------------------------------End--
+{WINDOW}
+Sorry, I don't have that many in stock.
+--------------------------------------------------End--
+
+You don't have enough Gil, sir.
+--------------------------------------------------End--
+
+Are you sure?
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Positive!
+    {CHOICE:31}On second thought...
+    {CHOICE:32}Maybe next time.
+--------------------------------------------------End--
+{WINDOW}
+Thank you!
+--------------------------------------------------End--
+{WINDOW}
+
+Music Sphere: {Yellow}1{White}
+is now available for your listening pleasure!
+--------------------------------------------------End--
+{WINDOW}
+
+Music Sphere: {Yellow}1 - {VAR12:31}{White}
+are now available for your listening pleasure!
+--------------------------------------------------End--
+
+Would you like to preserve memories of
+your travels on a {Blue}Movie Sphere{White}?
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Sure.
+    {CHOICE:31}What's a Movie Sphere?
+    {CHOICE:32}No, thanks.
+--------------------------------------------------End--
+
+Excellent. Please close
+your eyes and concentrate.
+--------------------------------------------------End--
+
+No more images are
+available for recording.
+--------------------------------------------------End--
+
+There are currently no images
+available for recording.
+--------------------------------------------------End--
+
+Let's see how many images you can
+currently record onto Movie Spheres.
+Ahh... Looks like {Yellow}{VAR12:36}{White}.
+--------------------------------------------------End--
+{WINDOW}
+Currently owned: {VAR12:33}/{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+Currently available: {VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+
+Movie Sphere: {Blue}{VAR12:37}{White} x 5,000 Gil
+       {Yellow}Total{White}: {VAR12:38} Gil
+--------------------------------------------------End--
+{WINDOW}
+Movie Sphere: {CHOICE:51}
+{Yellow}Enter 00 to cancel
+--------------------------------------------------End--
+{WINDOW}
+Recorded successfully.
+--------------------------------------------------End--
+{WINDOW}
+
+Movie Sphere: {Yellow}1{White}
+is now available for your viewing pleasure!
+--------------------------------------------------End--
+{WINDOW}
+
+Movie Sphere: {Yellow}1 - {VAR12:33}{White}
+are now available for your viewing pleasure!
+--------------------------------------------------End--
+
+It is a sphere that can record images
+from the past that stand out in your mind.
+--------------------------------------------------End--
+
+The images are saved onto a {Blue}Movie Sphere{White}.
+--------------------------------------------------End--
+
+It follows the same basic principles
+as sphere cameras, or monitors:
+--------------------------------------------------End--
+
+it captures the moment, so to speak.
+--------------------------------------------------End--
+
+However, the {Blue}Movie Sphere{White} differs mainly
+in that it records images from the past
+rather than the present.
+--------------------------------------------------End--
+{WINDOW}
+    {CHOICE:30}Sure.
+    {CHOICE:31}No, thanks.
+--------------------------------------------------End--
+
+Welcome to the Sphere Theater.
+Would you like to go to the {Blue}main hall{White}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Initialize Theater Parameter
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Initialize Theater Parameter
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. VII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}K{White} {RIGHT} {Pink}G{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

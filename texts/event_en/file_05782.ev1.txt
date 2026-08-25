@@ -1,0 +1,266 @@
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--
+{WINDOW}
+This item opens ancient seals
+hidden throughout {Spira}.
+It seems to have lost its power, but
+there might be a way to restore it.
+--------------------------------------------------End--
+{WINDOW}
+
+Chocobos come to this forgotten temple
+to test each other's speed and skill.
+{NEWPAGE}
+
+You, who are listening to this, you
+have been accepted as a true rider.
+{NEWPAGE}
+
+
+It is chocobo custom that one
+must have a rider to challenge the
+{NEWPAGE}
+
+champion chocobo that stands
+near this sphere.
+--------------------------------------------------End--
+{WINDOW}
+
+Mount the bridled chocobo waiting on
+the opposite side of the temple.
+{NEWPAGE}
+
+Once you are astride the challenger,
+the race will begin!
+--------------------------------------------------End--
+{WINDOW}
+
+A bridled chocobo is waiting for you
+on the other side of the temple.
+{NEWPAGE}
+
+Ride it in a race, a test of skill,
+against the champion chocobo.
+{NEWPAGE}
+
+Once you are astride the challenger,
+the race will begin!
+--------------------------------------------------End--
+{WINDOW}
+
+It seems to be telling you to ride it.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}The Chocobo Race{White}
+- Take shortcuts by opening the chests
+  scattered throughout the course.
+- If you finish the race ahead of the
+  champion chocobo, you get a prize.
+- Hitting poles on the race course
+  lowers your prize rank.
+- Opening chests also raises your prize
+  rank, so open as many as you can!
+--------------------------------------------------End--
+{WINDOW}
+GO!
+--------------------------------------------------End--
+{WINDOW}
+{Red}YOU LOSE{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}YOU WIN!{White}
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 0!
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 1
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 2
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 3
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 4
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 5
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 6
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 7
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 8
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 9
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 10
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 11
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 12
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 13
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 14
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 15
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 16
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 17
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 18
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 19
+--------------------------------------------------End--
+{WINDOW}
+Poles hit: 20
+--------------------------------------------------End--
+{WINDOW}
+No chests opened
+--------------------------------------------------End--
+{WINDOW}
+1 chest opened
+--------------------------------------------------End--
+{WINDOW}
+2 chests opened
+--------------------------------------------------End--
+{WINDOW}
+3 chests opened
+--------------------------------------------------End--
+{WINDOW}
+4 chests opened!
+--------------------------------------------------End--
+{WINDOW}
+5 chests opened!
+--------------------------------------------------End--
+{WINDOW}
+6 chests opened!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Ride!
+{CHOICE:31}Don't ride.
+{CHOICE:32}How do I race?
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXIV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}Q{White} {RIGHT} {Pink}X{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

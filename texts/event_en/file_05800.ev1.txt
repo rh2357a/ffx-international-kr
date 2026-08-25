@@ -1,0 +1,285 @@
+{WINDOW}
+{Auron}
+{Yuna}!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+(Thank you.)
+--------------------------------------------------End--
+Driver
+Shoopuf launchin'!
+--------------------------------------------------End--
+{Wakka}
+Hey.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+Take a look.
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+{Tidus}
+Whoa!
+--------------------------------------------------End--
+{Tidus}
+A sunken city!
+--------------------------------------------------End--
+{Wakka}
+A machina city--
+a thousand years old!
+--------------------------------------------------End--
+{Wakka}
+They built the city on top
+of bridges across the river.
+--------------------------------------------------End--
+{Lulu}
+But the weight of the city
+caused the bridges to collapse,
+and it all sank to the bottom.
+--------------------------------------------------End--
+{Wakka}
+Right. It's a good lesson.
+--------------------------------------------------End--
+{Tidus}
+A lesson?
+--------------------------------------------------End--
+{Wakka}
+Yeah.
+--------------------------------------------------End--
+{Wakka}
+Why build a city over a river, ya?
+--------------------------------------------------End--
+{Tidus}
+Uh... Well, it would be convenient,
+with all that water there.
+--------------------------------------------------End--
+{Wakka}
+Nope, that's not why.
+--------------------------------------------------End--
+{Wakka}
+They just wanted to prove they
+could defy the laws of nature!
+--------------------------------------------------End--
+{Tidus}
+Hmmm?
+I'm not so sure about that.
+--------------------------------------------------End--
+{Wakka}
+{Yevon2} has taught us:
+--------------------------------------------------End--
+{Wakka}
+When humans have power,
+they seek to use it.
+--------------------------------------------------End--
+{Wakka}
+If you don't stop them,
+they go too far, ya?
+--------------------------------------------------End--
+{Tidus}
+Yeah, but don't you
+use machina, too?
+--------------------------------------------------End--
+{Tidus}
+Like the stadium and stuff, right?
+--------------------------------------------------End--
+{Lulu}
+Yevon, it decides...
+--------------------------------------------------End--
+{Lulu}
+which machina we may use,
+and which we may not.
+--------------------------------------------------End--
+{Tidus}
+So what kind of machina
+may we not use, then?
+--------------------------------------------------End--
+{Wakka}
+Remember {Operation Mi'ihen}?
+That kind.
+--------------------------------------------------End--
+{Lulu}
+Or war will rage again.
+--------------------------------------------------End--
+{Tidus}
+War?
+--------------------------------------------------End--
+{Yuna}
+More than a thousand years ago...
+--------------------------------------------------End--
+{Yuna}
+Mankind waged war using
+machina to kill!
+--------------------------------------------------End--
+{Wakka}
+They kept building more and
+more powerful machina.
+--------------------------------------------------End--
+{Lulu}
+They made weapons so powerful...
+--------------------------------------------------End--
+{Lulu}
+It was thought they could
+destroy the entire world.
+--------------------------------------------------End--
+{Yuna}
+The people feared that
+{Spira} would be destroyed.
+--------------------------------------------------End--
+{Wakka}
+But the war did not stop!
+--------------------------------------------------End--
+{Tidus}
+Wh-What happened then?
+--------------------------------------------------End--
+{Yuna}
+{Sin} came, and it destroyed
+the cities and their machina.
+--------------------------------------------------End--
+{Lulu}
+The war ended...
+--------------------------------------------------End--
+{Lulu}
+and our reward...
+was {Sin}.
+--------------------------------------------------End--
+{Wakka}
+So, {Sin}'s our punishment for
+lettin' things get out of hand, eh?
+--------------------------------------------------End--
+{Tidus}
+Man, that's rough.
+--------------------------------------------------End--
+{Wakka}
+Yeah, it is.
+--------------------------------------------------End--
+{Tidus}
+But, it's not like the
+machina are bad.
+--------------------------------------------------End--
+{Lulu}
+Only as bad as their users.
+--------------------------------------------------End--
+{Wakka}
+It's because of people like the
+{Al Bhed} screwin' everything up!
+--------------------------------------------------End--
+Driver
+Whatsh could thatsh be?
+--------------------------------------------------End--
+{Auron}
+Sit down!
+--------------------------------------------------End--
+{Yuna}
+S-Sorry!
+--------------------------------------------------End--
+{Wakka}
+The {Al Bhed}!
+--------------------------------------------------End--
+{Lulu}
+Are you hurt?
+--------------------------------------------------End--
+{Yuna}
+No, I'm fine.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka}
+Grrah! Those {Al Bhed}!
+--------------------------------------------------End--
+Driver
+Ish ebullibody okay?
+--------------------------------------------------End--
+{Yuna}
+I'm sorry! We're all okay now!
+--------------------------------------------------End--
+Driver
+Shoopuf full shpeed aheads!
+--------------------------------------------------End--
+{Wakka}
+Damn the {Al Bhed}!
+--------------------------------------------------End--
+{Wakka}
+What do they want from us?
+--------------------------------------------------End--
+{Wakka}
+Could it have something
+to do with Luca?
+--------------------------------------------------End--
+{Wakka}
+What are they after {Yuna} for?
+--------------------------------------------------End--
+{Wakka}
+Wait!
+They're mad they lost the tournament!
+--------------------------------------------------End--
+{Wakka}
+Or, wait!
+They're mad about {Operation Mi'ihen}!
+--------------------------------------------------End--
+{Lulu}
+I wonder...
+--------------------------------------------------End--
+{Lulu}
+Didn't {Kimahri}'s
+clansman say something...
+--------------------------------------------------End--
+{Lulu}
+about summoners...disappearing?
+--------------------------------------------------End--
+{Wakka}
+Ah!
+So the {Al Bhed} are behind that!
+--------------------------------------------------End--
+{Wakka}
+Those sand-blasted grease monkeys!
+--------------------------------------------------End--
+{Tidus}
+Hey, {Wakka}.
+--------------------------------------------------End--
+{Tidus}
+It's no use complaining
+about the {Al Bhed} now, right?
+--------------------------------------------------End--
+{Tidus}
+We'll protect {Yuna}
+from anyone, anywhere.
+--------------------------------------------------End--
+{Tidus}
+It's that easy.
+That's all I need to know!
+--------------------------------------------------End--
+{Wakka}
+Well...
+--------------------------------------------------End--
+{Wakka}
+I guess so.
+--------------------------------------------------End--
+{Lulu}
+You're right.
+--------------------------------------------------End--
+{WINDOW}
+
+            Temple of Yevon-Djose
+
+
+
+
+
+Luca
+           Kilika Port
+
+
+      Besaid
+--------------------------------------------------End--
+{AREA}
+Moonflow - South Bank
+--------------------------------------------------End--
+{AREA}
+Moonflow - North Bank
+--------------------------------------------------End--

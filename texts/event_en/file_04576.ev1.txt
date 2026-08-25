@@ -1,0 +1,1775 @@
+
+This gorge is called the Scar.
+--------------------------------------------------End--
+
+They say that when the high summoner
+cornered {Sin}, Sin tore the earth here
+asunder with the last of its strength.
+--------------------------------------------------End--
+
+The high summoner and {Sin} struck each
+other down at the gorge's bottom. Lord
+Gandof's sacrifice brought us the Calm.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Select Training Course{White}
+{CHOICE:30}Wobbly chocobo
+{CHOICE:31}Dodger chocobo
+{CHOICE:32}Hyper dodger chocobo
+{CHOICE:33}Catcher chocobo
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Select Training Course{White}
+{CHOICE:30}Wobbly chocobo
+{CHOICE:31}Dodger chocobo
+{CHOICE:32}Hyper dodger chocobo
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Select Training Course{White}
+{CHOICE:30}Wobbly chocobo
+{CHOICE:31}Dodger chocobo
+--------------------------------------------------End--
+
+It's simple.
+{NEWPAGE}
+
+Just get from where you are
+to where I am before time
+runs out.
+--------------------------------------------------End--
+
+Since you're riding a wild
+chocobo, it'll just run
+whichever way it feels like.
+{NEWPAGE}
+
+Press {Direcional Left} and {Direcional Right} to steer it
+between my chocobo and me.
+--------------------------------------------------End--
+
+Keep an eye on the clock and
+try not to miss the finish line.
+{NEWPAGE}
+
+Don't hesitate to ask me about the
+{Yellow}controls{White} if you need help, okay?
+--------------------------------------------------End--
+
+Let's begin, shall we?
+We'll shoot for {VAR12:35}:{VAR12:34}.{VAR12:33}.
+--------------------------------------------------End--
+
+Let's begin, shall we?
+Your record is {VAR12:35}:{VAR12:34}.{VAR12:33}!
+--------------------------------------------------End--
+
+Everything will be pretty much the same
+as the first exercise, except that your
+chocobo will run straight now.
+--------------------------------------------------End--
+
+But watch out for incoming balls!
+Dodge them with {Direcional Left} and {Direcional Right}.
+{NEWPAGE}
+
+Your chocobo will be stunned if he's
+hit, so do your best to avoid them!
+--------------------------------------------------End--
+
+Also, don't hesitate to ask me
+about the {Yellow}controls{White}, okay?
+--------------------------------------------------End--
+
+Let's begin, shall we?
+We'll shoot for {VAR12:35}:{VAR12:34}.{VAR12:33}.
+--------------------------------------------------End--
+
+Let's begin, shall we?
+Your record is {VAR12:35}:{VAR12:34}.{VAR12:33}!
+--------------------------------------------------End--
+
+Balls and things come flying,
+so dodge them with {Direcional Left} and {Direcional Right}.
+{NEWPAGE}
+
+Your chocobo will be stunned if he's
+hit, so do your best to avoid them!
+--------------------------------------------------End--
+
+Let's begin, shall we?
+We'll shoot for {VAR12:35}:{VAR12:34}.{VAR12:33}.
+--------------------------------------------------End--
+
+Let's begin, shall we?
+Your record is {VAR12:35}:{VAR12:34}.{VAR12:33}!
+--------------------------------------------------End--
+
+We're near the {Calm Lands} exit to
+{Macalania Woods}.
+{NEWPAGE}
+
+This is the starting line.
+--------------------------------------------------End--
+
+And the finish line is the far
+right edge of the plain over there.
+{NEWPAGE}
+
+Yes, over there.
+--------------------------------------------------End--
+
+Basically, if you get there
+before I do, you win.
+{NEWPAGE}
+
+But that's not all.
+--------------------------------------------------End--
+
+Each balloon you pick up
+along the way shaves three
+seconds off your final time.
+{NEWPAGE}
+
+But each bird that hits you
+adds three seconds to your
+final time.
+--------------------------------------------------End--
+
+We take the total time, subtract
+bonuses, and add penalties to decide
+the outcome of the race.
+{NEWPAGE}
+
+So even if I reach the finish
+line first, you can still win
+if you catch enough balloons.
+--------------------------------------------------End--
+
+That's all for now.
+Let's race, shall we?
+{NEWPAGE}
+
+We'll shoot for {VAR12:35}:{VAR12:34}.{VAR12:33}.
+--------------------------------------------------End--
+
+I guess I'm the challenger.
+Enjoy it while you can!
+{NEWPAGE}
+
+By the way, your best time
+so far is {VAR12:35}:{VAR12:34}.{VAR12:33}.
+--------------------------------------------------End--
+
+Come challenge me
+again sometime.
+{NEWPAGE}
+
+I'll keep a record of
+your best time.
+{NEWPAGE}
+
+And, your best is currently
+{VAR12:35}:{VAR12:34}.{VAR12:33}!
+--------------------------------------------------End--
+
+Ready?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}As ready as ever.
+{CHOICE:31}Get me off this bird!
+{CHOICE:32}Show me the controls.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}As ready as ever.
+{CHOICE:31}I want off!
+{CHOICE:32}Show me the controls.
+{CHOICE:33}Let me see the course.
+--------------------------------------------------End--
+
+You really want to quit?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Keep going.
+{CHOICE:31}Really quit.
+--------------------------------------------------End--
+
+Hey!
+Make up your mind!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Controls{White}
+- The chocobo runs automatically.
+- It runs zigzag, so try to keep it
+  on course with {Direcional Left} and {Direcional Right}.
+- It avoids going completely out of bounds.
+{NEWPAGE}
+{Yellow}Changing Camera Position{White}
+Press {Button R1} and {Button R2} to change views.
+{Button R1} cycles through:
+1. Default View
+2. Rider's View
+3. Overhead View
+
+{Button R2} cycles through them in reverse.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Controls{White}
+- The chocobo runs automatically.
+- It runs in a straight line,
+  and avoids going out of bounds.
+- Balls come flying toward you,
+  so dodge them with {Direcional Left} and {Direcional Right}.
+{NEWPAGE}
+{Yellow}Changing Camera Position{White}
+Press {Button R1} and {Button R2} to change views.
+{Button R1} cycles through:
+1. Default View
+2. Rider's View
+3. Overhead View
+
+{Button R2} cycles through them in reverse.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Controls{White}
+- The chocobo runs automatically.
+- It runs in a straight line,
+  and avoids going out of bounds.
+- Dodge incoming objects
+  with {Direcional Left} and {Direcional Right}.
+{NEWPAGE}
+{Yellow}Changing Camera Position{White}
+Press {Button R1} and {Button R2} to change views.
+{Button R1} cycles through:
+1. Default View
+2. Rider's View
+3. Overhead View
+
+{Button R2} cycles through them in reverse.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Controls{White}
+- The chocobo runs automatically.
+- It runs in a straight line,
+  and avoids going out of bounds.
+- Use {Direcional Left} and {Direcional Right} to steer.
+- Each bird inflicts a 3-second {Red}penalty{White}.
+- Each balloon grants a 3-second {Blue}bonus{White}.
+- Bonuses and penalties are tallied
+  after reaching the finish line.
+- You cannot change camera views.
+- The time limit is 2 minutes.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Exit
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}Target time: {VAR12:35}:{VAR12:34}.{VAR12:33}{White}
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}Best time: {VAR12:35}:{VAR12:34}.{VAR12:33}{White}
+--------------------------------------------------End--
+{WINDOW}
+3
+--------------------------------------------------End--
+{WINDOW}
+2
+--------------------------------------------------End--
+{WINDOW}
+1
+--------------------------------------------------End--
+{WINDOW}
+
+GO!
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}Finish!
+--------------------------------------------------End--
+
+All right!
+You crossed the finish line!
+{NEWPAGE}
+
+I clocked you at {Blue}{VAR12:32}:{VAR12:31}.{VAR12:30}{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}{Tidus}
+--------------------------------------------------End--
+
+{WINDOW}
+{Red}Trainer
+--------------------------------------------------End--
+
+{WINDOW}
+{Red}Time: {VAR12:38}:{VAR12:37}.{VAR12:36}{White}
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Balloons: {VAR07:EA}{VAR12:39}
+Birds: {VAR07:EA}{VAR12:3A}
+--------------------------------------------------End--
+
+{WINDOW}
+{Red}Balloons: {VAR07:EA}{VAR12:3B}
+Birds: {VAR07:EA}{VAR12:3C}
+--------------------------------------------------End--
+
+After tallying all the birds and
+balloons, our total times are...
+--------------------------------------------------End--
+
+You've trained a chocobo!
+Good job!
+{NEWPAGE}
+
+From now on, you can go chocobo
+riding whenever you please.
+Just ask me and he's yours.
+{NEWPAGE}
+
+By the way, your chocobo is ready
+for some advanced training now.
+--------------------------------------------------End--
+
+Good job!
+You trained your chocobo well.
+{NEWPAGE}
+
+He's ready for even more
+advanced training exercises now.
+--------------------------------------------------End--
+
+Here's your prize!
+{NEWPAGE}
+
+Whenever you tie or break
+your record, you'll get
+a prize like this.
+--------------------------------------------------End--
+
+You did it! Looks like dodging
+is a snap for you now.
+{NEWPAGE}
+
+I think you're ready for
+the final exercise.
+--------------------------------------------------End--
+
+Here's your prize!
+{NEWPAGE}
+
+Whenever you tie or break
+your record, you'll get
+a prize like this.
+--------------------------------------------------End--
+
+I'm so happy someone finally
+finished all the exercises!
+--------------------------------------------------End--
+
+You've completed all the training
+exercises, but there's one last
+favor I want to ask...
+{NEWPAGE}
+
+Race me!
+--------------------------------------------------End--
+
+Challenge me anytime.
+I love a good race.
+--------------------------------------------------End--
+
+Ah, I almost forgot!
+Here's your prize!
+{NEWPAGE}
+
+Whenever you tie or break
+your record, you'll get
+a prize like this.
+--------------------------------------------------End--
+
+Wow, you won.
+Congratulations!
+--------------------------------------------------End--
+
+I knew you were good,
+but not this good!
+{NEWPAGE}
+
+I'll have to train harder
+to match you.
+--------------------------------------------------End--
+
+Feel free to stop by
+for training anytime.
+--------------------------------------------------End--
+
+Here's your prize for
+beating me. You earned it.
+{NEWPAGE}
+
+Whenever you tie or break
+your own record, you'll get
+a prize like this.
+--------------------------------------------------End--
+
+Wow! That's a new personal best!
+{NEWPAGE}
+
+Congratulations!
+I'll jot it down in my book.
+--------------------------------------------------End--
+
+I may have won, but that
+was your best run yet.
+{NEWPAGE}
+
+I'll write it down for you.
+Maybe you can beat me next time.
+--------------------------------------------------End--
+
+Here's your prize!
+--------------------------------------------------End--
+
+Unbelievable!
+That was a perfect run!
+--------------------------------------------------End--
+
+Wait!
+I have something special for you.
+{NEWPAGE}
+
+I never thought I'd see the day
+that someone would actually
+achieve a perfect time!
+{NEWPAGE}
+
+Here you go. I don't know
+what it's for, but I've
+heard it's priceless.
+--------------------------------------------------End--
+
+Hmm... I think your chocobo
+could use some more training.
+--------------------------------------------------End--
+
+Nice try, but I won.
+Better luck next time!
+{NEWPAGE}
+
+Feel free to train as
+much as you want.
+--------------------------------------------------End--
+
+Don't give up.
+Someday you'll hold the record!
+--------------------------------------------------End--
+
+Don't give up.
+Someday you'll hold the record!
+{NEWPAGE}
+
+Wait, you do hold the record.
+Oh, well.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}Miss!
+--------------------------------------------------End--
+
+Hey, you've got to pass
+between me and my chocobo!
+--------------------------------------------------End--
+
+{WINDOW}
+Once more?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}One more time!
+{CHOICE:31}I quit.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}One more time!
+{CHOICE:31}I quit.
+{CHOICE:32}Let's do something else.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}Hit!
+--------------------------------------------------End--
+
+{Red}Time's Up!{White}
+--------------------------------------------------End--
+
+Whoops, I ran out of time.
+Here, this is for you.
+--------------------------------------------------End--
+
+Always keep an eye on the clock!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}{Tidus} is hit!
+--------------------------------------------------End--
+
+{WINDOW}
+{Red}Trainer is hit!
+--------------------------------------------------End--
+{Lulu}
+The {Calm Lands}.
+--------------------------------------------------End--
+{Lulu}
+Long ago, the high summoners
+fought {Sin} here.
+--------------------------------------------------End--
+{Lulu}
+The road ends here.
+--------------------------------------------------End--
+{Lulu}
+Beyond, there're no towns,
+no villages. Only endless plains. 
+--------------------------------------------------End--
+{Auron}
+Many summoners stray from
+their path and lose their way here.
+--------------------------------------------------End--
+{Yuna}
+I've always known where to go.
+--------------------------------------------------End--
+{Tidus}
+I...
+--------------------------------------------------End--
+{Tidus}
+I won't let you die.
+I'll find a way, somehow.
+--------------------------------------------------End--
+{Yuna}
+Let's go.
+--------------------------------------------------End--
+
+I told {Yuna} I would find a way.
+--------------------------------------------------End--
+
+I guess I wanted to believe that
+words could make it come true.
+--------------------------------------------------End--
+{Lulu}
+Father {Zuke}!
+--------------------------------------------------End--
+{Zuke}
+Long time no see.
+--------------------------------------------------End--
+{Zuke}
+You are {Yuna}?
+--------------------------------------------------End--
+{Zuke}
+Hmm...
+--------------------------------------------------End--
+{Zuke}
+You certainly don't look
+like {Maester Kinoc}'s murderer.
+--------------------------------------------------End--
+{Wakka}
+What'd you say?
+--------------------------------------------------End--
+{Yuna}
+Please, tell us what has happened!
+--------------------------------------------------End--
+{Zuke}
+{Maester Mika} just issued
+a personal order, you know.
+--------------------------------------------------End--
+{Zuke}
+It said that you and your guardians
+murdered {Maester Kinoc} and fled.
+--------------------------------------------------End--
+{Zuke}
+We are to kill you on sight,
+or so it says.
+--------------------------------------------------End--
+{Auron}
+What of {Bevelle}?
+--------------------------------------------------End--
+{Zuke}
+Things are calm on the surface,
+but the depths are turbulent.
+--------------------------------------------------End--
+{Zuke}
+After the death of {Maester Kinoc},
+{Kelk} {Ronso} left {Yevon2}.
+--------------------------------------------------End--
+{Auron}
+Convenient.
+--------------------------------------------------End--
+{Auron}
+Getting around will be easier
+with {Yevon2} in disarray.
+--------------------------------------------------End--
+{Zuke}
+But be careful, my friends.
+You have been branded enemies of {Yevon2}.
+--------------------------------------------------End--
+{Zuke}
+You should avoid temples
+for the time being.
+--------------------------------------------------End--
+{Yuna}
+Thank you, Father {Zuke},
+for your warning.
+--------------------------------------------------End--
+{Lulu}
+Father, you came all the
+way here just to tell us this?
+--------------------------------------------------End--
+{Zuke}
+To tell the truth,
+I was a little curious to see...
+--------------------------------------------------End--
+{Zuke}
+this summoner you are guarding.
+--------------------------------------------------End--
+{Zuke}
+I hope her pilgrimage goes well.
+--------------------------------------------------End--
+{Zuke}
+For your sake, too.
+--------------------------------------------------End--
+{Lulu}
+Thank you, Father.
+--------------------------------------------------End--
+{Zuke}
+I must be off.
+I shall pray for all of you.
+--------------------------------------------------End--
+{Tidus}
+Who was that?
+--------------------------------------------------End--
+{Lulu}
+Until half a year ago,
+he was a summoner.
+{Wakka} and I were his guardians.
+--------------------------------------------------End--
+{Wakka}
+It was kind of a short pilgrimage.
+--------------------------------------------------End--
+{Lulu}
+He gave up halfway.
+Here, on this plain.
+--------------------------------------------------End--
+{Lulu}
+Now, he is a monk
+at the {Bevelle} temple.
+--------------------------------------------------End--
+{Lulu}
+This is my third
+pilgrimage as a guardian.
+--------------------------------------------------End--
+{Lulu}
+Father {Zuke} was my second.
+And my first, well...
+--------------------------------------------------End--
+{Lulu}
+It ended here, too.
+--------------------------------------------------End--
+{Lulu}
+I've never been to the lands beyond.
+--------------------------------------------------End--
+{Lulu}
+{Blue}{Mt. Gagazet}{White} towers to the north,
+and {Blue}{Zanarkand}{White} lies beyond that.
+--------------------------------------------------End--
+{Wakka}
+When I was guarding {Zuke}...
+--------------------------------------------------End--
+{Wakka}
+I already told you this, ya?
+--------------------------------------------------End--
+{Wakka}
+'Bout when I was too into the
+game to be a good guardian?
+--------------------------------------------------End--
+{Wakka}
+So when Father {Zuke}
+said he wanted out...
+--------------------------------------------------End--
+{Wakka}
+Tell you the truth, I was kinda glad.
+--------------------------------------------------End--
+{Wakka}
+{Blue}{Zanarkand}{White}'s right around the corner.
+So close already.
+--------------------------------------------------End--
+{Auron}
+Messy.
+--------------------------------------------------End--
+{Tidus}
+What is?
+--------------------------------------------------End--
+{Auron}
+{Yevon2}.
+{Mika} and {Seymor} are not of one mind.
+--------------------------------------------------End--
+{Auron}
+Remember what {Seymor}
+said last we met.
+--------------------------------------------------End--
+{Auron}
+I do not think {Mika} will concur.
+--------------------------------------------------End--
+{Auron}
+If {Yevon2} founders,
+so will {Spira}.
+--------------------------------------------------End--
+{Rikku}
+She's not stopping, is she?
+--------------------------------------------------End--
+{Tidus}
+{Yuna}...she's made her decision.
+--------------------------------------------------End--
+{Rikku}
+But, I can't just let her go.
+--------------------------------------------------End--
+{Tidus}
+We won't have to.
+--------------------------------------------------End--
+{Tidus}
+We'll save {Yuna} even
+if she calls the Final Aeon.
+--------------------------------------------------End--
+{Rikku}
+But how?
+--------------------------------------------------End--
+{Tidus}
+I'll think of a way.
+--------------------------------------------------End--
+{Rikku}
+But what if you can't?
+--------------------------------------------------End--
+{Tidus}
+I'm tired of talking to you.
+--------------------------------------------------End--
+{Tidus}
+It's always "but" this, "but" that.
+--------------------------------------------------End--
+{Rikku}
+But...
+--------------------------------------------------End--
+{Tidus}
+Let's think together!
+--------------------------------------------------End--
+{Rikku}
+Okay.
+--------------------------------------------------End--
+{Tidus}
+And, if we can't think of something...
+--------------------------------------------------End--
+{Tidus}
+we find another way!
+--------------------------------------------------End--
+{Rikku}
+Okay!
+--------------------------------------------------End--
+{Rikku}
+Ugh... This is a toughie.
+--------------------------------------------------End--
+{Kimahri}
+{Gagazet} is {Ronso} land.
+{Kimahri} home.
+--------------------------------------------------End--
+{Tidus}
+Hey! We might meet your family.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} has no family.
+--------------------------------------------------End--
+{Tidus}
+Oh, sorry.
+--------------------------------------------------End--
+{Kimahri}
+But {Kimahri} not alone.
+--------------------------------------------------End--
+{Kimahri}
+Sacred mountain Gagazet.
+Not change for one thousand years.
+--------------------------------------------------End--
+{Yuna}
+So, we are officially traitors, then.
+--------------------------------------------------End--
+{Tidus}
+Hey, let them say what they want.
+--------------------------------------------------End--
+{Yuna}
+It's okay, I'm not worried.
+--------------------------------------------------End--
+{Yuna}
+Well, maybe just a little.
+It's so hard not to be.
+--------------------------------------------------End--
+{Tidus}
+Hey, it's okay to worry. And
+if it gets too rough, just yell!
+--------------------------------------------------End--
+{Yuna}
+Yell? Hmm...
+--------------------------------------------------End--
+{Yuna}
+Okay, I might just do that.
+--------------------------------------------------End--
+{Tidus}
+Yeah!
+--------------------------------------------------End--
+{Yuna}
+I wonder if my father
+got lost here, too?
+--------------------------------------------------End--
+{Tidus}
+Maybe, with my old man helping him!
+--------------------------------------------------End--
+{Yuna}
+Maybe I'll ask Sir {Auron}.
+--------------------------------------------------End--
+{Tidus}
+{Auron}?
+That grouch never tells me anything.
+--------------------------------------------------End--
+{Yuna}
+"That is none of your business!"
+--------------------------------------------------End--
+{Tidus}
+Not that he keeps out of
+other people's business,
+you know what I mean?
+--------------------------------------------------End--
+{Yuna}
+Just a little farther to {Blue}{Zanarkand}{White}.
+--------------------------------------------------End--
+
+Welcome.
+--------------------------------------------------End--
+
+What can I do for you?
+--------------------------------------------------End--
+
+You can ride any of the chocobos
+running around this place for free.
+--------------------------------------------------End--
+
+But most of them are wild.
+Those won't let you ride them.
+--------------------------------------------------End--
+
+Wild chocobos aren't bridled.
+That's how you tell them apart.
+--------------------------------------------------End--
+{Maechen}
+Perhaps you would like to
+know a bit about these plains?
+--------------------------------------------------End--
+{Maechen}
+What a pity.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Maechen}
+As you know, these plains
+were once a battlefield.
+--------------------------------------------------End--
+{Maechen}
+A great battle between {Bevelle}
+and {Zanarkand}, a melee of machina! 
+--------------------------------------------------End--
+{Maechen}
+That war left this place
+a barren, lifeless land.
+--------------------------------------------------End--
+{Maechen}
+Then, time passed.
+--------------------------------------------------End--
+{Maechen}
+The summoners took note
+of this uninhabited land.
+--------------------------------------------------End--
+{Maechen}
+Great battles could be fought here,
+with no harm to the common folk.
+--------------------------------------------------End--
+{Maechen}
+Perfect for a final battle
+with {Sin}, as it were.
+--------------------------------------------------End--
+{Maechen}
+Summoners wait here, ready
+to perform the Final Summoning.
+--------------------------------------------------End--
+{Maechen}
+Ah, to know what they must feel!
+--------------------------------------------------End--
+{Maechen}
+In any case, when {Sin} is defeated here,
+the {Calm} will visit {Spira} once more.
+--------------------------------------------------End--
+{Maechen}
+That's why this place is
+now known as the {Calm} Lands.
+Exactly who dubbed it so is unknown.
+--------------------------------------------------End--
+{Maechen}
+And that, as they say, is that.
+--------------------------------------------------End--
+{Maechen}
+Oh dear, I almost forgot
+to tell you something.
+--------------------------------------------------End--
+{Maechen}
+There's a chasm, a great rend
+in the earth, in these parts.
+--------------------------------------------------End--
+{Maechen}
+A scar left from High Summoner
+{Gandof}'s bitter battle with {Sin},
+four hundred years past.
+--------------------------------------------------End--
+{Maechen}
+Like to hear about
+this place once more?
+--------------------------------------------------End--
+
+Traitors should be more cautious.
+--------------------------------------------------End--
+
+If you go on talking to every
+stranger you meet, one of them
+will call the guards.
+--------------------------------------------------End--
+{Tidus}
+Go ahead and call them!
+--------------------------------------------------End--
+
+After I've just given you a head start?
+--------------------------------------------------End--
+
+Don't worry, though. I don't pay much
+attention to the temple these days.
+--------------------------------------------------End--
+
+Like your guardian over there.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Auron}
+Who are you?
+--------------------------------------------------End--
+
+{Belgemine}, a summoner.
+--------------------------------------------------End--
+{Belgemine}
+Though, I gave up my pilgrimage
+a good many years ago...
+--------------------------------------------------End--
+{Belgemine}
+All I can hope to do now is help
+out a young summoner on her quest--
+if she's willing.
+--------------------------------------------------End--
+{Belgemine}
+How about it, {Yuna}?
+I could show you a trick or two.
+--------------------------------------------------End--
+{Belgemine}
+Perhaps you'd like to test your
+mettle against another summoner?
+--------------------------------------------------End--
+{Belgemine}
+Oh, you again. You're quite
+the notorious traitor these days.
+--------------------------------------------------End--
+{Tidus}
+What's it to you?
+--------------------------------------------------End--
+{Belgemine}
+Ah, you shouldn't take what
+the maesters say too seriously.
+--------------------------------------------------End--
+{Belgemine}
+For summoners, destroying {Sin}
+is everything. We are no tools
+of {Yevon2}, understand?
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Belgemine}
+So, are you up to the task?
+--------------------------------------------------End--
+{Yuna}
+I do not know,
+but I will do my best.
+--------------------------------------------------End--
+{Belgemine}
+You've got spirit, but
+you'll need more to beat {Sin}.
+--------------------------------------------------End--
+{Belgemine}
+An aeon duel!
+Show me what you're made of.
+--------------------------------------------------End--
+{Belgemine}
+No time to fight? I understand.
+I was in your shoes once.
+--------------------------------------------------End--
+{Belgemine}
+Hmm? Changed your mind?
+--------------------------------------------------End--
+{Belgemine}
+Excellent. But before we begin...
+--------------------------------------------------End--
+{Belgemine}
+I've just healed your aeons for you.
+Let us begin!
+--------------------------------------------------End--
+{Belgemine}
+Impressive.
+Remarkable talent.
+--------------------------------------------------End--
+{Belgemine}
+Traitor or no, you may have
+what it takes to beat {Sin}.
+--------------------------------------------------End--
+{Belgemine}
+Take this.
+You have earned it.
+--------------------------------------------------End--
+{Yuna}
+Thank you.
+--------------------------------------------------End--
+{Belgemine}
+I think you will do just fine.
+--------------------------------------------------End--
+{Belgemine}
+But, if you ever feel like
+you want more training, seek
+the hidden temple of Remiem.
+--------------------------------------------------End--
+{Belgemine}
+I will be waiting there.
+Farewell.
+--------------------------------------------------End--
+{Belgemine}
+I hope you will do better
+against {Sin}, for your sake.
+--------------------------------------------------End--
+{Belgemine}
+You need more training.
+That much is clear, summoner.
+--------------------------------------------------End--
+{Belgemine}
+The hidden temple, Remiem.
+I'll be waiting.
+--------------------------------------------------End--
+{Belgemine}
+Come, and I will train you.
+--------------------------------------------------End--
+{Yuna}
+Th-Thank you!
+--------------------------------------------------End--
+{Belgemine}
+Focus, and grow strong, {Yuna}.
+Farewell.
+--------------------------------------------------End--
+
+This gorge is called the Scar.
+{NEWPAGE}
+
+They say that when the high summoner
+cornered {Sin}, Sin tore the earth here
+asunder with the last of its strength.
+--------------------------------------------------End--
+
+The high summoner and {Sin} struck each
+other down at the gorge's bottom. Lord
+Gandof's sacrifice brought us the Calm.
+--------------------------------------------------End--
+
+In the {Calm Lands}, we bury
+our dead in this gorge.
+{NEWPAGE}
+
+We cannot send them because few
+summoners ever make it this far.
+--------------------------------------------------End--
+
+I've heard that the dead that don't
+receive a proper sending roam the
+bottom of the gorge as fiends.
+--------------------------------------------------End--
+
+I have a message from {Cid}.
+{NEWPAGE}
+
+He says:
+{NEWPAGE}
+
+We've gone to repair the {airship}.
+We'll come get you when we're done.
+{NEWPAGE}
+
+Until then, keep {Yuna} safe
+or you'll be sorry, kid.
+--------------------------------------------------End--
+
+After dropping you off in {Bevelle},
+the {airship} stopped here.
+{NEWPAGE}
+
+They let all {summoner} off,
+and went for repairs.
+--------------------------------------------------End--
+
+There ain't no temple on these plains,
+even with {Bevelle} so close by.
+{NEWPAGE}
+
+Those priests seem to think it
+ain't worth their trouble to come
+out to such a barren place.
+{NEWPAGE}
+
+But people do live here, you know?
+Ah, they don't care about nothin'
+but their own sweet behinds.
+--------------------------------------------------End--
+
+We don't need no temple anyway.
+Done just fine so far without one.
+{NEWPAGE}
+
+Earnest prayer and an honest heart,
+that's what matters.
+--------------------------------------------------End--
+
+We don't need no temple.
+Done just fine so far without one.
+--------------------------------------------------End--
+
+Even if I don't know what I'm
+watching for, duty's duty.
+{NEWPAGE}
+
+I'm not moving.
+{NEWPAGE}
+
+Well, unless something really
+unique happens, that is.
+--------------------------------------------------End--
+
+Even if I don't know what I'm
+watching for, duty's duty.
+{NEWPAGE}
+
+I'm not moving.
+{NEWPAGE}
+
+Well, unless something really
+nifty happens, that is.
+--------------------------------------------------End--
+
+Ever tried watching a gorge for
+years and years? Not my idea of fun.
+{NEWPAGE}
+
+If only something interesting
+would happen...
+--------------------------------------------------End--
+
+It's been ages since I could
+get my mind off my job!
+I've gotta thank you.
+--------------------------------------------------End--
+
+I guess I broke family tradition...
+But nobody saw me, right?
+{NEWPAGE}
+
+Well, I'd better get back to my watch.
+--------------------------------------------------End--
+
+Hey, I saw it!
+I saw the race!
+{NEWPAGE}
+
+You were amazing!
+I can't believe you won!
+{NEWPAGE}
+
+But you were lucky.
+I mean, sometimes she's hot,
+and sometime's she's not.
+--------------------------------------------------End--
+
+What? Who's watching the gorge?
+Uh, no one.
+{NEWPAGE}
+
+Shouldn't hurt, right?
+--------------------------------------------------End--
+
+I hope you're not planning
+to cross this place on foot.
+--------------------------------------------------End--
+
+I suppose you're right.
+Fighting fiends lets you
+polish your skills.
+--------------------------------------------------End--
+
+Well, these plains are home to
+lots of wild chocobos.
+{NEWPAGE}
+
+First we must train them
+to be dependable mounts.
+--------------------------------------------------End--
+
+I'm training some chocobos now,
+but they're not quite tame yet.
+I'm sorry I can't lend you any.
+{NEWPAGE}
+
+Walking might be faster than
+waiting for one of my chocobos.
+--------------------------------------------------End--
+
+Bye, now. Maybe next time
+I'll have a chocobo ready for you.
+--------------------------------------------------End--
+
+That's easier said than done.
+It's not that simple, you know.
+{NEWPAGE}
+
+You're sure you want to try?
+--------------------------------------------------End--
+
+Hi there.
+Want to ride a chocobo?
+--------------------------------------------------End--
+
+All right.
+Come with me.
+--------------------------------------------------End--
+
+I'm sorry. These things
+take time, you know?
+--------------------------------------------------End--
+
+You're doing well!
+Keep it up!
+--------------------------------------------------End--
+
+Oh, you want to train chocobos?
+--------------------------------------------------End--
+
+Most chocobos around here are
+wild, so you can't ride them
+without training them first.
+--------------------------------------------------End--
+
+I've trained some chocobos.
+Do you want to ride one?
+--------------------------------------------------End--
+
+Lost? Follow me if you
+want to go back to {Bevelle}.
+--------------------------------------------------End--
+
+Look, these plains go on forever.
+Take it easy or you'll die out here!
+--------------------------------------------------End--
+
+Smart travellers like me ride
+chocobos to avoid fiends!
+--------------------------------------------------End--
+
+Most chocobos around here are wild,
+but a few will let you ride them.
+--------------------------------------------------End--
+
+Look for chocobos with bridles.
+Those are the ones you want.
+--------------------------------------------------End--
+
+Chocobos here don't belong to anyone.
+They're free to choose their riders.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Fight.
+{CHOICE:31}Pass.
+--------------------------------------------------End--
+
+Rumor of the {airship} is spreading.
+The {Yevon2} clergy is afraid of it,
+seems like.
+--------------------------------------------------End--
+
+More and more people are leaving
+{Bevelle}. The temple's finished,
+I say.
+--------------------------------------------------End--
+
+When {Sin} fell on {Bevelle},
+I could hear and feel the tremors
+from here!
+--------------------------------------------------End--
+
+This kid seems to like me
+for some reason.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+Hey, hey!
+You can't go down there!
+--------------------------------------------------End--
+
+What can I do for you?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}How do you ride a chocobo?
+{CHOICE:31}Let me train one.
+{CHOICE:32}Never mind.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}How to Ride a Chocobo{White}
+
+{Blue}Movement:{White}
+Move far:{VAR07:E4}{Direcional Up}{VAR07:60}Move near:{VAR07:E4}{Direcional Down}
+Move left:{VAR07:E4}{Direcional Left}{VAR07:60}Move right:{VAR07:E4}{Direcional Right}
+
+{Blue}Getting on and off:{White}
+Press {VAR07:E8}{Button Circle} while facing chocobo to mount.
+Press {VAR07:E8}{Button X} to dismount.
+
+Chocobos can only be ridden in the {Calm Lands}.
+You cannot enter {Macalania Woods} or pass beyond
+the {Calm Lands} while riding a chocobo.
+--------------------------------------------------End--
+{WINDOW}
+Your chocobo will wait for you where
+you leave it unless:
+- You leave the {Calm Lands}.
+- You get another chocobo.
+--------------------------------------------------End--
+
+There might be a place where your
+chocobo will wait for you even if
+you leave the {Calm Lands}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let me ride one!
+{CHOICE:31}I'll walk.
+{CHOICE:32}Let me train one.
+{CHOICE:33}How do you ride a chocobo?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I want to ride a chocobo!
+{CHOICE:31}Walking's not that bad.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let me train one!
+{CHOICE:31}Thanks anyway.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Of course!
+{CHOICE:31}Maybe not.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Maybe next time.
+{CHOICE:31}Do tell!
+--------------------------------------------------End--
+
+The high priests of {St. Bevelle}
+do nothing but squabble over
+politics these days.
+{NEWPAGE}
+
+They've forgotten their
+duty to us, their people!
+--------------------------------------------------End--
+
+{Bevelle} is in chaos. Hoodlums walk
+the streets as openly as any priest!
+{NEWPAGE}
+
+Many have left the city already, and
+many more will leave, I'm sure.
+--------------------------------------------------End--
+
+We've always lived by the
+teachings, but look at us now.
+--------------------------------------------------End--
+
+I don't care whether they're
+machina-using {Al Bhed} or not.
+{NEWPAGE}
+
+As long as they wipe out {Sin},
+I'm all for them!
+--------------------------------------------------End--
+
+I sang the Hymn! Put all my heart
+into it! I hope that flying ship wins.
+--------------------------------------------------End--
+
+{Rin}'s Travelling Agency, at your service!
+We offer fine wares at reasonable prices.
+{NEWPAGE}
+
+Please consider making a purchase
+before crossing these vast plains.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+Have a safe and pleasant
+crossing.
+--------------------------------------------------End--
+
+My husband and I decided to leave
+{Bevelle} for our son's sake.
+{NEWPAGE}
+
+{Bevelle} is not a safe place
+for children anymore.
+--------------------------------------------------End--
+
+We had nothing but the clothes on our
+backs when we fled here, but the people
+here helped us.
+{NEWPAGE}
+
+Would {Yevon2} forgive us for accepting
+aid from the {Al Bhed}, I wonder...
+--------------------------------------------------End--
+
+We have nowhere to turn now.
+What should we do?
+--------------------------------------------------End--
+
+Our son won't stay away
+from that {Al Bhed}.
+--------------------------------------------------End--
+
+He'd better not be teaching
+him anything sacrilegious.
+--------------------------------------------------End--
+
+We left our house in {Bevelle}.
+I don't really understand what's going
+on, but Mom said it was dangerous.
+--------------------------------------------------End--
+
+I don't care where we go, as
+long as I'm with Mom and Dad!
+--------------------------------------------------End--
+
+Aw, I want a mask like his, too!
+{NEWPAGE}
+
+But he said only {Al Bhed}
+wear them!
+{NEWPAGE}
+
+I wanna be an {Al Bhed}
+when I grow up!
+--------------------------------------------------End--
+
+That nice {Al Bhed} man
+sang the Hymn with me!
+--------------------------------------------------End--
+
+Do you think they'll let me ride
+the flying ship if I became {Al Bhed}?
+--------------------------------------------------End--
+
+It won't open.
+--------------------------------------------------End--
+
+The {Yellow}{Celestial Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Celestial Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+The {Yellow}{Cloudy Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Cloudy Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+Not enough energy...
+--------------------------------------------------End--
+
+Made of clay hardened by intense
+heat, it must be hundreds of
+years old.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+With the vale at your back
+go forty-nine,
+{NEWPAGE}
+
+then seven to the right
+in the truest line.
+--------------------------------------------------End--
+{WINDOW}
+
+With me at your back go twenty,
+then twenty to the right.
+--------------------------------------------------End--
+{WINDOW}
+
+Right sixteen
+and right four.
+--------------------------------------------------End--
+{WINDOW}
+
+Continue on.
+Find me.
+--------------------------------------------------End--
+{WINDOW}
+
+The password is...
+GODHAND
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}F{White} {RIGHT} {Pink}W{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

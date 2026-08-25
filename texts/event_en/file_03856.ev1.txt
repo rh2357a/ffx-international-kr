@@ -1,0 +1,216 @@
+
+We escaped with our skins intact,
+but {Yuna} lost something.
+--------------------------------------------------End--
+
+I could already tell, her faith was
+shaken. {Yevon2} had betrayed her.
+--------------------------------------------------End--
+
+I felt like I should do
+or say something--anything...
+--------------------------------------------------End--
+
+But nothing came.
+I was just as lost as she was.
+And then...
+--------------------------------------------------End--
+{Wakka}
+Well?
+--------------------------------------------------End--
+{Auron}
+We're all clear.
+--------------------------------------------------End--
+{Auron}
+We will have to avoid
+{Bevelle} in the future.
+--------------------------------------------------End--
+{Auron}
+{Yuna}?
+--------------------------------------------------End--
+{Rikku}
+Said she wanted to be alone.
+--------------------------------------------------End--
+{Auron}
+Of course.
+--------------------------------------------------End--
+{Auron}
+Maybe you should talk to her?
+--------------------------------------------------End--
+{Auron}
+I am...tired.
+--------------------------------------------------End--
+{Wakka}
+Must be tough for {Yuna}.
+--------------------------------------------------End--
+{Wakka}
+We leave at daybreak.
+--------------------------------------------------End--
+{Wakka}
+If {Yuna} figures out
+where we're going, that is.
+--------------------------------------------------End--
+{Wakka}
+I feel kinda bad leaving
+everything up to her, you know?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+{Yuna}'s off in the woods.
+--------------------------------------------------End--
+{Lulu}
+{Kimahri}'s with her, but
+maybe you should go, too?
+--------------------------------------------------End--
+{Lulu}
+I think it might help
+if you were there.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+It would be so easy to fight
+without thinking...
+Walk a straight line. So easy.
+--------------------------------------------------End--
+{Rikku}
+Wonder what {Yunie}'ll do, huh?
+Think she'll quit her pilgrimage?
+--------------------------------------------------End--
+{Tidus}
+That's what you want, right?
+--------------------------------------------------End--
+{Rikku}
+Well...
+--------------------------------------------------End--
+{Rikku}
+If {Yunie} really wants
+to keep going, then...
+--------------------------------------------------End--
+{Rikku}
+I guess I shouldn't
+stop her, you know?
+--------------------------------------------------End--
+{Rikku}
+That's what I think, anyway.
+--------------------------------------------------End--
+{Rikku}
+I wonder if there's a way to perform
+the Final Summoning and not die?
+--------------------------------------------------End--
+{Rikku}
+That'd be great, wouldn't it?
+--------------------------------------------------End--
+{Rikku}
+I guess someone would've thought
+of it in the last thousand years, huh?
+--------------------------------------------------End--
+{Rikku}
+Hey, maybe you should
+go talk to {Yunie}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Yuna}
+Sir {Auron}?
+--------------------------------------------------End--
+{Yuna}
+{Wakka}?
+--------------------------------------------------End--
+{Yuna}
+{Lulu}?
+--------------------------------------------------End--
+{Yuna}
+{Kimahri}?
+--------------------------------------------------End--
+{Yuna}
+{Rikku}?
+--------------------------------------------------End--
+{Yuna}
+Everyone, we leave at dawn.
+--------------------------------------------------End--
+{Yuna}
+And...
+--------------------------------------------------End--
+{Yuna}
+I'm sorry for putting
+you through all this.
+--------------------------------------------------End--
+{Yuna}
+And...um...
+--------------------------------------------------End--
+{Auron}
+Enough. You need your rest.
+--------------------------------------------------End--
+{Yuna}
+Yes.
+--------------------------------------------------End--
+{Yuna}
+Good night.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

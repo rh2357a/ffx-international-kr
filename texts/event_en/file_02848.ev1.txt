@@ -1,0 +1,437 @@
+{Gatta}
+Hey!
+--------------------------------------------------End--
+{Gatta}
+Hey, we saw the game!
+You guys were great!
+--------------------------------------------------End--
+{Luzzu}
+Congratulations, {Wakka}!
+--------------------------------------------------End--
+{Luzzu}
+It was close, {Wakka}.
+--------------------------------------------------End--
+{Elma}
+Hey! Stop loafing around!
+--------------------------------------------------End--
+{Gatta}
+Uh... The lady summoner
+and her guardians...
+--------------------------------------------------End--
+{Lucil}
+This mission requires our full attention.
+We've no time to waste!
+--------------------------------------------------End--
+{Lucil}
+Understood?
+--------------------------------------------------End--
+{Luzzu}
+Yes, ma'am!
+Apologies, ma'am!
+--------------------------------------------------End--
+{Lucil}
+Carry on.
+--------------------------------------------------End--
+{Luzzu}
+See? Keep your head down,
+say "sir" a lot, and you'll do fine.
+--------------------------------------------------End--
+{Gatta}
+Right...sir.
+--------------------------------------------------End--
+{Luzzu}
+Hey, {Yuna}.
+--------------------------------------------------End--
+{Luzzu}
+Even though {Yevon2} rejected us...
+--------------------------------------------------End--
+{Luzzu}
+we still believe in you.
+That won't ever change.
+--------------------------------------------------End--
+{Yuna}
+Thank you, Sir {Luzzu}, Sir {Gatta}.
+--------------------------------------------------End--
+{Yuna}
+But, you know... It's not too late
+for you to go back to {Besaid}, and...
+--------------------------------------------------End--
+{Gatta}
+We should be going, sir!
+--------------------------------------------------End--
+
+We'll defeat {Sin} any way we can!
+--------------------------------------------------End--
+
+But {Yevon2}'s teachings say...
+--------------------------------------------------End--
+
+Enough!
+--------------------------------------------------End--
+
+I-I only meant to...
+--------------------------------------------------End--
+{Yuna}
+Are you all right?
+--------------------------------------------------End--
+
+Lady Summoner...?
+--------------------------------------------------End--
+{Yuna}
+Yes, I am {Yuna}.
+--------------------------------------------------End--
+
+It is an honor, my lady.
+--------------------------------------------------End--
+
+My name is {Shelinda}.
+I am a disciple of {Yevon2}.
+--------------------------------------------------End--
+{Wakka}
+What was all that about?
+The {Crusader}s' operation?
+--------------------------------------------------End--
+{Tidus}
+You mean the one {Gatta} and
+{Luzzu} were talking about?
+--------------------------------------------------End--
+{Shelinda}
+I heard they were to use forbidden
+machina! I had to stop them.
+--------------------------------------------------End--
+{Tidus}
+Huh? Why?
+--------------------------------------------------End--
+{Lulu}
+The use of machina is strictly
+forbidden by the {Yevon2} priesthood.
+--------------------------------------------------End--
+{Wakka}
+That's bad, ya?
+--------------------------------------------------End--
+{Auron}
+Let them use whatever they want.
+--------------------------------------------------End--
+{Auron}
+They still won't defeat {Sin}.
+--------------------------------------------------End--
+{Shelinda}
+But, it's not about defeating {Sin}!
+--------------------------------------------------End--
+{Shelinda}
+The teachings of Yevon must be upheld!
+--------------------------------------------------End--
+{Wakka}
+Yeah! Right!
+--------------------------------------------------End--
+{Shelinda}
+But you don't understand!
+The {Crusader}s won't even listen to me.
+--------------------------------------------------End--
+{Shelinda}
+And it's all because
+I'm just a lowly acolyte.
+--------------------------------------------------End--
+{Yuna}
+Don't say that.
+--------------------------------------------------End--
+{Yuna}
+Well, I haven't been a summoner
+for very long myself, you see.
+--------------------------------------------------End--
+{Yuna}
+Still, I can't put myself
+down every time I fail.
+--------------------------------------------------End--
+{Yuna}
+People are depending on me.
+They're depending on both of us!
+--------------------------------------------------End--
+{Shelinda}
+Yes! Yes, you're right,
+my lady. Absolutely right!
+--------------------------------------------------End--
+{Shelinda}
+Thank you so much, Lady {Yuna}!
+--------------------------------------------------End--
+{Shelinda}
+Now I feel I have the courage
+to finish my training.
+--------------------------------------------------End--
+{Shelinda}
+I will do my best to get myself
+appointed to a temple, as a nun.
+--------------------------------------------------End--
+
+Here, take this. Just don't tell
+anybody that I was trembling.
+--------------------------------------------------End--
+
+There are lots of fiends, so stay sharp.
+Use this when the going gets tough.
+--------------------------------------------------End--
+
+Providing is preventing.
+Need I say more? This'll help.
+--------------------------------------------------End--
+
+Here's a little something to
+cheer you up before the big fight.
+--------------------------------------------------End--
+
+I stocked up on too many.
+Please take one, if you like.
+--------------------------------------------------End--
+
+I join the {Crusader}s and get thrown
+into a major operation right off the bat.
+{NEWPAGE}
+
+I mean, you can't blame me for
+getting the shakes.
+--------------------------------------------------End--
+
+I'm not scared. Don't get me wrong.
+I'm just trembling with fury!
+--------------------------------------------------End--
+
+Do you see that sign?
+{NEWPAGE}
+
+What a gaudy ad.
+They're way out of line.
+--------------------------------------------------End--
+
+It's not good once those guys get going.
+--------------------------------------------------End--
+
+The young guns believe everything
+will go as planned.
+{NEWPAGE}
+
+We veterans know otherwise;
+it's not going to be easy.
+--------------------------------------------------End--
+
+Of course when the time comes,
+we'll march in full force to victory.
+{NEWPAGE}
+
+Victory must be the goal
+to win any battle.
+--------------------------------------------------End--
+
+They say luck decides the
+battle, but we can't afford to lose.
+--------------------------------------------------End--
+
+I'm gonna vanquish {Sin} and
+return home a hero.
+--------------------------------------------------End--
+
+Us {Crusader}s... We're gonna make
+history with this operation.
+{NEWPAGE}
+
+For the first time, people other
+than summoners will defeat {Sin}.
+--------------------------------------------------End--
+
+No doubt we're gonna win. And just in
+case, we have an ace up our sleeves, too.
+--------------------------------------------------End--
+
+Once the order is given,
+I'll be fighting on the front line.
+{NEWPAGE}
+
+That's everything we've trained for.
+--------------------------------------------------End--
+
+{High Summoner Yocun}, who slew {Sin},
+started as a {Crusader}.
+--------------------------------------------------End--
+
+If I fight as valiantly as Lady {Yocun}
+will I, too, receive {Yevon2}'s blessing?
+--------------------------------------------------End--
+
+Just the other day the {Crusader}s
+marched through here.
+{NEWPAGE}
+
+Sure is quiet now.
+--------------------------------------------------End--
+
+I suppose only a summoner can defeat {Sin}.
+The teachings are right after all.
+--------------------------------------------------End--
+
+A quiet, beautiful day, eh?
+--------------------------------------------------End--
+
+I don't scare much anymore.
+Must be my age.
+{NEWPAGE}
+
+If {Sin} happens to show up, so be it.
+{NEWPAGE}
+
+I'll just pray as the teachings tell me,
+and go straight to the {Farplane}.
+--------------------------------------------------End--
+
+A quiet, beautiful day, eh?
+--------------------------------------------------End--
+
+A bunch of wounded {Crusader}s
+passed by moments ago.
+{NEWPAGE}
+
+They were all hanging their heads,
+crestfallen. It was too painful to watch.
+--------------------------------------------------End--
+
+Cruel punishment for defying the
+teachings... Too cruel, I'd say.
+--------------------------------------------------End--
+
+I thought about joining the {Crusader}s, but
+maybe I should join the warrior monks instead.
+--------------------------------------------------End--
+
+The collapse of the {Crusader}s,
+the conflict in {Bevelle}...
+{NEWPAGE}
+
+I fear for {Spira}'s future.
+--------------------------------------------------End--
+
+All we can do is trust the summoners.
+I feel so helpless.
+--------------------------------------------------End--
+
+Our {Home} was blown to smithreens.
+I am trying not to think about it.
+--------------------------------------------------End--
+
+It is good to take a walk like this.
+{NEWPAGE}
+
+Sometimes I catch the rascal who
+scribbles graffiti in {Al Bhed3}.
+--------------------------------------------------End--
+
+You probably do not know what
+I am saying.
+{NEWPAGE}
+
+I am sorry to waste your time.
+--------------------------------------------------End--
+
+You look awful depressed,
+and it's such a beautiful day.
+--------------------------------------------------End--
+
+When I'm feeling down, I come
+here and take a walk.
+{NEWPAGE}
+
+Nothing like a breath of fresh
+air to clear your mind.
+--------------------------------------------------End--
+
+There are some things that can't be helped.
+--------------------------------------------------End--
+
+There are more and more {Al Bhed2}s coming
+here. I don't know if it's good or bad.
+
+--------------------------------------------------End--
+
+I'm still not comfortable being
+around {Al Bhed}.
+{NEWPAGE}
+
+Maybe I should get to know them,
+but I don't speak the language.
+--------------------------------------------------End--
+
+Sorry. I don't feel like talking anymore.
+--------------------------------------------------End--
+
+Just leave me alone.
+--------------------------------------------------End--
+
+I took a bad hit fighting {Sin}.
+I couldn't walk for a while.
+{NEWPAGE}
+
+I'm all good now, and back to
+guarding the Highroad.
+--------------------------------------------------End--
+
+We couldn't defeat {Sin}.
+{NEWPAGE}
+
+But at least we can protect
+the people from fiends.
+--------------------------------------------------End--
+
+We should focus on what we can do
+and not dwell on what we couldn't do.
+--------------------------------------------------End--
+
+Everybody looks calm, but they are
+still afraid of {Sin}.
+{NEWPAGE}
+
+They will always be afraid.
+--------------------------------------------------End--
+
+I sang aloud to release all of my anxiety.
+{NEWPAGE}
+
+I was so desperate at the time.
+--------------------------------------------------End--
+
+I'm gonna sing whenever I see the
+flying ship; I can't help but sing.
+--------------------------------------------------End--
+
+That flying ship will bring about the Calm.
+--------------------------------------------------End--
+
+Even for a moment, a fleeting Calm,
+I want to feel peace from my heart.
+--------------------------------------------------End--
+
+I'm going to live to see the day
+the Calm dawns on us.
+--------------------------------------------------End--
+
+Fiends often appear here, but
+people pass through here, regardless.
+--------------------------------------------------End--
+
+{Sin}'s terrible attacks continue, and
+the fiends' threats persist...
+{NEWPAGE}
+
+Yet people continue to move on.
+--------------------------------------------------End--
+
+Still, fiends are frightening as always.
+--------------------------------------------------End--
+
+I wush walking and ended up here.
+Where am I? What plashe ish thish?
+--------------------------------------------------End--
+
+There ish a shtatue ober there.
+Shtatue of shumone big?
+{NEWPAGE}
+
+Shtatue like it I've sheen shomewhere elshe.
+Have you sheen it? Or have you not?
+--------------------------------------------------End--

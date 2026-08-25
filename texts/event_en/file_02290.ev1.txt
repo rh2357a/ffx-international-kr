@@ -1,0 +1,341 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Pray.
+{CHOICE:31}Stand and watch.
+--------------------------------------------------End--
+{Wakka}
+Lord {Ohalland},
+guide our feet.
+--------------------------------------------------End--
+{Yuna}
+Please, let {Wakka}'s
+prayers be heard.
+--------------------------------------------------End--
+{Lulu}
+I think {Wakka} needs to
+do a little more praying.
+--------------------------------------------------End--
+
+A summoner, are you?
+--------------------------------------------------End--
+{Yuna}
+My name is {Yuna}--
+from the Isle of {Besaid}.
+--------------------------------------------------End--
+
+{Dona}.
+--------------------------------------------------End--
+{Dona}
+So, you're {High Summoner Braska}'s
+daughter. That's quite a name
+to live up to.
+--------------------------------------------------End--
+{Dona}
+My, my, my...
+--------------------------------------------------End--
+{Dona}
+And all these people are your
+guardians? My, what a rabble!
+--------------------------------------------------End--
+{Dona}
+As I recall, Lord {Braska}
+had only two guardians.
+--------------------------------------------------End--
+{Dona}
+Quality over quantity, my dear.
+Whatever were you thinking?
+--------------------------------------------------End--
+{Dona}
+I have need of only one guardian.
+Right, {Barthello}?
+--------------------------------------------------End--
+{Yuna}
+I only have as many guardians
+as there are people I can trust.
+--------------------------------------------------End--
+{Yuna}
+I trust them all with my life!
+--------------------------------------------------End--
+{Yuna}
+To have so many guardians
+is a joy, and an honor!
+--------------------------------------------------End--
+{Yuna}
+Even more so than
+being my father's daughter.
+--------------------------------------------------End--
+{Yuna}
+Of course, I would never think
+of questioning your ways, either.
+--------------------------------------------------End--
+{Yuna}
+So, Lady {Dona}, I ask of you:
+please leave us in peace.
+--------------------------------------------------End--
+{Dona}
+You do what you want.
+{Barthello}, we're leaving.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+A guardian is someone a summoner can rely on.
+Someone she can trust with her life.
+--------------------------------------------------End--
+
+I wondered, did {Yuna}
+feel that way about me?
+--------------------------------------------------End--
+
+What's she smiling about?
+--------------------------------------------------End--
+
+Yeah! Once we win the tournament,
+this will be my victory pose!
+--------------------------------------------------End--
+
+Yeah! Teamwork and trust are key elements
+for both guardians and blitzers!
+--------------------------------------------------End--
+
+Yeah! Once we win the tournament
+next year, this will be my victory pose!
+--------------------------------------------------End--
+
+Yeah! When the ship comes flying by,
+I'm going to cheer it on like this!
+--------------------------------------------------End--
+
+Yeah! When the Calm comes,
+this is how I'm going to celebrate!
+--------------------------------------------------End--
+
+I envy your happy-go-lucky attitude.
+--------------------------------------------------End--
+
+Are you a blitzer? Or a guardian?
+Don't tell me you're both!
+--------------------------------------------------End--
+
+He should stop wasting his time with all those
+poses, and devote more time to praying.
+--------------------------------------------------End--
+
+There's a strange rumor going around
+about singing the Hymn of the Fayth
+when a ship flies by.
+--------------------------------------------------End--
+
+I wonder what the summoners
+fighting {Sin} are like?
+--------------------------------------------------End--
+
+The {Kilika Beasts} may have lost
+the tournament,
+{NEWPAGE}
+
+but I believe their fighting spirit has
+given courage to the people of Spira.
+--------------------------------------------------End--
+
+The {Besaid Aurochs} have done
+well this year.
+{NEWPAGE}
+
+Lord {Ohalland} must have been
+watching over them.
+--------------------------------------------------End--
+
+I must reluctantly admit that the people
+are distancing themselves from the temple.
+{NEWPAGE}
+
+What would Lord {Ohalland} think if
+he were here...
+--------------------------------------------------End--
+
+The responsibility lies with the monks.
+We could not ease the people's anxieties.
+--------------------------------------------------End--
+
+I hear {Bevelle} was devastated by {Sin}.
+{NEWPAGE}
+
+How ironic that they suffer the
+same retribution as other men.
+--------------------------------------------------End--
+
+If the temples cannot provide the people
+with hope, then what purpose do they serve?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

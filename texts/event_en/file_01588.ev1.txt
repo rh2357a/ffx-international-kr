@@ -1,0 +1,80 @@
+
+
+--------------------------------------------------End--
+{WINDOW}
+Auron Fights Alone
+    {CHOICE:30}Waiting for Command
+    {CHOICE:31}Seamless Test
+    {CHOICE:32}Retry Event
+    {CHOICE:33}Unconditional Win
+--------------------------------------------------End--
+{WINDOW}
+Final Stadium Battle
+    {CHOICE:30}Waiting for Command
+    {CHOICE:31}Seamless Test
+    {CHOICE:32}Retry Event
+    {CHOICE:33}Unconditional Win
+--------------------------------------------------End--
+{Mika}
+All of these fine teams,
+equally renowned,
+deserve to win the cup today.
+--------------------------------------------------End--
+{Mika}
+Such is the nature of this contest.
+Let us, the spectators,
+play our role accordingly:
+--------------------------------------------------End--
+{Mika}
+Let us sing to the glory of the
+winners, and applaud equally
+the valor of the defeated.
+--------------------------------------------------End--
+{Mika}
+Contestants,
+may {Yevon2} be with you.
+--------------------------------------------------End--
+{Lulu}
+What's happening?
+--------------------------------------------------End--
+{Tidus}
+So, you do know him.
+--------------------------------------------------End--
+{Wakka}
+Yeah.
+Best guardian there ever was.
+--------------------------------------------------End--
+{Tidus}
+Hey, gimme a break!
+--------------------------------------------------End--
+{Tidus}
+{Auron}!
+--------------------------------------------------End--
+{Wakka}
+Sir {Auron}!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}Select Event
+    {CHOICE:33}Change Model
+    {CHOICE:34}Invisible
+    {CHOICE:35}Return to Saito
+--------------------------------------------------End--
+{WINDOW}
+Model  :  {CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Select Event
+    {CHOICE:30}Quit
+    {CHOICE:31}Seymour Dark Summon{Gray}
+    {CHOICE:32}Hushed Stadium{White}
+    {CHOICE:33}Send to VIP Seats
+    {CHOICE:34}Control Anima Display
+    {CHOICE:35}Adjust Frame
+    {CHOICE:36}Clear Scenario Flag
+--------------------------------------------------End--
+{WINDOW}
+Frames  :  {CHOICE:52}
+--------------------------------------------------End--

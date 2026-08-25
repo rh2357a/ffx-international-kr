@@ -1,0 +1,346 @@
+
+
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{WINDOW}
+Tournament games go into
+overtime if the score is tied.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Movement{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+{CHOICE:32}Manual B
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Movement{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+{CHOICE:32}Manual B
+{CHOICE:33}Forfeit
+--------------------------------------------------End--
+{WINDOW}
+Forfeit game?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Movement{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+{CHOICE:32}Manual B
+{CHOICE:33}Forfeit
+{CHOICE:34}{OCyan}Enemy all asleep (DEBUG)
+{CHOICE:35}All enemies beside keeper asleep(DEBUG)
+{CHOICE:36}All asleep (DEBUG){White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Formation{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+{CHOICE:38}{VAR12:38}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C} HP
+{CHOICE:34}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D} HP
+{CHOICE:35}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D} HP
+{CHOICE:35}{VAR12:34}{VAR07:62}{VAR12:3E} HP
+{CHOICE:36}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A} HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B} HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C} HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D} HP
+{CHOICE:35}{VAR12:34}{VAR07:62}{VAR12:3E} HP
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}{VAR12:31}
+{VAR12:32}{VAR12:33}
+{VAR12:34}{VAR12:35}
+{VAR12:36}{VAR12:37}
+{VAR12:38}{VAR12:39}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+{CHOICE:34}Break to {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Breakthrough{White}
+{CHOICE:30}No Break
+{CHOICE:31}Break to {VAR12:31}
+{CHOICE:32}Break to {VAR12:32}
+{CHOICE:33}Break to {VAR12:33}
+{CHOICE:34}Break to {VAR12:34}
+{CHOICE:35}Break to {VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:53}{VAR12:31} HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}{White}Shoot{VAR07:53}{VAR12:31} HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:53}{VAR12:30} HP
+{Blue}{CHOICE:31}Shoot{VAR07:53}{VAR12:31} HP
+{CHOICE:32}{White}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:53}{VAR12:31} HP
+{CHOICE:32}{White}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:53}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}{White}Shoot{VAR07:53}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}{Blue}Shoot{VAR07:53}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Action Commands{White}
+{CHOICE:30}{Blue}Pass{VAR07:53}{VAR12:30} HP
+{CHOICE:31}Shoot{VAR07:53}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30}-Man Breakthrough
+--------------------------------------------------End--
+{WINDOW}
+No Break
+--------------------------------------------------End--
+{WINDOW}
+Action: Pass
+--------------------------------------------------End--
+{WINDOW}
+Action: Shoot
+--------------------------------------------------End--
+{WINDOW}
+Action: Dribble
+--------------------------------------------------End--
+{WINDOW}
+Technique: {VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:40}{VAR12:30}
+--------------------------------------------------End--
+Aurochs Player 0
+--------------------------------------------------End--
+Aurochs Player 1
+--------------------------------------------------End--
+Aurochs Player 2
+--------------------------------------------------End--
+Aurochs Player 3
+--------------------------------------------------End--
+Aurochs Player 4
+--------------------------------------------------End--
+Aurochs Player 5
+--------------------------------------------------End--
+Goers Player 0
+--------------------------------------------------End--
+Goers Player 1
+--------------------------------------------------End--
+Goers Player 2
+--------------------------------------------------End--
+Goers Player 3
+--------------------------------------------------End--
+Goers Player 4
+--------------------------------------------------End--
+Goers Player 5
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Pass to:{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+
+What a great play!
+The Goers score first!
+--------------------------------------------------End--
+
+The Aurochs are no match
+for the Goers, folks!
+They're just floundering out there!
+--------------------------------------------------End--
+
+And it's halftime!
+--------------------------------------------------End--
+
+The Goers are just playing great, Bobba.
+Really great.
+--------------------------------------------------End--
+
+The crowd is cheering
+for the Aurochs!
+Isn't this exciting?
+--------------------------------------------------End--
+
+Goal! Goal! Goal!
+Unbelievable! What a
+miraculous comeback!
+--------------------------------------------------End--
+
+The crowd is going wild!
+--------------------------------------------------End--

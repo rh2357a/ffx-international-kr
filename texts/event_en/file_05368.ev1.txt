@@ -1,0 +1,304 @@
+{WINDOW}
+Save current game?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+
+
+I'll bet you anything the {Luca Goers}
+are gonna win again this year.
+--------------------------------------------------End--
+
+Maybe so, but you'd better not
+count out the {Kilika Beasts}!
+--------------------------------------------------End--
+
+The {Besaid Aurochs}? Win?
+--------------------------------------------------End--
+
+Now that's funny! Hahaha!
+{NEWPAGE}
+
+Gimme a break, man!
+--------------------------------------------------End--
+
+We have sealed off all access to
+the stadium for the time being.
+{NEWPAGE}
+
+We're trying to control the mad rush of
+people who have already entered the stadium.
+--------------------------------------------------End--
+
+We apologize for the inconvenience, but
+access to the stadium has been sealed off.
+--------------------------------------------------End--
+
+{Maester Mika2} has ruled Spira
+for the past fifty years.
+--------------------------------------------------End--
+
+Man, this tournament is gonna rock!
+Even the big man is here to see the game.
+--------------------------------------------------End--
+
+If I can catch one glimpse of Maester {Mika},
+I'll have something to brag about back home.
+--------------------------------------------------End--
+
+Maester {Mika} doesn't make many public
+appearances. He's getting too old for that.
+--------------------------------------------------End--
+
+I'm glad I got here safely.
+Don't want another S.S. Liki incident.
+--------------------------------------------------End--
+
+Ladies and gentlemen, the day
+we've all been waiting for!
+--------------------------------------------------End--
+
+The opening tournament
+of the season!
+--------------------------------------------------End--
+
+This event is sponsored by {Yevon2}.
+--------------------------------------------------End--
+
+And this year we celebrate
+{Maester Mika}'s 50th year in office.
+--------------------------------------------------End--
+
+Ah, over there!
+The ships carrying the
+players are arriving now!
+--------------------------------------------------End--
+
+This would be dock number 2.
+--------------------------------------------------End--
+
+They're a living, breathing,
+statistical impossibility!
+I've never seen a team this bad!
+--------------------------------------------------End--
+
+That's right!
+In twenty-three years they've
+never made it past the first round!
+--------------------------------------------------End--
+
+Only a few die-hard fans
+are in the audience today.
+--------------------------------------------------End--
+
+Best of luck to them, and a
+safe journey back to {Besaid}.
+--------------------------------------------------End--
+
+Right, Jimma.
+--------------------------------------------------End--
+
+Moving right along,
+our next team is...
+--------------------------------------------------End--
+
+Here they are, folks!
+Our very own {Luca Goers}!
+--------------------------------------------------End--
+
+They've got power!
+They've got speed!
+They've got teamwork!
+--------------------------------------------------End--
+
+They're an all-around first-class team!
+And they're back home in Luca!
+--------------------------------------------------End--
+
+Without a doubt, they are
+the favorite this year, Bobba.
+--------------------------------------------------End--
+
+And after the way they dominated
+last year, it'd take a miracle
+for them to lose today.
+--------------------------------------------------End--
+
+You can say that again, Jimma.
+Look at the crowd, folks!
+Look at the crowd!
+--------------------------------------------------End--
+
+Looks like all of Luca has turned
+out to cheer the Goers on!
+--------------------------------------------------End--
+
+They know, I know,
+and you know, folks!
+--------------------------------------------------End--
+
+The {Luca Goers} are number one!
+--------------------------------------------------End--
+{Wakka}
+It's like this every year, ya?
+Don't let it bother you.
+--------------------------------------------------End--
+{Tidus}
+Stop right there, Goers!
+--------------------------------------------------End--
+{Tidus}
+You guys are smilin' now,
+but not for long!
+--------------------------------------------------End--
+{Tidus}
+'Cause this year, us
+{Aurochs} are taking the cup!
+--------------------------------------------------End--
+{Wakka}
+What in {Yevon2}'s name
+were you doing up there?
+--------------------------------------------------End--
+Datto
+We sure stood out, though!
+--------------------------------------------------End--
+Letty
+We were on the sphere!
+--------------------------------------------------End--
+
+We were?
+--------------------------------------------------End--
+
+{Maester Mika} is here!
+--------------------------------------------------End--
+
+Already?
+--------------------------------------------------End--
+
+The number 3 dock!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus}
+What's up now?
+--------------------------------------------------End--
+{Yuna}
+{Maester Mika} has arrived, that's what!
+--------------------------------------------------End--
+{Tidus}
+Mika? Maester?
+--------------------------------------------------End--
+{Lulu}
+{Maester Mika} is the leader of
+all the peoples of {Spira}.
+--------------------------------------------------End--
+{Lulu}
+He's come all the way from {Bevelle}.
+The tournament is being held to
+honor his fifty years as maester.
+--------------------------------------------------End--
+{Tidus}
+Fifty years? Shouldn't he
+be, uh, retired by now?
+--------------------------------------------------End--
+{Wakka}
+Hey!
+Mind your mouth, now.
+--------------------------------------------------End--
+{Yuna}
+Let's all go see him!
+--------------------------------------------------End--
+Map jump here
+--------------------------------------------------End--
+Image from a different map.
+Image inserting movie.
+--------------------------------------------------End--
+
+All the way from {Kilika},
+it's the {Kilika Beasts}!
+--------------------------------------------------End--
+
+High Summoner {Ohalland} used to play
+for them--a big name to live up to.
+--------------------------------------------------End--
+
+Their hometown was recently attacked
+by {Sin}. Isn't that right, Jimma?
+--------------------------------------------------End--
+
+Yes, Bobba. They're going to
+be pulling out all the stops to try
+and bring back the cup this year.
+--------------------------------------------------End--
+
+Exciting, isn't it, folks?
+--------------------------------------------------End--
+
+Our next team off the ramp is...
+--------------------------------------------------End--
+
+Well, well, well!
+If it isn't the {Besaid Aurochs}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

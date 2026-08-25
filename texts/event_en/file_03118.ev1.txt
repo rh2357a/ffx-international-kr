@@ -1,0 +1,1610 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+You're the guy from the sea, right?
+I heard about you from Sir {Luzzu}.
+--------------------------------------------------End--
+
+{High Summoner Gandof}, give us your
+blessing, and watch over my family.
+--------------------------------------------------End--
+
+I'm getting ready to go out fishing.
+There's fiends out in the sea, ya?
+--------------------------------------------------End--
+
+What are you saying? You would
+break the precepts, fool child?
+--------------------------------------------------End--
+
+Pray with daddy for
+the summoner, okay?
+--------------------------------------------------End--
+
+You should pray for the
+apprentice summoner's safety, too.
+--------------------------------------------------End--
+
+You might think about not
+having that toxin cured.
+{NEWPAGE}
+
+I know there's lots of things
+I'd like to forget. Lots.
+--------------------------------------------------End--
+
+You know why the temple faces
+away from the sea?
+{NEWPAGE}
+
+So it does not have to look upon
+the sea from which {Sin} comes.
+--------------------------------------------------End--
+
+I'm heading out fishing, so I'm
+praying for a {Sin}less ocean.
+--------------------------------------------------End--
+
+I'm getting ready to go out fishing.
+There's fiends out in the sea, ya?
+--------------------------------------------------End--
+
+The {Aurochs} put up a great fight this year.
+{Wakka}'s the best, ya?
+--------------------------------------------------End--
+
+It may not be much help to Lady {Yuna},
+but allow me to pray for you.
+--------------------------------------------------End--
+
+I know {Sin}'s out there, but if I
+don't go out, my family won't eat.
+--------------------------------------------------End--
+
+I hear you're traitors, now?
+Who's responsible for that nonsense?
+--------------------------------------------------End--
+
+When will Lady {Yuna}'s
+Calm come to Spira...
+--------------------------------------------------End--
+
+The temple's so busy chasing
+traitors they've left {Sin} alone.
+{NEWPAGE}
+
+It will be a long time yet before
+I can feel safe going out to sea.
+--------------------------------------------------End--
+
+I'll be out to sea soon. Perhaps I'll
+be greeting the Calm from deck.
+--------------------------------------------------End--
+
+I was pulling in my catch when
+{Sin} and the flying ship went by.
+{NEWPAGE}
+
+What a sight!
+I think I forgot to sing.
+--------------------------------------------------End--
+
+I'm praying for the blessings of {Yevon2}
+to guide that flying ship.
+--------------------------------------------------End--
+
+Odd clothes you got. What land you from?
+This your first time to {Besaid}?
+--------------------------------------------------End--
+
+We don't get many strangers here.
+I remember every visitor we get.
+--------------------------------------------------End--
+
+Everyone's gone to the temple, but
+I'm more comfortable praying at home.
+--------------------------------------------------End--
+
+And what if something happened?
+I'd be afraid to go see.
+--------------------------------------------------End--
+
+At last, Lady {Yuna} has become
+a true summoner like her father!
+{NEWPAGE}
+
+She was so small when she first
+came to {Besaid}.
+--------------------------------------------------End--
+
+I am sure Lady {Yuna} will become a high
+summoner. Everyone in {Besaid} thinks so.
+--------------------------------------------------End--
+
+I heard the {Crusader}s' operation failed.
+Maybe {Luzzu} and {Gatta} will repent and come home.
+--------------------------------------------------End--
+
+I've no desire to go against the
+teachings, but something's not right
+with the temple these days.
+--------------------------------------------------End--
+
+Daddy doesn't play
+with me at all.
+--------------------------------------------------End--
+
+I can't figure whether I'm gonna join
+the {Aurochs} or the Crusaders!
+--------------------------------------------------End--
+
+I'm pretty good at blitz, ya?
+I can hold my breath and everything!
+--------------------------------------------------End--
+
+They say I gotta train in order
+to join the Crusaders...
+--------------------------------------------------End--
+
+Me and Sir {Luzzu} and {Gatta} will
+beat {Sin}, just the three of us!
+--------------------------------------------------End--
+
+Dad, come on!
+Let's go help!
+--------------------------------------------------End--
+
+Yeah, but...
+--------------------------------------------------End--
+
+Yeah!
+--------------------------------------------------End--
+
+Let's go help the summoner!
+I promise I'll be a good boy!
+--------------------------------------------------End--
+
+A summoner came to this village not
+long ago. Now what was his name?
+--------------------------------------------------End--
+
+Looks like you got
+over the toxin, ya?
+--------------------------------------------------End--
+
+Sir {Luzzu} and the others aren't back.
+What could have happened?
+--------------------------------------------------End--
+
+It is true Lady {Yuna}'s a traitor?
+No one here believes that at all!
+--------------------------------------------------End--
+
+We got letters from the {Aurochs}!
+They're doing great in {Luca}, ya?
+--------------------------------------------------End--
+
+I wonder if {Sin} is really
+going to go away?
+--------------------------------------------------End--
+
+Long as I'm around, {Besaid}'s weaving
+will be known as nothing but the best!
+--------------------------------------------------End--
+
+Don't you worry. The summoner will
+return, I know it.
+--------------------------------------------------End--
+
+Worrying over a few hours delay
+is nothing but a lack of faith!
+--------------------------------------------------End--
+
+Even should {Sin} come tomorrow,
+life is the same today.
+{NEWPAGE}
+
+We live and we work.
+--------------------------------------------------End--
+
+Who cares who they're calling traitor.
+Defeat {Sin}, and it'll all be forgotten!
+--------------------------------------------------End--
+
+Wait for the Calm to come before rejoicing.
+Wouldn't want any...false hope.
+--------------------------------------------------End--
+
+I am sure that Lord {Braska} is
+watching over our apprentice summoner.
+--------------------------------------------------End--
+
+On a hot day like today,
+it's best to be in the shade, ya?
+--------------------------------------------------End--
+
+I wove so much last month. All lost
+when {Sin} destroyed my boat.
+--------------------------------------------------End--
+
+You the one they say
+came from the sea?
+{NEWPAGE}
+
+Toxin's still got you, ya?
+You go ahead and rest up.
+--------------------------------------------------End--
+
+Gone for a night and a day now.
+I'm too worried to speak!
+--------------------------------------------------End--
+
+Though I'm sure nothing bad is
+happening. Not to that summoner.
+--------------------------------------------------End--
+
+I'm glad the ferry's on its way,
+but {Sin} will be back, he will.
+--------------------------------------------------End--
+
+I've heard that the {Crusader}s that
+fought {Sin} were defeated!
+{NEWPAGE}
+
+What terrible news! It's because
+they turned their backs on the teachings!
+--------------------------------------------------End--
+
+When those children calling themselves
+{Crusader}s come back, they're in for a scolding.
+--------------------------------------------------End--
+
+All these warrior monks were here
+looking for Lady {Yuna}.
+--------------------------------------------------End--
+
+If Lady {Yuna} defeats {Sin} I'm sure
+those nasty rumors will go away.
+--------------------------------------------------End--
+
+I wonder who was riding
+on that ship in the sky?
+--------------------------------------------------End--
+
+Everyone in the village is
+all excited about that flying ship.
+{NEWPAGE}
+
+Heck, I bet all
+of {Spira}'s worked up!
+--------------------------------------------------End--
+
+Welcome!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Buy items.
+{CHOICE:31}Leave.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Buy weapons.
+{CHOICE:31}Buy items.
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+
+Thank you! Come again!
+--------------------------------------------------End--
+
+Why isn't the apprentice
+summoner back yet?
+--------------------------------------------------End--
+
+You're going with Lady {Yuna}?
+Does that mean you're a guardian?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}No way.
+{CHOICE:31}Maybe so.
+--------------------------------------------------End--
+
+You're saving it for the tournament then!
+The {Aurochs} have got to win this year!
+--------------------------------------------------End--
+
+If there's anything you need
+to know about guardians, ask {Lulu}.
+{NEWPAGE}
+
+{Lulu} knows everything. She'll be a
+bigger help than {Wakka} for sure.
+--------------------------------------------------End--
+
+I hope your toxin wears off soon.
+{NEWPAGE}
+
+I'll sneak in a prayer for you
+when I pray for Lady {Yuna}.
+--------------------------------------------------End--
+
+You're the talk of the town, you know?
+Word travels fast in a village this size.
+--------------------------------------------------End--
+
+I hope the {Aurochs} don't lose
+their first match again.
+{NEWPAGE}
+
+I'd like to see them at least
+tie a game one of these years.
+--------------------------------------------------End--
+
+I'm sure everything's fine.
+--------------------------------------------------End--
+
+Don't say that again.
+Please.
+--------------------------------------------------End--
+
+The apprentice hasn't returned.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Huh? Apprentice?
+{CHOICE:31}Hasn't returned from where?
+--------------------------------------------------End--
+
+The apprentice is the apprentice!
+The apprentice summoner, ya?
+--------------------------------------------------End--
+
+The Cloister of Trials!
+It's been a day already.
+--------------------------------------------------End--
+
+Yevon be with us...
+--------------------------------------------------End--
+
+I'm watching the store while
+sis is off praying.
+--------------------------------------------------End--
+
+Buy more!
+Support the local economy!
+--------------------------------------------------End--
+
+Come back soon!
+{NEWPAGE}
+
+You know a funny thing happened.
+{NEWPAGE}
+
+My dog dug something up
+yesterday. I wonder what it was.
+--------------------------------------------------End--
+
+I can't believe {Wakka}'s
+leaving the team.
+{NEWPAGE}
+
+With you and {Wakka} there, the {Aurochs}
+would have the winning streak of the century!
+--------------------------------------------------End--
+
+I wonder if we'll get more customers
+now that the ferry's up and running again.
+--------------------------------------------------End--
+
+Those monks looking for Lady {Yuna} said
+that only traitors harbor traitors!
+{NEWPAGE}
+
+Can you believe it? And they're the
+ones guarding the temples?
+--------------------------------------------------End--
+
+The {Aurochs} are still in {Luca}, ya?
+You should pay 'em a visit sometime.
+--------------------------------------------------End--
+
+What happened to the flying ship?
+I hope it made it through the fight.
+--------------------------------------------------End--
+
+Just between me and you, I hear that
+there's no maesters left anymore!
+--------------------------------------------------End--
+
+Here, have this.
+This little fella brought it.
+{NEWPAGE}
+
+I can't figure what it is either.
+You go ahead and take a look.
+--------------------------------------------------End--
+
+Who are you, mister?
+Where you from?
+--------------------------------------------------End--
+
+The apprentice entered the trials,
+and hasn't come back...
+--------------------------------------------------End--
+
+I'm sure Lady {Yuna} will have
+lots of stories when she gets back.
+--------------------------------------------------End--
+
+Another summoner came here by boat.
+He was a nice guy.
+{NEWPAGE}
+
+But I like Lady {Yuna} much better!
+--------------------------------------------------End--
+
+When the Calm comes, Lady {Yuna}
+has to come back so we can celebrate!
+--------------------------------------------------End--
+
+What's a trader? I asked the
+monk, but he won't tell me.
+--------------------------------------------------End--
+
+If that flying ship comes back
+I'm gonna sing real loud!
+--------------------------------------------------End--
+
+He's got something in his mouth.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Yellow}something
+mangled and slobbery{White}!
+--------------------------------------------------End--
+
+Fiends are around even during the day.
+Take care not to travel alone, ya?
+--------------------------------------------------End--
+
+You know it's too dangerous.
+Sorry, but you can't pass.
+--------------------------------------------------End--
+
+I hope the apprentice is well.
+--------------------------------------------------End--
+
+Instead of just loafing around
+you should be praying, too.
+--------------------------------------------------End--
+
+Sir {Luzzu} and his troops are on a mission.
+I'm on watch duty.
+--------------------------------------------------End--
+
+Really, it should've been {Gatta} on watch,
+but he made them take him along, ya?
+{NEWPAGE}
+
+I guess new recruits are always eager,
+but this ain't no training mission.
+--------------------------------------------------End--
+
+Like to take a rest?
+Got to keep sharp, ya?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'd like a nap.
+{CHOICE:31}Maybe later.
+--------------------------------------------------End--
+
+Compared to the ones we fought during
+the operation, {Besaid} fiends are easy!
+--------------------------------------------------End--
+
+I did my time in battle!
+Fiends are no problem.
+--------------------------------------------------End--
+
+That flying ship looked like an {Al Bhed}
+machina to me. Hope it works this time.
+--------------------------------------------------End--
+
+The Crusaders Lodge is open
+to guests. Take a rest?
+--------------------------------------------------End--
+
+I want to go to the temple, but
+there's an operation to prepare for.
+--------------------------------------------------End--
+
+{Wakka} and the others
+are waiting outside!
+--------------------------------------------------End--
+
+I had a run-in with {Sin}'s
+toxin before too, you know?
+{NEWPAGE}
+
+I'm a lot better now, but
+things were pretty bad for a while.
+{NEWPAGE}
+
+Couldn't remember who I was or
+where I came from! Scary, ya?
+{NEWPAGE}
+
+Man, I nearly cried,
+and that's the truth!
+--------------------------------------------------End--
+
+I got better, but only after
+praying at the temple a lot.
+--------------------------------------------------End--
+
+You should try praying. It worked
+for me--it'll work for you, too.
+--------------------------------------------------End--
+
+I hope I get over the toxin quick.
+The big operation's coming up!
+--------------------------------------------------End--
+
+You looking for {Wakka}? The priest
+called him to the temple a while back.
+--------------------------------------------------End--
+
+I haven't fully healed from {Sin}'s
+toxin so I'm on guard detail.
+{NEWPAGE}
+
+Don't get me wrong, I'd rather be
+with my buddies.
+{NEWPAGE}
+
+But I'm a little relieved. This
+operation's gonna be dangerous, you know?
+--------------------------------------------------End--
+
+You should try praying. It worked
+for me--it'll work for you, too.
+--------------------------------------------------End--
+
+I'm praying for Sir {Luzzu}'s and the others'
+safety. Yevon knows they'll need it.
+--------------------------------------------------End--
+
+Of course, with the {Crusader}s excommunicated,
+I'm not supposed to be in the temple.
+{NEWPAGE}
+
+But the priest let me in special.
+Guess he's not all precepts after all.
+--------------------------------------------------End--
+
+Just a bunch of empty beds
+without people to sleep in them.
+--------------------------------------------------End--
+
+I can't believe {Operation Mi'ihen}
+was a failure. I just can't.
+--------------------------------------------------End--
+
+I just pray everyone makes
+it back okay. Please.
+--------------------------------------------------End--
+
+Praying won't keep fiends away.
+It takes {Crusader}s to defend {Besaid}.
+--------------------------------------------------End--
+
+The toxin finally wore off. Now to
+make up for all my downtime, ya?
+--------------------------------------------------End--
+
+The battle with {Sin} ain't over yet...
+I wish there was something we could do.
+--------------------------------------------------End--
+
+I'm fixing a hole where the
+rain gets in.
+--------------------------------------------------End--
+
+Rent's free, but I've been working
+like a dog just fixing the place.
+--------------------------------------------------End--
+
+{Sin}'s struck {Besaid} Village
+so many times I lost count.
+{NEWPAGE}
+
+After this house got hit I guess
+the owner just let it be.
+--------------------------------------------------End--
+
+{Sin} will just come back and
+destroy it again. Sometimes
+I wonder why I bother.
+--------------------------------------------------End--
+
+He looks pretty weak.
+Maybe he just can't take it.
+--------------------------------------------------End--
+
+I guess I'll just keep fixing the leaks
+until the {Crusader}s get back.
+--------------------------------------------------End--
+
+The {Crusader}s sure try hard,
+but I don't think they got what
+it takes to beat {Sin}, ya?
+--------------------------------------------------End--
+
+Sir {Luzzu} and {Gatta} aren't back yet.
+What if they died in battle?
+{NEWPAGE}
+
+Or maybe they're just so ashamed
+they don't want to come home.
+--------------------------------------------------End--
+
+Seems the fiends have increased
+with the {Crusader}s gone.
+--------------------------------------------------End--
+
+I'm no fiend-fighter, so I fix things
+and help the {Crusader}s that way.
+--------------------------------------------------End--
+
+Sir {Luzzu} won't admit it,
+but he's really down.
+{NEWPAGE}
+
+I think he feels guilty about
+{Gatta} dying, you know?
+--------------------------------------------------End--
+
+Sir {Gatta} was gloomy as ever after
+he returned from the operation.
+{NEWPAGE}
+
+Thankfully, his new post as leader
+of the {Besaid} {Crusader}s seems to
+have lifted his spirits.
+--------------------------------------------------End--
+
+I heard the {Sin} toxin got to you.
+Took your memory, eh?
+--------------------------------------------------End--
+
+I'd be happy to teach you anything
+you've forgotten, sonny.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}What's Sin?
+{CHOICE:31}What's toxin?
+{CHOICE:32}What's Yevon?
+{CHOICE:33}What's Zanarkand?
+{CHOICE:34}No, thanks, gramps.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}What's Sin?
+{CHOICE:31}What's toxin?
+{CHOICE:32}What's Yevon?
+{CHOICE:33}What's Zanarkand?
+{CHOICE:34}What's a high summoner?
+{CHOICE:35}No, thanks, gramps.
+--------------------------------------------------End--
+
+Maybe if I remind you of some things,
+you'll remember who you are!
+{NEWPAGE}
+
+--------------------------------------------------End--
+
+Something else you'd
+like to know, eh?
+--------------------------------------------------End--
+
+How could you forget {Sin}?
+I can't say I don't envy you, though.
+{NEWPAGE}
+
+There's many who would give anything
+to forget the pain {Sin} has brought.
+{NEWPAGE}
+
+{Sin} appeared a thousand years ago,
+a raging demon intent on reducing {Spira}
+to rubble.
+{NEWPAGE}
+
+Everyone in {Spira} lives
+under {Sin}'s black shadow.
+{NEWPAGE}
+
+But to forget {Sin}...well,
+I'd consider yourself lucky, eh?
+--------------------------------------------------End--
+
+{Sin} appeared one thousand years ago,
+a raging demon intent on reducing
+{Spira} to rubble.
+{NEWPAGE}
+
+Everyone in {Spira} lives
+under {Sin}'s black shadow.
+{NEWPAGE}
+
+But to forget {Sin}...well,
+I'd consider yourself lucky, eh?
+--------------------------------------------------End--
+
+The foul vapors that boil from
+{Sin}'s hide are evil indeed...
+{NEWPAGE}
+
+One breath, and it will taint
+the very core of your body.
+{NEWPAGE}
+
+People who get too close to {Sin} forget
+even the most important things.
+{NEWPAGE}
+
+Just like you, eh?
+--------------------------------------------------End--
+
+How wretched you must be, to have
+forgotten the teachings of {Yevon2}!
+{NEWPAGE}
+
+The teachings are the only salvation
+for those who suffer because of {Sin}.
+{NEWPAGE}
+
+I'm sure you followed the teachings,
+before the toxin got to you, of course.
+{NEWPAGE}
+
+Go pray at the temple,
+and all will return in time.
+--------------------------------------------------End--
+
+Zanarkand was once a great city
+in the far north of this land.
+{NEWPAGE}
+
+Now it lies in ruin, destroyed
+by {Sin} a thousand years ago.
+{NEWPAGE}
+
+Such was its punishment for
+relying too much on machina.
+--------------------------------------------------End--
+
+One of the four summoners that
+fought {Sin} in the past.
+{NEWPAGE}
+
+Lord {Ohalland}, Lord {Gandof},
+Lady {Yocun} and Lord {Braska}, it was.
+{NEWPAGE}
+
+{Spira} would have fallen to {Sin} long ago
+if the high summoners weren't around!
+--------------------------------------------------End--
+
+Sorry I can't do more to help.
+You understand, eh, sonny?
+{NEWPAGE}
+
+The whole village's all wound up, with
+the apprentice not back from the trials.
+--------------------------------------------------End--
+
+All this worrying's no good
+for an old man like myself.
+--------------------------------------------------End--
+
+I'm sure you'd like to know
+more before you head out, eh?
+--------------------------------------------------End--
+
+Some wild youngsters are saying
+the {Aurochs} won after a 23-year
+losing streak!
+{NEWPAGE}
+
+Yeah, well that'll be the day!
+{Aurochs} winning? Heh! Heheheh!
+--------------------------------------------------End--
+
+Looks like you got over the toxin.
+Praise be to {Yevon2}, eh?
+--------------------------------------------------End--
+
+We {Besaid}ers all know
+Lady {Yuna}'s no traitor.
+{NEWPAGE}
+
+The daughter of Lord {Braska}
+turning against Yevon? Hogwash!
+--------------------------------------------------End--
+
+We simple folk ain't got a clue
+what them temple elders are thinking.
+--------------------------------------------------End--
+
+I think I'll stick around long enough to
+see {Sin} get what's coming to it! Heh!
+--------------------------------------------------End--
+
+Me favorite's Lord Ohalland, ya?
+Spitting image of me old hubby.
+--------------------------------------------------End--
+
+With Lord {Braska} looking over her,
+I'm sure she'll be returning, ya?
+--------------------------------------------------End--
+
+What do you want, heathen?
+--------------------------------------------------End--
+
+I've nothing to say to a
+breaker of the precepts!
+--------------------------------------------------End--
+
+Do not disturb our
+prayers, heathen!
+--------------------------------------------------End--
+
+What? You? A guardian?
+The toxin still got you, eh?
+--------------------------------------------------End--
+
+What trick have you pulled
+on the good Lady {Yuna}?
+--------------------------------------------------End--
+
+I made up me mind to pray every
+day till Lady {Yuna}'s Calm begins.
+--------------------------------------------------End--
+
+When the Calm comes, we'll be putting
+up a statue of a new high summoner.
+--------------------------------------------------End--
+
+Sin's toxin?
+Nah, you don't look sick.
+{NEWPAGE}
+
+You must have not breathed in
+much of the stuff, ya?
+{NEWPAGE}
+
+Guess being a blitz player means you
+can hold your breath pretty good.
+--------------------------------------------------End--
+
+I wanted to be a blitzer way back when.
+I just couldn't hold my breath.
+--------------------------------------------------End--
+
+Mainlanders love the fabrics
+we weave here in {Besaid}.
+--------------------------------------------------End--
+
+I suppose you can't run a
+business on tradition alone, ya?
+--------------------------------------------------End--
+
+The village was attacked by {Sin}
+when I was just a little kid, ya?
+{NEWPAGE}
+
+The village was burnt to ashes...
+I still have nightmares of that day.
+--------------------------------------------------End--
+
+I got a bad feeling, ya?
+--------------------------------------------------End--
+
+Well, the last summoner
+almost...
+--------------------------------------------------End--
+
+Ah, my apologies.
+--------------------------------------------------End--
+
+Without breaking the precepts,
+all we can do is pray, ya?
+--------------------------------------------------End--
+
+I heard {Kilika} was attacked, ya?
+Wh-What if {Besaid}'s next?
+--------------------------------------------------End--
+
+I'm so scared of {Sin} I can't
+think straight, but the old man
+will have my hide if I mess up.
+--------------------------------------------------End--
+
+I bet me praying every day helped
+the {Aurochs} finally win, ya?
+--------------------------------------------------End--
+
+There's a reward being offered
+for news of the traitors.
+{NEWPAGE}
+
+No one here'd think of saying
+nothing, but watch out on the road.
+--------------------------------------------------End--
+
+I wonder how things are on the mainland.
+We don't get much news down here.
+--------------------------------------------------End--
+
+Sounds like that poppycock about
+Lady {Yuna} finally got cleared up.
+--------------------------------------------------End--
+
+Now if {Sin}'d just go away,
+we'd have nothing to worry about.
+--------------------------------------------------End--
+
+It's hard to work with the
+Calm right around the corner!
+--------------------------------------------------End--
+
+May the apprentice summoner
+return to us safely.
+--------------------------------------------------End--
+
+{Yevon2}'s teachings are our
+staff and our guide in life.
+{NEWPAGE}
+
+Without the teachings, we'd just
+live every day in fear of {Sin}.
+--------------------------------------------------End--
+
+It...It's like we were
+born to live in fear.
+--------------------------------------------------End--
+
+May the protection of {Yevon2}
+be with our apprentice.
+--------------------------------------------------End--
+
+Please, guide Lady {Yuna}'s
+travels well.
+--------------------------------------------------End--
+
+When I think about Lady {Yuna}'s
+journey, I wonder if praying is enough.
+--------------------------------------------------End--
+
+I'm sure she'll be fine.
+{Lulu}'s with her and all.
+--------------------------------------------------End--
+
+It's the machina's fault that so
+many of our {Crusader}s died.
+{NEWPAGE}
+
+So many lives wasted...
+and for what gain?
+--------------------------------------------------End--
+
+You should watch yourself.
+Never go against the teachings.
+--------------------------------------------------End--
+
+How unfortunate that Lady {Yuna}'s
+engagement to {Master Seymor}
+was put off.
+--------------------------------------------------End--
+
+I can't believe Lady {Yuna} would ever
+turn her back to the teachings! Never!
+--------------------------------------------------End--
+
+I pray that the next Calm
+will last a long time.
+--------------------------------------------------End--
+
+Please let the Aurochs
+score at least one goal.
+--------------------------------------------------End--
+
+{Wakka}'s a guardian.
+He should go help.
+--------------------------------------------------End--
+
+I'm gonna pray for
+Lady {Yuna} every day!
+--------------------------------------------------End--
+
+When I was born, Lord {Braska} and
+two guardians came to our village.
+--------------------------------------------------End--
+
+Let Lady {Yuna} defeat {Sin}...
+Soon...
+--------------------------------------------------End--
+
+The priest told me the story of
+Lady {Yunalesca} and Lord {Zaon}.
+{NEWPAGE}
+
+{Spira}'s here today because
+of what Lady {Yunalesca} did.
+--------------------------------------------------End--
+
+If I was strong like Lord {Zaon}
+I could have been a guardian, too.
+--------------------------------------------------End--
+
+Only sworn guardians may
+approach the Cloister of Trials.
+--------------------------------------------------End--
+
+Pray hard, and the toxin will
+surely release its grip on you.
+--------------------------------------------------End--
+
+The high summoners, in order from
+the right: Lord {Braska}, Lady Yocun...
+{NEWPAGE}
+
+Lord Ohalland, and Lord Gandof.
+Do you remember them now?
+--------------------------------------------------End--
+
+Putting your transgression aside
+for now, let us celebrate the birth
+of a summoner!
+--------------------------------------------------End--
+
+Quickly, to the village square!
+Share in our joy!
+--------------------------------------------------End--
+
+Perhaps your transgression shall
+be pardoned on account of the toxin.
+{NEWPAGE}
+
+But just this once.
+Follow the teachings, my son.
+--------------------------------------------------End--
+
+The {Crusader}s are planning an operation
+that defies the teachings of {Yevon2}.
+{NEWPAGE}
+
+It is a pity. The loss of {Chappu} should
+be lesson enough to follow the teachings.
+--------------------------------------------------End--
+
+You look better than you did yesterday.
+Has {Sin}'s toxin weakened its grip?
+--------------------------------------------------End--
+
+The summoner undergoes the trials.
+We must not interfere.
+--------------------------------------------------End--
+
+I've not told the people yet, but I
+hear {Maester Mika2} has passed away.
+{NEWPAGE}
+
+What is going on in {Bevelle}?
+--------------------------------------------------End--
+
+The chaos in the temple only
+serves to worry the people.
+--------------------------------------------------End--
+
+This ship of the air, could it
+be an {Al Bhed} machina?
+{NEWPAGE}
+
+I'm not sure whether to
+cheer or condemn it.
+--------------------------------------------------End--
+
+Even searching the Scriptures of {Yevon2},
+I have found no cure for {Sin}'s toxin.
+{NEWPAGE}
+
+May the blessing of {Yevon2}
+guide you to health, friend.
+--------------------------------------------------End--
+
+I, too, will pray for the
+blessing of {Yevon2} to shine upon you.
+--------------------------------------------------End--
+
+My heart is heavy when I think
+of the worst that could happen.
+{NEWPAGE}
+
+Should the Trials remain unconquered,
+our apprentice has no future.
+--------------------------------------------------End--
+
+Great strength is only obtained
+through great suffering.
+--------------------------------------------------End--
+
+Let us greet the {Crusader}s
+warmly when they arrive.
+{NEWPAGE}
+
+Returning them to the true path
+is my duty as a follower of Yevon.
+--------------------------------------------------End--
+
+It appears the summoner's pilgrimage
+goes well! Very good, very good.
+--------------------------------------------------End--
+
+All word from {St. Bevelle}
+has ceased.
+{NEWPAGE}
+
+None of the temples know
+which way to turn.
+--------------------------------------------------End--
+
+You've been a stranger to
+the temples lately, I hear.
+{NEWPAGE}
+
+Be at peace. Come what may, you
+are always welcome at our temple.
+--------------------------------------------------End--
+
+Even the teachings of a thousand years
+are due for an update once in a while.
+--------------------------------------------------End--
+
+Why, if {Sin} is defeated, we may
+no longer need {Yevon2}'s guidance.
+--------------------------------------------------End--
+
+{Besaid}'s devotion to the teachings
+of {Yevon2} is commendable.
+{NEWPAGE}
+
+Still, there is much for a priestess
+such as I to teach them.
+--------------------------------------------------End--
+
+I appreciate the {Crusader}s' zeal,
+but they must heed the teachings.
+--------------------------------------------------End--
+
+With the statues' guidance, I'm
+sure our apprentice is doing fine.
+--------------------------------------------------End--
+
+Pray at the temple, and you may
+just overcome {Sin}'s toxin.
+--------------------------------------------------End--
+
+I don't mean to be rude, but
+some privacy would be appreciated.
+{NEWPAGE}
+
+I must pray for our apprentice
+summoner, you understand.
+--------------------------------------------------End--
+
+The people of the village could use
+your help. You should pray, too.
+--------------------------------------------------End--
+
+I suppose we'll have to call our
+apprentice Lady {Yuna} now.
+--------------------------------------------------End--
+
+And you, heathen. Know that the
+teachings are the only true guide!
+--------------------------------------------------End--
+
+The summoner embarks on a perilous
+pilgrimage to save the people.
+{NEWPAGE}
+
+We must pray from the very
+bottom of our hearts for her success.
+--------------------------------------------------End--
+
+Fear not! The toxin will heal.
+--------------------------------------------------End--
+
+I appreciate the {Crusader}s' zeal,
+but they must heed the teachings.
+--------------------------------------------------End--
+
+The people of the island all pray
+for Lady {Yuna}'s safety.
+{NEWPAGE}
+
+I'm doing my part, too.
+--------------------------------------------------End--
+
+Word of Lady {Yuna}'s achievements
+has reached this island, too.
+--------------------------------------------------End--
+
+I hear you've become a guardian!
+May you guard Lady {Yuna} well.
+--------------------------------------------------End--
+
+Even here in {Besaid} we've got
+orders to arrest Lady {Yuna}.
+{NEWPAGE}
+
+Nobody knows what to do, but we
+certainly wouldn't do THAT!
+--------------------------------------------------End--
+
+Those warrior monks that came to the
+island were just a bunch of crooks, ya?
+--------------------------------------------------End--
+
+Who can the people of {Yevon2} turn
+to now that {Maester Mika2} is gone?
+--------------------------------------------------End--
+
+I've followed the teachings of {Yevon2}
+ever since I was a child.
+{NEWPAGE}
+
+Even should the temple fall,
+I will keep praying. I will.
+--------------------------------------------------End--
+
+The {Besaid} fabrics they make
+here are famous all over Spira!
+{NEWPAGE}
+
+If I buy cheap and sell high,
+I'll be rolling in Gil in no time!
+--------------------------------------------------End--
+
+Take a look. Even with the village
+in turmoil, they just weave away.
+{NEWPAGE}
+
+Now that's the true sign
+of a professional!
+--------------------------------------------------End--
+
+Hey, I'm worried too!
+But all we can do is wait.
+--------------------------------------------------End--
+
+That old coot dropped what he was
+doing to go see the summoner off.
+{NEWPAGE}
+
+Now I gotta do all his work, too!
+It's just not fair.
+--------------------------------------------------End--
+
+Sorry, no time to talk.
+Rover starts barking when I slack off.
+--------------------------------------------------End--
+
+One recruit ain't gonna make
+the {Aurochs} winners!
+{NEWPAGE}
+
+They'll lose in the first round
+again, leaving us {Luca Goers} to
+pick up the cup!
+--------------------------------------------------End--
+
+I hear the {Crusader}s' operation goes
+right against the teachings of {Yevon2}!
+{NEWPAGE}
+
+They're way out of their league, if
+you ask me. Leave {Sin} to the summoners!
+--------------------------------------------------End--
+
+I heard you whooped 'em good
+at the tournament in {Luca}!
+{NEWPAGE}
+
+Maybe the {Aurochs}' winning will
+be good for the weaving business, ya?
+--------------------------------------------------End--
+
+Heard the {Crusader}s got their butts
+kicked. They had it coming, if you ask me.
+--------------------------------------------------End--
+
+I'm sure impressed
+with the old man, ya?
+{NEWPAGE}
+
+If {Sin} showed up, I bet he'd stare
+it in the eye and just keep on working!
+--------------------------------------------------End--
+
+Well, if it ain't the traitors!
+You got some nerve coming here!
+--------------------------------------------------End--
+
+Hey, hey, just kidding!
+No need to glare, ya?
+--------------------------------------------------End--
+
+I hear things at the temples are a mess.
+Bad for business, I tell you.
+--------------------------------------------------End--
+
+I'll admit it, I didn't believe that story
+about the flying ship! Who would?
+{NEWPAGE}
+
+When it came flying over town,
+whoowee! I nearly up and died.
+--------------------------------------------------End--
+
+When that ship came, the old man,
+he kept working while he sang!
+--------------------------------------------------End--
+
+I travelled Spira looking for a land
+where nobody had heard of {Sin}.
+{NEWPAGE}
+
+I...I gave up looking.
+I think it's for the best.
+--------------------------------------------------End--
+
+The village where I was born is
+no longer there, thanks to {Sin}.
+--------------------------------------------------End--
+
+The villagers have a lot on their minds.
+You should stay quiet for a while.
+{NEWPAGE}
+
+Intoxication is no excuse for
+bothering people with questions.
+--------------------------------------------------End--
+
+Most of the villagers went down
+to say farewell at the dock.
+{NEWPAGE}
+
+Our summoner's leaving.
+Aw, I've never liked goodbyes.
+--------------------------------------------------End--
+
+Careful not to break any more precepts,
+or you'll end up like the {Crusader}s!
+--------------------------------------------------End--
+
+A summoner named Lord {Isaaru} came
+to the village, but he left so soon.
+--------------------------------------------------End--
+
+The {Crusader}s' operation failed
+as expected, because they used machina!
+--------------------------------------------------End--
+
+{Operation Mi'ihen} was a crushing loss
+for the {Crusader}s, but they're
+rallying together from every land.
+{NEWPAGE}
+
+Much better than those warrior monks.
+They're all holed up in {Bevelle}, I hear.
+--------------------------------------------------End--
+
+It's funny that the {Crusader}s are
+the ones protecting us, even after
+being excommunicated.
+--------------------------------------------------End--
+
+Maybe I should learn {Besaid}
+weaving...make a place for myself here.
+--------------------------------------------------End--
+
+I doubt some old song is going
+to help anyone beat {Sin}.
+--------------------------------------------------End--
+
+Seafaring is hard work. Gotta kick
+back sometimes. Get some R & R, ya?
+--------------------------------------------------End--
+
+Is it true that {Sin}
+showed up near here?
+{NEWPAGE}
+
+Oh boy! And the S.S. Liki's
+scheduled to leave any day now.
+--------------------------------------------------End--
+
+I sure hope we don't run into
+{Sin} on our next voyage.
+--------------------------------------------------End--
+
+I saw the apprentice summoner and two
+guardians enter the temple yesterday.
+{NEWPAGE}
+
+Everything looked alright then.
+But now I'm starting to worry.
+--------------------------------------------------End--
+
+I do hope they come back safely.
+--------------------------------------------------End--
+
+I'm gonna kick back in town
+till the next ship gets here.
+--------------------------------------------------End--
+
+There's no time to rest out there.
+Never know when {Sin} will show up.
+--------------------------------------------------End--
+
+If you muck around here,
+the ship will leave without you!
+{NEWPAGE}
+
+And the next boat won't be here
+for a while. Better hurry, ya?
+--------------------------------------------------End--
+
+I really, really hope we don't
+run into {Sin} on this voyage.
+--------------------------------------------------End--
+
+Someone saw an {Al Bhed}
+ship near the island.
+{NEWPAGE}
+
+Wonder what they're up
+to in these waters?
+--------------------------------------------------End--
+
+I kinda got to liking this town.
+Maybe I'll give up seafaring.
+--------------------------------------------------End--
+
+One of my friends is on your ship.
+I'll pray for both of you.
+--------------------------------------------------End--
+
+I heard the {Guado} blew up
+the {Al Bhed}'s home!
+{NEWPAGE}
+
+I got no love for the {Al Bhed},
+but that's going too far.
+--------------------------------------------------End--
+
+No matter what happens in the
+temples, it's life as usual here.
+--------------------------------------------------End--
+
+Seems kind of odd to pray
+for the temples' sake, ya?
+--------------------------------------------------End--
+
+That flying ship was spectacular!
+Those {Al Bhed} might have something there.
+--------------------------------------------------End--

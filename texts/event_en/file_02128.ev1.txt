@@ -1,0 +1,315 @@
+{WINDOW}
+Battle with Al Bhed Machina
+    {CHOICE:30}Waiting for Command
+    {CHOICE:31}Seamless Test
+    {CHOICE:32}Retry Event
+    {CHOICE:33}Unconditional Win
+--------------------------------------------------End--
+
+A-Are they gone?
+What are machina doing here?
+--------------------------------------------------End--
+
+A watchman is posted at
+every dock for your safety.
+--------------------------------------------------End--
+
+To my left is {Blue}dock number 2{White} and
+to my right is {Blue}dock number 4{White}.
+--------------------------------------------------End--
+
+Lord Seymour will lead the
+Guado to eternal repose.
+--------------------------------------------------End--
+
+Seems like they scaled back on security
+this year. Hope nothing bad happens.
+--------------------------------------------------End--
+
+Hey, hey, hey! You can't board a
+military vessel without permission!
+--------------------------------------------------End--
+
+If I were ten years younger, those
+machina would be scrap metal!
+--------------------------------------------------End--
+
+I'm terribly sorry, but no one
+is allowed to board this ship.
+--------------------------------------------------End--
+
+I'm really glad I got assigned to {Luca}.
+I can catch the game on my day off.
+--------------------------------------------------End--
+
+Machina are an unholy abomination!
+We must destroy them all!
+--------------------------------------------------End--
+
+I am patrolling the area!
+--------------------------------------------------End--
+
+{Maester Kinoc} sent us
+here to protect {Luca}!
+--------------------------------------------------End--
+
+We don't need your help!
+The warrior monks will guard
+the maester's vessel just fine!
+--------------------------------------------------End--
+
+Don't confuse us with those heathen
+Crusaders. Warrior monks are the
+true defenders of Yevon!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+Bickson
+The battle against {Sin} is
+reaching its climax!
+We can't let our fans down now.
+--------------------------------------------------End--
+Bickson
+Whether you're a traitor or not
+means nothing in the sphere pool.
+--------------------------------------------------End--
+Bickson
+The Goers must always dominate.
+After all, our fans demand
+nothing less!
+--------------------------------------------------End--
+Bickson
+Our biggest mistake was going
+too easy on you {Aurochs}.
+We won't hold back next time.
+--------------------------------------------------End--
+Bickson
+We {Luca Goers} will always
+be on top. Crawl your way
+up if you think you can.
+--------------------------------------------------End--
+Graav
+The Calm? I've got more
+important things to worry
+about--like the next game.
+--------------------------------------------------End--
+Graav
+We're going to keep on blitzing no
+matter what becomes of the temple.
+--------------------------------------------------End--
+Graav
+Instead of wasting so much
+time strolling around,
+why not work on your game?
+--------------------------------------------------End--
+Graav
+I consider your victory
+a total fluke.
+--------------------------------------------------End--
+Graav
+Just be grateful that your
+twenty-three-year losing
+streak is finally over.
+--------------------------------------------------End--
+Abus
+The players and the fans all sang
+the Hymn when the ship flew by.
+--------------------------------------------------End--
+Abus
+Rumor has it that you guys are traitors.
+Some people sure talk rubbish.
+--------------------------------------------------End--
+Abus
+I'm grateful that the warrior monks
+are here to protect {Luca}, but
+aren't there a few too many?
+--------------------------------------------------End--
+Abus
+We thought you'd be a pushover.
+You {Aurochs} sure have improved!
+--------------------------------------------------End--
+Abus
+Another tournament, another victory...
+But no parade, thanks to those fiends.
+--------------------------------------------------End--
+Doram
+That flying ship is an {Al Bhed}
+machina, right? Do you think
+it can really beat {Sin}?
+--------------------------------------------------End--
+Doram
+You always seem to be walking around.
+When do you have time to practice?
+--------------------------------------------------End--
+Doram
+You're a guardian now, right?
+Are you still going to blitz?
+--------------------------------------------------End--
+Doram
+We didn't lose to the {Aurochs}, we lost
+to {Wakka}'s spirit and dedication.
+--------------------------------------------------End--
+Doram
+Hey, great game! So you're not
+just a pretty boy after all.
+--------------------------------------------------End--
+Balgerda
+Everyone's wondering who the next
+grand maester will be, but we blitzers
+have other things to worry about.
+--------------------------------------------------End--
+Balgerda
+What in Spira's name is the
+temple thinking these days?
+--------------------------------------------------End--
+Balgerda
+So many warrior monks
+watch the games.
+Have they no sense of duty?
+--------------------------------------------------End--
+Balgerda
+How could we lose to the {Aurochs},
+of all teams? This is a disgrace!
+--------------------------------------------------End--
+Balgerda
+Had enough?
+Come back when you're a man.
+--------------------------------------------------End--
+Raudy
+I don't know who's flying that ship,
+but I just hope they get the job done.
+--------------------------------------------------End--
+Raudy
+Both the Ronso and the
+Al Bhed teams play extra hard
+to help cheer their fans up.
+--------------------------------------------------End--
+Raudy
+I hear the {Crusader}s failed
+miserably. As expected.
+--------------------------------------------------End--
+Raudy
+We're just lending you the trophy
+until next year's tournament.
+Keep it nice and shiny for us.
+--------------------------------------------------End--
+Raudy
+How can the {Aurochs} be runners-up?
+The competition these days just
+ain't what it used to be.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+    {CHOICE:30}Quit
+    {CHOICE:31}Update Map Data
+    {CHOICE:32}The Other Dock 3
+    {CHOICE:33}Control Map Line
+    {CHOICE:34}Return to Saito
+--------------------------------------------------End--

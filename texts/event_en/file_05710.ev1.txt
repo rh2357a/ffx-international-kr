@@ -1,0 +1,81 @@
+{Rikku}
+No, not that way!
+--------------------------------------------------End--
+
+Enter the password
+in proper {Al Bhed3}!
+--------------------------------------------------End--
+
+Sorry
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Tally{CHOICE:FF}{VAR07:54}{CHOICE:31}Tarry{CHOICE:FF}{VAR07:68}{CHOICE:32}Lorry{CHOICE:FF}
+{CHOICE:33}Rally{CHOICE:FF}{VAR07:54}{CHOICE:34}Worry{CHOICE:FF}{VAR07:68}{CHOICE:35}Lilly{CHOICE:FF}
+{CHOICE:36}Carry{CHOICE:FF}{VAR07:54}{CHOICE:37}Sorry{CHOICE:FF}{VAR07:68}{CHOICE:38}Filly{CHOICE:FF}
+--------------------------------------------------End--
+
+Wait
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Howl{CHOICE:FF}{VAR07:54}{CHOICE:31}Bear{CHOICE:FF}{VAR07:68}{CHOICE:32}Caul
+{CHOICE:33}Meat{CHOICE:FF}{VAR07:54}{CHOICE:34}Peat{CHOICE:FF}{VAR07:68}{CHOICE:35}Wait
+{CHOICE:36}Seat{CHOICE:FF}{VAR07:54}{CHOICE:37}Heat{CHOICE:FF}{VAR07:68}{CHOICE:38}Bait
+--------------------------------------------------End--
+
+Pardon
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Warden{CHOICE:FF}{VAR07:54}{CHOICE:31}Silver{CHOICE:FF}{VAR07:68}{CHOICE:32}Harder
+{CHOICE:33}Burton{CHOICE:FF}{VAR07:54}{CHOICE:34}Pardon{CHOICE:FF}{VAR07:68}{CHOICE:35}Larder
+{CHOICE:36}Martin{CHOICE:FF}{VAR07:54}{CHOICE:37}Kelvin{CHOICE:FF}{VAR07:68}{CHOICE:38}Melvin
+--------------------------------------------------End--
+
+The treasure chest of dreams asks:
+What do I contain?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Bomb{CHOICE:FF}{VAR07:5B}{CHOICE:31}Elixir{CHOICE:FF}{VAR07:76}{CHOICE:32}Hi-Potion
+{CHOICE:33}Mega-Potion{CHOICE:FF}{VAR07:5B}{CHOICE:34}Soft{CHOICE:FF}{VAR07:76}{CHOICE:35}Chimera
+{CHOICE:36}Potion{CHOICE:FF}{VAR07:5B}{CHOICE:37}Remedy{CHOICE:FF}{VAR07:76}{CHOICE:38}Evil Eye
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XX!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}D{White} {RIGHT} {Pink}T{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

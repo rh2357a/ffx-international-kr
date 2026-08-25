@@ -1,0 +1,82 @@
+
+{WINDOW}
+You see a sphere-shaped recess.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Kilika Sphere{White}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Insert sphere.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Kilika Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Kilika Sphere{White} is set here.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take sphere.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Kilika Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one sphere at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Glyph Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Destruction Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} appears.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} glows on the wall.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Touch glyph.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+
+The glyph repels you!
+--------------------------------------------------End--

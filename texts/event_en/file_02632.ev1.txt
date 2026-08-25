@@ -1,0 +1,224 @@
+{Lucil}
+What are you doing on this road?
+--------------------------------------------------End--
+{Tidus}
+Oh, you know...
+--------------------------------------------------End--
+{Lucil}
+I see.
+--------------------------------------------------End--
+{Lucil}
+The Highroad ends over there.
+--------------------------------------------------End--
+{Lucil}
+However, we have sealed off the
+area beyond for the duration
+of our operation here.
+--------------------------------------------------End--
+{Lucil}
+You may ask the gate captain up
+ahead if you need to pass through.
+--------------------------------------------------End--
+{Lucil}
+You must first go to the
+end of the Highroad in order
+to get back on the Newroad.
+--------------------------------------------------End--
+{Shelinda}
+Word has gotten around about me.
+--------------------------------------------------End--
+{Shelinda}
+Now all the {Crusader}s
+are ignoring me!
+--------------------------------------------------End--
+{O'aka}
+Coming down to the
+Oldroad was a mistake...
+--------------------------------------------------End--
+{O'aka}
+Ye can't run a business
+with no customers!
+--------------------------------------------------End--
+{O'aka}
+Say, can I interest
+you in something?
+--------------------------------------------------End--
+{O'aka}
+Sure are a lot of {Crusader}s about.
+Wonder what they're up to?
+--------------------------------------------------End--
+{O'aka}
+I'll make it up to ye,
+that I will!
+--------------------------------------------------End--
+{O'aka}
+Right. Figures.
+--------------------------------------------------End--
+{O'aka}
+Spare some change, lad?
+--------------------------------------------------End--
+{O'aka}
+Should've expected as much.
+--------------------------------------------------End--
+
+We trained here before the operation.
+Back then, we believed we would win.
+--------------------------------------------------End--
+
+We were green as grass.
+--------------------------------------------------End--
+
+My chocobo was killed, too.
+We'd fought so many battles together.
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total loan: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up}{Direcional Down}{Direcional Left}{Direcional Right}: Select amount
+{Button Circle}: Confirm
+--------------------------------------------------End--
+{WINDOW}
+How much do you want to lend?
+Lend {CHOICE:56} Gil to {O'aka}.
+--------------------------------------------------End--
+{O'aka}
+Hey, lad. I appreciate yer offer,
+but ye ain't got enough Gil.
+--------------------------------------------------End--
+{O'aka}
+Ye really gonna lend me {VAR12:32} Gil?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Wait a minute.
+{CHOICE:31}No sweat.
+{CHOICE:32}Cancel.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Whatcha got?
+{CHOICE:31}Lend Gil to {O'aka}.
+{CHOICE:32}No, thanks.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+{O'aka}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+
+It was time for me to leave the
+temple and travel the world.
+{NEWPAGE}
+
+Along the way, I hope to spread the
+teachings to the people I meet.
+--------------------------------------------------End--
+
+Also, I plan to learn {Al Bhed}.
+{NEWPAGE}
+
+Nothing will be solved unless
+we begin a dialogue.
+--------------------------------------------------End--
+
+I heard {Sin} isn't dead yet.
+Won't it ever give up?
+{NEWPAGE}
+
+If we still had the cannons from the
+operation, we could've shelled it good.
+--------------------------------------------------End--
+
+I'm gonna go to {Bevelle} and
+see if I can give them a hand.
+--------------------------------------------------End--
+
+We are receiving many refugees
+from {Bevelle}.
+{NEWPAGE}
+
+They have suffered a trying journey
+here, and it is our duty to protect
+them from fiends.
+--------------------------------------------------End--
+
+The warrior monks were guarding
+the Highroad just recently.
+{NEWPAGE}
+
+Now they're gone.
+How irresponsible of them.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--

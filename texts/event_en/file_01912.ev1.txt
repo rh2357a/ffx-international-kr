@@ -1,0 +1,247 @@
+
+We've always fought side by side.
+Now we go back home together.
+--------------------------------------------------End--
+
+We're leaving the {Crusader}s.
+Why fight? We know we can't win.
+--------------------------------------------------End--
+
+It's not much of a wound... I should
+be able to go on...but I can't.
+--------------------------------------------------End--
+
+The mission fails. I can't even
+walk... What did I do to deserve this?
+--------------------------------------------------End--
+
+{Al Bhed} might come and try to
+disrupt Lord {Seymor}'s wedding.
+{NEWPAGE}
+
+I assure you, those ruffians will
+never set foot in {Guadosalam}!
+--------------------------------------------------End--
+
+After she is wed, we {Guado}
+will protect Lady {Yuna}.
+--------------------------------------------------End--
+{Shelinda}
+Good day, everyone.
+--------------------------------------------------End--
+{Shelinda}
+We can all learn a lesson from 
+what has happened to the {Crusader}s.
+--------------------------------------------------End--
+{Shelinda}
+Only the truly faithful have
+a hope of defeating {Sin}.
+--------------------------------------------------End--
+{Shelinda}
+I'm thinking of going to
+{Guadosalam}.
+--------------------------------------------------End--
+{Shelinda}
+I have not spoken with
+the {Guado} for some time.
+--------------------------------------------------End--
+{Shelinda}
+Lady Summoner, good fortune
+to you and your guardians.
+--------------------------------------------------End--
+{Biran}
+Look! One of {Kimahri}'s friends.
+Looks just like him.
+--------------------------------------------------End--
+{Tidus}
+What?
+--------------------------------------------------End--
+{Biran}
+Both follow summoners on all fours!
+Hornless goatlings!
+--------------------------------------------------End--
+{Yenke}
+Hornless! Hornless!
+--------------------------------------------------End--
+{Kimahri}
+You come to insult {Kimahri}?
+--------------------------------------------------End--
+{Biran}
+Wrong.
+We come to warn little {Kimahri}.
+--------------------------------------------------End--
+{Yenke}
+Summoners disappear. Never return.
+--------------------------------------------------End--
+{Biran}
+Next will be {Kimahri}'s summoner.
+--------------------------------------------------End--
+{Yenke}
+Poor {Kimahri}!
+Lost his horn, next lose his summoner!
+--------------------------------------------------End--
+{Biran}
+Pitiful {Kimahri}!
+Howl alone! Howl alone!
+--------------------------------------------------End--
+{Tidus}
+Do those two got
+something against you?
+--------------------------------------------------End--
+{Tidus}
+What, they were just picking on you?
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} will deal with them.
+--------------------------------------------------End--
+{Tidus}
+And I'll help!
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} alone.
+--------------------------------------------------End--
+{Tidus}
+But...
+--------------------------------------------------End--
+{Wakka}
+It's {Kimahri}'s problem.
+--------------------------------------------------End--
+{Wakka}
+We can't interfere; it's a rule.
+--------------------------------------------------End--
+{Lulu}
+I'm worried.
+--------------------------------------------------End--
+{Wakka}
+Let the {Ronso} deal with
+{Ronso} problems, ya?
+--------------------------------------------------End--
+{Wakka}
+That's how it's always been.
+--------------------------------------------------End--
+{Lulu}
+I mean I'm worried about
+those summoners disappearing.
+--------------------------------------------------End--
+{Auron}
+They aren't just
+disappearing into thin air.
+--------------------------------------------------End--
+{Tidus}
+Hey, if we guardians do our job...
+no problem, right?
+--------------------------------------------------End--
+{Wakka}
+Whoa!
+--------------------------------------------------End--
+{Lulu}
+Confident.
+--------------------------------------------------End--
+{Tidus}
+Yeah!
+--------------------------------------------------End--
+
+The summoner {Yuna} and her party.
+--------------------------------------------------End--
+{Tidus}
+How'd you know?
+--------------------------------------------------End--
+
+You're famous.
+--------------------------------------------------End--
+
+The daughter of a famous summoner,
+helping those who defy {Yevon2}?
+--------------------------------------------------End--
+
+No two summoners are alike,
+but you're something else!
+--------------------------------------------------End--
+{Yuna}
+You are a summoner, too?
+--------------------------------------------------End--
+
+The name's {Belgemine}.
+--------------------------------------------------End--
+{Belgemine}
+Well, {Yuna}.
+I think fate has brought us together.
+--------------------------------------------------End--
+{Belgemine}
+Shall we make the best of it, then?
+--------------------------------------------------End--
+{Belgemine}
+A contest of aeons.
+--------------------------------------------------End--
+{Belgemine}
+It would be a good chance
+for you to hone your skills.
+That is, if you wish to.
+--------------------------------------------------End--
+{Belgemine}
+We meet again.
+--------------------------------------------------End--
+{Belgemine}
+I heard you took part
+in {Operation Mi'ihen}.
+--------------------------------------------------End--
+{Belgemine}
+You've seen that
+machina aren't the answer.
+--------------------------------------------------End--
+{Belgemine}
+In the end, only summoners
+can hope to defeat {Sin}.
+--------------------------------------------------End--
+{Yuna}
+You are right. I must train harder.
+--------------------------------------------------End--
+{Belgemine}
+I can help with that, if you like.
+--------------------------------------------------End--
+{Belgemine}
+I propose a contest of aeons.
+A friendly contest, of course.
+--------------------------------------------------End--
+{Belgemine}
+As you wish.
+A pity, though.
+--------------------------------------------------End--
+{Belgemine}
+I'm ready anytime,
+if you change your mind.
+--------------------------------------------------End--
+{Yuna}
+I'm ready.
+--------------------------------------------------End--
+{Belgemine}
+That's the spirit!
+But before we begin...
+--------------------------------------------------End--
+{Belgemine}
+I have healed your aeons.
+Well, shall we?
+--------------------------------------------------End--
+{Belgemine}
+You're good.
+You bested me fairly.
+--------------------------------------------------End--
+{Belgemine}
+Here, your prize.
+Go on, take it.
+--------------------------------------------------End--
+{Belgemine}
+I look forward to meeting you again.
+Till next time, {Yuna}.
+--------------------------------------------------End--
+{Belgemine}
+Still wet behind the ears,
+but you have spirit.
+--------------------------------------------------End--
+{Belgemine}
+Study, {Yuna}, and grow strong.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Fight.
+{CHOICE:31}Pass.
+--------------------------------------------------End--

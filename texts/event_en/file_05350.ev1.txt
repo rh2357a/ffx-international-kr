@@ -1,0 +1,290 @@
+{Rikku}
+Where are we?
+--------------------------------------------------End--
+{Lulu}
+The {fayth} is inside.
+--------------------------------------------------End--
+{Lulu}
+As are the fiends.
+--------------------------------------------------End--
+{Wakka}
+Hey. This where...?
+--------------------------------------------------End--
+{Tidus}
+Where what?
+--------------------------------------------------End--
+{Lulu}
+The summoner I guarded
+on my first pilgrimage...
+--------------------------------------------------End--
+{Lulu}
+died here.
+--------------------------------------------------End--
+{Lulu}
+{Yuna}, let's go.
+The {fayth} awaits.
+--------------------------------------------------End--
+
+High Summoner {Yocun} once
+trained in this land.
+{NEWPAGE}
+
+We {Crusader}s also intend to train
+here, to challenge {Sin} once again.
+--------------------------------------------------End--
+
+Yet, our numbers have greatly diminished.
+{NEWPAGE}
+
+Is there nothing we can do now?
+--------------------------------------------------End--
+
+Our comrades have gathered from all over, to
+this place where Lady {Yocun} once trained.
+{NEWPAGE}
+
+Our numbers are still few, but we can't
+expect too much too fast. With patience,
+we can rebuild the {Crusader}s.
+--------------------------------------------------End--
+
+Once we complete our training here,
+we plan to resume fiend hunting.
+--------------------------------------------------End--
+
+This land, where Lady {Yocun} trained,
+is sacred to the {Crusader}s.
+{NEWPAGE}
+
+Lady {Yocun} was a member of the
+{Crusader}s before becoming a summoner.
+--------------------------------------------------End--
+
+We aren't getting enough new recruits
+to rebuild the {Crusader}s.
+--------------------------------------------------End--
+
+This land, where Lady {Yocun} trained,
+is sacred to the {Crusader}s.
+{NEWPAGE}
+
+Lady {Yocun} was a member of the
+{Crusader}s before becoming a summoner.
+--------------------------------------------------End--
+
+It may be Lady {Yocun}'s divine
+guidance that has brought our
+comrades together here.
+--------------------------------------------------End--
+
+I took part in {Operation Mi'ihen}.
+{NEWPAGE}
+
+I once left the {Crusader}s because
+of that terrible loss...
+{NEWPAGE}
+
+But I couldn't stand just loafing
+around during a time of crisis.
+--------------------------------------------------End--
+
+My family is against it, but I've
+decided to fight as a {Crusader}.
+--------------------------------------------------End--
+
+Don't get me wrong. I used to be a
+warrior monk, but I'm now a {Crusader}.
+{NEWPAGE}
+
+Protecting such a corrupt temple simply
+became ludicrous. So I packed up and left.
+--------------------------------------------------End--
+
+The warrior monks are a pack of cowards
+hiding within the walls of {St. Bevelle}.
+--------------------------------------------------End--
+
+There have been recent sightings
+of a flying ship. Could it be a new
+{Al Bhed2} weapon?
+{NEWPAGE}
+
+With their help, we could commence a
+second {Operation Mi'ihen}!
+--------------------------------------------------End--
+
+The {Crusader}s are still weak in
+their present form. We need the
+aid of the {Al Bhed2}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

@@ -1,0 +1,109 @@
+{Yuna}
+Greetings! I am the summoner {Yuna}.
+I have come from the temple in {Besaid}.
+--------------------------------------------------End--
+
+M'lady Summoner!
+--------------------------------------------------End--
+{Yuna}
+If there is no other summoner here,
+please allow me to perform the sending.
+--------------------------------------------------End--
+
+Thanks be to ye!
+--------------------------------------------------End--
+
+Our loved ones...
+We feared they would become fiends!
+--------------------------------------------------End--
+{Yuna}
+Please, take me to them.
+--------------------------------------------------End--
+{Wakka}
+We'll go see what we
+can do to help in town.
+--------------------------------------------------End--
+Letty
+{Tidus}, watch your step!
+It's not safe this way.
+--------------------------------------------------End--
+
+We won't be able to return to
+{Besaid} unless it's fixed.
+--------------------------------------------------End--
+
+The pub's closed. I don't think
+I can get through this without a drink.
+--------------------------------------------------End--
+
+Hey, you're alive!
+{NEWPAGE}
+
+Wait!
+--------------------------------------------------End--
+
+What do you want?
+We're not open!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

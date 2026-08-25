@@ -1,0 +1,253 @@
+{Auron}
+Stand back.
+--------------------------------------------------End--
+{Tromell}
+Thank you!
+--------------------------------------------------End--
+{Tromell}
+Lady {Yuna}!
+--------------------------------------------------End--
+
+{Rikku}!
+--------------------------------------------------End--
+
+Don't interfere
+or you get this!
+--------------------------------------------------End--
+
+Your precious {magic}
+and {aeons} are sealed!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+Oh, no!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Translation?
+--------------------------------------------------End--
+{Rikku}
+He's gonna use an
+anti-magic field on us!
+--------------------------------------------------End--
+
+Get them!
+--------------------------------------------------End--
+{Tromell}
+My lady!
+--------------------------------------------------End--
+
+I will tell Father!
+--------------------------------------------------End--
+{Rikku}
+I am the {guardian}
+of {Yuna}, you see?
+--------------------------------------------------End--
+{Rikku}
+{Yuna} is safe! We will
+guard her! She is safe!
+--------------------------------------------------End--
+
+You do this alone, sister!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+I told him I was a guardian.
+--------------------------------------------------End--
+{Rikku}
+Well, guess I had to, really.
+--------------------------------------------------End--
+{Wakka}
+How come you speak {Al Bhed}?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Why?
+--------------------------------------------------End--
+{Rikku}
+Because I'm {Al Bhed}.
+And that...was my brother.
+--------------------------------------------------End--
+{Wakka}
+You knew?
+--------------------------------------------------End--
+{Wakka}
+Why didn't you tell me?
+--------------------------------------------------End--
+{Lulu}
+We knew you'd be upset.
+--------------------------------------------------End--
+{Wakka}
+This is great.
+--------------------------------------------------End--
+{Wakka}
+I can't believe I've been travelling
+with an {Al Bhed}! A heathen!
+--------------------------------------------------End--
+{Rikku}
+You're wrong! We have
+nothing against {Yevon2}.
+--------------------------------------------------End--
+{Wakka}
+But you {Al Bhed} use
+the forbidden machina!
+--------------------------------------------------End--
+{Wakka}
+You know what that means?
+--------------------------------------------------End--
+{Wakka}
+{Sin} was born because
+people used machina!
+--------------------------------------------------End--
+{Rikku}
+You got proof?
+Show me proof!
+--------------------------------------------------End--
+{Wakka}
+It's in {Yevon2}'s teachings!
+Not that you'd know!
+--------------------------------------------------End--
+{Rikku}
+That's not good enough!
+--------------------------------------------------End--
+{Rikku}
+{Yevon2} says this,
+{Yevon2} says that.
+--------------------------------------------------End--
+{Rikku}
+Can't you think for yourself?
+--------------------------------------------------End--
+{Wakka}
+Well, then you tell me!
+--------------------------------------------------End--
+{Wakka}
+Where did {Sin} come from, huh?
+--------------------------------------------------End--
+{Rikku}
+I...I don't know!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+You bad-mouth {Yevon2} and that's
+all you can come up with?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+But...
+--------------------------------------------------End--
+{Rikku}
+that doesn't mean you should do
+whatever they say without thinking!
+--------------------------------------------------End--
+{Rikku}
+Nothing will ever change that way!
+--------------------------------------------------End--
+{Wakka}
+Nothing has to change!
+--------------------------------------------------End--
+{Rikku}
+You want {Sin}
+to keep coming back?
+--------------------------------------------------End--
+{Rikku}
+There might be a way
+to stop it, you know!
+--------------------------------------------------End--
+{Wakka}
+{Sin} will be gone once we
+atone for our past mistakes!
+--------------------------------------------------End--
+{Rikku}
+When? How?
+--------------------------------------------------End--
+{Wakka}
+If we keep faith in {Yevon2}'s
+teachings it will be gone one day!
+--------------------------------------------------End--
+{Rikku}
+Why do I even bother?
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+{Rikku}!
+--------------------------------------------------End--
+{Auron}
+Will this move?
+--------------------------------------------------End--
+{Wakka}
+We're not using that, are we?
+--------------------------------------------------End--
+{Wakka}
+Wait... Sir {Auron} isn't
+{Al Bhed} too, is he?
+--------------------------------------------------End--
+{Tidus}
+Come on, {Wakka}...
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+What?
+--------------------------------------------------End--
+{Tidus}
+I mean, getting angry just 'cause
+you found out {Rikku}'s an {Al Bhed}...
+--------------------------------------------------End--
+{Tidus}
+You guys got along fine
+till now, didn't you?
+--------------------------------------------------End--
+{Wakka}
+That's different. I mean...
+--------------------------------------------------End--
+{Tidus}
+Well, I don't claim to
+know that much about {Spira}.
+--------------------------------------------------End--
+{Tidus}
+And I probably know even less
+about the {Al Bhed}, but...
+--------------------------------------------------End--
+{Tidus}
+I know {Rikku}'s a good person.
+--------------------------------------------------End--
+{Tidus}
+She's just {Rikku}!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Lu?
+--------------------------------------------------End--
+{Lulu}
+Just think of this as an opportunity
+to learn more about the {Al Bhed}.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Ha!
+--------------------------------------------------End--
+{Auron}
+Let him go.
+--------------------------------------------------End--
+{Auron}
+Give him time to think.
+--------------------------------------------------End--
+{Rikku}
+I'm sorry.
+--------------------------------------------------End--
+{Lulu}
+You've done nothing to apologize for.
+--------------------------------------------------End--
+{Tidus}
+All right! Let's ride!
+--------------------------------------------------End--
+{Rikku}
+You sure you
+know how to drive this?
+--------------------------------------------------End--
+{Tidus}
+Better than {Kimahri} does!
+--------------------------------------------------End--

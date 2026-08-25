@@ -1,0 +1,16 @@
+{WINDOW}
+{CHOICE:30}0
+{WINDOW}
+{CHOICE:31}1
+{WINDOW}
+{CHOICE:32}2
+--------------------------------------------------End--
+
+I thought I had put my feelings
+for {Zanarkand} behind me.
+--------------------------------------------------End--
+
+But they were there, and they
+grew inside me, bigger and bigger,
+till I was just about ready to burst.
+--------------------------------------------------End--

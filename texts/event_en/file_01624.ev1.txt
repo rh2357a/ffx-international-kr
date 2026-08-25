@@ -1,0 +1,520 @@
+{Dona}
+How many times do I have
+to tell you? I'm a summoner!
+--------------------------------------------------End--
+
+Sorry, ma'am!
+No exceptions!
+--------------------------------------------------End--
+{Dona}
+You dare impede a
+summoner's pilgrimage?
+--------------------------------------------------End--
+
+Sorry, ma'am!
+No exceptions!
+--------------------------------------------------End--
+{Dona}
+Useless!
+--------------------------------------------------End--
+
+I'm sorry, I can't let you pass.
+--------------------------------------------------End--
+
+I know it's a pain, but
+I can't let you pass, okay?
+--------------------------------------------------End--
+
+Come on! We're trying to
+rid the world of {Sin} here!
+--------------------------------------------------End--
+{Dona}
+Oh, it's you.
+--------------------------------------------------End--
+{Dona}
+As you can see, not
+even summoners can pass.
+--------------------------------------------------End--
+{Dona}
+But they'll call on us in
+the end. Just wait and see.
+--------------------------------------------------End--
+{Dona}
+In the meantime,
+I think I'll have a nap.
+--------------------------------------------------End--
+{Dona}
+Oh, {Barthello}?
+--------------------------------------------------End--
+
+The Mushroom Rock Road is off-limits to non-
+Crusader personnel until the end of the mission!
+--------------------------------------------------End--
+
+We apologize for the inconvenience,
+but this road is closed!
+--------------------------------------------------End--
+
+Any donation toward {Operation Mi'ihen}
+would be greatly appreciated!
+--------------------------------------------------End--
+
+Thank you for your generosity!
+Here, you should have this.
+--------------------------------------------------End--
+
+Many thanks! This is for you.
+--------------------------------------------------End--
+
+Thank you! Please accept this.
+--------------------------------------------------End--
+{WINDOW}
+{Lucil}
+Sir!
+--------------------------------------------------End--
+{Lucil}
+Support units are in place.
+Mounted units have finished all exercises.
+--------------------------------------------------End--
+{Elma}
+Evacuation of civilians
+almost complete, sir!
+--------------------------------------------------End--
+{Lucil}
+Just a few stragglers--
+nothing to worry about, sir.
+--------------------------------------------------End--
+
+Good. Were there
+any problems?
+--------------------------------------------------End--
+{Lucil}
+No problems, sir.
+--------------------------------------------------End--
+
+Excellent! The first stage
+is complete, then!
+--------------------------------------------------End--
+
+Chocobo Knights--to your assigned
+positions for {Operation Mi'ihen}!
+--------------------------------------------------End--
+{Lucil}
+Sir!
+--------------------------------------------------End--
+{Elma}
+Sir!
+--------------------------------------------------End--
+
+Hey, you're a summoner and her guardians,
+right? Sorry for the inconvenience.
+--------------------------------------------------End--
+
+Thank you for your cooperation!
+--------------------------------------------------End--
+
+What, they didn't tell you?
+--------------------------------------------------End--
+
+We're bringing {sinspawn} from
+all over {Spira} here.
+--------------------------------------------------End--
+
+Sinspawn inevitably draw {Sin}, right?
+--------------------------------------------------End--
+
+We're going to lure it into a trap!
+--------------------------------------------------End--
+
+This mission, {Operation Mi'ihen},
+is a Crusader-{Al Bhed} joint mission.
+--------------------------------------------------End--
+
+We {Crusader}s lure {Sin} in,
+and the {Al Bhed} strike it down.
+--------------------------------------------------End--
+
+You see, {Al Bhed} hate
+{Sin} as much as we do.
+--------------------------------------------------End--
+
+They managed to salvage ancient machina.
+--------------------------------------------------End--
+
+They say they're as powerful
+as the mighty aeons.
+--------------------------------------------------End--
+
+Well, you know machina
+are forbidden by {Yevon2}.
+--------------------------------------------------End--
+
+Ah...on second thought, let's not
+go there. Better for you not to know.
+--------------------------------------------------End--
+
+The {Crusader}s in {Operation Mi'ihen}
+have all been excommunicated.
+--------------------------------------------------End--
+
+My own family won't
+even speak to me now.
+--------------------------------------------------End--
+
+We have to beat {Sin} today.
+--------------------------------------------------End--
+
+Otherwise, there's nowhere for us to go.
+--------------------------------------------------End--
+{Gatta}
+{Gatta} and {Luzzu}
+reporting, sir!
+--------------------------------------------------End--
+{Luzzu}
+This is the last of them.
+--------------------------------------------------End--
+
+Good to have you with us.
+Go on through!
+--------------------------------------------------End--
+{Gatta}
+Show me how to
+play blitz sometime!
+--------------------------------------------------End--
+{Luzzu}
+Wait around. We'll have
+{Sin} beaten in no time!
+--------------------------------------------------End--
+{Clasko}
+Captain {Lucil} and {Elma}
+should have been here by now.
+--------------------------------------------------End--
+{Clasko}
+What's taking {Elma} so long?
+--------------------------------------------------End--
+{Clasko}
+You have to leave your chocobos here.
+--------------------------------------------------End--
+{Clasko}
+Come on, everyone off!
+--------------------------------------------------End--
+{Seymor}
+So we meet again, Lady {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+Y-Yes?
+--------------------------------------------------End--
+{Seymor}
+You look troubled.
+Is there anything I can do?
+--------------------------------------------------End--
+{Yuna}
+Well...
+--------------------------------------------------End--
+{Seymor}
+I see.
+--------------------------------------------------End--
+
+Maester {Seymor}. Let me show
+you to the command center.
+--------------------------------------------------End--
+{Seymor}
+Hold. I have a request.
+--------------------------------------------------End--
+
+Yes, Your Grace?
+--------------------------------------------------End--
+{Seymor}
+I need to have Summoner {Yuna}
+and her guardians let through
+to the command center.
+--------------------------------------------------End--
+
+But, Maester {Seymor}, sir.
+--------------------------------------------------End--
+{Seymor}
+Do not worry. I will
+take full responsibility.
+--------------------------------------------------End--
+
+Very well. They may pass.
+--------------------------------------------------End--
+{Seymor}
+It is done.
+--------------------------------------------------End--
+{Yuna}
+Thank you, Your Grace.
+--------------------------------------------------End--
+{Lulu}
+{Yuna}, it's time to go.
+--------------------------------------------------End--
+{Yuna}
+Oh! Right!
+--------------------------------------------------End--
+{Tidus}
+Who does he think he is?
+--------------------------------------------------End--
+{Wakka}
+He's a maester.
+Better get used to it, ya?
+--------------------------------------------------End--
+
+Hello!
+No charge this time!
+--------------------------------------------------End--
+
+You get to ride a chocobo once for
+free, but I see you already have one.
+{NEWPAGE}
+
+You can rent one free next time, then.
+--------------------------------------------------End--
+
+Do you want to ride a chocobo?
+--------------------------------------------------End--
+
+Please be careful on your trip.
+--------------------------------------------------End--
+
+Do you want me to teach you
+how to ride a chocobo?
+--------------------------------------------------End--
+
+And I'm delivering food
+for the soldiers!
+--------------------------------------------------End--
+
+The operation's gonna start soon.
+All civilians must leave.
+--------------------------------------------------End--
+
+Then {Sin}'s gonna eat you!
+Mom said {Sin} eats bad people.
+--------------------------------------------------End--
+
+The operation's gonna start soon.
+All civilians must leave!
+--------------------------------------------------End--
+
+We're {Crusader}s, too.
+We have a lot of work to do.
+{NEWPAGE}
+
+My job is to clean up everyone's stuff!
+--------------------------------------------------End--
+
+Big job, huh?
+--------------------------------------------------End--
+
+What if you don't?
+--------------------------------------------------End--
+
+Yikes.
+--------------------------------------------------End--
+
+A great maester is here, too, so
+we're gonna work really hard!
+--------------------------------------------------End--
+
+We are securing the Highroad
+under {Maester Kinoc}'s orders.
+--------------------------------------------------End--
+
+Those {Al Bhed} have no shame. They came
+all the way down here to make money.
+{NEWPAGE}
+
+They have some nerve showin' up here.
+It's their fault the operation failed.
+--------------------------------------------------End--
+
+Sooner or later, we warrior monks
+will crush the {Al Bhed2}.
+--------------------------------------------------End--
+
+All this stuff here,
+the {Crusader}s left behind.
+{NEWPAGE}
+
+They all ran away in a hurry.
+--------------------------------------------------End--
+
+They caged a {sinspawn}
+in this! Damn fools.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Help him look for them.
+{CHOICE:31}I've got better things to do.
+--------------------------------------------------End--
+
+There aren't many guards
+beyond here, so watch it.
+--------------------------------------------------End--
+
+Ideally, we'd like to station men
+at the {Mushroom Rock Road}, too.
+{NEWPAGE}
+
+But we're really shorthanded.
+Please understand.
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}100 Gil should be plenty.
+{CHOICE:31}I can afford 1,000 Gil.
+{CHOICE:32}It's your lucky day! 10,000 Gil!
+{CHOICE:33}I'd rather not.
+--------------------------------------------------End--
+
+Not enough Gil.
+--------------------------------------------------End--
+
+We've been so busy with guard duty,
+we've been using that cage as shelter.
+{NEWPAGE}
+
+Praise be to Yevon that nobody
+cleared it after the operation.
+--------------------------------------------------End--
+
+The {Al Bhed2} from the travel agency
+bring us food now and then.
+{NEWPAGE}
+
+I still don't understand them, but they're
+my friends so long as they feed us.
+--------------------------------------------------End--
+
+You may pass.
+--------------------------------------------------End--
+
+The warrior monks and the {Guado2}
+guarding this area have left.
+{NEWPAGE}
+
+Maybe they went after the traitors.
+--------------------------------------------------End--
+
+I guess the {Crusader}s are the
+only ones we can really count on.
+--------------------------------------------------End--
+
+When we saw the machina airship,
+we sang. That {Al Bhed} kid did, too.
+{NEWPAGE}
+
+It's strange how we can all sing
+the same song even though we don't
+speak the same language.
+--------------------------------------------------End--
+
+Maybe there is a way for the people of
+{Yevon2} and the {Al Bhed2} to get along.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Don't worry about it.
+{CHOICE:31}Tell me about the operation.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'm okay.
+{CHOICE:31}Teach me.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}How to Ride a Chocobo{White}
+
+{Blue}Movement:{White}
+Move far:{VAR07:E4}{Direcional Up}{VAR07:60}Move near:{VAR07:E4}{Direcional Down}
+Move left:{VAR07:E4}{Direcional Left}{VAR07:60}Move right:{VAR07:E4}{Direcional Right}
+
+{Blue}Getting on and off:{White}
+Press {VAR07:E8}{Button Circle} while facing chocobo to mount.
+Press {VAR07:E8}{Button X} to dismount.
+
+Chocobos can only be ridden along the {Mi'ihen Highroad}.
+You cannot enter {Luca} or pass beyond
+the Highroad while riding a chocobo.
+--------------------------------------------------End--
+{WINDOW}
+Your chocobo will wait for you where
+you leave it unless you leave the
+{Mi'ihen Highroad} on foot or you rent
+another chocobo.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Let me ride one!
+{CHOICE:31}I'll walk.
+{CHOICE:32}How do you ride a chocobo?
+--------------------------------------------------End--
+{WINDOW}
+Fee: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

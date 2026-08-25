@@ -1,0 +1,78 @@
+{Rikku}
+Wow! Your face is beet red!
+--------------------------------------------------End--
+{Tidus}
+You okay?
+--------------------------------------------------End--
+{Yuna}
+He...he asked me to marry him!
+--------------------------------------------------End--
+{Tidus}
+You serious?
+--------------------------------------------------End--
+{Auron}
+You know what {Yuna} must do.
+--------------------------------------------------End--
+{WINDOW}
+{Seymor}
+{WINDOW}
+Of course.
+--------------------------------------------------End--
+{Seymor}
+Lady {Yuna}--no, all summoners--are
+charged with bringing peace to {Spira}.
+--------------------------------------------------End--
+{Seymor}
+But this means more
+than just defeating {Sin}.
+--------------------------------------------------End--
+{Seymor}
+She must ease the
+suffering of all {Spira}.
+--------------------------------------------------End--
+{Seymor}
+She must be a leader for the people.
+--------------------------------------------------End--
+{Seymor}
+I proposed to Lady {Yuna}
+as a maester of {Yevon2}.
+--------------------------------------------------End--
+{Auron}
+{Spira} is no playhouse.
+--------------------------------------------------End--
+{Auron}
+A moment's diversion may amuse an
+audience, but it changes nothing.
+--------------------------------------------------End--
+{Seymor}
+Even so, the actors
+must play their parts.
+--------------------------------------------------End--
+{Seymor}
+There's no need to answer right away.
+Please, think it over.
+--------------------------------------------------End--
+{Auron}
+We will do so, then.
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+{WINDOW}
+We leave.
+--------------------------------------------------End--
+{Seymor}
+Lady {Yuna},
+I await your favorable reply.
+--------------------------------------------------End--
+{Seymor}
+Why are you still here, sir?
+--------------------------------------------------End--
+{WINDOW}
+{Seymor}
+{WINDOW}
+I beg your pardon.
+--------------------------------------------------End--
+{Seymor}
+We {Guado} are keen
+to the scent of the {Farplane}.
+--------------------------------------------------End--

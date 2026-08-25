@@ -1,0 +1,59 @@
+{Braska}
+Hello, {Yuna}.
+I hope you are well.
+--------------------------------------------------End--
+{Braska}
+I wonder how old you are,
+now that you're watching this sphere.
+--------------------------------------------------End--
+{Braska}
+You must be very beautiful,
+like your mother.
+--------------------------------------------------End--
+{Braska}
+I wish I could see you.
+--------------------------------------------------End--
+{Braska}
+Oh, by the way...
+--------------------------------------------------End--
+{Braska}
+{Jecht} and {Auron}
+send their regards.
+--------------------------------------------------End--
+{Braska}
+So far, our journey has
+been very entertaining.
+--------------------------------------------------End--
+{Braska}
+Of course, it is a hard journey,
+but I have no regrets.
+--------------------------------------------------End--
+{Braska}
+It is the path I have chosen.
+--------------------------------------------------End--
+{Braska}
+{Yuna}, when you have grown,
+you will have to find your own path.
+--------------------------------------------------End--
+{Braska}
+Do what you must do,
+the way you want to do it.
+--------------------------------------------------End--
+{Braska}
+Doors will always open themselves
+to those who do.
+--------------------------------------------------End--
+{Braska}
+Listen close, {Yuna}.
+--------------------------------------------------End--
+{Braska}
+Your future is yours to make.
+Live the way you want to.
+--------------------------------------------------End--
+{Braska}
+Whatever way that may be,
+you have your father's full support.
+--------------------------------------------------End--
+{Braska}
+{Yuna}, I will always be with you.
+--------------------------------------------------End--

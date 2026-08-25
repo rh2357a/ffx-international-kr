@@ -1,0 +1,171 @@
+
+If it might benefit the future of
+{Spira}, I will gladly give my life.
+--------------------------------------------------End--
+
+It is the highest honor for
+which a guardian might ask.
+--------------------------------------------------End--
+
+Use my life, Lady {Yocun},
+and rid {Spira} of {Sin}.
+--------------------------------------------------End--
+{Rikku}
+What...what was that?
+--------------------------------------------------End--
+{Auron}
+Our predecessors.
+--------------------------------------------------End--
+{Lulu}
+She said "Lady {Yocun},"
+didn't she?
+--------------------------------------------------End--
+{Lulu}
+Wait! She guarded
+High Summoner {Yocun}?
+--------------------------------------------------End--
+{Auron}
+This dome is filled with pyreflies.
+It's like one gigantic sphere.
+--------------------------------------------------End--
+{Auron}
+People's thoughts remain here.
+Forever.
+--------------------------------------------------End--
+
+No! Mother, no! I don't
+want you to become a {fayth}!
+--------------------------------------------------End--
+
+There is no other way.
+--------------------------------------------------End--
+
+Use me and defeat {Sin}.
+--------------------------------------------------End--
+
+Only then will the people accept you.
+--------------------------------------------------End--
+
+I don't care about them!
+--------------------------------------------------End--
+
+I need you, Mother!
+No one else!
+--------------------------------------------------End--
+
+I don't...have much time left.
+--------------------------------------------------End--
+{Wakka}
+Hey, wasn't that...?
+--------------------------------------------------End--
+{Rikku}
+{Seymor}?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Ah!
+--------------------------------------------------End--
+{Jecht}
+Hey, {Braska}.
+--------------------------------------------------End--
+{Jecht}
+You don't have to do this.
+--------------------------------------------------End--
+{Braska}
+Thank you for your concern.
+--------------------------------------------------End--
+{Jecht}
+Fine. I said my piece.
+--------------------------------------------------End--
+{Auron}
+Well, I haven't!
+--------------------------------------------------End--
+{Auron}
+Lord {Braska}, let us go back!
+I don't want to see you...die!
+--------------------------------------------------End--
+{Braska}
+You knew this was
+to happen, my friend.
+--------------------------------------------------End--
+{Auron}
+Yes, but I...
+I cannot accept it.
+--------------------------------------------------End--
+{Braska}
+{Auron}, I am honored that
+you care for me so.
+--------------------------------------------------End--
+{Braska}
+But I have come to
+kill grief itself.
+--------------------------------------------------End--
+{Braska}
+I will defeat {Sin}, and lift the
+veil of sorrow covering {Spira}.
+--------------------------------------------------End--
+{Braska}
+Please understand, {Auron}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

@@ -1,0 +1,96 @@
+
+Lady {Yuna}, forgive me.
+--------------------------------------------------End--
+{Yuna}
+{Lulu}, I...
+--------------------------------------------------End--
+{Lulu}
+It's okay. I know.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna},
+sorry we left you alone.
+--------------------------------------------------End--
+{Yuna}
+No, it's okay.
+--------------------------------------------------End--
+{Auron}
+There must be an exit somewhere.
+We search!
+--------------------------------------------------End--
+{Isaaru}
+Lady {Yuna}...
+So it is you!
+--------------------------------------------------End--
+{Yuna}
+Why are you here?
+--------------------------------------------------End--
+{Isaaru}
+We rode the airship to the
+{Calm Lands}, then came to Bevelle.
+--------------------------------------------------End--
+{Isaaru}
+{Maester Kinoc} summoned us then.
+Ordered us to "deal with the traitors."
+--------------------------------------------------End--
+{Auron}
+You will fight us?
+--------------------------------------------------End--
+{Isaaru}
+The temple's orders are law.
+--------------------------------------------------End--
+{Isaaru}
+Even if you are
+Lord {Braska}'s flesh and blood...
+--------------------------------------------------End--
+{Isaaru}
+You're a traitor!
+--------------------------------------------------End--
+{Lulu}
+His guardians...
+I don't see them.
+--------------------------------------------------End--
+{Isaaru}
+{Maroda} and {Pacce} are not here.
+--------------------------------------------------End--
+{Isaaru}
+I will do this unhappy deed myself.
+--------------------------------------------------End--
+{Isaaru}
+Forgive me, Lady {Yuna}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Isaaru}
+Stay away!
+--------------------------------------------------End--
+{Lulu}
+{Yuna}, let's go.
+--------------------------------------------------End--
+{Isaaru}
+There's a way to the surface up ahead.
+--------------------------------------------------End--
+{Auron}
+Your pilgrimage is over.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}To the Condemned:{White}
+Stone panels are scattered throughout the
+Via Purifico. Step on one to transport
+{NEWPAGE}
+yourself to the next panel in the indicated
+direction. Nothing will happen if there is
+no panel to receive you at the far end.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--

@@ -1,0 +1,319 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+Leave it to me! I'll take
+you anywhere you want to go.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}To {Besaid Island}.
+{CHOICE:31}To {Luca}.
+{CHOICE:32}Forget it.
+--------------------------------------------------End--
+{Wakka}
+Ah, there you are!
+--------------------------------------------------End--
+{Wakka}
+{Besaid Aurochs}! Huddle!
+--------------------------------------------------End--
+{Wakka}
+On to the temple,
+where we pray for victory!
+--------------------------------------------------End--
+{Wakka}
+High Summoner {Ohalland} used
+to live in the {Kilika} temple here.
+--------------------------------------------------End--
+{Wakka}
+Yep, Lord {Ohalland} was once
+a great blitzer, you know?
+--------------------------------------------------End--
+{Tidus}
+{Wakka}...
+--------------------------------------------------End--
+{Wakka}
+Hm?
+--------------------------------------------------End--
+{Tidus}
+Praying for victory's all
+good...but is this right?
+--------------------------------------------------End--
+{Wakka}
+Something wrong with
+enjoying {blitzball}?
+--------------------------------------------------End--
+{Tidus}
+Is this really the time?
+--------------------------------------------------End--
+{Wakka}
+This is the only time!
+--------------------------------------------------End--
+{Wakka}
+The players fight with all
+their strength; the fans
+cheer for their favorite team.
+--------------------------------------------------End--
+{Wakka}
+They forget pain, suffering...
+Only the game matters!
+--------------------------------------------------End--
+{Wakka}
+That's why blitz has
+been around for so long.
+--------------------------------------------------End--
+{Wakka}
+Least that's what I think.
+--------------------------------------------------End--
+{Tidus}
+Whatever you say.
+--------------------------------------------------End--
+{Wakka}
+Let's play...and win!
+--------------------------------------------------End--
+{Wakka}
+Right?
+--------------------------------------------------End--
+{Tidus}
+Right!
+--------------------------------------------------End--
+{Wakka}
+Temple's beyond the
+jungle there. Let's go!
+--------------------------------------------------End--
+{Wakka}
+Off to {Blue}Luca{White} at last!
+--------------------------------------------------End--
+{Wakka}
+The matches start soon as we get
+there, so rest up on the way, ya?
+--------------------------------------------------End--
+
+Hey, you! Hands off
+the merchandise!
+{NEWPAGE}
+
+Oh, you're a customer, are you?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Embark.
+{CHOICE:31}Not yet.
+--------------------------------------------------End--
+
+If the {Kilika Beasts} win,
+it'll give the whole island
+something to celebrate.
+{NEWPAGE}
+
+Thinking about that makes
+me want to practice harder.
+--------------------------------------------------End--
+
+Well, we lost the tournament...
+but no point dwelling on the past!
+{NEWPAGE}
+
+Better to practice harder
+than to mope around!
+--------------------------------------------------End--
+
+Next time, I'll show 'em the {Kilika}
+spirit we've inherited from Lord {Ohalland}.
+--------------------------------------------------End--
+
+Everyone was so pumped up
+for the tournament, but now
+because of {Sin}, well...
+{NEWPAGE}
+
+We players don't even feel
+up to practicing anymore.
+--------------------------------------------------End--
+
+We may be short on practice,
+but we'll prove we've got
+what it takes.
+{NEWPAGE}
+
+We'll cheer up the whole
+island by bringing home
+the victory cup this year!
+--------------------------------------------------End--
+
+We're off to Luca as
+soon as I finish this off.
+--------------------------------------------------End--
+
+Just wait and see.
+We'll win for sure.
+--------------------------------------------------End--
+
+I tried to dismantle that
+wrecked ship over there and
+haul it away, but...
+{NEWPAGE}
+
+She's so sturdy I couldn't get
+so much as a deck board off her!
+Hats off to that shipbuilder.
+--------------------------------------------------End--
+
+Reconstruction of the town is
+nearly complete. All that's left
+is to fix that road over there.
+--------------------------------------------------End--
+
+I don't know if it's the toxin,
+but I can't remember a thing.
+Like my name, my house...
+{NEWPAGE}
+
+I thought someone might notice
+me and help me out if I sat here.
+{NEWPAGE}
+
+But no one's paying any attention.
+I guess everyone has their own
+problems to worry about.
+--------------------------------------------------End--
+
+Hey, I may not even be from around here.
+Maybe I come from someplace far away...
+Who knows?
+--------------------------------------------------End--
+
+The toxin's effect wore off.
+I remember my family now...
+{NEWPAGE}
+
+{Sin} attacked, and my family, they...
+They all went to the {Farplane}.
+{NEWPAGE}
+
+Heh, it was better to have
+forgotten everything.
+--------------------------------------------------End--
+
+The next time {Sin} comes around,
+I want to go to the {Farplane}, too.
+--------------------------------------------------End--
+
+The temple is fully supporting
+our restoration of {Kilika}.
+--------------------------------------------------End--
+
+Just between us, these
+{Kilika Island} folks are crazy!
+{NEWPAGE}
+
+Living this close to the sea is
+like asking {Sin} to attack.
+--------------------------------------------------End--
+
+Well, just let me know if you'd like a ride.
+--------------------------------------------------End--

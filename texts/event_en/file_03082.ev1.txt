@@ -1,0 +1,354 @@
+{WINDOW}
+{Yellow}Moving across the Thunder Plains{White}
+Lightning can strike {Tidus}
+on the {Gandof} Thunder Plains.
+--------------------------------------------------End--
+{WINDOW}
+Lightning can strike at any time,
+so keep moving.
+--------------------------------------------------End--
+{WINDOW}
+The lightning rod towers absorb nearby
+lightning. Seek shelter under them.
+--------------------------------------------------End--
+{WINDOW}
+When there are no towers nearby,
+you can dodge lightning by pressing {Button Circle}.
+--------------------------------------------------End--
+{WINDOW}
+Hit {Button Circle} as soon as you see a
+lightning flash. If successful,
+you can dodge the thunderbolt.
+--------------------------------------------------End--
+{WINDOW}
+Constantly mashing {Button Circle},
+however, can be dangerous.
+--------------------------------------------------End--
+{WINDOW}
+Good luck on your journey.
+--------------------------------------------------End--
+{Shelinda}
+Ah, good day!
+--------------------------------------------------End--
+{Tidus}
+Hi there.
+--------------------------------------------------End--
+{Shelinda}
+Is it true?
+--------------------------------------------------End--
+{Shelinda}
+I heard that Maester {Seymor}
+and Lady {Yuna} are to be wed!
+--------------------------------------------------End--
+{Shelinda}
+It's such great news!
+I have to tell everyone!
+--------------------------------------------------End--
+{Tidus}
+Where'd you hear that?
+--------------------------------------------------End--
+{Shelinda}
+From the {Guado}.
+They were all very excited!
+--------------------------------------------------End--
+{Tidus}
+I'm afraid you heard a little wrong.
+{Yuna}'s gonna turn him down.
+--------------------------------------------------End--
+{Shelinda}
+Oh... Really?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yep! No wedding!
+{CHOICE:31}Just kidding!
+--------------------------------------------------End--
+{Shelinda}
+I see...
+--------------------------------------------------End--
+{Shelinda}
+That's unfortunate.
+--------------------------------------------------End--
+{Shelinda}
+Well I'm sure that people
+would have rejoiced all over {Spira}.
+--------------------------------------------------End--
+{Shelinda}
+Hey!
+--------------------------------------------------End--
+{Shelinda}
+It will not do to joke
+about a thing like that.
+--------------------------------------------------End--
+{Shelinda}
+Please give Lady {Yuna}
+my best regards!
+--------------------------------------------------End--
+{Shelinda}
+Maester {Seymor}
+and Lady {Yuna}--how wonderful!
+--------------------------------------------------End--
+{Shelinda}
+Oh, please go ahead.
+--------------------------------------------------End--
+{Rikku}
+Oh, no...
+We're here.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+How are we supposed to cross that?
+--------------------------------------------------End--
+{Lulu}
+See the lightning rod towers?
+--------------------------------------------------End--
+{Lulu}
+The lightning is drawn
+to them...hopefully.
+--------------------------------------------------End--
+{Wakka}
+We head north, not too near and not
+too far from the towers, ya?
+--------------------------------------------------End--
+{Lulu}
+Meaning we should
+avoid wide, open areas.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+I think I forgot something
+in {Guadosalam}.
+--------------------------------------------------End--
+{Auron}
+Nice knowing you.
+--------------------------------------------------End--
+{Rikku}
+Okay, okay! I'll go!
+--------------------------------------------------End--
+{Wakka}
+Whoa! That was a close one!
+--------------------------------------------------End--
+{Lulu}
+Stop kidding around.
+--------------------------------------------------End--
+{Wakka}
+Yes, ma'am...
+--------------------------------------------------End--
+{Rikku}
+Heh heh heh heh heh heh heh...
+--------------------------------------------------End--
+{Wakka}
+Hmm? What's wrong?
+--------------------------------------------------End--
+{Rikku}
+Eh heh heh heh heh heh heh...
+--------------------------------------------------End--
+{Tidus}
+"Heh heh heh..."
+You're givin' me the creeps!
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Rikku}
+Let's go rest over there!
+Please?
+--------------------------------------------------End--
+{Auron}
+This storm never stops.
+Better to cross quickly.
+--------------------------------------------------End--
+{Rikku}
+I know, but...
+Just for a little while?
+--------------------------------------------------End--
+{Tidus}
+Heh, well? What now?
+--------------------------------------------------End--
+{Rikku}
+I wanna go home!
+--------------------------------------------------End--
+{Rikku}
+I hate lightning!
+I hate thunder!
+--------------------------------------------------End--
+{Maechen}
+Well, hello there.
+Would you like to hear about this place?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Maybe next time.
+{CHOICE:31}Sure.
+--------------------------------------------------End--
+{Maechen}
+Pity.
+--------------------------------------------------End--
+{Maechen}
+Very well, let me tell
+you about the Crossing.
+--------------------------------------------------End--
+{Maechen}
+A long time ago,
+this place was a traveller's nightmare.
+--------------------------------------------------End--
+{Maechen}
+"Plains of lightning, plains of thunder,
+those who cross are torn asunder."
+--------------------------------------------------End--
+{Maechen}
+Or...so they used to say.
+--------------------------------------------------End--
+{Maechen}
+Then a man by the
+name of Bilghen appeared.
+--------------------------------------------------End--
+{Maechen}
+Using machina, he built towers
+that served as lightning rods
+across the plains.
+--------------------------------------------------End--
+{Maechen}
+Finally, travellers were
+able to cross in safety.
+--------------------------------------------------End--
+{Maechen}
+Bilghen was building
+that tower over there...
+--------------------------------------------------End--
+{Maechen}
+when he was struck
+and killed by lightning.
+--------------------------------------------------End--
+{Maechen}
+Bilghen was an {Al Bhed}.
+Our history books never mention him.
+--------------------------------------------------End--
+{Maechen}
+Take care, and farewell.
+--------------------------------------------------End--
+
+A strange stone.
+--------------------------------------------------End--
+
+It won't open.
+--------------------------------------------------End--
+
+The {Yellow}{Celestial Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Celestial Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+The {Yellow}{Cloudy Mirror}{White} seems to react.
+--------------------------------------------------End--
+{WINDOW}
+Use the {Yellow}{Cloudy Mirror}{White}?
+{CHOICE:30}Yes.
+{CHOICE:31}No.
+--------------------------------------------------End--
+
+Not enough energy...
+--------------------------------------------------End--
+{Tidus}
+{Guadosalam}? It's probably
+crawling with {Seymor}'s cronies.
+--------------------------------------------------End--
+{Tidus}
+Now's no time to be picking fights
+with the {Guado}, that's for sure.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+                     Moonflow
+                                  Temple of Yevon-Djose 
+
+  Guadosalam
+
+
+
+                         Luca
+                                        Kilika Port
+
+
+                                Besaid
+--------------------------------------------------End--
+{AREA}
+Thunder Plains
+--------------------------------------------------End--
+{AREA}
+Macalania Woods
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--

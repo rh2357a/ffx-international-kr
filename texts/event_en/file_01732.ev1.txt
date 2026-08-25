@@ -1,0 +1,230 @@
+
+          
+--------------------------------------------------End--
+{Wakka}
+These stone steps have
+a history, you know?
+--------------------------------------------------End--
+{Wakka}
+Yep, Lord {Ohalland}
+trained here at his peak.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+A race, huh?
+--------------------------------------------------End--
+{Tidus}
+Think you can beat me?
+--------------------------------------------------End--
+{Wakka}
+{Yuna}, if you would.
+--------------------------------------------------End--
+{Yuna}
+Ready?
+--------------------------------------------------End--
+{Wakka}
+Hey! Hey!
+--------------------------------------------------End--
+{Lulu}
+Kids...
+--------------------------------------------------End--
+Datto
+L-Look out!
+--------------------------------------------------End--
+{Wakka}
+Everyone, quick!
+Sinspawn!
+--------------------------------------------------End--
+{Tidus}
+Yeesh!
+--------------------------------------------------End--
+{Wakka}
+Sorry about that!
+Hoped to break you in a little slower.
+--------------------------------------------------End--
+{Tidus}
+Being a guardian's tiring!
+--------------------------------------------------End--
+{Wakka}
+You handled yourself pretty well.
+You got talent.
+--------------------------------------------------End--
+{Tidus}
+Nah.
+--------------------------------------------------End--
+{Tidus}
+So, what are these
+"{sinspawn}" anyway?
+--------------------------------------------------End--
+{Lulu}
+Fiends. They fall from {Sin}'s body,
+and are left behind in its wake.
+--------------------------------------------------End--
+{Wakka}
+Leave 'em alone, and {Sin} comes
+back for 'em. You gotta be quick!
+--------------------------------------------------End--
+
+That moment when {Wakka} told
+me I had talent in battle...
+--------------------------------------------------End--
+
+I think that was when I started seriously
+considering becoming a guardian.
+--------------------------------------------------End--
+{Wakka}
+So, uh...they got fiends
+in {Zanarkand}, too?
+--------------------------------------------------End--
+{Tidus}
+Just a few. It's a big deal when
+one shows up, though.
+--------------------------------------------------End--
+{Tidus}
+Hey! Since when have you believed
+me about {Zanarkand}, anyway?
+--------------------------------------------------End--
+{Wakka}
+I been thinking.
+--------------------------------------------------End--
+{Wakka}
+Maybe people {Sin}
+gets to don't die.
+--------------------------------------------------End--
+{Wakka}
+Maybe {Sin} carries 'em through time.
+Like a thousand years through time.
+--------------------------------------------------End--
+{Wakka}
+And then, one day,
+maybe they just pop back, see?
+--------------------------------------------------End--
+{Lulu}
+Amazing. Simply amazing.
+--------------------------------------------------End--
+{Lulu}
+You make up one theory after another,
+refusing to face the simple truth.
+--------------------------------------------------End--
+{Lulu}
+{Sin} didn't take
+{Chappu} anywhere.
+--------------------------------------------------End--
+{Lulu}
+{Sin} crushed him and left him
+on the {Djose} shore!
+--------------------------------------------------End--
+{Lulu}
+Your brother won't just pop back.
+--------------------------------------------------End--
+{Lulu}
+Oh, and one more thing.
+--------------------------------------------------End--
+{Lulu}
+No matter how much you want it,
+no one can take {Chappu}'s place.
+--------------------------------------------------End--
+{Lulu}
+No one can replace
+Sir {Jecht}, for that matter.
+--------------------------------------------------End--
+{Lulu}
+And there's no replacement
+for Lord {Braska}, either.
+--------------------------------------------------End--
+{Lulu}
+It's pointless to think
+about it, and sad.
+--------------------------------------------------End--
+{Wakka}
+I...I could never be
+what {Chappu} was.
+--------------------------------------------------End--
+{Wakka}
+Well, stuff happens.
+Best not to worry.
+--------------------------------------------------End--
+
+{Wakka}, {Lulu}, and
+{Wakka}'s brother {Chappu}.
+--------------------------------------------------End--
+
+Something had happened between them
+a long time ago. I was sure of it.
+--------------------------------------------------End--
+
+Well, whatever it was, it was none
+of my business, that's for sure.
+Best not to go there.
+--------------------------------------------------End--
+
+You, there!
+Your kind is not welcome in this holy place!
+{NEWPAGE}
+
+You shall not pass!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

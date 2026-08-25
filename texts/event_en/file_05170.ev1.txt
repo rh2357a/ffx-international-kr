@@ -1,0 +1,84 @@
+{Rikku}
+Pretty please?
+Just a few minutes?
+--------------------------------------------------End--
+{Rikku}
+I'm scared of lightning!
+Let's rest, please? Pretty please?
+--------------------------------------------------End--
+{Rikku}
+I'm too young to die!
+--------------------------------------------------End--
+{Rikku}
+You're mean...cruel!
+Your moms would be ashamed of you!
+--------------------------------------------------End--
+{Rikku}
+Are you having fun doing this to me?
+--------------------------------------------------End--
+{Auron}
+Fine, we rest.
+She's worse than the storm.
+--------------------------------------------------End--
+Tired of being struck by lightning?
+Feeling burnt out?
+{NEWPAGE}
+Then come on in for a rest at the
+Bilghen Memorial Travel Agency.
+You'll feel refreshed in no time!
+--------------------------------------------------End--
+Even several bouts of electrocution
+won't keep you down! For your admirable
+display of courage, the Bilghen
+Memorial Travel Agency confers
+upon you the Fighting Spirit Award.
+--------------------------------------------------End--
+Congratulations! You've dodged
+5 lightning bolts in a row.
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+presents you with this small
+commemorative gift.
+--------------------------------------------------End--
+Congratulations! You've dodged
+10 lightning bolts in a row.
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+presents you with this small
+commemorative gift.
+--------------------------------------------------End--
+Congratulations! You've dodged
+20 lightning bolts in a row.
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+presents you with this small
+commemorative gift.
+--------------------------------------------------End--
+Congratulations! You've dodged
+50 lightning bolts in a row.
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+presents you with this small
+commemorative gift.
+--------------------------------------------------End--
+Congratulations! You've dodged
+100 lightning bolts in a row.
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+presents you with this small
+commemorative gift.
+--------------------------------------------------End--
+Amazing! You've dodged
+150 lightning bolts in a row!
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+is proud to honor you with
+this prize.
+--------------------------------------------------End--
+Amazing! You've dodged
+200 lightning bolts in a row!
+{NEWPAGE}
+The Bilghen Memorial Travel Agency
+is proud to honor you with
+this prize.
+--------------------------------------------------End--

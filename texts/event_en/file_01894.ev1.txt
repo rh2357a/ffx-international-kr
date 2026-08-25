@@ -1,0 +1,8 @@
+{WINDOW}
+
+{White}{Button Circle}: Examine{White}
+--------------------------------------------------End--
+
+A rotting bouquet.
+It's too wet to make good tinder.
+--------------------------------------------------End--

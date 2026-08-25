@@ -1,0 +1,196 @@
+{CHOICE:30}Not yet.
+{CHOICE:31}Let me on!
+--------------------------------------------------End--
+
+Shoopuf shleeping.
+Wait until shoopuf wake up?
+--------------------------------------------------End--
+
+Seems you destroyed the {Al Bhed2}'s
+machina. That's some dedication.
+You'll receive a blessing from {Yevon2}.
+{NEWPAGE}
+
+It'll be necessary to strengthen security so
+that the {Al Bhed} won't get their way anymore.
+--------------------------------------------------End--
+
+The {Al Bhed2} hide their green eyes
+with goggles. They're known to
+resort to petty tricks like that.
+--------------------------------------------------End--
+
+{Sin} took my daughter, but I just saw
+her again for the first time in five years.
+{NEWPAGE}
+
+That {Guadosalam} place was amazing.
+--------------------------------------------------End--
+
+I've seen my daughter, so I have no regrets.
+I'm ready for the {Farplane} anytime now.
+--------------------------------------------------End--
+
+After seeing my dead daughter again,
+I felt complete and free of any worry.
+--------------------------------------------------End--
+
+The wedding will be an absolute joy. It's good
+to be able to experience all this, I tell you.
+--------------------------------------------------End--
+
+I thought I was lucky not to run into any
+wily merchants on this side of the shore.
+{NEWPAGE}
+
+But I ended up buying something
+from that man over there.
+--------------------------------------------------End--
+
+His goods are cheaper than the other merchants',
+but he seems kind of suspicious.
+--------------------------------------------------End--
+
+Everyone seems happy.
+Did something good happen?
+{NEWPAGE}
+
+{Sin} might arrive any time now and
+everyone just seems so laid back.
+--------------------------------------------------End--
+
+People want to forget their anxiety about {Sin},
+so they absorb themselves in festivities.
+--------------------------------------------------End--
+
+The {Al Bhed2} seem docile nowadays,
+but it always pays to be cautious.
+--------------------------------------------------End--
+
+I believe that an {Al Bhed2} conspiracy
+is behind all the chaos in the temple.
+--------------------------------------------------End--
+
+An {Al Bhed2} ship is
+battling {Sin}, right?
+{NEWPAGE}
+
+I'm certain it's a ploy to win
+favor with the temple!
+--------------------------------------------------End--
+
+Even if the {Al Bhed2} do something nice,
+I can't bring myself to trust them.
+--------------------------------------------------End--
+
+My wife and I ran away
+from {Bevelle}.
+{NEWPAGE}
+
+I thought we could forget the terror of {Sin}
+if we lived in the heart of {Yevon2}...
+{NEWPAGE}
+
+Boy, was I wrong.
+--------------------------------------------------End--
+
+I've expended all my energy coming here
+and I can't run any farther.
+--------------------------------------------------End--
+
+If I could ride the flying ship,
+I'm sure I could get back in a jiffy. 
+--------------------------------------------------End--
+
+I've expended all my energy coming here
+and I can't run any farther.
+--------------------------------------------------End--
+
+We're hoping to return to
+our hometown of {Kilika}.
+{NEWPAGE}
+
+First we must cross the {Moonflow}, pass
+through {Djose}, then travel the
+{Mushroom Rock Road} and the {Mi'ihen Highroad}...
+{NEWPAGE}
+
+After that, it's onto the {S.S. Winno}...
+Phew! There's a long way to go, isn't there?
+--------------------------------------------------End--
+
+I wonder how long it'll
+take to reach our hometown?
+--------------------------------------------------End--
+
+We were lucky we left
+{Bevelle} in a hurry.
+{NEWPAGE}
+
+If we'd waited much longer to get out,
+we would've been killed by {Sin}.
+--------------------------------------------------End--
+
+This area may also become a battlefield...
+Perhaps it's better to run farther away?
+--------------------------------------------------End--
+{Auron}
+Guard {Yuna}.
+--------------------------------------------------End--
+Driver
+Ride ze shoopuf?
+--------------------------------------------------End--
+Driver
+Shoopuf's waiting!
+--------------------------------------------------End--
+Driver
+All aboardss!
+--------------------------------------------------End--
+{O'aka}
+{O'aka}, at your service!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Whatcha got?
+{CHOICE:31}Leave.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}M{White} {RIGHT} {Pink}L{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

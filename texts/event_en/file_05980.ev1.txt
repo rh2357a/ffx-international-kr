@@ -1,0 +1,627 @@
+Datto
+Victory! Victory! We're taking home
+that cup, no matter what it takes, ya?
+--------------------------------------------------End--
+Datto
+Yaaah!
+--------------------------------------------------End--
+Datto
+Haaah!
+--------------------------------------------------End--
+Datto
+Arrrgh!
+--------------------------------------------------End--
+Datto
+Victory will be ours!
+--------------------------------------------------End--
+Letty
+Should I practice kick passes too?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah.
+{CHOICE:31}No, you're fine.
+--------------------------------------------------End--
+Letty
+Okay, I'll pretend I'm
+kicking with my hands!
+--------------------------------------------------End--
+Letty
+Right on!
+--------------------------------------------------End--
+Letty
+I'm gonna sharpen my hand skills!
+--------------------------------------------------End--
+Jassu
+I'm so tired of practicing passes.
+I wanna do some shooting, too!
+--------------------------------------------------End--
+Jassu
+He's really bad at kicking.
+{NEWPAGE}
+Jassu
+And I always end up having
+to practice with him.
+{NEWPAGE}
+Jassu
+But what can you do, ya?
+--------------------------------------------------End--
+
+Huh? You want to
+use the binoculars?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes.
+{CHOICE:31}No, not really.
+--------------------------------------------------End--
+
+No way. Remember what
+you did last time?
+--------------------------------------------------End--
+
+I see.
+--------------------------------------------------End--
+
+For both father and daughter
+to become summoners--it must
+have been {Yevon2}'s will.
+--------------------------------------------------End--
+
+If anyone can defeat {Sin}
+the daughter of Lord {Braska} can!
+--------------------------------------------------End--
+
+Please take good care of yourself.
+Just remember that your well-being
+means a lot to us.
+--------------------------------------------------End--
+Letty
+Man, I wish we were
+half as popular as {Yuna}.
+--------------------------------------------------End--
+Jassu
+Hey, don't let it get to you.
+It's the same as always, ya?
+--------------------------------------------------End--
+
+Can I have a sphere taken with you?
+Or maybe just an autograph?
+--------------------------------------------------End--
+Datto
+Someday we'll earn some
+respect, just like {Yuna}.
+--------------------------------------------------End--
+
+A summoner's confident smile is
+always a great encouragement to us.
+--------------------------------------------------End--
+
+Yay!
+--------------------------------------------------End--
+
+Yahoo! A flying ship!!
+--------------------------------------------------End--
+
+Yippee!
+--------------------------------------------------End--
+
+Hey! Stop that!
+--------------------------------------------------End--
+
+Just watch what your big
+sis is doing and learn!
+--------------------------------------------------End--
+
+How long do you think you've been
+doing that? Stop it right now!
+--------------------------------------------------End--
+
+Okay, okay. I see it, so can you
+just calm down for a change?
+--------------------------------------------------End--
+
+Hey, come down here.
+--------------------------------------------------End--
+
+What are you so happy about?
+--------------------------------------------------End--
+
+Oh, all right, all right.
+Happy, happy! Goody, goody!
+--------------------------------------------------End--
+
+Why are we so quiet,
+all of a sudden?
+--------------------------------------------------End--
+
+Since that strange shadow
+swept across the sky, my little
+pet won't come down anymore.
+--------------------------------------------------End--
+
+Come on down!
+We don't bite!
+--------------------------------------------------End--
+
+Wow! I just saw a real flying ship!
+I thought I was dreaming again!
+--------------------------------------------------End--
+
+Hey, how long are you gonna be
+up there? There aren't going to be
+any more ships flying by!
+--------------------------------------------------End--
+
+The {S.S. Liki} is funded
+by {Yevon2}.
+{NEWPAGE}
+
+It doesn't cost a single Gil, even when
+I take my dogs on board with me.
+--------------------------------------------------End--
+
+Do you like dogs?
+{NEWPAGE}
+
+I just adore them.
+{NEWPAGE}
+
+Good boy. Good boy.
+--------------------------------------------------End--
+
+It's been so nice travelling with
+my dog... I wish we could go
+on forever.
+--------------------------------------------------End--
+
+I pray that the elders of {Yevon2}
+can keep peace in {Spira}.
+--------------------------------------------------End--
+
+That flying ship's bad news!
+--------------------------------------------------End--
+
+Ships aren't supposed to fly!
+It's frightened my precious dogs!
+--------------------------------------------------End--
+
+Hey, you. You were on the ship
+when {Sin} attacked us, right?
+--------------------------------------------------End--
+
+I've been afraid of the
+sea ever since then.
+{NEWPAGE}
+
+I'm so afraid it'll come back
+I can't even concentrate on my work!
+--------------------------------------------------End--
+
+I should probably find a
+new job on land somewhere.
+--------------------------------------------------End--
+
+They put me on watch duty, since
+I can't handle my old post anymore.
+--------------------------------------------------End--
+
+Whenever I'm on watch, I keep
+thinking that {Sin}'s gonna come
+back for us.
+{NEWPAGE}
+
+I-I can't stop shaking.
+Oh, I'm so pathetic.
+--------------------------------------------------End--
+
+I thought the sea breeze would help
+cure {Sin}'s toxin, but no luck so far.
+{NEWPAGE}
+
+I keep seeing {Sin} attacking us again.
+{NEWPAGE}
+
+I...I just can't seem to get
+{Sin} out of my head! Arrgh!
+--------------------------------------------------End--
+
+I can't call myself a sailor like this.
+Maybe I should leave the ship and go
+on a pilgrimage.
+--------------------------------------------------End--
+
+Once {Sin} is defeated, I won't have
+to be afraid of the sea anymore.
+{NEWPAGE}
+
+I can return to my old seadog self again.
+--------------------------------------------------End--
+
+If I pray for anything, it's
+going to be for those guys on
+the flying ship to defeat {Sin}!
+--------------------------------------------------End--
+
+When I die, I want to have a grand
+sending to the {Farplane}.
+{NEWPAGE}
+
+Hmm. I'll ask them to reserve the
+{Luca Stadium} for the ceremony.
+--------------------------------------------------End--
+
+I wouldn't mind having a bevy of
+young maidens crying their hearts
+out for me, either.
+--------------------------------------------------End--
+
+Well, it'll probably be a long time
+before I'm sent to the {Farplane}, though.
+--------------------------------------------------End--
+
+Whatever came of that rumor about
+the high summoner's daughter
+marrying the lord maester?
+{NEWPAGE}
+
+Hmm, so it was called off, huh?
+Too bad.
+--------------------------------------------------End--
+
+Every story you hear
+lately is so depressing.
+--------------------------------------------------End--
+
+When the {Calm} comes, we'll be
+able to truly enjoy blitzball.
+{NEWPAGE}
+
+Dangit. Maybe I retired too soon.
+--------------------------------------------------End--
+
+Even the greatest champions
+must retire sometime. The same
+must be true of {Sin}.
+--------------------------------------------------End--
+
+I brought these children along
+to teach them how to become
+merchants, but all they do is play!
+--------------------------------------------------End--
+
+Once little kids learn something fun,
+they just repeat it over and over.
+--------------------------------------------------End--
+
+The kids found a new way to play.
+They'll never be merchants now!
+--------------------------------------------------End--
+
+I think so too.
+--------------------------------------------------End--
+
+Don't give me such nonsense.
+--------------------------------------------------End--
+
+Just watching those two
+made me a little envious.
+--------------------------------------------------End--
+
+Did you know that the
+warrior monks raided {Besaid Island}?
+{NEWPAGE}
+
+They said they were
+searching for traitors.
+--------------------------------------------------End--
+
+The people of {Besaid} refused
+to tell them anything.
+--------------------------------------------------End--
+
+I sang at the top of my lungs
+when I saw the flying ship...
+{NEWPAGE}
+
+But I wonder if singing in the
+middle of the ocean did any good?
+--------------------------------------------------End--
+
+All we can do now is
+pray for {Sin} to go away.
+--------------------------------------------------End--
+
+My husband used to be a pro
+blitzer, and I was his goalie.
+--------------------------------------------------End--
+
+Whether in a tournament or in
+life, we're the best partners.
+--------------------------------------------------End--
+
+My husband was the best
+blitzer in the league.
+{NEWPAGE}
+
+Even Bickson of the {Luca Goers} wouldn't
+have stood a chance against him.
+--------------------------------------------------End--
+
+Seems like there was trouble
+in {Bevelle}. Oh dear,
+I wonder what has happened?
+--------------------------------------------------End--
+
+My husband used to be a blitzer.
+He kept playing right into his golden years!
+{NEWPAGE}
+
+But he could take down blitzers
+only half his age. It's true!
+--------------------------------------------------End--
+
+I was one of those young blitzers once...
+I'll leave the rest up to your imagination!
+--------------------------------------------------End--
+
+Ever since {Sin} got to him, my partner
+has turned into a gutless wonder.
+{NEWPAGE}
+
+He used to be so dependable, but now he just
+stares into the sea with terror in his eyes.
+--------------------------------------------------End--
+
+{Sin}'s toxin probably got to him.
+{NEWPAGE}
+
+I hope the cool sea breeze
+cures him soon...
+--------------------------------------------------End--
+
+Ever since {Sin} attacked us, my
+shipmate has been terrified of the sea.
+{NEWPAGE}
+
+I can't believe it. I mean, he's lived
+by the sea since he was a kid...
+--------------------------------------------------End--
+
+{Sin}'s toxin turned
+him into a coward.
+--------------------------------------------------End--
+
+He's perked up a little seeing
+that flying ship battling {Sin}.
+{NEWPAGE}
+
+Once {Sin} is gone, he'll
+probably get back to normal.
+--------------------------------------------------End--
+
+Thank god for that flying ship.
+Now that's the blessing of {Yevon2}!
+--------------------------------------------------End--
+
+Go ahead and rest down below.
+We'll be there by the time you wake up.
+--------------------------------------------------End--
+
+Word is that summoner's
+got noble blood!
+--------------------------------------------------End--
+
+I heard she's Lord {Braska}'s daughter!
+--------------------------------------------------End--
+
+Ya don't say?
+--------------------------------------------------End--
+{Tidus}
+Lord {Braska}'s...daughter?
+--------------------------------------------------End--
+
+Lord {Braska}'s daughter?
+She just might have a chance!
+--------------------------------------------------End--
+
+We'll get her to {Kilika}, we will!
+--------------------------------------------------End--
+{Tidus}
+She does have a name,
+you know... {Yuna}.
+--------------------------------------------------End--
+
+Hmm? Lady {Yuna}?
+--------------------------------------------------End--
+
+Well then, we pray for
+Lady {Yuna}'s safe passage!
+--------------------------------------------------End--
+{Wakka}
+Come to think of it, I haven't
+told you where we're going!
+--------------------------------------------------End--
+{Wakka}
+First to {Blue}{Kilika}{White} Island, then we
+change boats and head for Luca.
+--------------------------------------------------End--
+{Wakka}
+'Fore that, though, {Yuna}'s gotta
+pray at the temple. I'll be guarding.
+--------------------------------------------------End--
+{Wakka}
+We'll be praying for the {Aurochs}'
+victory, too, so you come along, ya?
+--------------------------------------------------End--
+{Lulu}
+Great plan.
+--------------------------------------------------End--
+{Wakka}
+Hey, it is a great plan!
+--------------------------------------------------End--
+{Tidus}
+Don't look at me!
+--------------------------------------------------End--
+{Tidus}
+So, is {Yuna}'s father
+famous or something?
+--------------------------------------------------End--
+{Wakka}
+She's the daughter of
+{High Summoner Braska}!
+You saw his statue at the temple.
+--------------------------------------------------End--
+{Wakka}
+Lord {Braska} defeated {Sin} ten years ago.
+--------------------------------------------------End--
+{Wakka}
+{Yuna}'s the heir to a great legacy!
+--------------------------------------------------End--
+{Tidus}
+It's tough when
+your father's famous.
+--------------------------------------------------End--
+{Lulu}
+{Wakka}'s...a bit lacking
+in the imagination department.
+--------------------------------------------------End--
+{Tidus}
+Thanks, {Lulu},
+I'll keep that in mind.
+--------------------------------------------------End--
+{Wakka}
+Oh yeah, you talk to {Yuna} yet?
+She had some questions for you.
+--------------------------------------------------End--
+{Lulu}
+I don't know who you are,
+or where you came from.
+--------------------------------------------------End--
+{Lulu}
+If you interfere with {Yuna}'s
+pilgrimage, we won't take it lightly.
+--------------------------------------------------End--
+{Clasko}
+Nice to see you again!
+--------------------------------------------------End--
+{Tidus}
+You! You really
+quit the knights?
+--------------------------------------------------End--
+{Clasko}
+Yeah, I did.
+--------------------------------------------------End--
+{Clasko}
+{Elma} was upset with me,
+but Captain {Lucil} understood.
+--------------------------------------------------End--
+{Clasko}
+Now, I'm working as a
+chocobo breeder on this ship.
+--------------------------------------------------End--
+{Clasko}
+I really, really love
+taking care of chocobos!
+--------------------------------------------------End--
+{Clasko}
+Being with chocobos all the time...
+I think I've found my calling!
+--------------------------------------------------End--
+{Clasko}
+And it's all thanks
+to you! Thank you!
+--------------------------------------------------End--
+{Tidus}
+Well, I'm happy for you.
+--------------------------------------------------End--
+{Clasko}
+Oh, yeah!
+--------------------------------------------------End--
+{Clasko}
+I found this in one of the
+chocobo nests the other day.
+--------------------------------------------------End--
+{Clasko}
+It's no use to me, so
+I want you to have it.
+--------------------------------------------------End--
+{Clasko}
+Ah, I have to go now.
+It's time for lunch.
+--------------------------------------------------End--
+{Tidus}
+Hey, I want to talk to you some more.
+Can't your stomach wait?
+--------------------------------------------------End--
+{Clasko}
+I meant I have to feed the chocobos.
+--------------------------------------------------End--
+{Clasko}
+They get really upset
+if they're not fed!
+--------------------------------------------------End--
+{Clasko}
+See you!
+--------------------------------------------------End--
+
+Hey, can you believe this!?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}What?
+{CHOICE:31}No, bye.
+--------------------------------------------------End--
+
+I just saw this merchant guy
+inside the ship, and guess
+what he said to me?
+{NEWPAGE}
+
+He walked up to me and said,
+"You're no good!" Just like that!
+{NEWPAGE}
+
+Isn't that awful?
+I've still got style! I'll show him!
+--------------------------------------------------End--
+
+Don't you think so, too?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yeah.
+{CHOICE:31}Well...
+--------------------------------------------------End--
+
+That's right. I knew I was right.
+He doesn't know what he's talking about!
+--------------------------------------------------End--
+
+You men are all alike!
+Get away from me!
+--------------------------------------------------End--
+
+You could at least
+pretend to listen!
+--------------------------------------------------End--
+
+It makes me so mad.
+I'm not going inside anymore!
+--------------------------------------------------End--
+
+I wonder if they're related?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'd say they're related.
+{CHOICE:31}Looks like they're married.
+--------------------------------------------------End--
+
+Going to rest now?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Not yet.
+{CHOICE:31}Yes.
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Kilika Port
+--------------------------------------------------End--

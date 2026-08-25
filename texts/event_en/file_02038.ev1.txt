@@ -1,0 +1,350 @@
+{Tidus}
+Is that the {Djose} temple?
+--------------------------------------------------End--
+{Tidus}
+Awesome!
+--------------------------------------------------End--
+{Lulu}
+The Lightning Mushroom Rock. It only opens
+when a summoner is addressing the {fayth}.
+--------------------------------------------------End--
+{Wakka}
+That means another summoner's
+already in there.
+--------------------------------------------------End--
+{Yuna}
+Another summoner?
+--------------------------------------------------End--
+{Tidus}
+What if it's {Dona}?
+--------------------------------------------------End--
+{Yuna}
+We have to hurry.
+--------------------------------------------------End--
+{Tidus}
+Right! In we go!
+--------------------------------------------------End--
+{Gatta}
+{Luzzu}, he's...
+--------------------------------------------------End--
+{Wakka}
+Where is he?
+--------------------------------------------------End--
+{Gatta}
+I found him...but he was...
+torn in half. I...
+--------------------------------------------------End--
+{Wakka}
+That...idiot!
+--------------------------------------------------End--
+{Gatta}
+What...what do I do now?
+--------------------------------------------------End--
+{Gatta}
+I can't do this...
+I'm going back to {Besaid}!
+--------------------------------------------------End--
+{Luzzu}
+Hey.
+--------------------------------------------------End--
+{Luzzu}
+{Gatta}, he's...he's dead.
+--------------------------------------------------End--
+{Luzzu}
+He was a good fighter.
+He just wasn't lucky enough.
+--------------------------------------------------End--
+{Wakka}
+{Luzzu}!
+Knock it off!
+--------------------------------------------------End--
+{Luzzu}
+You don't know what it's like!
+--------------------------------------------------End--
+{Wakka}
+I...do...know!
+--------------------------------------------------End--
+{Luzzu}
+I'm sorry.
+--------------------------------------------------End--
+{Wakka}
+Why don't you...
+go home now, to Besaid.
+--------------------------------------------------End--
+{Wakka}
+Take it easy a while.
+Rest, ya?
+--------------------------------------------------End--
+{Luzzu}
+Rest?
+--------------------------------------------------End--
+{Wakka}
+You need some R & R.
+You're hurt, ya?
+--------------------------------------------------End--
+{Luzzu}
+I...I guess so.
+--------------------------------------------------End--
+{Wakka}
+Get better.
+--------------------------------------------------End--
+{Wakka}
+I can't beat up on you when
+you're all depressed, ya?
+--------------------------------------------------End--
+{Luzzu}
+Right.
+--------------------------------------------------End--
+{Wakka}
+Yo! Sleepyhead!
+--------------------------------------------------End--
+{Yuna}
+Sorry!
+I'm so sorry!
+--------------------------------------------------End--
+{Yuna}
+Please forgive me.
+--------------------------------------------------End--
+{Lulu}
+Really, there's no rush...
+Here, your hair.
+--------------------------------------------------End--
+{Wakka}
+A summoner with bed hair!
+What's the world comin' to?
+--------------------------------------------------End--
+{Yuna}
+You could have woken me up!
+--------------------------------------------------End--
+{Lulu}
+We called to you, but
+with all that snoring...
+--------------------------------------------------End--
+{Yuna}
+You too, Sir {Auron}?
+--------------------------------------------------End--
+{Auron}
+Once Lady {Yuna}
+fixes her hair, we leave!
+--------------------------------------------------End--
+
+I hadn't really laughed
+like that in a long time.
+--------------------------------------------------End--
+
+It was only later that I realized...
+--------------------------------------------------End--
+
+The only one really
+laughing then...was me.
+--------------------------------------------------End--
+
+Laughing must have been the
+only thing keeping them going.
+--------------------------------------------------End--
+{Dona}
+Why, it's you again.
+--------------------------------------------------End--
+{Tidus}
+You still on the road?
+--------------------------------------------------End--
+{Dona}
+Yes, but we're not
+going to {Zanarkand}.
+--------------------------------------------------End--
+{Dona}
+I've decided to go to
+{Barthello}'s homeland.
+--------------------------------------------------End--
+{Dona}
+We are going to let the other
+summoners deal with {Sin}.
+--------------------------------------------------End--
+{Dona}
+I'm...I'm scared.
+--------------------------------------------------End--
+{Tidus}
+Hey, don't worry about it.
+--------------------------------------------------End--
+{Tidus}
+We'll put {Sin} in
+his place in no time.
+--------------------------------------------------End--
+{Dona}
+You mean...the Final Summoning?
+--------------------------------------------------End--
+{Tidus}
+No, we found another way
+where no one has to die.
+--------------------------------------------------End--
+{Dona}
+Well, whatever it is, good luck.
+--------------------------------------------------End--
+{Tidus}
+Cross your fingers.
+--------------------------------------------------End--
+{Dona}
+Do your best.
+{Barthello}, time to go.
+--------------------------------------------------End--
+{Yuna}
+Mmm...what is it today?
+Everyone's picking on me!
+--------------------------------------------------End--
+{Luzzu}
+Ah, damn it! He was young!
+He pushed his luck!
+--------------------------------------------------End--
+{Luzzu}
+What was he thinking--going up there
+in the front lines like that?
+--------------------------------------------------End--
+{Luzzu}
+He should've stayed back with command!
+--------------------------------------------------End--
+{Luzzu}
+Damn it! Damn it all!
+--------------------------------------------------End--
+{Wakka}
+We're leavin' once {Yuna} gets here.
+--------------------------------------------------End--
+{Kimahri}
+{Dona} has left. {Isaaru}, too.
+--------------------------------------------------End--
+{Lulu}
+No matter how dark the night,
+morning always comes.
+--------------------------------------------------End--
+{Lulu}
+And our journey begins anew.
+--------------------------------------------------End--
+{Auron}
+Get ready for the journey ahead.
+--------------------------------------------------End--
+{Lucil}
+Will {Yevon2} forgive us?
+--------------------------------------------------End--
+{Lucil}
+The monks of {Djose} have kindly
+offered to heal our wounded.
+--------------------------------------------------End--
+{Lucil}
+{Yevon2} still looks
+out for us... Even now.
+--------------------------------------------------End--
+{Lucil}
+I would pray for
+those fallen in battle...
+--------------------------------------------------End--
+{Lucil}
+But how? How can I enter the
+temple after what we have done?
+--------------------------------------------------End--
+{Elma}
+We won't defy {Yevon2}.
+Never again.
+--------------------------------------------------End--
+{Elma}
+This little fella's finally calmed down.
+--------------------------------------------------End--
+{Elma}
+The monks said we could
+stay here for a while.
+--------------------------------------------------End--
+{Clasko}
+No matter what we do next...
+--------------------------------------------------End--
+{Clasko}
+we're going to do it for
+{Yevon2}, that's for sure.
+--------------------------------------------------End--
+{Clasko}
+I've been thinking
+about the future.
+--------------------------------------------------End--
+{Luzzu}
+This is all punishment
+for turning from {Yevon2}...
+--------------------------------------------------End--
+
+Please leave the temple's safety to
+the warrior monks, and enjoy some rest.
+--------------------------------------------------End--
+
+I quit the Crusaders and became a
+warrior monk. So, what do you think?
+--------------------------------------------------End--
+
+Word is, those {Al Bhed} fools
+are plotting something.
+{NEWPAGE}
+
+They're not pulling anything.
+Not on our watch.
+--------------------------------------------------End--
+
+Lady {Yuna} is getting married!
+What auspicious news!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

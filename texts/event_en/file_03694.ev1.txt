@@ -1,0 +1,319 @@
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+As sole protectors of the {Farplane},
+the {Guado} are the supreme race of {Spira}.
+{NEWPAGE}
+
+We are fundamentally different from the
+populous humans and the hulking {Ronso}.
+{NEWPAGE}
+
+But, that's an old story. Now the {Guado}
+seek harmony with other races.
+--------------------------------------------------End--
+
+Let us welcome human and {Ronso}
+without prejudice.
+--------------------------------------------------End--
+
+Lord {Jyscal}, back from the {Farplane}?
+Hahaha, you must be joking!
+{NEWPAGE}
+
+He passed away in peace,
+leaving the leadership to Lord {Seymor}.
+{NEWPAGE}
+
+He would never come back to haunt us.
+--------------------------------------------------End--
+
+Leave the {Farplane} to the {Guado}.
+Do not meddle with matters you know nothing of.
+--------------------------------------------------End--
+
+Perhaps Lord {Jyscal} wanted to
+see his son's new bride.
+{NEWPAGE}
+
+Even maesters of {Yevon2} dote on
+their children sometimes.
+--------------------------------------------------End--
+
+Speaking of the incident now
+will only cloud the joy of the wedding.
+Say nothing.
+--------------------------------------------------End--
+
+Following a half-human was our
+fatal mistake.
+{NEWPAGE}
+
+{Seymor} destroyed the {Guado} single-handedly.
+Him alone.
+--------------------------------------------------End--
+
+{Tromell} now spends his days mourning
+on the {Farplane}. You won't get
+a word out of him.
+--------------------------------------------------End--
+
+You find it difficult telling
+us {Guado} apart, don't you?
+{NEWPAGE}
+
+I suppose you think we
+all look the same.
+--------------------------------------------------End--
+
+Actually, we {Guado} tend to have trouble
+telling one human from another, too.
+--------------------------------------------------End--
+
+My mother passed away
+a long time ago.
+{NEWPAGE}
+
+But I can always visit the
+{Farplane} whenever I need her.
+--------------------------------------------------End--
+
+I think it's wonderful that we can see
+the dead whenever we want, don't you?
+--------------------------------------------------End--
+
+Who knows when the {Al Bhed} will strike next!
+Best be on your guard.
+--------------------------------------------------End--
+
+Watch over Lady {Yuna} well. After all,
+she is the {Guado} leader's bride-to-be!
+--------------------------------------------------End--
+
+I prayed and prayed on the {Farplane},
+but Lord {Seymor} did not appear.
+--------------------------------------------------End--
+
+I don't care who it is, I just want someone
+to lead the {Guado} back to greatness.
+--------------------------------------------------End--
+
+I'd love to step away from the {Guado Glories}
+and play for a different team once in a while.
+--------------------------------------------------End--
+
+Why, if they paid me enough, I'd
+even play for the {Al Bhed2}!
+--------------------------------------------------End--
+
+We're always practicing
+out in the {Moonflow}.
+{NEWPAGE}
+
+But the other day a shoopuf passed
+by and nearly flattened us!
+--------------------------------------------------End--
+
+We also test our reflexes by dodging
+lightning bolts on the {Thunder Plains}.
+--------------------------------------------------End--
+
+It's true that many tossed themselves to
+the {Farplane} in Lord {Seymor}'s name.
+{NEWPAGE}
+
+But until recently, I looked up to
+him so much.
+{NEWPAGE}
+
+So I suppose I'd be a
+hypocrite to belittle him.
+--------------------------------------------------End--
+
+I might come across as proud,
+but my pride is all I have left.
+--------------------------------------------------End--
+
+Say, you play for the {Besaid Aurochs}.
+You're {Tidus}, right?
+{NEWPAGE}
+
+I saw you at the tournament.
+Let's blitz sometime.
+--------------------------------------------------End--
+
+Those fiends really made a mess.
+Some of my teammates were badly hurt.
+--------------------------------------------------End--
+
+Aren't you headed to {Macalania}?
+Better not keep them waiting.
+{NEWPAGE}
+
+Lord {Seymor} may be cool,
+but {Tromell} has quite a temper, you know.
+--------------------------------------------------End--
+
+Come back after the wedding.
+We'll swap blitz stories!
+--------------------------------------------------End--
+
+Our captain is aiming for
+bigger goals now.
+{NEWPAGE}
+
+He says he'll take the helm of the {Guado}!
+I wonder if he's really serious.
+--------------------------------------------------End--
+
+How much {Guado} life would change
+with a blitzer in charge...
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}S{White} {RIGHT} {Pink}M{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

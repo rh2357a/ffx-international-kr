@@ -1,0 +1,133 @@
+
+I'm supposed to meet my family here,
+but they're nowhere in sight.
+--------------------------------------------------End--
+
+I wonder if they got the place mixed up.
+They're so careless sometimes.
+--------------------------------------------------End--
+
+What? Really?
+Thanks, kid!
+--------------------------------------------------End--
+
+Please, I need my rest.
+This long trip has tired me.
+--------------------------------------------------End--
+
+Hey, aren't you one of
+the {Besaid Aurochs}?
+--------------------------------------------------End--
+
+You are a blitzball player?
+There is something I must tell you.
+--------------------------------------------------End--
+
+I'd like to apologize
+on behalf of the {Guado}.
+{NEWPAGE}
+
+We are responsible for the fiends
+that attacked the stadium after the game.
+{NEWPAGE}
+
+We're sorry for the disturbance
+and for disrupting such a wonderful
+game. Please accept our apologies.
+--------------------------------------------------End--
+
+It was Maester {Seymor}'s plan
+to release the fiends in {Luca Stadium}.
+{NEWPAGE}
+
+He thought he could win the trust
+of the people by defeating the
+fiends with his aeon.
+{NEWPAGE}
+
+I heard that his plan to marry the
+high summoner's daughter was solely to
+gain the support of the people of {Yevon2}.
+{NEWPAGE}
+
+There seem to have been other reasons as
+well, but now, we will never know.
+--------------------------------------------------End--
+
+By obeying Maester {Seymor},
+we {Guado} have committed an
+inexcusable crime.
+{NEWPAGE}
+
+It's far too late to try shifting
+the blame to Maester {Seymor}.
+{NEWPAGE}
+
+Within time, the {Guado} will
+be as despised as the {Al Bhed}.
+--------------------------------------------------End--
+
+That child's brother was Maester
+{Seymor}'s subordinate.
+{NEWPAGE}
+
+He died while invading the {Al Bhed}
+hideout, searching for the lost summoners.
+{NEWPAGE}
+
+He was never sent...
+I fear he now wanders as a fiend.
+--------------------------------------------------End--
+
+The power of the {Guado} has greatly
+deteriorated. They merely await the
+inevitable, now.
+{NEWPAGE}
+
+That is why I brought that child
+and moved away from {Guadosalam}.
+{NEWPAGE}
+
+Perhaps we will find peace
+in some far away land.
+--------------------------------------------------End--
+
+I still haven't told that child
+the truth about the {Guado}.
+{NEWPAGE}
+
+Perhaps when he grows older and
+can accept the reality of the situation...
+{NEWPAGE}
+
+only then will I reveal the
+truth about everything to him.
+--------------------------------------------------End--
+
+I'm tired now after talking so long.
+I'm not as young as I used to be.
+--------------------------------------------------End--
+
+Grandma says she has something
+important to tell you.
+--------------------------------------------------End--
+
+My brother died fighting the bad guys.
+He's a real hero!
+--------------------------------------------------End--
+
+{Guadosalam}'s no fun these days.
+Everyone's so sad there.
+{NEWPAGE}
+
+That's why I'm going on a journey
+with my grandmother.
+--------------------------------------------------End--
+
+We're going to rest here
+until grandma feels better.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}They were waiting over there.
+{CHOICE:31}Hope you find 'em.
+--------------------------------------------------End--

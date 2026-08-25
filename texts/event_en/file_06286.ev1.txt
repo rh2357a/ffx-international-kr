@@ -1,0 +1,135 @@
+{Yuna}
+This isn't a {fayth}.
+It's just an empty statue.
+--------------------------------------------------End--
+
+That statue lost its power
+as a {fayth} long ago.
+--------------------------------------------------End--
+
+It is Lord {Zaon}, the first
+fayth of the Final Summoning.
+--------------------------------------------------End--
+
+What you see before you
+is all that remains of him.
+--------------------------------------------------End--
+
+Lord {Zaon} is...
+his soul is gone.
+--------------------------------------------------End--
+{Wakka}
+Gone!?
+--------------------------------------------------End--
+{Rikku}
+You mean, there
+is no Final Aeon?
+--------------------------------------------------End--
+
+But fear not.
+--------------------------------------------------End--
+
+Lady {Yunalesca} will show you the path.
+The Final Aeon will be yours.
+--------------------------------------------------End--
+
+The summoner and the Final
+Aeon will join powers.
+--------------------------------------------------End--
+
+Go to her now.
+Inside, the lady awaits.
+--------------------------------------------------End--
+{Tidus}
+{Yuna}, wait!
+--------------------------------------------------End--
+{Tidus}
+{Auron}, you knew this
+was going to happen, didn't you?
+--------------------------------------------------End--
+{Auron}
+Yes.
+--------------------------------------------------End--
+{Rikku}
+Why didn't you tell us!?
+--------------------------------------------------End--
+{Auron}
+If I had told you the truth,
+would that really have
+stopped you from coming?
+--------------------------------------------------End--
+{Kimahri}
+{Yuna}.
+--------------------------------------------------End--
+{Yuna}
+I'm not going back.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} knows.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} goes first.
+{Yuna} is safe. {Kimahri} protect.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

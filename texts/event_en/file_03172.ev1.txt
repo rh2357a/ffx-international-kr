@@ -1,0 +1,34 @@
+{Wakka}
+Go present yourself to the temple
+summoner before we eat, ya?
+--------------------------------------------------End--
+{Wakka}
+A little praying might do
+your memory some good!
+--------------------------------------------------End--
+{Wakka}
+Sorry, man.
+No time for lunch yet.
+--------------------------------------------------End--
+{Wakka}
+Take a nap!
+You look bushed.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Thanks.
+{CHOICE:31}No, I'm fine.
+--------------------------------------------------End--
+
+You could at least
+go see how they are doing.
+--------------------------------------------------End--
+{Wakka}
+We can't interfere.
+It's a rule.
+--------------------------------------------------End--
+
+But, it's been nearly...
+--------------------------------------------------End--
+{Tidus}
+{Wakka}?
+--------------------------------------------------End--

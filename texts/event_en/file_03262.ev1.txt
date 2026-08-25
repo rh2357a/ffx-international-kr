@@ -1,0 +1,83 @@
+{Tidus}
+Wh-What the heck is that!?
+--------------------------------------------------End--
+
+Wh-What the heck is what?
+--------------------------------------------------End--
+{Tidus}
+What is this place?
+--------------------------------------------------End--
+
+The power room,
+like it says on the door!
+--------------------------------------------------End--
+{Tidus}
+Yeah, but why the big birds?
+--------------------------------------------------End--
+
+What's so strange
+about chocobo power?
+--------------------------------------------------End--
+{Tidus}
+Chocobos?
+Those are chocobos?
+--------------------------------------------------End--
+
+What?
+You've never seen a chocobo?
+--------------------------------------------------End--
+
+What kind of backwater island
+did you come from, anyway?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+Miracles and oddities were starting
+to become daily routine on this trip.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. III!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}L{White} {RIGHT} {Pink}C{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

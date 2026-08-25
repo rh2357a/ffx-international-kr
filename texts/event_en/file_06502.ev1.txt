@@ -1,0 +1,54 @@
+{Auron}
+What are you taking?
+--------------------------------------------------End--
+{Jecht}
+Well, you said it
+was gonna be a long trip.
+--------------------------------------------------End--
+{Jecht}
+We'll be seeing a lot
+of neat things, right?
+--------------------------------------------------End--
+{Jecht}
+So I thought I'd record it all in this.
+--------------------------------------------------End--
+{Jecht}
+To show to my wife
+and kid, you know.
+--------------------------------------------------End--
+{Auron}
+This is no pleasure cruise!
+--------------------------------------------------End--
+{Jecht}
+Hey, {Braska}.
+--------------------------------------------------End--
+{Jecht}
+Ain't this supposed
+to be a grand occasion?
+--------------------------------------------------End--
+{Jecht}
+Where're the cheering fans?
+The crying women?
+--------------------------------------------------End--
+{Braska}
+This is it.
+--------------------------------------------------End--
+{Braska}
+Too many goodbyes--
+people think twice about leaving.
+--------------------------------------------------End--
+{Jecht}
+Hmm... If you say so.
+--------------------------------------------------End--
+{Jecht}
+Well, it better be a lot more
+colorful when we come back.
+--------------------------------------------------End--
+{Jecht}
+A parade for {Braska},
+vanquisher of {Sin}!
+--------------------------------------------------End--
+{Braska}
+We should go.
+Day will break soon.
+--------------------------------------------------End--

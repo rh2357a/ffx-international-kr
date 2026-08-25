@@ -1,0 +1,202 @@
+
+          
+--------------------------------------------------End--
+{Biran}
+Summoner {Yuna}!
+--------------------------------------------------End--
+{Tidus}
+What is it this time?
+--------------------------------------------------End--
+{Lulu}
+These mark the graves of summoners
+and guardians who failed.
+--------------------------------------------------End--
+{Lulu}
+Summoners that die up here...
+--------------------------------------------------End--
+{Lulu}
+aren't sent to the Farplane.
+--------------------------------------------------End--
+{Tidus}
+Why not?
+--------------------------------------------------End--
+{Lulu}
+Who would send them?
+They die alone.
+--------------------------------------------------End--
+{Tidus}
+So that means...
+--------------------------------------------------End--
+{Lulu}
+Many have become fiends, and they
+may want {Yuna}'s company.
+--------------------------------------------------End--
+{Tidus}
+Well, {Yuna} will be fine.
+--------------------------------------------------End--
+{Lulu}
+You're right.
+--------------------------------------------------End--
+{Lulu}
+All this way, only to fail.
+It must have been tough.
+--------------------------------------------------End--
+{Wantz}
+Greetings, Lady {Yuna}.
+My name is {Wantz}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Yuna}
+We have met several
+times before, right?
+--------------------------------------------------End--
+{Tidus}
+Not running today?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wantz}
+I have to carry on my
+brother's business.
+--------------------------------------------------End--
+{Wantz}
+You've met him, I think.
+{O'aka} XXIII, merchant extraordinaire?
+--------------------------------------------------End--
+{Tidus}
+Wait, you're that guy's brother?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wantz}
+My brother wanted to
+come help Lady {Yuna}.
+--------------------------------------------------End--
+{Wantz}
+But the temple imprisoned him
+for helping traitors.
+--------------------------------------------------End--
+{Tidus}
+They imprisoned him because of us?
+--------------------------------------------------End--
+{Wantz}
+He doesn't regret it, though.
+In fact, he told me before
+they took him...
+--------------------------------------------------End--
+{Wantz}
+"Don't worry about me,
+just go help Lady {Yuna}."
+--------------------------------------------------End--
+{Yuna}
+But, why would your brother
+do this for us?
+--------------------------------------------------End--
+{Wantz}
+Well...
+--------------------------------------------------End--
+{Wantz}
+Hey, this isn't the time for talking!
+--------------------------------------------------End--
+{Wantz}
+There's dealing to be done!
+--------------------------------------------------End--
+{Wantz}
+Welcome to {O'aka}'s!
+--------------------------------------------------End--
+{Yuna}
+I will be sure to keep
+your brother in my prayers.
+--------------------------------------------------End--
+{Wantz}
+He's doing the same
+for you, Lady {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+Thanks.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Warp Selection
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Mt. Gagazet - Gate
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Braska}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--

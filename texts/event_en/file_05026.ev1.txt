@@ -1,0 +1,161 @@
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+{Yellow}{Jecht}'s Spheres{White}
+Spheres that document {Jecht}'s journey are
+hidden all over {Spira}. Defeating the
+Spherimorph has unlocked the seals
+that once bound the spheres. Find them!
+--------------------------------------------------End--
+{Tidus}
+This place...
+--------------------------------------------------End--
+{Tidus}
+It's just water, isn't it?
+--------------------------------------------------End--
+{Auron}
+This is what spheres are made of.
+--------------------------------------------------End--
+{Auron}
+It absorbs and preserves
+people's memories.
+--------------------------------------------------End--
+{Wakka}
+What's that?
+--------------------------------------------------End--
+{Auron}
+Fiends are also
+attracted to these places.
+--------------------------------------------------End--
+{Wakka}
+Whoa, this is old!
+Don't know if you can play it back.
+--------------------------------------------------End--
+{Auron}
+{Jecht} left it here ten years ago.
+--------------------------------------------------End--
+{Auron}
+Play it back.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Tidus}
+What's the point?
+He wasn't on some pleasure cruise.
+--------------------------------------------------End--
+{Rikku}
+I think there's more.
+--------------------------------------------------End--
+{Tidus}
+He sounded almost serious,
+but it was too late.
+--------------------------------------------------End--
+{Auron}
+He was serious.
+--------------------------------------------------End--
+{Auron}
+{Jecht} had already
+accepted his fate.
+--------------------------------------------------End--
+{Tidus}
+His fate?
+--------------------------------------------------End--
+{Auron}
+{Jecht}... He...
+--------------------------------------------------End--
+{Auron}
+He was always talking
+about going home, to {Zanarkand}.
+--------------------------------------------------End--
+{Auron}
+That's why he took all those pictures--
+to show them to you when he returned.
+--------------------------------------------------End--
+{Auron}
+But as he journeyed with us
+and came to understand {Spira},
+and {Braska}'s resolve...
+--------------------------------------------------End--
+{Auron}
+It happened gradually,
+but {Jecht} changed.
+--------------------------------------------------End--
+{Auron}
+He decided he would join {Braska}
+in his fight against {Sin}.
+--------------------------------------------------End--
+{Tidus}
+So then, he gave up going home?
+--------------------------------------------------End--
+{Auron}
+That was his decision.
+--------------------------------------------------End--
+
+I guess I understood.
+--------------------------------------------------End--
+
+My old man...
+--------------------------------------------------End--
+
+He knew there was no way
+back home, back to {Zanarkand}.
+--------------------------------------------------End--
+
+He wanted to go home,
+but he knew he couldn't.
+--------------------------------------------------End--
+
+He couldn't go on
+until he accepted it.
+--------------------------------------------------End--
+
+Besides...
+--------------------------------------------------End--
+
+even if he had
+found a way back...
+--------------------------------------------------End--
+
+I don't think he would've
+left his friends behind before
+their journey was complete.
+--------------------------------------------------End--
+{Tidus}
+All right!
+Let's go, guys!
+--------------------------------------------------End--
+
+Maybe I had to start
+accepting my own fate.
+--------------------------------------------------End--
+{Auron}
+Wait.
+--------------------------------------------------End--
+{Tidus}
+Yeah?
+--------------------------------------------------End--
+{Auron}
+{Jecht} loved you.
+--------------------------------------------------End--
+{Tidus}
+Oh, come on, please!
+--------------------------------------------------End--
+{Auron}
+He just didn't know how
+to express it, he said.
+--------------------------------------------------End--
+{Tidus}
+Enough about my old man, okay?
+--------------------------------------------------End--
+{Auron}
+I just thought you should know.
+--------------------------------------------------End--
+{Tidus}
+Okay.
+--------------------------------------------------End--
+{Tidus}
+Thanks.
+--------------------------------------------------End--

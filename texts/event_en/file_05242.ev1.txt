@@ -1,0 +1,157 @@
+{Tidus}
+Eesh...
+Can't I get a little privacy?
+--------------------------------------------------End--
+{Auron}
+Your singing reminded
+me of {Spira}.
+--------------------------------------------------End--
+{Tidus}
+Oh, right. You're not originally
+from {Zanarkand}, are you?
+--------------------------------------------------End--
+{Tidus}
+You homesick?
+--------------------------------------------------End--
+{Auron}
+Maybe.
+--------------------------------------------------End--
+{Tidus}
+I know.
+--------------------------------------------------End--
+{Tidus}
+You want this to end.
+--------------------------------------------------End--
+{Tidus}
+I'll find a way, promise.
+--------------------------------------------------End--
+{Tidus}
+Say, how'd you get
+to {Zanarkand} anyway?
+--------------------------------------------------End--
+{Tidus}
+{Sin}?
+--------------------------------------------------End--
+{Tidus}
+Uh-huh, I thought so.
+--------------------------------------------------End--
+
+That proved it.
+--------------------------------------------------End--
+
+{Sin} was the link
+between {Zanarkand} and {Spira}.
+--------------------------------------------------End--
+
+Which means, if we kill {Sin},
+I'll never be able to go home.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+The singing stopped.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Wakka}
+There's something here!
+--------------------------------------------------End--
+{Auron}
+The ground!
+--------------------------------------------------End--
+{Yuna}
+{Sin}!?
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Lulu}
+The toxin! Watch out!
+--------------------------------------------------End--
+
+It was then I knew...
+--------------------------------------------------End--
+
+that {Sin} really was my old man.
+--------------------------------------------------End--
+
+For the first time, I was
+finally able to believe it.
+--------------------------------------------------End--
+{Tidus}
+The song...
+You were listening, too!
+--------------------------------------------------End--
+{Tidus}
+What is it this time?
+--------------------------------------------------End--
+{Auron}
+We should get moving soon.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

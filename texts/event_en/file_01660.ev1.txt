@@ -1,0 +1,110 @@
+{Yuna}
+The wind...it's nice.
+--------------------------------------------------End--
+{Yuna}
+You're a {blitzball} player, aren't you?
+From {Zanarkand}, right?
+--------------------------------------------------End--
+{Tidus}
+You hear that from {Wakka}?
+--------------------------------------------------End--
+{Tidus}
+{Wakka} doesn't believe me at all.
+--------------------------------------------------End--
+{Yuna}
+I've heard, in {Zanarkand}...
+--------------------------------------------------End--
+{Yuna}
+there is a great stadium,
+all lit up even at night!
+--------------------------------------------------End--
+{Yuna}
+A man named {Jecht} told me.
+He was my father's guardian.
+--------------------------------------------------End--
+{Tidus}
+My father...his name is {Jecht}!
+--------------------------------------------------End--
+{Yuna}
+Amazing!
+--------------------------------------------------End--
+{Yuna}
+You know, our meeting like this
+must be the blessing of {Yevon2}!
+--------------------------------------------------End--
+{Tidus}
+My old man, he died. Ten years ago,
+off the coast of {Zanarkand}.
+--------------------------------------------------End--
+{Yuna}
+I'm sorry.
+--------------------------------------------------End--
+{Tidus}
+He went out to sea for training
+one day...and never came back.
+--------------------------------------------------End--
+{Tidus}
+And no one's seen him since then.
+--------------------------------------------------End--
+{Yuna}
+I remember,
+that was the day my father left.
+--------------------------------------------------End--
+{Yuna}
+The date fits, doesn't it?
+--------------------------------------------------End--
+{Yuna}
+You're here, are you not?
+--------------------------------------------------End--
+
+Sin!
+--------------------------------------------------End--
+{Wakka}
+What do you think you're doing?
+--------------------------------------------------End--
+{Wakka}
+Stick a harpoon in him
+and we'll all get dragged under!
+--------------------------------------------------End--
+
+{Sin} is going for {Kilika}!
+We gotta distract it!
+--------------------------------------------------End--
+
+Our families are in {Kilika}!
+Forgive us, Lady Summoner!
+--------------------------------------------------End--
+{Wakka}
+Wait!
+--------------------------------------------------End--
+{Wakka}
+Oh, boy...
+--------------------------------------------------End--
+{Yuna}
+But I believe you!
+--------------------------------------------------End--
+{Yuna}
+Great {blitzball} tournaments are held
+there, and the stands are always full!
+--------------------------------------------------End--
+{Tidus}
+How do you know that?
+--------------------------------------------------End--
+{Tidus}
+Sounds like him,
+but it can't be him.
+--------------------------------------------------End--
+{Yuna}
+Why not?
+--------------------------------------------------End--
+{Yuna}
+Why, that's the day that
+{Jecht} came to {Spira}.
+--------------------------------------------------End--
+{Yuna}
+It's true! I first met {Jecht}
+ten years and three months ago!
+--------------------------------------------------End--
+{Tidus}
+Yeah, but how would he get here?
+--------------------------------------------------End--

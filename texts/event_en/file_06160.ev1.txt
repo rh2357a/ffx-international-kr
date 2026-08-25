@@ -1,0 +1,166 @@
+{Auron}
+It comes!
+--------------------------------------------------End--
+{Rikku}
+Hey! Can't we
+rest a little?
+--------------------------------------------------End--
+{Auron}
+No need. We reach
+the summit soon.
+--------------------------------------------------End--
+{Rikku}
+I know, that's why I
+want to stop for a bit.
+--------------------------------------------------End--
+{Rikku}
+Soon means that...
+there's not much time left.
+--------------------------------------------------End--
+{Yuna}
+{Rikku}...
+--------------------------------------------------End--
+{Rikku}
+Fine.
+I'll think on the way.
+--------------------------------------------------End--
+{Wakka}
+Hey, come on, let's go.
+--------------------------------------------------End--
+{Tidus}
+We are almost there, aren't we?
+--------------------------------------------------End--
+{Wakka}
+We've come a long way.
+--------------------------------------------------End--
+{Tidus}
+What's so funny?
+--------------------------------------------------End--
+{Auron}
+You remind me of myself.
+--------------------------------------------------End--
+{Auron}
+Before, the closer I came to
+{Zanarkand}, the more I wondered...
+--------------------------------------------------End--
+{Auron}
+when we arrive, {Braska}
+will call the Final Aeon...
+--------------------------------------------------End--
+{Auron}
+He will fight {Sin}, then die.
+--------------------------------------------------End--
+{Auron}
+I thought my mind was
+made up long before.
+--------------------------------------------------End--
+{Auron}
+But when I stood here,
+my resolve wavered.
+--------------------------------------------------End--
+{Wakka}
+Huh, never would've figured.
+--------------------------------------------------End--
+{Wakka}
+Legendary guardians
+choke sometimes, too, ya?
+--------------------------------------------------End--
+{Auron}
+Legendary guardian?
+I was just a boy.
+--------------------------------------------------End--
+{Auron}
+A boy about your age, actually.
+--------------------------------------------------End--
+{Auron}
+I wanted to change the world, too.
+--------------------------------------------------End--
+{Auron}
+But I changed nothing.
+--------------------------------------------------End--
+{Auron}
+That is my story.
+--------------------------------------------------End--
+
+A city dead for a thousand years.
+--------------------------------------------------End--
+
+A city I had to see
+with my own eyes.
+--------------------------------------------------End--
+
+The end of {Yuna}'s journey.
+--------------------------------------------------End--
+
+The last chapter in my story.
+--------------------------------------------------End--
+
+My thoughts, they kept floating up,
+and then slipping through my fingers.
+--------------------------------------------------End--
+
+Slipping away before I could
+pin them down with words.
+--------------------------------------------------End--
+{Yuna}
+All my life, I knew
+this moment would come.
+--------------------------------------------------End--
+{Rikku}
+{Yunie}...
+--------------------------------------------------End--
+{Yuna}
+Thank you, {Rikku}.
+Thank you for everything.
+--------------------------------------------------End--
+{Rikku}
+Don't say that, {Yunie}!
+It's not over yet!
+--------------------------------------------------End--
+{Yuna}
+Tell {Cid} thank you.
+--------------------------------------------------End--
+{Rikku}
+No...
+You can tell him yourself.
+--------------------------------------------------End--
+{Yuna}
+Please...
+--------------------------------------------------End--
+{Yuna}
+{Kimahri}, let's go.
+--------------------------------------------------End--
+{Rikku}
+{Yuna}, I say no!
+--------------------------------------------------End--
+{Rikku}
+If we go down there, then you'll...
+--------------------------------------------------End--
+{Yuna}
+You're a true friend,
+and I thank you, but...
+--------------------------------------------------End--
+{Yuna}
+I must go...
+--------------------------------------------------End--
+{Yuna}
+down, to {Zanarkand}.
+--------------------------------------------------End--
+{Rikku}
+I'm not saying we shouldn't go.
+--------------------------------------------------End--
+{Rikku}
+But shouldn't we think
+about it some more?
+--------------------------------------------------End--
+{Rikku}
+There's gotta be some kind
+of way we can save you, {Yuna}!
+--------------------------------------------------End--
+{Rikku}
+{Yunie}, don't say that because...
+--------------------------------------------------End--
+{Rikku}
+we're gonna see each
+other again, okay?
+--------------------------------------------------End--

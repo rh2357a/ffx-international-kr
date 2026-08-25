@@ -1,0 +1,428 @@
+{Yuna}
+Hey, you two! Hurry up!
+--------------------------------------------------End--
+{Tidus}
+She's awfully cheerful.
+--------------------------------------------------End--
+{Kimahri}
+In dark times she must be.
+She must shine bright.
+--------------------------------------------------End--
+{Kimahri}
+Now are dark times.
+{Yuna} tries hard.
+--------------------------------------------------End--
+{Tidus}
+We should help her, then.
+--------------------------------------------------End--
+{Kimahri}
+If we worry, she tries harder.
+--------------------------------------------------End--
+{Kimahri}
+Do not frown.
+--------------------------------------------------End--
+{Tidus}
+Don't worry, be happy?
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} try, too.
+--------------------------------------------------End--
+{Tidus}
+Smile! Let me see.
+--------------------------------------------------End--
+{Tidus}
+Hey! How much longer
+till {Zanarkand}?
+--------------------------------------------------End--
+{Wakka}
+Still a ways.
+--------------------------------------------------End--
+{Lulu}
+First down the {Moonflow} to
+the {Guado} city of {Guadosalam}...
+--------------------------------------------------End--
+{Lulu}
+Then we cross the {Thunder Plains}
+to the temple of Macalania.
+--------------------------------------------------End--
+{Tidus}
+Oh, boy.
+--------------------------------------------------End--
+{Yuna}
+And before that, we get to pray
+at the temple in {Blue}{Djose}{White}!
+--------------------------------------------------End--
+{Tidus}
+We can't just skip all
+that? Can we, huh?
+--------------------------------------------------End--
+{Yuna}
+I have to pray to the {fayth} in every
+temple in order to earn the Final Aeon.
+--------------------------------------------------End--
+{Wakka}
+That's a summoner's training.
+--------------------------------------------------End--
+{Wakka}
+She's gotta prepare mind and body, all
+just to get ready for the Final Summoning.
+--------------------------------------------------End--
+{Tidus}
+Must be tough, {Yuna}.
+--------------------------------------------------End--
+{Yuna}
+I'll be fine with you here!
+--------------------------------------------------End--
+{Auron}
+Hey, new guy.
+--------------------------------------------------End--
+{Tidus}
+Uh...me?
+--------------------------------------------------End--
+{Auron}
+Who else?
+--------------------------------------------------End--
+{Tidus}
+What can I do for you, boss?
+--------------------------------------------------End--
+{Auron}
+Don't tell {Yuna} you
+know about {Sin} and {Jecht}.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Auron}
+You know her...
+--------------------------------------------------End--
+{Auron}
+She would...distance
+herself from you.
+--------------------------------------------------End--
+{Auron}
+We do not want that.
+--------------------------------------------------End--
+{Tidus}
+I see, I think.
+--------------------------------------------------End--
+{Tidus}
+Yeah, but even if I did
+say something, no one
+would believe me, you know?
+--------------------------------------------------End--
+{Auron}
+{Yuna} would.
+--------------------------------------------------End--
+{Tidus}
+Ah...you have a point.
+--------------------------------------------------End--
+{Auron}
+Better than you finding out at a
+critical moment, becoming emotional.
+--------------------------------------------------End--
+{Tidus}
+What? Me, emotional?
+--------------------------------------------------End--
+{Auron}
+I heard you were quite the crybaby.
+--------------------------------------------------End--
+
+Yeah, maybe when I was a kid.
+--------------------------------------------------End--
+
+Maybe even a little now.
+Just a little.
+--------------------------------------------------End--
+{Tidus}
+Hey!
+--------------------------------------------------End--
+{Tidus}
+I still don't buy
+your story, you hear?
+--------------------------------------------------End--
+{Tidus}
+Where to next?
+--------------------------------------------------End--
+{Lulu}
+We cross the {Blue}{Moonflow}{White}.
+--------------------------------------------------End--
+{Tidus}
+Gotcha!
+--------------------------------------------------End--
+{Tidus}
+{Blue}{Moonflow}{White}, baby,
+here we come!
+--------------------------------------------------End--
+{Tidus}
+Come to think of it...did I really
+have to know about {Jecht}?
+--------------------------------------------------End--
+{Tidus}
+What about my feelings?
+--------------------------------------------------End--
+
+We've decided to rest at the temple.
+I just hope they let us.
+{NEWPAGE}
+
+We've been excommunicated, after all.
+They might throw us out.
+--------------------------------------------------End--
+
+Oh, I almost forgot.
+{NEWPAGE}
+
+There are fiends here that petrify
+humans. Wear this; it should help.
+--------------------------------------------------End--
+
+My buddy's missing. We served
+in the same unit. I hope he's okay.
+--------------------------------------------------End--
+
+My comrades are dead, all because
+we ignored the teachings.
+{NEWPAGE}
+
+Relying on a forbidden machina...
+What the heck were we thinking?
+--------------------------------------------------End--
+
+This'll hardly make amends, but...
+I want the lady summoner to have this.
+--------------------------------------------------End--
+
+I guess it's time to seek the monks' help
+and embrace the teachings once again.
+--------------------------------------------------End--
+
+We incurred heavy casualties in last
+year's {Djose} coast defense operation.
+{NEWPAGE}
+
+But even those losses
+don't compare to this.
+--------------------------------------------------End--
+
+I found this lying on the battlefield.
+Maybe it will be of some use to you.
+--------------------------------------------------End--
+
+All I can offer now are my prayers.
+--------------------------------------------------End--
+
+{Sin}'s attack has aggravated the fiends.
+I advise against going to {Luca}.
+--------------------------------------------------End--
+
+The {Crusader}s have been ordered
+to regroup at {Djose Temple}.
+{NEWPAGE}
+
+Not many left to regroup, but...
+--------------------------------------------------End--
+
+It's my fault. My men died in vain
+because of me. It's all my fault.
+--------------------------------------------------End--
+
+My sergeant's keepsake... Take it.
+--------------------------------------------------End--
+
+Supposedly, the warrior monks and the
+{Guado2} will guard the Highroad now.
+{NEWPAGE}
+
+Pretty soon they won't need the
+{Crusader}s around here at all.
+--------------------------------------------------End--
+
+I'll stay on to guard the Highroad,
+even without my fellow {Crusader}s.
+--------------------------------------------------End--
+
+The warrior monks have returned to
+{Bevelle}. In other words, they fled.
+--------------------------------------------------End--
+
+Rumor has it that {Sin} will
+return to this place someday.
+--------------------------------------------------End--
+
+Unbelievable! A flying ship that sings!
+My jaw dropped when I saw it.
+{NEWPAGE}
+
+A huge crowd gathered along the Highroad,
+and they all sang along, arm in arm.
+--------------------------------------------------End--
+
+So if we defeat {Sin}, our crimes
+will be forgiven, right? Right!?
+{NEWPAGE}
+
+That time I stole that kid's...
+And the other time when I...
+All will be forgiven?
+--------------------------------------------------End--
+
+As followers of {Yevon2}, we believe
+in aiding all those who are wounded.
+{NEWPAGE}
+
+Even the excommunicated {Crusader}s.
+{NEWPAGE}
+
+They have suffered so much. I believe
+the time has come to welcome them back.
+--------------------------------------------------End--
+
+May {Yevon2}'s blessing be with you.
+--------------------------------------------------End--
+
+A heartbreaking defeat, it was...
+{Yevon2}'s blessing has spared us.
+--------------------------------------------------End--
+
+There are some suspicious {Al Bhed2}
+prowling around the Highroad.
+{NEWPAGE}
+
+But then again, I've never met an
+{Al Bhed2} that wasn't suspicious!
+--------------------------------------------------End--
+
+Please notify me if you
+run into any {Al Bhed2}.
+--------------------------------------------------End--
+
+What in {Spira} are you doing here?
+{NEWPAGE}
+
+Maester {Seymor} is expecting
+you in {Macalania}.
+--------------------------------------------------End--
+
+We must spread news of the
+wedding to all of {Spira}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+  Luca
+                 Kilika Port
+
+
+             Besaid
+--------------------------------------------------End--
+{AREA}
+Djose Highroad
+--------------------------------------------------End--
+{AREA}
+Temple of Yevon-Djose
+--------------------------------------------------End--
+{AREA}
+Moonflow
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+   language are revealed!
+            [ {OPurple}G{White} {RIGHT} {Pink}K{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

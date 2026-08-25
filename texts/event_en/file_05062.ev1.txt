@@ -1,0 +1,33 @@
+{WINDOW}
+Save current game?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+
+The {Aurochs} may have lost
+the game, but what a way to go!
+--------------------------------------------------End--
+
+Unbelievable!
+The {Aurochs} win, folks!
+This is one for the record books!
+--------------------------------------------------End--
+
+But who could have imagined...
+--------------------------------------------------End--
+
+A championship game
+between these two teams?
+--------------------------------------------------End--
+
+Our legendary {Luca Goers}
+going against...
+--------------------------------------------------End--
+
+the horrendously ill-fated
+{Besaid Aurochs}!
+--------------------------------------------------End--
+
+This looks like history
+in the making, Bobba.
+--------------------------------------------------End--

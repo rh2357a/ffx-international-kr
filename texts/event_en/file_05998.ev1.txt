@@ -1,0 +1,533 @@
+
+The sun feels great out here.
+--------------------------------------------------End--
+
+Ah. Kicking back and loafing around
+are the greatest luxuries you can have.
+--------------------------------------------------End--
+
+You know, it's when I'm just
+lying here like this that
+I realize how wonderful life is.
+--------------------------------------------------End--
+
+Once {Sin} comes, everything
+we worked for will be lost.
+{NEWPAGE}
+
+So why bother to work at all?
+I've got better ways to spend
+the time I have left.
+--------------------------------------------------End--
+
+Ahh... Basking in the
+sun is such a great luxury.
+--------------------------------------------------End--
+
+Once {Sin} is gone, I'll clean up
+my act and work more diligently.
+{NEWPAGE}
+
+I don't think that day
+will ever come, though.
+--------------------------------------------------End--
+
+You gotta admire them heroes
+on that flying ship. I'll just kick
+back a little extra on their behalf.
+--------------------------------------------------End--
+
+So I told him right off
+the bat. That'd be cats.
+--------------------------------------------------End--
+
+You understand, don't you?
+--------------------------------------------------End--
+
+You're the only one
+that'll listen to me...
+--------------------------------------------------End--
+
+Youngsters nowadays are so rowdy.
+I can hardly hear myself think in town.
+--------------------------------------------------End--
+
+I'd rather spend time with my
+dogs than hang around townsfolk.
+--------------------------------------------------End--
+
+The flying ship is an {Al Bhed} machina, right?
+No way am I going to cheer for them.
+{NEWPAGE}
+
+They say it was the {Al Bhed}
+that spread those rumors about
+Summoner {Yuna} being a traitor.
+--------------------------------------------------End--
+
+Cheer for the {Al Bhed2}?
+I'd as soon break the teachings!
+--------------------------------------------------End--
+
+Both Liki and Winno were...urp.
+L-Let's...ugh...continue this later.
+--------------------------------------------------End--
+
+They're not as famous...as high
+summoners, but...ugh...later!
+--------------------------------------------------End--
+
+Did you know...that both were...names
+of great monks...? Th-That's all... 
+--------------------------------------------------End--
+
+G-Give me..a break... Even my trivia...
+won't help me...right now...
+--------------------------------------------------End--
+
+It's not that...I like riding ships...
+But this...urp...is the only way...
+{NEWPAGE}
+
+The waves, winds...and chocobos...cause the
+ship to rock. But it's better than the shoopuf...
+{NEWPAGE}
+
+Last time, I...urp...on the shoopuf...
+and got an earful...from the Hypello...
+--------------------------------------------------End--
+
+Ugh... Just talking about it...
+gets me sick... Urrp... H-Help!
+--------------------------------------------------End--
+
+Watching...flying ship...
+Ugh...got me...seasick.
+{NEWPAGE}
+
+Thinking...that riding the...flying ship
+would be worse...made me sicker...
+{NEWPAGE}
+
+Urrrp... D-Don't remind me...
+I feel it coming up...again...
+--------------------------------------------------End--
+
+Sorry...I couldn't...sing the Hymn...
+Seasick...urrrrp!
+--------------------------------------------------End--
+
+I was on watch duty all night long.
+Please let me get some sleep!
+--------------------------------------------------End--
+
+He's fallen asleep.
+--------------------------------------------------End--
+
+I've been pulling all-nighters
+these days. Please let me rest!
+--------------------------------------------------End--
+
+Don't worry. I sang the Hymn, too.
+Just...just let me sleep, okay?
+--------------------------------------------------End--
+
+Don't take what he says literally.
+--------------------------------------------------End--
+
+He tries to sleep on my lap
+whenever he gets a chance.
+{NEWPAGE}
+
+It's starting to hurt my legs.
+--------------------------------------------------End--
+
+He used to be a hard worker, too.
+But now, he's always like this.
+--------------------------------------------------End--
+
+Sometimes I wonder why I even
+stay with him at all.
+--------------------------------------------------End--
+
+He stayed on my lap
+when he sang the Hymn.
+--------------------------------------------------End--
+
+I'm amazed by his laziness,
+but I'm more amazed at myself
+for forgiving him.
+--------------------------------------------------End--
+
+They say if you wish upon a
+{Spira} Gull, your wishes come true!
+--------------------------------------------------End--
+
+What? It's a Lesser Gull, you say?
+Then my wishes won't...
+--------------------------------------------------End--
+
+Even if it's a just a Lesser Gull, at least
+half of my wish will come true! Right?
+--------------------------------------------------End--
+
+I envy how laid back the {Luca}ns are.
+{NEWPAGE}
+
+They're always crazy about {blitzball},
+even when something terrible happens.
+--------------------------------------------------End--
+
+I like {blitzball} too, but even
+I can't get that deep into it.
+--------------------------------------------------End--
+
+Wishing upon a Lesser Gull isn't going
+to make my dreams come true.
+{NEWPAGE}
+
+I wonder what my dreams are anyway?
+I don't really know myself.
+--------------------------------------------------End--
+
+Being afraid of {Sin} all this
+time, I've had no time to dream.
+--------------------------------------------------End--
+
+I'm doing a study on
+the animals of {Spira}.
+--------------------------------------------------End--
+
+The birds flying around here are
+Lesser {Spira} Gulls.
+--------------------------------------------------End--
+
+Lesser Gulls are gentler than Greater Gulls.
+You can tell by the way they fly.
+--------------------------------------------------End--
+
+I wonder how many of them are flying
+around this ship? I'm curious.
+--------------------------------------------------End--
+
+Thank you very much.
+--------------------------------------------------End--
+
+You say you want to help me again?
+Thanks, I'll let you know if I need any.
+--------------------------------------------------End--
+
+There is a legend that Lesser Gulls carry
+the spirits of the dead to the {Farplane}.
+--------------------------------------------------End--
+
+The Lesser Gulls seem a bit flustered.
+Maybe they feel {Sin}'s presence nearby.
+--------------------------------------------------End--
+
+I hope that the {Calm} will come soon,
+so I can concentrate on my study.
+--------------------------------------------------End--
+
+Yes. Now go count.
+--------------------------------------------------End--
+
+That's about what I thought.
+It's the same as I counted earlier.
+--------------------------------------------------End--
+
+Thanks to you, I have a confirmed count.
+Here, this is for your help.
+--------------------------------------------------End--
+
+Are you sure?
+Weren't there more than that?
+--------------------------------------------------End--
+
+Are you sure?
+I think that's too much.
+--------------------------------------------------End--
+
+Say, can you do a recount?
+I really need an accurate figure.
+--------------------------------------------------End--
+{WINDOW}
+
+{Direcional Up}: Increase
+{Direcional Down}: Decrease
+{Button Circle}: Confirm
+--------------------------------------------------End--
+
+It was a mistake to take work on
+the Winno just because it pays well.
+--------------------------------------------------End--
+
+Day and night, it's been work,
+work, work. Give me a break!
+--------------------------------------------------End--
+
+My gramps always said, a man can
+only work so much in a lifetime.
+--------------------------------------------------End--
+
+Gramps was a real hard worker, though.
+--------------------------------------------------End--
+
+My night shift has been doubled by
+the captain's orders. Doubled!
+{NEWPAGE}
+
+There's no way I can do that! Just hire
+more hands if you want more work done.
+--------------------------------------------------End--
+
+There's no use griping, but sometimes
+that's the only thing I can do.
+--------------------------------------------------End--
+
+We're rooting for that flying ship.
+Our lives depend on it!
+--------------------------------------------------End--
+
+Hopefully there will be less work
+for watch duty once {Sin}'s defeated.
+--------------------------------------------------End--
+
+Use the lower decks to sleep and rest.
+We'll get there by the time you wake up.
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Yellow}The Jecht Shot Challenge{White}
+Memories of that day still haunt
+{Tidus} and interfere with his
+concentration. Try to shake off
+the memories and successfully
+perform the Jecht Shot.
+--------------------------------------------------End--
+{WINDOW}
+For example, when a memory appears
+in the upper left, press {Direcional Up+Left}+{Button Circle}.
+{NEWPAGE}
+Similarly, press {Direcional Up}+{Button Circle} when it
+appears straight above.
+{NEWPAGE}
+Press {Direcional Left+Down}+{Button Circle} when it appears
+in the lower left corner. Always
+press the buttons simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Up+Left}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Up}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Left+Down}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Circle}!
+--------------------------------------------------End--
+{WINDOW}
+Simply press {Button Circle} without directional
+buttons when it appears in the center.
+--------------------------------------------------End--
+{WINDOW}
+Let's try practicing a little.
+Press buttons following the
+on-screen instructions.
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Up+Right}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Left}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Press {Direcional Down+Right}+{Button Circle}
+at the same time!
+--------------------------------------------------End--
+{WINDOW}
+Did you get the hang of it?
+Now for the real thing!
+{NEWPAGE}
+Show Jecht what you can do!
+--------------------------------------------------End--
+
+I'm the best!
+--------------------------------------------------End--
+
+You're out of your league!
+--------------------------------------------------End--
+
+Gahahahah!
+--------------------------------------------------End--
+
+You can't do it, kid.
+--------------------------------------------------End--
+
+You can't do it, kid.
+--------------------------------------------------End--
+
+No one else can do it.
+--------------------------------------------------End--
+
+I'm the best!
+--------------------------------------------------End--
+
+No one else can do it.
+--------------------------------------------------End--
+
+You're out of your league!
+--------------------------------------------------End--
+{Tidus}
+The best? Yeah, right.
+--------------------------------------------------End--
+
+You've counted the number
+of seagulls around the ship?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Oops. Was I supposed to?
+{CHOICE:31}I've counted.
+--------------------------------------------------End--
+
+So, how many
+were there?
+--------------------------------------------------End--
+I count {CHOICE:51}!
+--------------------------------------------------End--
+
+Going to rest now?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Not yet.
+{CHOICE:31}Yes.
+--------------------------------------------------End--
+
+The Jecht Shot...
+Maybe I can do it this time.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'll give it a try.
+{CHOICE:31}No, not now.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{AREA}
+Kilika Port
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--

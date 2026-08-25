@@ -1,0 +1,746 @@
+{Kimahri}
+{Kimahri} never forget
+the {Al Bhed} sacrifice.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} will use machina,
+if machina can find {Yuna}.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} should make
+{Yuna}'s decision.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} in trouble.
+{Kimahri} worried.
+--------------------------------------------------End--
+{Kimahri}
+You keep walking path forward.
+{Kimahri} watch the rear.
+--------------------------------------------------End--
+{Kimahri}
+Because of you,
+{Yuna} still smiles.
+--------------------------------------------------End--
+{Kimahri}
+Thank you.
+--------------------------------------------------End--
+{Kimahri}
+Friends have saved {Kimahri}'s life.
+{Kimahri} will treasure it.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} is ready.
+Let us fight {Sin}.
+--------------------------------------------------End--
+{Kimahri}
+{Sin} still lives.
+{Kimahri} knows.
+--------------------------------------------------End--
+{Kimahri}
+The {Ronso} were singing, too.
+{Kimahri}'s ears never wrong.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} felt friendship
+from somewhere inside {Sin}.
+--------------------------------------------------End--
+{Kimahri}
+There is no need for fear.
+{Kimahri} will go with you.
+--------------------------------------------------End--
+{Isaaru}
+We owe our lives to the {Al Bhed}.
+--------------------------------------------------End--
+{Isaaru}
+However, no matter how they beg,
+we cannot quit our pilgrimage.
+--------------------------------------------------End--
+{Tidus}
+Even though you'll die?
+--------------------------------------------------End--
+{Isaaru}
+I've known since I was a child.
+My will is set.
+--------------------------------------------------End--
+{Isaaru}
+If I do not do it, someone
+else must, you understand.
+--------------------------------------------------End--
+{Isaaru}
+I'm amazed this thing can fly, truly!
+--------------------------------------------------End--
+{Isaaru}
+It must be sacrilege to
+think so highly of a machina.
+--------------------------------------------------End--
+{Isaaru}
+I feel uneasy just riding it!
+--------------------------------------------------End--
+{Tidus}
+Sure it's not motion sickness?
+--------------------------------------------------End--
+{Isaaru}
+Motion sickness?
+What infirmity is that?
+--------------------------------------------------End--
+{Isaaru}
+As soon as we land,
+we continue the pilgrimage!
+--------------------------------------------------End--
+{Maroda}
+Hey, I'm not looking forward
+to my brother dying when this is all over.
+--------------------------------------------------End--
+{Maroda}
+If only there was some way of
+doing it without anyone dying.
+--------------------------------------------------End--
+{Tidus}
+Let's think of one!
+--------------------------------------------------End--
+{Maroda}
+Easier said than done.
+--------------------------------------------------End--
+{Maroda}
+If we had all the time in the world,
+yeah, we'd think of something.
+--------------------------------------------------End--
+{Maroda}
+And while we were thinking,
+{Sin} would kill us all.
+--------------------------------------------------End--
+{Maroda}
+{Spira} doesn't have that time.
+--------------------------------------------------End--
+{Maroda}
+The {Al Bhed} caught up
+to us in {Besaid}.
+--------------------------------------------------End--
+{Maroda}
+They grabbed {Pacce},
+so we had to do what they said.
+--------------------------------------------------End--
+{Maroda}
+We needed a break, anyway.
+{Pacce} was pretty tired.
+--------------------------------------------------End--
+{Maroda}
+He should never have come
+on the pilgrimage, little kid like that.
+--------------------------------------------------End--
+{Maroda}
+Still, he does pretty good for his size.
+He's gonna be something someday.
+--------------------------------------------------End--
+{Maroda}
+Hey, you know
+where this ship's headed?
+--------------------------------------------------End--
+{Maroda}
+Be careful!
+--------------------------------------------------End--
+{Isaaru}
+Let him rest.
+--------------------------------------------------End--
+{Maroda}
+Let him sleep, man.
+--------------------------------------------------End--
+{Pacce}
+Don't worry!
+We'll guard this area!
+--------------------------------------------------End--
+{Rin}
+Well, well.
+--------------------------------------------------End--
+{Rin}
+It appears you, too,
+have escaped harm.
+--------------------------------------------------End--
+{Tidus}
+You were on the ship, too?
+--------------------------------------------------End--
+{Rin}
+I came to {Home} to pick up some
+goods and found myself here.
+--------------------------------------------------End--
+{Rin}
+Quite the escape.
+--------------------------------------------------End--
+{Rin}
+Thankfully, my goods were spared.
+--------------------------------------------------End--
+{Rin}
+Please let me know if you
+need any of my wares.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{Rin}
+Thank you. Your patronage
+is very much appreciated.
+--------------------------------------------------End--
+{Rin}
+All proceeds will go
+to help restore {Home}.
+--------------------------------------------------End--
+{Rin}
+May I help you?
+--------------------------------------------------End--
+{Rin}
+Welcome!
+--------------------------------------------------End--
+{Rin}
+{Rin}'s Aerial Branch Office,
+at your service.
+--------------------------------------------------End--
+{Rin}
+Welcome!
+--------------------------------------------------End--
+{Rin}
+How may I assist you today?
+--------------------------------------------------End--
+{Rin}
+Lady {Yuna} has become
+quite the summoner.
+--------------------------------------------------End--
+{Rin}
+A gentle nature,
+yet strong as steel.
+--------------------------------------------------End--
+{Rin}
+She reminds me of her parents.
+--------------------------------------------------End--
+{Tidus}
+{Yuna}'s old man was a priest of {Yevon2},
+but he married an {Al Bhed}, huh?
+--------------------------------------------------End--
+{Rin}
+Lord {Braska} wanted peace
+between his people and ours.
+--------------------------------------------------End--
+{Rin}
+He would occasionally visit
+the {Home} of those days.
+--------------------------------------------------End--
+{Tidus}
+So that's how he
+met {Cid}'s sister?
+--------------------------------------------------End--
+{Rin}
+They ran off together,
+into the night.
+--------------------------------------------------End--
+{Tidus}
+Hmph. Sounds like love.
+--------------------------------------------------End--
+{Tidus}
+Wow, {Cid} must've been furious!
+--------------------------------------------------End--
+{Rin}
+Yes.
+He wouldn't talk to her after that.
+--------------------------------------------------End--
+{Rin}
+But, when {Yuna} was born,
+they made up again.
+--------------------------------------------------End--
+{Rin}
+His sister took off
+for {Home} at once.
+--------------------------------------------------End--
+{Rin}
+But then, her ship...
+--------------------------------------------------End--
+{Tidus}
+{Sin}?
+--------------------------------------------------End--
+{Rin}
+That incident turned Lord {Braska}
+down the summoner's path.
+--------------------------------------------------End--
+{Tidus}
+Everything leads back to {Sin}.
+--------------------------------------------------End--
+{Rin}
+But, you'll put an end to it?
+--------------------------------------------------End--
+{Tidus}
+With a vengeance.
+--------------------------------------------------End--
+{Rin}
+I pray for your success.
+--------------------------------------------------End--
+{Rin}
+Any last minute supplies
+before the showdown?
+--------------------------------------------------End--
+{Tidus}
+You're selling stuff? Now?
+--------------------------------------------------End--
+{Rin}
+But of course.
+--------------------------------------------------End--
+{Rin}
+Once {Sin} is gone, we'll need
+to be rebuilding {Home}, you see.
+--------------------------------------------------End--
+{Tidus}
+Man, your dedication is...
+really astounding.
+--------------------------------------------------End--
+{Rin}
+Ah, how is your
+progress with our language?
+--------------------------------------------------End--
+{Tidus}
+None too shabby!
+--------------------------------------------------End--
+{Tidus}
+Check this out!
+--------------------------------------------------End--
+{Tidus}
+Nice to meet you.
+--------------------------------------------------End--
+{Rin}
+Just repeating what
+I've said is not talking, now.
+--------------------------------------------------End--
+{Rin}
+But your pronunciation's quite passable.
+You've been studying, I see.
+--------------------------------------------------End--
+{Rin}
+If there's anything I can help
+you with in the future, just ask.
+--------------------------------------------------End--
+{Tidus}
+I am in your debt!
+--------------------------------------------------End--
+{Rin}
+Very good!
+--------------------------------------------------End--
+{Rin}
+You have well
+learned our tongue.
+--------------------------------------------------End--
+{Tidus}
+Easy, once you know the trick!
+--------------------------------------------------End--
+{Rin}
+To think the day would come,
+that we could talk so,
+it is joyous indeed!
+--------------------------------------------------End--
+{Tidus}
+I am happy too!
+--------------------------------------------------End--
+{Rin}
+Here, a present to
+congratulate your success!
+--------------------------------------------------End--
+{Tidus}
+Thank you!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+
+Those {Guado}! They will feel
+my wrath in the {blitz} sphere!
+--------------------------------------------------End--
+
+This I leave to you!
+Battle was never my forte.
+--------------------------------------------------End--
+
+I long for the sands of {Bikanel}.
+Desert it may be, but there
+is no place like home!
+--------------------------------------------------End--
+
+The lord {Mika}, an unsent?
+But I saw him in {Luca}.
+--------------------------------------------------End--
+
+If every mouth in {Spira} sings,
+we may win this battle.
+--------------------------------------------------End--
+
+Should we not be watching
+{Sin} more closely?
+--------------------------------------------------End--
+
+You will attack {Sin} head on?
+Truly a great warrior are you!
+--------------------------------------------------End--
+
+Never have I thought of flying
+into {Sin}! Not even in dreams!
+--------------------------------------------------End--
+
+Now is the time
+to train, train!
+--------------------------------------------------End--
+
+Everyone be calm! Be calm!
+Fear is our enemy!
+--------------------------------------------------End--
+
+That was first time being
+so close to {Sin}!
+--------------------------------------------------End--
+
+Being on ship is bad for health.
+Let us kick the {blitzball}!
+--------------------------------------------------End--
+
+Soon is the final battle with {Sin}!
+How very excited I am!
+--------------------------------------------------End--
+
+This is the calm before the storm.
+Now is time to train, train!
+--------------------------------------------------End--
+
+Make this battle the last!
+We are counting on you!
+--------------------------------------------------End--
+
+When the {Calm} comes, we will play
+each day! Now we must train, train!
+--------------------------------------------------End--
+
+Forgive me for my actions in {Luca}.
+We wanted to protect the {summoner}, you see?
+--------------------------------------------------End--
+
+{Yevon2} found the place of our {Home}.
+Perhaps we were followed?
+--------------------------------------------------End--
+
+In ancient times a temple was in {Baaj}.
+Now it is a nest for {fiend} only.
+{NEWPAGE}
+
+There is great treasure
+in the deserted temple, they say.
+{NEWPAGE}
+
+But a great {fiend} lives there too,
+and guards the treasure.
+--------------------------------------------------End--
+
+My friend, he went to {Baaj} to
+explore. He told a story...
+{NEWPAGE}
+
+In the deserted temple there, faintly
+the Hymn of the Fayth can be heard!
+{NEWPAGE}
+
+Maybe it has something to do
+with the {aeons} I think.
+--------------------------------------------------End--
+
+{Baaj} is a place of mystery.
+Mystery worth exploring, no?
+--------------------------------------------------End--
+
+I have faith you will do this thing.
+I will sing, too, for I believe.
+--------------------------------------------------End--
+
+When the battle is over,
+we will play {blitz} once more!
+--------------------------------------------------End--
+
+Since childhood, I have played
+only {blitz}! It is true!
+--------------------------------------------------End--
+
+I hoped only to rest at {Home} a while
+then return to {Luca}.
+--------------------------------------------------End--
+
+You are a traitor, no?
+Then you are one with the {Al Bhed}!
+--------------------------------------------------End--
+
+Both {Yunalesca} and {Mika} were dead,
+yet they clung to {Spira} tightly.
+--------------------------------------------------End--
+
+Pardon me. So scared was I that
+I began to tremble all over!
+--------------------------------------------------End--
+
+Such fear I knew before the battle!
+But the singing did calm me.
+--------------------------------------------------End--
+
+I wish the battles
+would be over...
+--------------------------------------------------End--
+
+Going inside {Sin}...
+I sang in fright and would not stop!
+--------------------------------------------------End--
+
+The {Al Bhed Psyches} all escaped harm.
+We are ready to play again!
+--------------------------------------------------End--
+
+Have care! There are {fiend}
+in all places!
+--------------------------------------------------End--
+
+I wonder, where will the
+{airship} go from here?
+--------------------------------------------------End--
+
+I want to be a top player.
+Many teams I want to try.
+--------------------------------------------------End--
+
+I do not run around in panic!
+Hope for the best, prepare for the worst!
+--------------------------------------------------End--
+
+Leave the ship to us {Al Bhed}.
+Take rest while you are able.
+--------------------------------------------------End--
+
+I know it will not do to panic,
+but I do not know how to be calm!
+--------------------------------------------------End--
+
+{Rikku} and {Yuna} are
+in your hands.
+--------------------------------------------------End--
+
+We need {blitz} to cheer our people
+after the loss of {Home}, you see?
+--------------------------------------------------End--
+
+I will not die in this place!
+I fear no {fiend}! Come, and I will fight!
+--------------------------------------------------End--
+
+I must train or the {airship}
+will rob me of my muscles!
+--------------------------------------------------End--
+
+The age of the temples is past.
+Now comes the age of {machina}!
+--------------------------------------------------End--
+
+Elder {Cid} has great courage!
+I must learn to be like him.
+--------------------------------------------------End--
+
+The ship rocked so much
+I felt quite funny!
+--------------------------------------------------End--
+
+When the time comes, I will fight.
+{Sin}! Here is my best shot!
+--------------------------------------------------End--
+
+How was it inside {Sin}?
+Many {fiend} there, I think.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Scans memory cards (8MB) (for PlayStation{Registered}2)
+for {Al Bhed} primers and adds them to your
+collection. Use these spheres to expand your
+{Al Bhed} vocabulary.
+--------------------------------------------------End--
+{WINDOW}
+Select a slot:
+{CHOICE:30}MEMORY CARD slot 1
+{CHOICE:31}MEMORY CARD slot 2
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 1
+--------------------------------------------------End--
+{WINDOW}
+Do not remove/insert memory cards (8MB)
+(for PlayStation{Registered}2) or controllers.
+Do not open disc tray.
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 1!
+--------------------------------------------------End--
+{WINDOW}
+No {FINAL FANTASY X} INTERNATIONAL
+saved game data found!
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+MEMORY CARD slot 2
+--------------------------------------------------End--
+{WINDOW}
+No memory card (8MB) (for PlayStation{Registered}2)
+found in MEMORY CARD slot 2!
+--------------------------------------------------End--

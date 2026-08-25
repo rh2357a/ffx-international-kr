@@ -1,0 +1,235 @@
+{Tromell}
+I will go inform Lord {Seymor}.
+Please wait here.
+--------------------------------------------------End--
+{Yuna}
+What could it be?
+--------------------------------------------------End--
+{Yuna}
+I haven't done anything
+to make him mad.
+--------------------------------------------------End--
+{Wakka}
+I get the feeling he called us up
+here for more than just dinner.
+--------------------------------------------------End--
+{Wakka}
+Nothing 'gainst the maester,
+but I hope we get this over with quick.
+--------------------------------------------------End--
+{Lulu}
+There's no temple here
+in {Guadosalam}, see?
+--------------------------------------------------End--
+{Lulu}
+Summoners usually just pass
+through on their way elsewhere.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Lulu}
+What?
+--------------------------------------------------End--
+{Tidus}
+I didn't even ask a question and
+you're explaining things.
+--------------------------------------------------End--
+{Lulu}
+You'd rather I say nothing, then?
+--------------------------------------------------End--
+{Tidus}
+No, no!
+--------------------------------------------------End--
+{Tidus}
+Maybe you finally believe I
+don't know anything about {Spira}.
+--------------------------------------------------End--
+{Tidus}
+And maybe that means you
+believe me about {Zanarkand}, too?
+--------------------------------------------------End--
+{Lulu}
+Well...
+--------------------------------------------------End--
+{Lulu}
+There are many things I do not know.
+--------------------------------------------------End--
+{Lulu}
+Your {Zanarkand} is
+one of those things.
+--------------------------------------------------End--
+{Lulu}
+I suppose I can't say
+what I think either way.
+--------------------------------------------------End--
+{Lulu}
+Still, be careful.
+--------------------------------------------------End--
+{Lulu}
+You shouldn't tell other people.
+--------------------------------------------------End--
+{Tidus}
+Yeah, I know.
+--------------------------------------------------End--
+{Lulu}
+Why don't you eat something?
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} not like
+Maester {Seymor}.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+Aa! Shhh!
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} speak no more.
+--------------------------------------------------End--
+{Rikku}
+Mmmm! This is good!
+--------------------------------------------------End--
+{Rikku}
+{Guado} sure know how to eat!
+--------------------------------------------------End--
+{Rikku}
+Gee, I wonder what all this is for.
+It's exciting!
+--------------------------------------------------End--
+{Auron}
+Stay on your guard.
+--------------------------------------------------End--
+{Tidus}
+Why?
+This guy's just a priest, right?
+--------------------------------------------------End--
+{Auron}
+Those with power use that power.
+--------------------------------------------------End--
+{Auron}
+Maesters have power.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Wait...
+--------------------------------------------------End--
+{Tidus}
+You sure you don't have
+something against {Yevon2}?
+--------------------------------------------------End--
+{WINDOW}
+
+
+--------------------------------------------------End--
+{Auron}
+I lived a long time in {Zanarkand}.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+What is taking them so long?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tromell}
+Truly, it is good to have guests again.
+--------------------------------------------------End--
+{Tromell}
+Since Lord {Jyscal} passed away,
+these halls have been too quiet.
+--------------------------------------------------End--
+{Yuna}
+The death of Lord {Jyscal} was
+a great loss for all of {Spira}.
+--------------------------------------------------End--
+{Tidus}
+Was this Maester {Jyscal}
+really such a great guy?
+--------------------------------------------------End--
+{Wakka}
+He brought the teachings
+of {Yevon2} to the {Guado}.
+--------------------------------------------------End--
+{Wakka}
+He was truly a great man.
+--------------------------------------------------End--
+{Tromell}
+Truly, a loss for us all.
+--------------------------------------------------End--
+{Tromell}
+But now a new leader, Lord
+{Seymor}, has come before us.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor} is the child
+of a {Guado} and a human.
+--------------------------------------------------End--
+{Tromell}
+He will be the tie that
+binds our two races together.
+--------------------------------------------------End--
+{Tromell}
+But that is not all, I think.
+--------------------------------------------------End--
+{Tromell}
+Lord {Seymor}...
+--------------------------------------------------End--
+{Tromell}
+He will surely become the shining
+star that lights the way for all
+the peoples of {Spira}.
+--------------------------------------------------End--
+{Seymor}
+That is enough, {Tromell}.
+--------------------------------------------------End--
+{Seymor}
+Must I always endure such praise?
+--------------------------------------------------End--
+{Seymor}
+Welcome!
+--------------------------------------------------End--
+{Yuna}
+You...wanted to see me?
+--------------------------------------------------End--
+{Seymor}
+Please, make yourselves at home.
+There's no rush.
+--------------------------------------------------End--
+{Auron}
+Please, keep this short.
+{Yuna} must rush.
+--------------------------------------------------End--
+{Seymor}
+Pardon me.
+--------------------------------------------------End--
+{Seymor}
+It has been a long time
+since I had guests.
+--------------------------------------------------End--
+{Seymor}
+Lady {Yuna}, this way.
+--------------------------------------------------End--
+{Seymor}
+This sphere is a reconstruction
+created from the thoughts of the
+dead that wander the {Farplane}.
+--------------------------------------------------End--
+{Tidus}
+{Zanarkand}!
+--------------------------------------------------End--
+{Seymor}
+Correct. {Zanarkand}...
+as it looked one thousand years ago.
+--------------------------------------------------End--
+{Seymor}
+The great and wondrous
+machina city, {Zanarkand}.
+--------------------------------------------------End--
+{Seymor}
+She once lived in this metropolis.
+--------------------------------------------------End--
+{Yuna}
+She, who?
+--------------------------------------------------End--

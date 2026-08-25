@@ -1,0 +1,211 @@
+
+Lord {Braska} must be bursting with
+pride up on the {Farplane}
+at having such a fine daughter!
+--------------------------------------------------End--
+
+I heard the {Al Bhed} attacked you!
+Are you okay?
+--------------------------------------------------End--
+
+I hope to celebrate Lady {Yuna}'s
+Calm while I'm still alive.
+--------------------------------------------------End--
+
+How about seeing Lord {Braska}
+in {Guadosalam}?
+--------------------------------------------------End--
+
+With a summoner like you at our side,
+we've no need to fear {Sin}!
+--------------------------------------------------End--
+
+I'll have great stories to tell
+about meeting Lady {Yuna}.
+--------------------------------------------------End--
+
+Never even crossed my mind that Lady {Yuna}
+would marry... Now that's a great story to tell!
+--------------------------------------------------End--
+
+You know that machina that lifts you up
+to the shoopuf? I don't like it, I tell you.
+{NEWPAGE}
+
+I don't care if it's been approved by the temple.
+Machina is machina. That's that.
+--------------------------------------------------End--
+
+Even sanctioned machina gives
+me the creeps, I tell you.
+--------------------------------------------------End--
+
+I tell you, my wife was as pretty as
+Lady {Yuna} back in her day.
+--------------------------------------------------End--
+
+When Lady {Yuna} gets married, will
+she abandon her quest to vanquish {Sin}?
+{NEWPAGE}
+
+That is what worries me the most.
+--------------------------------------------------End--
+
+I'm afraid I'll be attacked
+by {Al Bhed} if I travel alone.
+--------------------------------------------------End--
+
+I think the temple should crack down
+on the {Al Bhed} and teach them a lesson or two!
+--------------------------------------------------End--
+
+Have you seen the {Crusader}s returning home?
+They look pathetic.
+{NEWPAGE}
+
+And they were so confident
+the last time they passed through.
+--------------------------------------------------End--
+
+It should be a big ceremony because
+a maester's getting married.
+{NEWPAGE}
+
+It's been so long since we've
+had some good news! This is all so exciting!
+--------------------------------------------------End--
+
+So that's Lady {Yuna}?
+Hmmm... No wonder.
+--------------------------------------------------End--
+
+I can see why the {Al Bhed2} would
+go after someone like Lady {Yuna}.
+--------------------------------------------------End--
+
+It'll be busy with all the wedding
+preparations. I'd better get on my feet.
+--------------------------------------------------End--
+
+Please watch after Lady {Yuna}
+until her wedding day.
+--------------------------------------------------End--
+
+I told my relatives on the {Farplane}
+that I'll be joining them soon.
+{NEWPAGE}
+
+Now I won't be afraid if
+{Sin} comes for me.
+--------------------------------------------------End--
+
+The {Guado} all looked so
+gloomy. I wonder what happened?
+--------------------------------------------------End--
+
+I feel at ease now, thanks to the Hymn.
+Now I can go to the {Farplane}
+without worry.
+--------------------------------------------------End--
+
+The {Guado} all looked so
+gloomy. I wonder what happened?
+--------------------------------------------------End--
+
+The people of {Spira} are in a
+state of chaos, but the Hypello are so calm.
+{NEWPAGE}
+
+They're a fearless bunch.
+You can only admire them.
+--------------------------------------------------End--
+
+If only Lady {Yunalesca} were here now,
+we wouldn't have to live in fear of {Sin}.
+--------------------------------------------------End--
+
+Who is using ancient machina
+to battle {Sin}?
+{NEWPAGE}
+
+Could it be that Lady {Yunalesca}
+has risen again after a thousand years?
+--------------------------------------------------End--
+
+We beat {Sin} down with machina and the Hymn!
+A summoner just needs to finish it off!
+--------------------------------------------------End--
+{Lulu}
+Looks like we're
+stuck here for a while.
+--------------------------------------------------End--
+{Wakka}
+Might be more {Al Bhed}!
+Keep watch, ya?
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} fail as guardian on shoopuf.
+{Kimahri} never fail again.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

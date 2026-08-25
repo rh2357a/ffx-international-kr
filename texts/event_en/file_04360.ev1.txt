@@ -1,0 +1,501 @@
+{Auron}
+Huh, now there's a rare sight.
+--------------------------------------------------End--
+{Tidus}
+Whoa, that's huge!
+--------------------------------------------------End--
+{Rikku}
+What is that?
+--------------------------------------------------End--
+{Lulu}
+The guardian wyrm, Evrae.
+--------------------------------------------------End--
+{Lulu}
+The great sacred beast--
+protector of {Bevelle}!
+--------------------------------------------------End--
+{Auron}
+The red carpet has teeth.
+--------------------------------------------------End--
+{Tidus}
+Wait, that means
+we're close to {Bevelle}!
+--------------------------------------------------End--
+{Cid}
+{Rikku}, you read me?
+--------------------------------------------------End--
+{Cid}
+We're going to fight that thing!
+--------------------------------------------------End--
+{Cid}
+Get on deck and
+show him what you got!
+--------------------------------------------------End--
+{Cid}
+Go!
+--------------------------------------------------End--
+{Rikku}
+There he goes again.
+--------------------------------------------------End--
+{Auron}
+The ferryman asks a high price.
+--------------------------------------------------End--
+{Yuna}
+I'm no good at all.
+--------------------------------------------------End--
+{Tidus}
+What are you talking about?
+--------------------------------------------------End--
+{Yuna}
+All this time, I've been thinking
+about how to defeat {Sin}.
+--------------------------------------------------End--
+{Yuna}
+But I...
+--------------------------------------------------End--
+{Yuna}
+Beyond the teachings of {Yevon2},
+I...I know nothing.
+--------------------------------------------------End--
+{Yuna}
+I'm sorry.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna}, no apologies.
+--------------------------------------------------End--
+{Yuna}
+Huh?
+--------------------------------------------------End--
+{Kimahri}
+Apology is running.
+--------------------------------------------------End--
+{Kimahri}
+{Yuna} never run away.
+--------------------------------------------------End--
+
+          
+--------------------------------------------------End--
+{Yuna}
+Thank you, {Kimahri}.
+--------------------------------------------------End--
+{Tidus}
+So, uh, {Kimahri}...
+You got any good ideas?
+--------------------------------------------------End--
+{Kimahri}
+{Yevon2}'s teachings.
+--------------------------------------------------End--
+{Yuna}
+The teachings won't
+help us fight {Sin}.
+--------------------------------------------------End--
+{Kimahri}
+No answer in the teachings,
+answers lie outside.
+--------------------------------------------------End--
+{Kimahri}
+Must know both
+sides to find answer.
+--------------------------------------------------End--
+{Yuna}
+Both sides...
+--------------------------------------------------End--
+{Kimahri}
+{Mika} knows much.
+Find him, make him talk.
+--------------------------------------------------End--
+{Tidus}
+That's it!
+{Kimahri}! You rock!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna}
+To {Bevelle}, then?
+--------------------------------------------------End--
+{Tidus}
+Through the front door!
+--------------------------------------------------End--
+{Tidus}
+You worried?
+--------------------------------------------------End--
+{Yuna}
+I'll be fine.
+We can't stop now.
+--------------------------------------------------End--
+{Yuna}
+Maybe we'll find
+answers in {Bevelle}.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} doubts
+{Mika} welcomes us.
+--------------------------------------------------End--
+{Tidus}
+He'll have to run pretty fast
+to beat this {airship}!
+--------------------------------------------------End--
+{Kimahri}
+We cannot chase if we cannot see.
+--------------------------------------------------End--
+{Kimahri}
+We must go to {Bevelle}.
+--------------------------------------------------End--
+
+Your face, I have seen it before.
+Perhaps in the temple at {Baaj}?
+--------------------------------------------------End--
+
+It is a battle most dangerous.
+Take this with you.
+--------------------------------------------------End--
+
+I have lived through bad,
+but I fear worse is coming.
+--------------------------------------------------End--
+
+With this ship, revenge against the
+followers of {Yevon2} will be ours.
+--------------------------------------------------End--
+
+Many of our friends died in the attack
+on {Home}. Never will I forgive the temples.
+--------------------------------------------------End--
+
+You will fight {Sin} close, no?
+Beware its toxin!
+--------------------------------------------------End--
+
+{Sin} came down on {Bevelle}, eh?
+It serves the temple worms right!
+--------------------------------------------------End--
+
+The main gun is finished.
+It I cannot repair.
+--------------------------------------------------End--
+
+If only the main gun worked,
+we could shoot {Sin} down!
+--------------------------------------------------End--
+
+It is odd to fly in a ship
+dragged from the ocean floor!
+--------------------------------------------------End--
+
+Do the {Yevon2} worms think
+to kill us all?
+--------------------------------------------------End--
+
+The {Sin} I saw in the ruins
+was calm. Why is this?
+--------------------------------------------------End--
+
+Will the people of {Spira} listen
+to the call and sing for us?
+--------------------------------------------------End--
+
+Make sure to check your equipment
+before going out on deck!
+--------------------------------------------------End--
+
+Even should {Sin} return, if all
+are singing, there will be no fear.
+--------------------------------------------------End--
+
+We will charge into {Sin}, no?
+Let us do great battle!
+--------------------------------------------------End--
+
+{Sin} sits still. It moves not.
+It seems to wait for us.
+--------------------------------------------------End--
+
+What will I do? My doll!
+I left it in {Home}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+But we say "lose something precious,
+find something even more precious."
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron}
+Open the hatch. We fight.
+--------------------------------------------------End--
+{Rin}
+Evrae is truly mighty.
+Be well prepared.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Got any weapons?
+{CHOICE:31}Got any items?
+{CHOICE:32}Leave.
+--------------------------------------------------End--
+{Wakka}
+We gotta pay!?
+--------------------------------------------------End--
+{Wakka}
+If we lose, you'll die too, buddy!
+--------------------------------------------------End--
+{Rin}
+I have faith in your victory.
+--------------------------------------------------End--
+{Wakka}
+Gee, thanks.
+--------------------------------------------------End--
+{Rin}
+May I help you?
+--------------------------------------------------End--
+{Rin}
+Welcome!
+--------------------------------------------------End--
+{Rin}
+{Rin}'s Aerial Branch Office,
+at your service.
+--------------------------------------------------End--
+{Rin}
+Welcome!
+--------------------------------------------------End--
+{Rin}
+How may I assist you today?
+--------------------------------------------------End--
+{Rin}
+Thank you. Your patronage
+is very much appreciated.
+--------------------------------------------------End--
+{Rin}
+Ah, how is your
+progress with our language?
+--------------------------------------------------End--
+{Tidus}
+None too shabby!
+--------------------------------------------------End--
+{Tidus}
+Check this out!
+--------------------------------------------------End--
+{Tidus}
+Nice to meet you.
+--------------------------------------------------End--
+{Rin}
+Just repeating what
+I've said is not talking, now.
+--------------------------------------------------End--
+{Rin}
+But your pronunciation's quite passable.
+You've been studying, I see.
+--------------------------------------------------End--
+{Rin}
+If there's anything I can help
+you with in the future, just ask.
+--------------------------------------------------End--
+{Tidus}
+I am in your debt!
+--------------------------------------------------End--
+{Rin}
+Very good!
+--------------------------------------------------End--
+{Rin}
+You have well learned our tongue.
+--------------------------------------------------End--
+{Tidus}
+Easy, once you know the trick!
+--------------------------------------------------End--
+{Rin}
+To think the day would come,
+that we could talk so,
+it is joyous indeed!
+--------------------------------------------------End--
+{Tidus}
+I am happy too!
+--------------------------------------------------End--
+{Rin}
+Here, a present to
+congratulate your success!
+--------------------------------------------------End--
+{Tidus}
+Thank you!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 1{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 2{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: 3{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Scout Level: MAX{White}
+Name: {VAR12:30}
+Level: {VAR12:31}
+Team: {VAR12:32}
+Contract: {VAR12:33} games
+Salary: {VAR12:34} Gil
+HP: {VAR12:35}{VAR07:60}SP: {VAR12:36}
+EN: {VAR12:37}{VAR07:60}AT: {VAR12:38}
+PA: {VAR12:39}{VAR07:60}BL: {VAR12:3A}
+SH: {VAR12:3B}{VAR07:60}CA: {VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan}Key Techniques{White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+For how many games?
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract must be longer
+than one game.
+--------------------------------------------------End--
+{WINDOW}
+Total salary: {VAR12:30} Gil
+Sign player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+You cannot sign more than 8 players
+to the Besaid Aurochs.
+Release a player?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Release who?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Cannot release that player.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveller's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+{Button Circle}: Up
+--------------------------------------------------End--
+{WINDOW}
+
+{Button Circle}: Down
+--------------------------------------------------End--

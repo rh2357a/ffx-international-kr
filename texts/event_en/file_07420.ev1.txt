@@ -1,0 +1,282 @@
+{Yuna}
+Sir {Auron}.
+--------------------------------------------------End--
+{Yuna}
+{Kimahri} told me...
+--------------------------------------------------End--
+{Yuna}
+when my father wanted me taken
+from {Bevelle} to {Besaid}...
+--------------------------------------------------End--
+{Yuna}
+It was you who told {Kimahri}, right?
+--------------------------------------------------End--
+{Yuna}
+I had always wanted
+to meet you someday.
+--------------------------------------------------End--
+{Yuna}
+I am truly glad that
+I had that chance.
+--------------------------------------------------End--
+{Yuna}
+Having you as a guardian was
+so great an honor I don't know
+how to thank you.
+--------------------------------------------------End--
+{Yuna}
+Perhaps if I defeat {Sin},
+that will be my thanks to you.
+--------------------------------------------------End--
+{Yuna}
+That's what I'll do.
+--------------------------------------------------End--
+{Yuna}
+Yes. I will challenge {Sin}.
+I will defeat {Sin}.
+--------------------------------------------------End--
+{Yuna}
+If you are all there watching this,
+then I guess {Sin} is already gone.
+--------------------------------------------------End--
+{Yuna}
+And so am I, I suppose.
+--------------------------------------------------End--
+{Yuna}
+Anyway, I just wanted to say:
+--------------------------------------------------End--
+{Yuna}
+Sir {Auron}, I thank you.
+--------------------------------------------------End--
+{Yuna}
+{Kimahri}...
+--------------------------------------------------End--
+{Yuna}
+Do you remember
+the first day we met?
+--------------------------------------------------End--
+{Yuna}
+I was only seven.
+--------------------------------------------------End--
+{Yuna}
+My father had defeated {Sin},
+and all {Bevelle} was celebrating.
+--------------------------------------------------End--
+{Yuna}
+Everyone was saying what a hero
+my father was. I was so happy.
+--------------------------------------------------End--
+{Yuna}
+But when night came,
+it occurred to me.
+--------------------------------------------------End--
+{Yuna}
+My father had defeated {Sin}
+and now he was dead.
+--------------------------------------------------End--
+{Yuna}
+Now, I was all alone.
+--------------------------------------------------End--
+{Yuna}
+I couldn't sleep, so I wandered
+into the town, away from the
+celebrating crowds.
+--------------------------------------------------End--
+{Yuna}
+I stood on the bridge in {Bevelle}
+where my father and I had parted.
+--------------------------------------------------End--
+{Yuna}
+Standing there, alone, I could see
+the fields where he had fought {Sin}.
+--------------------------------------------------End--
+{Yuna}
+Then, you appeared, {Kimahri}.
+--------------------------------------------------End--
+{Yuna}
+You said you were looking for
+the daughter of {Braska}, remember?
+--------------------------------------------------End--
+{Yuna}
+At first, I was so scared.
+--------------------------------------------------End--
+{Yuna}
+Until I realized what
+a gentle person you are.
+--------------------------------------------------End--
+{Yuna}
+You weren't used to
+talking to children.
+--------------------------------------------------End--
+{Yuna}
+When I told you that
+I was {Braska}'s daughter...
+--------------------------------------------------End--
+{Yuna}
+you said you would take me as
+far from {Bevelle} as you could.
+--------------------------------------------------End--
+{Yuna}
+That it was the wish
+of a man facing death.
+--------------------------------------------------End--
+{Yuna}
+I think...I cried then.
+--------------------------------------------------End--
+{Yuna}
+Because that...that was when
+I knew my father was dead...
+--------------------------------------------------End--
+{Yuna}
+and I would never see him again.
+--------------------------------------------------End--
+{Yuna}
+You just held me,
+without saying a word.
+--------------------------------------------------End--
+{Yuna}
+I cried after we got
+to {Besaid}, too.
+--------------------------------------------------End--
+{Yuna}
+When you tried to go after leaving
+me in the care of the temple...
+--------------------------------------------------End--
+{Yuna}
+I held on to you, crying,
+"Don't go, don't go!"
+--------------------------------------------------End--
+{Yuna}
+And you listened, {Kimahri}.
+You stayed.
+--------------------------------------------------End--
+{Yuna}
+{Kimahri}, thank you.
+Thank you so much.
+--------------------------------------------------End--
+{Yuna}
+And I've always liked
+your broken horn.
+--------------------------------------------------End--
+{Yuna}
+{Wakka}, {Lulu}:
+--------------------------------------------------End--
+{Yuna}
+I'll never forget my days spent
+with you, growing up in {Besaid}.
+--------------------------------------------------End--
+{Yuna}
+We always played together,
+us and {Chappu}.
+--------------------------------------------------End--
+{Yuna}
+That's why I was always
+so happy, I think.
+--------------------------------------------------End--
+{Yuna}
+And when you refused to let me
+become a summoner and I did it anyway...
+--------------------------------------------------End--
+{Yuna}
+I'm sorry.
+--------------------------------------------------End--
+{Yuna}
+I've always wanted to apologize.
+--------------------------------------------------End--
+{Yuna}
+You know, when you tried to stop
+me then--really, I was happy.
+--------------------------------------------------End--
+{Yuna}
+I could tell you
+really cared about me.
+--------------------------------------------------End--
+{Yuna}
+You were like my
+big brother and sister.
+--------------------------------------------------End--
+{Yuna}
+No...
+--------------------------------------------------End--
+{Yuna}
+I think you really were
+my big brother and sister.
+--------------------------------------------------End--
+{Yuna}
+What else...
+--------------------------------------------------End--
+{Yuna}
+I love watching you
+play {blitzball}, {Wakka}.
+--------------------------------------------------End--
+{Yuna}
+I even love it when you
+scold me, {Lulu}! Really!
+--------------------------------------------------End--
+{Yuna}
+We haven't even known each
+other that long, but...
+--------------------------------------------------End--
+{Yuna}
+It's funny.
+--------------------------------------------------End--
+{Yuna}
+So this is what it feels like.
+--------------------------------------------------End--
+{Yuna}
+It's a much more wonderful feeling
+than anything I had ever imagined.
+--------------------------------------------------End--
+{Yuna}
+Wonderful...but it hurts, sometimes.
+--------------------------------------------------End--
+{Yuna}
+I wonder.
+--------------------------------------------------End--
+{Yuna}
+No, I shouldn't say that.
+--------------------------------------------------End--
+{Yuna}
+I'll do that part over.
+--------------------------------------------------End--
+{Yuna}
+Um...
+--------------------------------------------------End--
+{Tidus}
+Whatcha up to?
+--------------------------------------------------End--
+{Yuna}
+I guess that leaves...
+--------------------------------------------------End--
+{Yuna}
+the newest guardian.
+--------------------------------------------------End--
+{Yuna}
+Star player of the {Zanarkand Abes}!
+--------------------------------------------------End--
+{Yuna}
+You are...
+--------------------------------------------------End--
+{Yuna}
+I am...
+--------------------------------------------------End--
+{Yuna}
+Well, um...
+--------------------------------------------------End--
+{Yuna}
+I'm glad...I'm glad that we met.
+--------------------------------------------------End--
+{Yuna}
+I...I just want to say,
+thank you for everything.
+--------------------------------------------------End--
+{Yuna}
+Maybe...maybe that's why it hurts.
+--------------------------------------------------End--
+{Yuna}
+When I... When I think about us
+never being together again at all...
+--------------------------------------------------End--
+{Yuna}
+I'm afraid.
+--------------------------------------------------End--
