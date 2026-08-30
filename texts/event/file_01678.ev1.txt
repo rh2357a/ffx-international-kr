@@ -3,7 +3,7 @@
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}
-可{VAR07:58}済0{VAR07:70}済1
+가능{VAR07:58}완료0{VAR07:70}완료1
 {VAR12:42}　{VAR12:30}{VAR07:58}:{VAR12:36}{VAR07:80}{VAR12:37}
 {VAR12:43}　{VAR12:31}{VAR07:58}:{VAR12:38}{VAR07:80}{VAR12:39}
 {VAR12:44}　{VAR12:32}{VAR07:58}:{VAR12:3A}{VAR07:80}{VAR12:3B}
@@ -18,15 +18,15 @@ SHTPOW: {VAR12:30}{White}
 --------------------------------------------------End--
 {WINDOW}
 {OCyan}
-ソートまえのきじゅん:{VAR12:30}
+정렬 전 기준:{VAR12:30}
 {VAR12:31}:{VAR12:32}
 {VAR12:33}:{VAR12:34}
 {VAR12:35}:{VAR12:36}
 {VAR12:37}:{VAR12:38}
 {VAR12:39}:{VAR12:3A}
 {VAR12:3B}:{VAR12:3C}
-決定選手;{VAR12:3D}
-Iのあたい:{VAR12:3E}{White}
+결정 선수;{VAR12:3D}
+I 값:{VAR12:3E}{White}
 --------------------------------------------------End--
 {WINDOW}
 토너먼트전에서 동점의 경우는
@@ -56,9 +56,9 @@ Iのあたい:{VAR12:3E}{White}
 {CHOICE:31}수동 A
 {CHOICE:32}수동 B
 {CHOICE:33}기권
-{CHOICE:34}{OCyan}敵全員眠り(DEBUG)
-{CHOICE:35}敵全員眠りKPのぞく(DEBUG)
-{CHOICE:36}全員眠り(DEBUG){White}
+{CHOICE:34}{OCyan}적 전원 수면(DEBUG)
+{CHOICE:35}적 전원 수면 KP 제외(DEBUG)
+{CHOICE:36}전원 수면(DEBUG){White}
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【포메이션】{White}
