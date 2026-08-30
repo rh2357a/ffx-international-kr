@@ -1,3 +1,5 @@
+include(FetchContent)
+
 set(BUILD_SHARED_LIBS OFF CACHE BOOL "" FORCE)
 
 # cmrc
@@ -25,7 +27,14 @@ block()
     set(wxUSE_MEDIACTRL OFF CACHE BOOL "" FORCE)
     set(wxUSE_AUI OFF CACHE BOOL "" FORCE)
     set(wxUSE_RIBBON OFF CACHE BOOL "" FORCE)
-    add_subdirectory(wxWidgets)
+
+    FetchContent_Declare(
+        wxWidgets
+        GIT_REPOSITORY https://github.com/wxWidgets/wxWidgets.git
+        GIT_TAG 670835aec7e54b9e9d5a50d6a1aea1e8ba0bcdb2
+    )
+
+    FetchContent_MakeAvailable(wxWidgets)
 endblock()
 
 # xdelta
