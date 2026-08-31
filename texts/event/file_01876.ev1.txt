@@ -93,22 +93,22 @@
 --------------------------------------------------End--
 {WINDOW}
 맵 디버그 메뉴
-　　{CHOICE:30}그만둔다
-　　{CHOICE:31}맵 데이터 갱신
-　　{CHOICE:32}모델 변경
-　　{CHOICE:33}맵 라인 제어
-　　{CHOICE:34}사이토 씨에게 돌아간다
+  {CHOICE:30}그만둔다
+  {CHOICE:31}맵 데이터 갱신
+  {CHOICE:32}모델 변경
+  {CHOICE:33}맵 라인 제어
+  {CHOICE:34}사이토 씨에게 돌아간다
 --------------------------------------------------End--
 {WINDOW}
-모델　:　{CHOICE:51}
+모델 : {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어 사전 제6권을 획득했다!
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어를 학습했다!
-　　　『{OPurple}ㅏ{White}』→『{Pink}ㅜ{White}』
-　　　『{OPurple}ㅑ{White}』→『{Pink}ㅠ{White}』
+   『{OPurple}ㅏ{White}』→『{Pink}ㅜ{White}』
+   『{OPurple}ㅑ{White}』→『{Pink}ㅠ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}어 입문】{White}

@@ -3,17 +3,17 @@
 --------------------------------------------------End--
 {WINDOW}
 아론 단독으로 전투
-　　{CHOICE:30}커맨드 대기
-　　{CHOICE:31}Seamless Test
-　　{CHOICE:32}이벤트 Retry
-　　{CHOICE:33}배틀 무조건 승리
+  {CHOICE:30}커맨드 대기
+  {CHOICE:31}Seamless Test
+  {CHOICE:32}이벤트 Retry
+  {CHOICE:33}배틀 무조건 승리
 --------------------------------------------------End--
 {WINDOW}
 스타디움 마지막 전투
-　　{CHOICE:30}커맨드 대기
-　　{CHOICE:31}Seamless Test
-　　{CHOICE:32}이벤트 Retry
-　　{CHOICE:33}배틀 무조건 승리
+  {CHOICE:30}커맨드 대기
+  {CHOICE:31}Seamless Test
+  {CHOICE:32}이벤트 Retry
+  {CHOICE:33}배틀 무조건 승리
 --------------------------------------------------End--
 {Mika}
 서로 뒤지지 않는 강자들
@@ -51,26 +51,26 @@
 --------------------------------------------------End--
 {WINDOW}
 맵 디버그 메뉴
-　　{CHOICE:30}역시 그만둔다
-　　{CHOICE:31}맵 데이터 갱신
-　　{CHOICE:32}이벤트 셀렉트
-　　{CHOICE:33}모델 체인지
-　　{CHOICE:34}인비저블
-　　{CHOICE:35}Saito씨로 돌아가기
+  {CHOICE:30}역시 그만둔다
+  {CHOICE:31}맵 데이터 갱신
+  {CHOICE:32}이벤트 셀렉트
+  {CHOICE:33}모델 체인지
+  {CHOICE:34}인비저블
+  {CHOICE:35}Saito씨로 돌아가기
 --------------------------------------------------End--
 {WINDOW}
-모델　:　{CHOICE:51}
+모델 : {CHOICE:51}
 --------------------------------------------------End--
 {WINDOW}
 이벤트 셀렉트
-　　{CHOICE:30}역시 그만둔다
-　　{CHOICE:31}시모어 암흑 소환{Gray}
-　　{CHOICE:32}정적에 잠긴 스타디움{White}
-　　{CHOICE:33}VIP 석으로 전송
-　　{CHOICE:34}아니마 표시 제어
-　　{CHOICE:35}프레임 수 조정
-　　{CHOICE:36}시나리오 플래그 초기화
+  {CHOICE:30}역시 그만둔다
+  {CHOICE:31}시모어 암흑 소환{Gray}
+  {CHOICE:32}정적에 잠긴 스타디움{White}
+  {CHOICE:33}VIP 석으로 전송
+  {CHOICE:34}아니마 표시 제어
+  {CHOICE:35}프레임 수 조정
+  {CHOICE:36}시나리오 플래그 초기화
 --------------------------------------------------End--
 {WINDOW}
-프레임 수　:　{CHOICE:52}
+프레임 수 : {CHOICE:52}
 --------------------------------------------------End--
