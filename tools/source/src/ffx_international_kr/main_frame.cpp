@@ -307,7 +307,7 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
     // xdelta 패치
     UpdateGauge(++progress, wxT("패치 데이터 적용..."));
     const auto &xdeltaPath = temp_dir / "patch_data";
-    binfile::write_byte_to_file(xdeltaPath, selectedVersion == 0 ? embed::kKoreanPatch : embed::kMultilangPatch);
+    binfile::write_byte_to_file(xdeltaPath, selectedVersion == 0 ? embed::kKrNamePatch : embed::kDefaultPatch);
 
     const auto &tempBasePath = temp_dir / "temp_iso";
     std::filesystem::copy(basePath, tempBasePath);
