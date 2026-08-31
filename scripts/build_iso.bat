@@ -4,4 +4,4 @@ tools\ffxiso -i !build_target_dir! %target_iso%
 
 echo create '%target_patch%'
 if exist %target_patch% del %target_patch% >nul
-tools\xdelta3 -e -f -A=. -n -s !input_iso! !target_iso! !target_patch!
+tools\xdelta3 -e -f -A=. -n -S none -s !input_iso! !target_iso! !target_patch!
