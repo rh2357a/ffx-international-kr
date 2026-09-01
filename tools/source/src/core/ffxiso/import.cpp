@@ -15,16 +15,32 @@ const std::vector<uint8_t> SIZETBL_BYTES{
     0x13, 0x16, 0x00,
 };
 
-std::vector<uint8_t> make_volume_descriptor(uint32_t sectors)
+std::vector<uint8_t> make_header_volume_descriptor(uint32_t sectors)
 {
     return {
-        0x02, 0x00, 0x02, 0x00,
-        0x14, 0x00, 0x00, 0x00,
-        0x1e, 0xB5, 0xF0, 0x07,
         static_cast<uint8_t>(sectors & 0xff),
         static_cast<uint8_t>((sectors >> 8) & 0xff),
         static_cast<uint8_t>((sectors >> 16) & 0xff),
         static_cast<uint8_t>((sectors >> 24) & 0xff),
+
+        static_cast<uint8_t>((sectors >> 24) & 0xff),
+        static_cast<uint8_t>((sectors >> 16) & 0xff),
+        static_cast<uint8_t>((sectors >> 8) & 0xff),
+        static_cast<uint8_t>(sectors & 0xff),
+    };
+}
+
+std::vector<uint8_t> make_volume_descriptor(uint32_t sectors)
+{
+    uint8_t v = sectors - 1;
+    return {
+        0x02, 0x00, 0x02, 0x00,
+        0x14, 0x00, 0x00, 0x00,
+        0x1e, 0xB5, 0xF0, 0x07,
+        static_cast<uint8_t>(v & 0xff),
+        static_cast<uint8_t>((v >> 8) & 0xff),
+        static_cast<uint8_t>((v >> 16) & 0xff),
+        static_cast<uint8_t>((v >> 24) & 0xff),
         0x00, 0x80, 0x00, 0x00,
         0x20, 0x00, 0x00, 0x00,
         0x00, 0x80, 0x00, 0x00,
@@ -180,9 +196,17 @@ bool ffxiso::import(std::filesystem::path import_dir, std::filesystem::path outp
         for (uint64_t i = 0; i < pad_sectors; i++)
             binfile::append_bytes(output, empty_sector);
 
-        auto volume_descriptor_bytes = make_volume_descriptor(total_sectors + pad_sectors - 1);
+        auto volume_descriptor_bytes = make_volume_descriptor(total_sectors + pad_sectors);
         volume_descriptor_bytes = binfile::pad_sector_bytes(volume_descriptor_bytes);
         binfile::append_bytes(output, volume_descriptor_bytes);
+
+        output.close();
+
+        std::fstream output(output_path, std::ios::binary | std::ios::in | std::ios::out);
+        auto header_volume_descriptor_bytes = make_header_volume_descriptor(total_sectors + pad_sectors);
+        output.seekp(static_cast<std::streamoff>(0x8050));
+        output.write(reinterpret_cast<const char *>(header_volume_descriptor_bytes.data()), header_volume_descriptor_bytes.size());
+        output.close();
     }
 
     return true;
