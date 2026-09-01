@@ -1,7 +1,7 @@
 {WINDOW}
-{CHOICE:30}         {CHOICE:FF}
-{CHOICE:31}         {CHOICE:FF}
-{CHOICE:32}         {CHOICE:FF}
+{CHOICE:30}　　　　　　　　　{CHOICE:FF}
+{CHOICE:31}　　　　　　　　　{CHOICE:FF}
+{CHOICE:32}　　　　　　　　　{CHOICE:FF}
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【스피어 보드 선택】
@@ -20,21 +20,21 @@ FINAL FANTASY Ⅹ 인터내셔널에서는
 --------------------------------------------------End--
 {WINDOW}
 스피어 보드를 선택해 주세요!
- (플레이 중에는 변경할 수 없습니다)
- {CHOICE:30}오리지널 버전
- {CHOICE:31}인터내셔널 버전
+　(플레이 중에는 변경할 수 없습니다)
+　{CHOICE:30}오리지널 버전
+　{CHOICE:31}인터내셔널 버전
 --------------------------------------------------End--
 {WINDOW}
 {Blue}【스피어 보드·오리지널 버전】{White}
- 괜찮겠습니까?
- {CHOICE:30}네
- {CHOICE:31}아니오
+　괜찮겠습니까?
+　{CHOICE:30}네
+　{CHOICE:31}아니오
 --------------------------------------------------End--
 {WINDOW}
 {Blue}【스피어 보드·인터내셔널 버전】{White}
- 괜찮겠습니까?
- {CHOICE:30}네
- {CHOICE:31}아니오
+　괜찮겠습니까?
+　{CHOICE:30}네
+　{CHOICE:31}아니오
 --------------------------------------------------End--
 {WINDOW}
 하드 디스크 드라이브를 사용하겠습니까?
@@ -42,14 +42,14 @@ FINAL FANTASY Ⅹ 인터내셔널에서는
 {CHOICE:31}아니오
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}         {CHOICE:FF}
-{CHOICE:31}         {CHOICE:FF}
+{CHOICE:30}　　　　　　　　　{CHOICE:FF}
+{CHOICE:31}　　　　　　　　　{CHOICE:FF}
 
 --------------------------------------------------End--
 {WINDOW}
-FFX STARTMAP
+FFX　STARTMAP
 --------------------------------------------------End--
-FFX STARTMAP
+FFX　STARTMAP
 --------------------------------------------------End--
 {WINDOW}
 
