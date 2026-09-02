@@ -32,11 +32,12 @@ std::vector<uint8_t> make_header_volume_descriptor(uint32_t sectors)
 
 std::vector<uint8_t> make_volume_descriptor(uint32_t sectors)
 {
-    uint8_t v = sectors - 1;
-    return {
+    uint32_t v = sectors - 1;
+
+    std::vector<uint8_t> bytes{
         0x02, 0x00, 0x02, 0x00,
-        0x14, 0x00, 0x00, 0x00,
-        0x1e, 0xB5, 0xF0, 0x07,
+        0x00, 0x00, 0x00, 0x00,
+        0x1e, 0xb5, 0xf0, 0x07,
         static_cast<uint8_t>(v & 0xff),
         static_cast<uint8_t>((v >> 8) & 0xff),
         static_cast<uint8_t>((v >> 16) & 0xff),
@@ -46,9 +47,86 @@ std::vector<uint8_t> make_volume_descriptor(uint32_t sectors)
         0x00, 0x80, 0x00, 0x00,
         0x30, 0x00, 0x00, 0x00,
     };
+
+    uint32_t checksum = 0;
+    for (uint32_t i = 0; i < 16; ++i)
+    {
+        if (i != 4)
+            checksum += bytes[i];
+    }
+    bytes[4] = static_cast<uint8_t>(checksum & 0xff);
+
+    return bytes;
 }
 
 // clang-format on
+
+static bool update_udf_partition_sizes(std::fstream &output, uint32_t total_sectors)
+{
+    const uint32_t sector_numbers[]{34, 50, 64};
+    const uint32_t size_offsets[]{192, 192, 84};
+    std::vector<uint8_t> descriptors[3];
+
+    auto read_u16 = [](const std::vector<uint8_t> &bytes, uint32_t offset) {
+        return static_cast<uint16_t>(bytes[offset] | (uint16_t(bytes[offset + 1]) << 8));
+    };
+    auto read_u32 = [](const std::vector<uint8_t> &bytes, uint32_t offset) {
+        return uint32_t(bytes[offset]) | (uint32_t(bytes[offset + 1]) << 8)
+               | (uint32_t(bytes[offset + 2]) << 16) | (uint32_t(bytes[offset + 3]) << 24);
+    };
+
+    for (uint32_t i = 0; i < 3; ++i)
+    {
+        auto &bytes = descriptors[i];
+        bytes.resize(0x800);
+        output.seekg(static_cast<std::streamoff>(sector_numbers[i]) * 0x800);
+        if (!output.read(reinterpret_cast<char *>(bytes.data()), bytes.size()))
+            return false;
+
+        const uint32_t crc_length = read_u16(bytes, 10);
+        if (read_u16(bytes, 0) != (i == 2 ? 9 : 5)
+            || read_u32(bytes, 12) != sector_numbers[i]
+            || crc_length > 0x800 - 16 || crc_length + 16 < size_offsets[i] + 4)
+            return false;
+    }
+
+    const uint32_t partition_start = read_u32(descriptors[0], 188);
+    if (read_u32(descriptors[1], 188) != partition_start
+        || read_u32(descriptors[2], 72) != 1
+        || total_sectors <= partition_start || total_sectors - partition_start <= 1)
+        return false;
+
+    const uint32_t partition_length = total_sectors - 1 - partition_start;
+    for (uint32_t i = 0; i < 3; ++i)
+    {
+        auto &bytes = descriptors[i];
+        for (uint32_t j = 0; j < 4; ++j)
+            bytes[size_offsets[i] + j] = static_cast<uint8_t>(partition_length >> (j * 8));
+
+        const uint32_t crc_length = read_u16(bytes, 10);
+        uint16_t crc = 0;
+        for (uint32_t j = 16; j < 16 + crc_length; ++j)
+        {
+            crc ^= static_cast<uint16_t>(uint16_t(bytes[j]) << 8);
+            for (uint32_t bit = 0; bit < 8; ++bit)
+                crc = static_cast<uint16_t>((crc << 1) ^ ((crc & 0x8000) ? 0x1021 : 0));
+        }
+        bytes[8] = static_cast<uint8_t>(crc);
+        bytes[9] = static_cast<uint8_t>(crc >> 8);
+
+        uint32_t checksum = 0;
+        for (uint32_t j = 0; j < 16; ++j)
+            if (j != 4)
+                checksum += bytes[j];
+        bytes[4] = static_cast<uint8_t>(checksum);
+
+        output.seekp(static_cast<std::streamoff>(sector_numbers[i]) * 0x800);
+        if (!output.write(reinterpret_cast<const char *>(bytes.data()), bytes.size()))
+            return false;
+    }
+
+    return true;
+}
 
 bool ffxiso::import(std::filesystem::path import_dir, std::filesystem::path output_path)
 {
@@ -206,7 +284,14 @@ bool ffxiso::import(std::filesystem::path import_dir, std::filesystem::path outp
         auto header_volume_descriptor_bytes = make_header_volume_descriptor(total_sectors + pad_sectors);
         output.seekp(static_cast<std::streamoff>(0x8050));
         output.write(reinterpret_cast<const char *>(header_volume_descriptor_bytes.data()), header_volume_descriptor_bytes.size());
+        if (!output || !update_udf_partition_sizes(output, static_cast<uint32_t>(total_sectors + pad_sectors)))
+        {
+            std::cerr << "Failed to update UDF partition sizes and checksums.\n";
+            return false;
+        }
         output.close();
+        if (!output)
+            return false;
     }
 
     return true;

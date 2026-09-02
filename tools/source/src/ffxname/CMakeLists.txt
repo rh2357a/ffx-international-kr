@@ -22,16 +22,6 @@ if(MINGW)
 
     if(CMAKE_BUILD_TYPE STREQUAL "Release")
         target_link_options(ffxname PRIVATE -s)
-
-        find_program(UPX_EXECUTABLE upx)
-        if(UPX_EXECUTABLE)
-            add_custom_command(TARGET ffxname POST_BUILD
-                COMMAND "${UPX_EXECUTABLE}"
-                -q
-                --compress-icons=0
-                "$<$<CONFIG:Release>:$<TARGET_FILE:ffxname>>"
-            )
-        endif()
     endif()
 
 endif()
