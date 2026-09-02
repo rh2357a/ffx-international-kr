@@ -12,6 +12,7 @@
 #include <vector>
 
 #include "embed.h"
+#include "japanese_voice.h"
 #include "resources.h"
 
 // clang-format off
@@ -188,7 +189,7 @@ void ffx::MainFrame::OnThreadUpdate(wxThreadEvent &event)
         int range = /* 언패킹 */ 1 +
                     /* 패치 */ 1 +
                     /* 음성 교체 시작 */ (useJpnVoice ? 1 : 0) +
-                    /* 음성 교체 */ (useJpnVoice ? 85 : 0) +
+                    /* 음성 교체 */ (useJpnVoice ? 86 : 0) +
                     /* 영상 교체 */ (useJpnVoice ? MOVIE_DATA.size() : 0) +
                     /* 리패킹 */ 1 +
                     /* 파일 교체 */ 1;
@@ -352,8 +353,37 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
                 binfile::write_byte_to_file(newFilePath, bytes);
         }
 
+        // 기타 음성 교체
+        {
+            const auto &bytes = ffxiso::get_file_bytes(jpnPath, 479);
+            const auto &newFilePath = workspacePath / "files" / "file_00556.bin";
+            std::filesystem::remove(newFilePath);
+            binfile::write_byte_to_file(newFilePath, bytes);
+        }
+
         std::ifstream json_file(workspacePath / "files.json");
         nlohmann::json files_json = nlohmann::json::parse(json_file);
+
+        if (TestDestroy())
+        {
+            Cleanup();
+            return 0;
+        }
+
+        UpdateGauge(++progress, wxT("일어 음성 교체... (9514)"));
+        {
+            const auto voiceFilePath = workspacePath / "files" / files_json.at(9514).at("filename").get<std::string>();
+            const auto original = binfile::read_all_bytes(voiceFilePath);
+            const auto japanese = ffxiso::get_file_bytes(jpnPath, 9193);
+            const auto patched = japanese_voice::replace_9514(original, japanese);
+
+            std::ofstream voiceFile;
+            voiceFile.exceptions(std::ios::failbit | std::ios::badbit);
+            voiceFile.open(voiceFilePath, std::ios::binary | std::ios::trunc);
+            voiceFile.write(reinterpret_cast<const char *>(patched.data()),
+                static_cast<std::streamsize>(patched.size()));
+            voiceFile.close();
+        }
 
         // 영상 음성 교체
         int replaceCnt = 0;

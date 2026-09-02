@@ -3,12 +3,19 @@
 .include "asm/defines.asm"
 .include "asm/macros.asm"
 
+.if MULTILANG == 0
+	.include "asm/sound.defines.asm"
+.endif
 
 .ps2
 .open "build/" + TARGET_NAME + "/files/file_00455.ftcx", 0x798000 - 0x40
 
 .orga 0x40
 inject_begin:
+.if MULTILANG == 0
+	.include "asm/sound.inject.asm"
+.endif
+
 	.include "asm/variables.inject.asm"
 	.include "asm/battle.inject.asm"
 	.include "asm/font.inject.asm"
@@ -35,4 +42,13 @@ inject_end:
 	.include "asm/battle.asm"
 	.include "asm/naming.asm"
 	.include "asm/sphere_grid.asm"
+
+.if MULTILANG == 0
+	.include "asm/sound.asm"
+.endif
+
 .close
+
+.if MULTILANG == 0
+.include "asm/sound.iop.asm"
+.endif

@@ -16,3 +16,12 @@
 
 .orga 0x484d7c
 	dw 0x2189a8 + 0x40000
+
+; Keep the main stack and graphics MFIFO in their original ranges.
+; Carve SHOUT memory out of the start of game arena 0 (normal/debug paths).
+.if MULTILANG == 0
+.org 0x11be8c
+	lui a1, SHOUT_POOL_START >> 16
+.org 0x11beb8
+	lui a1, SHOUT_POOL_START >> 16
+.endif
