@@ -26,7 +26,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	workspaceBSizer = new wxBoxSizer( wxVERTICAL );
 
 	wxStaticBoxSizer* baseIsoSbSizer;
-	baseIsoSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("적용할 ISO 파일 선택") ), wxVERTICAL );
+	baseIsoSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("FFX 인터내셔널 ISO 파일 선택 (패치 대상)") ), wxVERTICAL );
 
 	wxBoxSizer* baseIsoBSizer;
 	baseIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
@@ -50,37 +50,22 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	workspaceBSizer->Add( baseIsoSbSizer, 0, wxALL|wxEXPAND, 5 );
 
-	wxString m_typeRadioBoxChoices[] = { wxT("한국어"), wxT("한국어/영어") };
-	int m_typeRadioBoxNChoices = sizeof( m_typeRadioBoxChoices ) / sizeof( wxString );
-	m_typeRadioBox = new wxRadioBox( m_workspacePanel, wxID_ANY, wxT("버전 선택"), wxDefaultPosition, wxDefaultSize, m_typeRadioBoxNChoices, m_typeRadioBoxChoices, 1, wxRA_SPECIFY_COLS );
-	m_typeRadioBox->SetSelection( 1 );
-	workspaceBSizer->Add( m_typeRadioBox, 0, wxALL|wxEXPAND, 5 );
-
 	wxStaticBoxSizer* jpnVoiceOptionSbSizer;
-	jpnVoiceOptionSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("일어 음성 옵션 (beta)") ), wxVERTICAL );
+	jpnVoiceOptionSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("일어판 FF10 오리지널 ISO 파일 선택") ), wxVERTICAL );
 
 	wxBoxSizer* jpnVoiceOptionBSizer;
 	jpnVoiceOptionBSizer = new wxBoxSizer( wxVERTICAL );
-
-	m_jpnVoiceOptionCheckBox = new wxCheckBox( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("일어 음성 적용"), wxDefaultPosition, wxDefaultSize, 0 );
-	m_jpnVoiceOptionCheckBox->Enable( false );
-
-	jpnVoiceOptionBSizer->Add( m_jpnVoiceOptionCheckBox, 0, wxALL, 5 );
 
 	wxBoxSizer* jpnIsoBSizer;
 	jpnIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
 
 	m_jpnIsoText = new wxTextCtrl( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
-	m_jpnIsoText->Enable( false );
-
 	jpnIsoBSizer->Add( m_jpnIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	jpnIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
 
 	m_openJpnIsoButton = new wxButton( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("열기"), wxDefaultPosition, wxDefaultSize, 0 );
-	m_openJpnIsoButton->Enable( false );
-
 	jpnIsoBSizer->Add( m_openJpnIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
 
 
@@ -91,18 +76,14 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID 'SLPS-25050'인 파일이 필요합니다."), wxDefaultPosition, wxDefaultSize, 0 );
 	m_jpnIsoWarnText->Wrap( -1 );
-	m_jpnIsoWarnText->Enable( false );
-
 	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxALL, 5 );
-
-	m_jpnIsoWarn2Text = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 주의: 자막과 음성이 다를 수 있습니다."), wxDefaultPosition, wxDefaultSize, 0 );
-	m_jpnIsoWarn2Text->Wrap( -1 );
-	m_jpnIsoWarn2Text->Enable( false );
-
-	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarn2Text, 0, wxALL, 5 );
 
 
 	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxALL|wxEXPAND, 5 );
+
+	m_jpnIsoWarn2Text = new wxStaticText( m_workspacePanel, wxID_ANY, wxT("※ 베타 버전 주의\n　- 자막과 음성이 다를 수 있습니다.\n　- 일부 장면에서 영문 음성이 나올 수 있습니다.\n　- 한국어 노래가 일본어 버전으로 바뀝니다."), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnIsoWarn2Text->Wrap( -1 );
+	workspaceBSizer->Add( m_jpnIsoWarn2Text, 0, wxALL, 5 );
 
 
 	m_workspacePanel->SetSizer( workspaceBSizer );
@@ -151,8 +132,6 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	// Connect Events
 	this->Connect( wxEVT_CLOSE_WINDOW, wxCloseEventHandler( MainFrameBase::OnFrameClose ) );
 	m_openBaseIsoButton->Connect( wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler( MainFrameBase::OnOpenBaseIsoButtonClick ), NULL, this );
-	m_typeRadioBox->Connect( wxEVT_COMMAND_RADIOBOX_SELECTED, wxCommandEventHandler( MainFrameBase::OnTypeRadioBox ), NULL, this );
-	m_jpnVoiceOptionCheckBox->Connect( wxEVT_COMMAND_CHECKBOX_CLICKED, wxCommandEventHandler( MainFrameBase::OnJpnVoiceOptionCheckBox ), NULL, this );
 	m_openJpnIsoButton->Connect( wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler( MainFrameBase::OnOpenJpnIsoButtonClick ), NULL, this );
 	m_applyButton->Connect( wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler( MainFrameBase::OnApplyButtonClick ), NULL, this );
 }

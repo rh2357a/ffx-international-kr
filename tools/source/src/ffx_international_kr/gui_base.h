@@ -22,8 +22,6 @@
 #include <wx/sizer.h>
 #include <wx/stattext.h>
 #include <wx/statbox.h>
-#include <wx/radiobox.h>
-#include <wx/checkbox.h>
 #include <wx/panel.h>
 #include <wx/gauge.h>
 #include <wx/frame.h>
@@ -43,8 +41,6 @@ class MainFrameBase : public wxFrame
 		wxTextCtrl* m_baseIsoText;
 		wxButton* m_openBaseIsoButton;
 		wxStaticText* m_baseIsoWarnText;
-		wxRadioBox* m_typeRadioBox;
-		wxCheckBox* m_jpnVoiceOptionCheckBox;
 		wxTextCtrl* m_jpnIsoText;
 		wxButton* m_openJpnIsoButton;
 		wxStaticText* m_jpnIsoWarnText;
@@ -56,15 +52,13 @@ class MainFrameBase : public wxFrame
 		// Virtual event handlers, override them in your derived class
 		virtual void OnFrameClose( wxCloseEvent& event ) { event.Skip(); }
 		virtual void OnOpenBaseIsoButtonClick( wxCommandEvent& event ) { event.Skip(); }
-		virtual void OnTypeRadioBox( wxCommandEvent& event ) { event.Skip(); }
-		virtual void OnJpnVoiceOptionCheckBox( wxCommandEvent& event ) { event.Skip(); }
 		virtual void OnOpenJpnIsoButtonClick( wxCommandEvent& event ) { event.Skip(); }
 		virtual void OnApplyButtonClick( wxCommandEvent& event ) { event.Skip(); }
 
 
 	public:
 
-		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("PS2 파이널 판타지 10 인터내셔널 한국어 패치 v20251108"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,414 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 500,353 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
 		~MainFrameBase();
 
