@@ -50,7 +50,7 @@
       <property name="minimum_size"></property>
       <property name="name">MainFrameBase</property>
       <property name="pos"></property>
-      <property name="size">560,406</property>
+      <property name="size">560,390</property>
       <property name="style">wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU</property>
       <property name="subclass">; ; forward_declare</property>
       <property name="title">{title}</property>
@@ -1055,7 +1055,7 @@
                             <property name="gripper">0</property>
                             <property name="hidden">0</property>
                             <property name="id">wxID_ANY</property>
-                            <property name="label">※ 베타 버전 주의&#x0A;　- 일부 장면에서 영문 음성이 나올 수 있습니다.&#x0A;　- 한국어 노래가 일본어 버전으로 바뀝니다.&#x0A;　- 아직 불안정한 부분이 다소 있습니다.</property>
+                            <property name="label">※ 베타 버전 주의&#x0A;　- 일부 장면에서 영문 음성이 나올 수 있습니다.&#x0A;　- 아직 불안정한 부분이 다소 있습니다.</property>
                             <property name="markup">0</property>
                             <property name="max_size"></property>
                             <property name="maximize_button">0</property>

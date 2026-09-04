@@ -10,10 +10,14 @@
 
 #include <filesystem>
 #include <format>
+#include <fstream>
 #include <vector>
 
 #include "embed.h"
+#include "japanese_event_sound.h"
+#include "japanese_movie.h"
 #include "japanese_voice.h"
+#include "japanese_wd.h"
 #include "resources.h"
 
 // clang-format off
@@ -191,7 +195,7 @@ void ffx::MainFrame::OnThreadUpdate(wxThreadEvent &event)
         int range = /* 언패킹 */ 1 +
                     /* 패치 */ 1 +
                     /* 음성 교체 시작 */ (isJpnVoiceEnabled ? 1 : 0) +
-                    /* 음성 교체 */ (isJpnVoiceEnabled ? 86 : 0) +
+                    /* 음성 교체 */ (isJpnVoiceEnabled ? 87 + static_cast<int>(japanese_event_sound::files().size()) : 0) +
                     /* 영상 교체 */ (isJpnVoiceEnabled ? MOVIE_DATA.size() : 0) +
                     /* 리패킹 */ 1 +
                     /* 파일 교체 */ 1;
@@ -401,6 +405,53 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
             voiceFile.close();
         }
 
+        if (TestDestroy())
+        {
+            Cleanup();
+            return 0;
+        }
+
+        UpdateGauge(++progress, wxT("일어 음성 교체... (WD)"));
+        {
+            const auto wdPath = workspacePath / "files" / files_json.at(547).at("filename").get<std::string>();
+            const auto indexPath = workspacePath / "files" / files_json.at(548).at("filename").get<std::string>();
+            const auto originalWd = binfile::read_all_bytes(wdPath);
+            const auto originalIndex = binfile::read_all_bytes(indexPath);
+            const auto japaneseWd = ffxiso::get_file_bytes(jpnPath, 470);
+            const auto japaneseIndex = ffxiso::get_file_bytes(jpnPath, 471);
+            const auto patched = japanese_wd::replace(originalWd, originalIndex, japaneseWd, japaneseIndex);
+
+            const auto writeChecked = [](const std::filesystem::path &path, const std::vector<uint8_t> &bytes) {
+                std::ofstream output;
+                output.exceptions(std::ios::failbit | std::ios::badbit);
+                output.open(path, std::ios::binary | std::ios::trunc);
+                output.write(reinterpret_cast<const char *>(bytes.data()), static_cast<std::streamsize>(bytes.size()));
+                output.close();
+            };
+            writeChecked(wdPath, patched.archive);
+            writeChecked(indexPath, patched.index);
+
+            // Pair the transplanted WD samples with their Japanese SeSep playback data.
+            // ATEL scripts, text, and EV section pointers are preserved.
+            for (const auto eventFile : japanese_event_sound::files())
+            {
+                if (TestDestroy())
+                {
+                    json_file.close();
+                    Cleanup();
+                    return 0;
+                }
+                UpdateGauge(++progress, wxString::Format(wxT("일어 음성 교체... (EV %u)"), eventFile));
+                const auto mapping = std::find_if(japanese_event_sound::mappings.begin(),
+                    japanese_event_sound::mappings.end(),
+                    [eventFile](const auto &m) { return m.international_file == eventFile; });
+                const auto eventPath = workspacePath / "files" / files_json.at(eventFile).at("filename").get<std::string>();
+                const auto internationalEvent = binfile::read_all_bytes(eventPath);
+                const auto japaneseEvent = ffxiso::get_file_bytes(jpnPath, mapping->japanese_file);
+                writeChecked(eventPath, japanese_event_sound::replace(internationalEvent, japaneseEvent, eventFile));
+            }
+        }
+
         // 영상 음성 교체
         int replaceCnt = 0;
         for (const auto &[inter_idx, jpn_idx] : MOVIE_DATA)
@@ -412,6 +463,35 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
             }
 
             UpdateGauge(++progress, wxString::Format(wxT("영상 교체... (%d/%d)"), ++replaceCnt, static_cast<int>(MOVIE_DATA.size())));
+
+            // Keep the existing Korean songs from decoded audio time 0:13 / 7:00.
+            if (inter_idx == 16229 || inter_idx == 16257)
+            {
+                const auto indexPath = workspacePath / "files" / files_json[inter_idx]["filename"].get<std::string>();
+                const auto dataPath = workspacePath / "files" / files_json[inter_idx + 1]["filename"].get<std::string>();
+                const auto originalIndex = binfile::read_all_bytes(indexPath);
+                const auto japaneseIndex = ffxiso::get_file_bytes(jpnPath, jpn_idx);
+                const auto japaneseData = ffxiso::get_file_bytes(jpnPath, jpn_idx + 1);
+                auto temporaryIndex = indexPath;
+                auto temporaryData = dataPath;
+                temporaryIndex += ".song.tmp";
+                temporaryData += ".song.tmp";
+                std::ifstream originalData(dataPath, std::ios::binary);
+                std::ofstream output;
+                output.exceptions(std::ios::failbit | std::ios::badbit);
+                output.open(temporaryData, std::ios::binary | std::ios::trunc);
+                const auto rebuiltIndex = japanese_movie::preserve_song(originalIndex, originalData, japaneseIndex, japaneseData, output, inter_idx == 16229);
+                output.close();
+                originalData.close();
+                output.open(temporaryIndex, std::ios::binary | std::ios::trunc);
+                output.write(reinterpret_cast<const char *>(rebuiltIndex.data()), static_cast<std::streamsize>(rebuiltIndex.size()));
+                output.close();
+                std::filesystem::remove(dataPath);
+                std::filesystem::rename(temporaryData, dataPath);
+                std::filesystem::remove(indexPath);
+                std::filesystem::rename(temporaryIndex, indexPath);
+                continue;
+            }
 
             auto movFilePath = workspacePath / "files" / files_json[inter_idx]["filename"].get<std::string>();
             if (std::filesystem::exists(movFilePath))

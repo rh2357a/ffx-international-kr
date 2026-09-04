@@ -110,7 +110,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxLEFT|wxRIGHT|wxTOP, 5 );
 
-	m_jpnIsoWarn2Text = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 베타 버전 주의\n　- 일부 장면에서 영문 음성이 나올 수 있습니다.\n　- 한국어 노래가 일본어 버전으로 바뀝니다.\n　- 아직 불안정한 부분이 다소 있습니다."), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnIsoWarn2Text = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 베타 버전 주의\n　- 일부 장면에서 영문 음성이 나올 수 있습니다.\n　- 아직 불안정한 부분이 다소 있습니다."), wxDefaultPosition, wxDefaultSize, 0 );
 	m_jpnIsoWarn2Text->Wrap( -1 );
 	m_jpnIsoWarn2Text->Enable( false );
 
