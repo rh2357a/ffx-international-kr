@@ -8,6 +8,11 @@ get_monster_name_by_id:
 .endarea
 
 
+; FUN_00219860: 상태이상 텍스트 너비 계산 변경
+.org 0x219900
+	b 0x219944
+
+
 ; 아군 상태이상 텍스트 폰트 변경
 .org 0x219934
 	jal render_battle_text_en
