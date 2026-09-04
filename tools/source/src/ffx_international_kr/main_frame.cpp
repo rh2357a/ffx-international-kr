@@ -4,6 +4,7 @@
 #include <ffxiso/import.h>
 #include <utils/binfile.h>
 #include <utils/json.hpp>
+#include <wx/filedlg.h>
 #include <wx/wx.h>
 #include <xdelta3_wrapper.h>
 
@@ -55,7 +56,7 @@ const std::map<int, int> MOVIE_DATA{
 
 ffx::MainFrame::MainFrame(wxWindow *parent) : MainFrameBase(parent)
 {
-    SetTitle(wxT("PS2 파이널 판타지 10 인터내셔널 한국어 패치 (일본어 음성) " APP_VERSION));
+    SetTitle(wxT("PS2 파이널 판타지 10 인터내셔널 한국어 패치 " APP_VERSION));
     Bind(wxEVT_THREAD, &MainFrame::OnThreadUpdate, this);
 }
 
@@ -81,6 +82,40 @@ void ffx::MainFrame::OnOpenBaseIsoButtonClick(wxCommandEvent &event)
     }
 
     m_baseIsoText->SetValue(wxString::FromUTF8(path));
+}
+
+void ffx::MainFrame::OnTargetIsoButtonClick(wxCommandEvent &event)
+{
+    wxFileDialog openDlg(this, wxT("ISO 패치 저장..."), "", "", wxT("ISO 파일|*.iso"), wxFD_SAVE | wxFD_OVERWRITE_PROMPT);
+    if (openDlg.ShowModal() == wxID_CANCEL)
+        return;
+
+    std::string path = openDlg.GetPath().utf8_string();
+    if (std::filesystem::exists(path) && m_baseIsoText->GetValue().utf8_string() == path)
+    {
+        wxMessageBox(wxT("원본 ISO 이름으로 저장할 수 없습니다!"), wxT("오류"), wxICON_ERROR);
+        return;
+    }
+
+    m_targetIsoText->SetValue(wxString::FromUTF8(path));
+}
+
+void ffx::MainFrame::OnJpnVoiceCheckBox(wxCommandEvent &event)
+{
+    if (m_jpnVoiceCheckBox->IsChecked())
+    {
+        m_jpnIsoText->Enable();
+        m_openJpnIsoButton->Enable();
+        m_jpnIsoWarnText->Enable();
+        m_jpnIsoWarn2Text->Enable();
+    }
+    else
+    {
+        m_jpnIsoText->Disable();
+        m_openJpnIsoButton->Disable();
+        m_jpnIsoWarnText->Disable();
+        m_jpnIsoWarn2Text->Disable();
+    }
 }
 
 void ffx::MainFrame::OnOpenJpnIsoButtonClick(wxCommandEvent &event)
@@ -127,7 +162,9 @@ void ffx::MainFrame::OnApplyButtonClick(wxCommandEvent &event)
 
         applyPatchThread = new ApplyPatchThread(this);
         applyPatchThread->basePath = m_baseIsoText->GetValue().utf8_string();
+        applyPatchThread->targetPath = m_targetIsoText->GetValue().utf8_string();
         applyPatchThread->jpnPath = m_jpnIsoText->GetValue().utf8_string();
+        applyPatchThread->isJpnVoiceEnabled = m_jpnVoiceCheckBox->IsChecked();
         applyPatchThread->Run();
     }
 }
@@ -150,11 +187,12 @@ void ffx::MainFrame::OnThreadUpdate(wxThreadEvent &event)
 
     if (what == ApplyPatchThreadEvent::STARTUP)
     {
+        bool isJpnVoiceEnabled = m_jpnVoiceCheckBox->IsChecked();
         int range = /* 언패킹 */ 1 +
                     /* 패치 */ 1 +
-                    /* 음성 교체 시작 */ 1 +
-                    /* 음성 교체 */ 86 +
-                    /* 영상 교체 */ MOVIE_DATA.size() +
+                    /* 음성 교체 시작 */ (isJpnVoiceEnabled ? 1 : 0) +
+                    /* 음성 교체 */ (isJpnVoiceEnabled ? 86 : 0) +
+                    /* 영상 교체 */ (isJpnVoiceEnabled ? MOVIE_DATA.size() : 0) +
                     /* 리패킹 */ 1 +
                     /* 파일 교체 */ 1;
         m_applyGauge->SetRange(range);
@@ -236,18 +274,35 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
         return 0;
     }
 
-    if (!std::filesystem::exists(jpnPath))
+    if (targetPath == "-")
     {
-        ShowErrorMessageBox(wxT("지정된 경로에 파이널 판타지 10 오리지널 ISO 파일이 없습니다."));
+        ShowErrorMessageBox(wxT("저장될 위치를 선택해 주세요!!"));
         Cleanup(false);
         return 0;
     }
 
-    if (!binfile::has_bytes(jpnPath, 0x82881, GAME_ID_JAPAN))
+    if (std::filesystem::exists(targetPath) && targetPath == basePath)
     {
-        ShowErrorMessageBox(wxT("파이널 판타지 10 오리지널 ISO 파일이 아닙니다!"));
+        ShowErrorMessageBox(wxT("원본 ISO 이름으로 저장할 수 없습니다!"));
         Cleanup(false);
         return 0;
+    }
+
+    if (isJpnVoiceEnabled)
+    {
+        if (!std::filesystem::exists(jpnPath))
+        {
+            ShowErrorMessageBox(wxT("지정된 경로에 파이널 판타지 10 오리지널 ISO 파일이 없습니다."));
+            Cleanup(false);
+            return 0;
+        }
+
+        if (!binfile::has_bytes(jpnPath, 0x82881, GAME_ID_JAPAN))
+        {
+            ShowErrorMessageBox(wxT("파이널 판타지 10 오리지널 ISO 파일이 아닙니다!"));
+            Cleanup(false);
+            return 0;
+        }
     }
 
     if (TestDestroy())
@@ -269,7 +324,7 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
     // xdelta 패치
     UpdateGauge(++progress, wxT("패치 데이터 적용..."));
     const auto xdeltaPath = TEMP_DIR / "patch_data";
-    binfile::write_byte_to_file(xdeltaPath, embed::kJpVoicePatchData);
+    binfile::write_byte_to_file(xdeltaPath, isJpnVoiceEnabled ? embed::kJpVoicePatchData : embed::kPatchData);
 
     const auto tempBasePath = TEMP_DIR / "temp_iso";
     std::filesystem::copy(basePath, tempBasePath);
@@ -285,104 +340,108 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
     }
 
     // 일어 음성 패치
-    UpdateGauge(++progress, wxT("일어 음성 교체..."));
-    const auto workspacePath = TEMP_DIR / "work";
-    ffxiso::extract(tempPatchPath, workspacePath);
-    if (std::filesystem::exists(tempPatchPath))
-        std::filesystem::remove(tempPatchPath);
-
-    // 음성 파일 교체
-    for (int i = 17; i <= 101; i++)
+    if (isJpnVoiceEnabled)
     {
-        if (TestDestroy())
+        UpdateGauge(++progress, wxT("일어 음성 교체..."));
+        const auto workspacePath = TEMP_DIR / "work";
+        ffxiso::extract(tempPatchPath, workspacePath);
+        if (std::filesystem::exists(tempPatchPath))
+            std::filesystem::remove(tempPatchPath);
+
+        // 음성 파일 교체
+        for (int i = 17; i <= 101; i++)
         {
-            Cleanup();
-            return 0;
+            if (TestDestroy())
+            {
+                Cleanup();
+                return 0;
+            }
+
+            UpdateGauge(++progress, wxString::Format(wxT("일어 음성 교체... (%d/%d)"), i - 16, 101 - 16));
+
+            const auto ext = i == 17 ? ".bin" : ".vs";
+            const auto newFilePath = workspacePath / "files" / std::format("file_{:05}{}", i + 1, ext);
+            if (std::filesystem::exists(newFilePath))
+                std::filesystem::remove(newFilePath);
+
+            const auto &bytes = ffxiso::get_file_bytes(jpnPath, i);
+            if (bytes.size() > 0)
+                binfile::write_byte_to_file(newFilePath, bytes);
         }
 
-        UpdateGauge(++progress, wxString::Format(wxT("일어 음성 교체... (%d/%d)"), i - 16, 101 - 16));
-
-        const auto ext = i == 17 ? ".bin" : ".vs";
-        const auto newFilePath = workspacePath / "files" / std::format("file_{:05}{}", i + 1, ext);
-        if (std::filesystem::exists(newFilePath))
+        // 기타 음성 교체
+        {
+            const auto bytes = ffxiso::get_file_bytes(jpnPath, 479);
+            const auto newFilePath = workspacePath / "files" / "file_00556.bin";
             std::filesystem::remove(newFilePath);
-
-        const auto &bytes = ffxiso::get_file_bytes(jpnPath, i);
-        if (bytes.size() > 0)
             binfile::write_byte_to_file(newFilePath, bytes);
-    }
+        }
 
-    // 기타 음성 교체
-    {
-        const auto bytes = ffxiso::get_file_bytes(jpnPath, 479);
-        const auto newFilePath = workspacePath / "files" / "file_00556.bin";
-        std::filesystem::remove(newFilePath);
-        binfile::write_byte_to_file(newFilePath, bytes);
-    }
+        std::ifstream json_file(workspacePath / "files.json");
+        nlohmann::json files_json = nlohmann::json::parse(json_file);
 
-    std::ifstream json_file(workspacePath / "files.json");
-    nlohmann::json files_json = nlohmann::json::parse(json_file);
-
-    if (TestDestroy())
-    {
-        Cleanup();
-        return 0;
-    }
-
-    UpdateGauge(++progress, wxT("일어 음성 교체... (9514)"));
-    {
-        const auto voiceFilePath = workspacePath / "files" / files_json.at(9514).at("filename").get<std::string>();
-        const auto original = binfile::read_all_bytes(voiceFilePath);
-        const auto japanese = ffxiso::get_file_bytes(jpnPath, 9193);
-        const auto patched = japanese_voice::replace_9514(original, japanese);
-
-        std::ofstream voiceFile;
-        voiceFile.exceptions(std::ios::failbit | std::ios::badbit);
-        voiceFile.open(voiceFilePath, std::ios::binary | std::ios::trunc);
-        voiceFile.write(reinterpret_cast<const char *>(patched.data()),
-            static_cast<std::streamsize>(patched.size()));
-        voiceFile.close();
-    }
-
-    // 영상 음성 교체
-    int replaceCnt = 0;
-    for (const auto &[inter_idx, jpn_idx] : MOVIE_DATA)
-    {
         if (TestDestroy())
         {
             Cleanup();
             return 0;
         }
 
-        UpdateGauge(++progress, wxString::Format(wxT("영상 교체... (%d/%d)"), ++replaceCnt, static_cast<int>(MOVIE_DATA.size())));
+        UpdateGauge(++progress, wxT("일어 음성 교체... (9514)"));
+        {
+            const auto voiceFilePath = workspacePath / "files" / files_json.at(9514).at("filename").get<std::string>();
+            const auto original = binfile::read_all_bytes(voiceFilePath);
+            const auto japanese = ffxiso::get_file_bytes(jpnPath, 9193);
+            const auto patched = japanese_voice::replace_9514(original, japanese);
 
-        auto movFilePath = workspacePath / "files" / files_json[inter_idx]["filename"].get<std::string>();
-        if (std::filesystem::exists(movFilePath))
-            std::filesystem::remove(movFilePath);
+            std::ofstream voiceFile;
+            voiceFile.exceptions(std::ios::failbit | std::ios::badbit);
+            voiceFile.open(voiceFilePath, std::ios::binary | std::ios::trunc);
+            voiceFile.write(reinterpret_cast<const char *>(patched.data()),
+                static_cast<std::streamsize>(patched.size()));
+            voiceFile.close();
+        }
 
-        const auto &movBytes = ffxiso::get_file_bytes(jpnPath, jpn_idx);
-        if (movBytes.size() > 0)
-            binfile::write_byte_to_file(movFilePath, movBytes);
+        // 영상 음성 교체
+        int replaceCnt = 0;
+        for (const auto &[inter_idx, jpn_idx] : MOVIE_DATA)
+        {
+            if (TestDestroy())
+            {
+                Cleanup();
+                return 0;
+            }
 
-        // 다음 인덱스의 파일은 영상 데이터
+            UpdateGauge(++progress, wxString::Format(wxT("영상 교체... (%d/%d)"), ++replaceCnt, static_cast<int>(MOVIE_DATA.size())));
 
-        auto movDataFilePath = workspacePath / "files" / files_json[inter_idx + 1]["filename"].get<std::string>();
-        if (std::filesystem::exists(movDataFilePath))
-            std::filesystem::remove(movDataFilePath);
+            auto movFilePath = workspacePath / "files" / files_json[inter_idx]["filename"].get<std::string>();
+            if (std::filesystem::exists(movFilePath))
+                std::filesystem::remove(movFilePath);
 
-        const auto &moveDataBytes = ffxiso::get_file_bytes(jpnPath, jpn_idx + 1);
-        if (moveDataBytes.size() > 0)
-            binfile::write_byte_to_file(movDataFilePath, moveDataBytes);
+            const auto &movBytes = ffxiso::get_file_bytes(jpnPath, jpn_idx);
+            if (movBytes.size() > 0)
+                binfile::write_byte_to_file(movFilePath, movBytes);
+
+            // 다음 인덱스의 파일은 영상 데이터
+
+            auto movDataFilePath = workspacePath / "files" / files_json[inter_idx + 1]["filename"].get<std::string>();
+            if (std::filesystem::exists(movDataFilePath))
+                std::filesystem::remove(movDataFilePath);
+
+            const auto &moveDataBytes = ffxiso::get_file_bytes(jpnPath, jpn_idx + 1);
+            if (moveDataBytes.size() > 0)
+                binfile::write_byte_to_file(movDataFilePath, moveDataBytes);
+        }
+
+        if (TestDestroy())
+        {
+            Cleanup();
+            return 0;
+        }
+
+        UpdateGauge(++progress, wxT("ISO 생성 중..."));
+        ffxiso::import(workspacePath, tempPatchPath);
+        json_file.close();
     }
-
-    if (TestDestroy())
-    {
-        Cleanup();
-        return 0;
-    }
-
-    UpdateGauge(++progress, wxT("ISO 생성 중..."));
-    ffxiso::import(workspacePath, tempPatchPath);
 
     if (TestDestroy())
     {
@@ -392,11 +451,10 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
 
     // 완성 ISO 교체
     UpdateGauge(++progress, wxT("ISO 복사 중..."));
-    if (std::filesystem::exists(basePath))
-        std::filesystem::remove(basePath);
-    std::filesystem::rename(tempPatchPath, basePath);
+    if (std::filesystem::exists(targetPath))
+        std::filesystem::remove(targetPath);
+    std::filesystem::rename(tempPatchPath, targetPath);
 
-    json_file.close();
     Cleanup(false);
 
     ShowMessageBox(wxT("패치가 완료되었습니다!"));

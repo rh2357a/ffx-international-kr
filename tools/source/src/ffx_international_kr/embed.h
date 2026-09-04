@@ -16,7 +16,9 @@ CMRC_DECLARE(embed);
 namespace embed
 {
     EMBED(kThirdPartyNotices, "assets/ThirdPartyNotices.txt")
-    EMBED(kJpVoicePatchData, "assets/jp_voice.xdelta")
+
+    EMBED(kPatchData, "assets/ffx_international_kr.xdelta")
+    EMBED(kJpVoicePatchData, "assets/ffx_international_kr.jp_voice.xdelta")
 }
 
 #undef EMBED

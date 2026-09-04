@@ -29,6 +29,8 @@ namespace ffx
     private:
         void OnFrameClose(wxCloseEvent &event) override;
         void OnOpenBaseIsoButtonClick(wxCommandEvent &event) override;
+        void OnTargetIsoButtonClick(wxCommandEvent &event) override;
+        void OnJpnVoiceCheckBox(wxCommandEvent &event) override;
         void OnOpenJpnIsoButtonClick(wxCommandEvent &event) override;
         void OnApplyButtonClick(wxCommandEvent &event) override;
     };
@@ -39,7 +41,8 @@ namespace ffx
         MainFrame *m_pHandler;
 
     public:
-        std::filesystem::path basePath, jpnPath;
+        std::filesystem::path basePath, targetPath, jpnPath;
+        bool isJpnVoiceEnabled = false;
 
     public:
         ApplyPatchThread(MainFrame *handler)

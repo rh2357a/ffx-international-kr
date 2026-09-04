@@ -7,8 +7,8 @@ set build_target_dir=!build_dir!\jp_voice
 set files=!build_target_dir!\files
 
 set input_iso=base.iso
-set target_iso=jp_voice.iso
-set target_patch=jp_voice.xdelta
+set target_iso=ffx_international_kr.jp_voice.iso
+set target_patch=ffx_international_kr.jp_voice.xdelta
 
 set target_name=jp_voice
 set multilang=0
