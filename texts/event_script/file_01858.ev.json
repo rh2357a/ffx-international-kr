@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "file": "file_01858.ev.lz1",
+  "map": "lchb1300",
+  "source_file": "file_01781.ev",
+  "original_sha256": "4c14503fa76761dad114b7cf1f0b2fd94d7699aa49f85c090049163208d0978a",
+  "patched_sha256": "11965899ecda7ac2013996c86263506d85942e1affa329e30203a55fef348b56",
+  "timings": [
+    {
+      "map": "lchb1300",
+      "jp_file": "file_01781.ev",
+      "int_file": "file_01858.ev",
+      "worker": 25,
+      "function": 7,
+      "jp_worker": 25,
+      "jp_function": 7,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 83364,
+      "jp_offset": 83302,
+      "old": 45,
+      "new": 60,
+      "before": "ae2d00",
+      "after": "ae3c00"
+    },
+    {
+      "map": "lchb1300",
+      "jp_file": "file_01781.ev",
+      "int_file": "file_01858.ev",
+      "worker": 25,
+      "function": 7,
+      "jp_worker": 25,
+      "jp_function": 7,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 83376,
+      "jp_offset": 83314,
+      "old": 10,
+      "new": 15,
+      "before": "ae0a00",
+      "after": "ae0f00"
+    },
+    {
+      "map": "lchb1300",
+      "jp_file": "file_01781.ev",
+      "int_file": "file_01858.ev",
+      "worker": 25,
+      "function": 7,
+      "jp_worker": 25,
+      "jp_function": 7,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 83433,
+      "jp_offset": 83371,
+      "old": 25,
+      "new": 30,
+      "before": "ae1900",
+      "after": "ae1e00"
+    },
+    {
+      "map": "lchb1300",
+      "jp_file": "file_01781.ev",
+      "int_file": "file_01858.ev",
+      "worker": 25,
+      "function": 7,
+      "jp_worker": 25,
+      "jp_function": 7,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 83445,
+      "jp_offset": 83383,
+      "old": 10,
+      "new": 15,
+      "before": "ae0a00",
+      "after": "ae0f00"
+    },
+    {
+      "map": "lchb1300",
+      "jp_file": "file_01781.ev",
+      "int_file": "file_01858.ev",
+      "worker": 25,
+      "function": 7,
+      "jp_worker": 25,
+      "jp_function": 7,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 83502,
+      "jp_offset": 83440,
+      "old": 50,
+      "new": 60,
+      "before": "ae3200",
+      "after": "ae3c00"
+    },
+    {
+      "map": "lchb1300",
+      "jp_file": "file_01781.ev",
+      "int_file": "file_01858.ev",
+      "worker": 25,
+      "function": 7,
+      "jp_worker": 25,
+      "jp_function": 7,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 83571,
+      "jp_offset": 83509,
+      "old": 155,
+      "new": 120,
+      "before": "ae9b00",
+      "after": "ae7800"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 83364,
+      "before": "ae2d00",
+      "after": "ae3c00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 83376,
+      "before": "ae0a00",
+      "after": "ae0f00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 83433,
+      "before": "ae1900",
+      "after": "ae1e00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 83445,
+      "before": "ae0a00",
+      "after": "ae0f00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 83502,
+      "before": "ae3200",
+      "after": "ae3c00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 83571,
+      "before": "ae9b00",
+      "after": "ae7800",
+      "reason": "wait_value"
+    }
+  ]
+}

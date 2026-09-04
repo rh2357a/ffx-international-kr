@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "file": "file_04468.ev.lz1",
+  "map": "guad0601",
+  "source_file": "file_04391.ev",
+  "original_sha256": "50e40c99fd9865e6b05ff150491bbf56722e56780f410ea2f4676cbc3d4ae88f",
+  "patched_sha256": "e377dcadc99679c78d2ba87d44c748e4cbc88b520119bfce4845b9a5e110405c",
+  "timings": [
+    {
+      "map": "guad0601",
+      "jp_file": "file_04391.ev",
+      "int_file": "file_04468.ev",
+      "worker": 20,
+      "function": 3,
+      "jp_worker": 20,
+      "jp_function": 3,
+      "voice_ids": [],
+      "kind": "remove_int_wait",
+      "offset": 13520,
+      "old": 45,
+      "new": 0,
+      "before": "ae2d00d80000",
+      "after": "000000000000"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 13520,
+      "before": "ae2d00d80000",
+      "after": "000000000000",
+      "reason": "remove_int_wait"
+    }
+  ]
+}

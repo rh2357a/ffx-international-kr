@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "file": "file_02236.ev.lz1",
+  "map": "kino0400",
+  "source_file": "file_02159.ev",
+  "original_sha256": "9093c3b0eb93fe2c88edb789ad11f49c87109305163d76a5c72bb758bf2b05b3",
+  "patched_sha256": "3e44656c1b32ffdce844b55eedb790770d6121e51b3fc876fb154ddcd3f8209e",
+  "timings": [
+    {
+      "map": "kino0400",
+      "jp_file": "file_02159.ev",
+      "int_file": "file_02236.ev",
+      "worker": 24,
+      "function": 25,
+      "jp_worker": 24,
+      "jp_function": 25,
+      "voice_ids": [
+        "0x187d75cb"
+      ],
+      "kind": "remove_int_wait",
+      "offset": 45377,
+      "old": 10,
+      "new": 0,
+      "before": "ae0a00d80000",
+      "after": "000000000000"
+    },
+    {
+      "map": "kino0400",
+      "jp_file": "file_02159.ev",
+      "int_file": "file_02236.ev",
+      "worker": 24,
+      "function": 26,
+      "jp_worker": 24,
+      "jp_function": 26,
+      "voice_ids": [
+        "0x187d9504"
+      ],
+      "kind": "wait_value",
+      "offset": 45595,
+      "jp_offset": 45589,
+      "old": 20,
+      "new": 10,
+      "before": "ae1400",
+      "after": "ae0a00"
+    },
+    {
+      "map": "kino0400",
+      "jp_file": "file_02159.ev",
+      "int_file": "file_02236.ev",
+      "worker": 24,
+      "function": 28,
+      "jp_worker": 24,
+      "jp_function": 28,
+      "voice_ids": [],
+      "kind": "remove_int_wait",
+      "offset": 45822,
+      "old": 15,
+      "new": 0,
+      "before": "ae0f00d80000",
+      "after": "000000000000"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 45377,
+      "before": "ae0a00d80000",
+      "after": "000000000000",
+      "reason": "remove_int_wait"
+    },
+    {
+      "offset": 45595,
+      "before": "ae1400",
+      "after": "ae0a00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 45822,
+      "before": "ae0f00d80000",
+      "after": "000000000000",
+      "reason": "remove_int_wait"
+    }
+  ]
+}

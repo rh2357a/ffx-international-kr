@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "file": "file_06286.ev.lz1",
+  "map": "dome0300",
+  "source_file": "file_06209.ev",
+  "original_sha256": "42cebd87dfdb4cab2e6dba422b09c1ee05a1fc573ad36367b70c16ad80f31602",
+  "patched_sha256": "5c5a90d8de68dc99f1b9c4cc61679b8cf1da9ffe5fcf4858db2c3a088855ef2f",
+  "timings": [
+    {
+      "map": "dome0300",
+      "jp_file": "file_06209.ev",
+      "int_file": "file_06286.ev",
+      "worker": 12,
+      "function": 4,
+      "jp_worker": 12,
+      "jp_function": 4,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 13683,
+      "jp_offset": 13683,
+      "old": 45,
+      "new": 60,
+      "before": "ae2d00",
+      "after": "ae3c00"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 13683,
+      "before": "ae2d00",
+      "after": "ae3c00",
+      "reason": "wait_value"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "file": "file_06448.ev.lz1",
+  "map": "sins0900",
+  "source_file": "file_06371.ev",
+  "original_sha256": "90578885df6516e0979f96a7fcb915d553eb3e5432cb6959cf175ad047285b19",
+  "patched_sha256": "11cd75be9e014f76718e1b97e1116509fafc3a99db06a8e68b499a0ceddece62",
+  "timings": [
+    {
+      "map": "sins0900",
+      "jp_file": "file_06371.ev",
+      "int_file": "file_06448.ev",
+      "worker": 13,
+      "function": 4,
+      "jp_worker": 13,
+      "jp_function": 4,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 8757,
+      "jp_offset": 8757,
+      "old": 70,
+      "new": 60,
+      "before": "ae4600",
+      "after": "ae3c00"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 8757,
+      "before": "ae4600",
+      "after": "ae3c00",
+      "reason": "wait_value"
+    }
+  ]
+}

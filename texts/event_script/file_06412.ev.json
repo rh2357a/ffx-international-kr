@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "file": "file_06412.ev.lz1",
+  "map": "sins0600",
+  "source_file": "file_06335.ev",
+  "original_sha256": "8fc0bc15253bc18e23f2b301de3a3ad1a228309264ba4a136e01c3ff980b90cd",
+  "patched_sha256": "e6ba9ddacb2ed78d4821811667b5a6cee09c5781a16e0a07c1406d982454ae4c",
+  "timings": [
+    {
+      "map": "sins0600",
+      "jp_file": "file_06335.ev",
+      "int_file": "file_06412.ev",
+      "worker": 1,
+      "function": 37,
+      "jp_worker": 1,
+      "jp_function": 37,
+      "voice_ids": [
+        "0x31aee64e"
+      ],
+      "kind": "wait_value",
+      "offset": 12266,
+      "jp_offset": 12266,
+      "old": 10,
+      "new": 20,
+      "before": "ae0a00",
+      "after": "ae1400"
+    },
+    {
+      "map": "sins0600",
+      "jp_file": "file_06335.ev",
+      "int_file": "file_06412.ev",
+      "worker": 24,
+      "function": 6,
+      "jp_worker": 24,
+      "jp_function": 6,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 63663,
+      "jp_offset": 63660,
+      "old": 45,
+      "new": 90,
+      "before": "ae2d00",
+      "after": "ae5a00"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 12266,
+      "before": "ae0a00",
+      "after": "ae1400",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 63663,
+      "before": "ae2d00",
+      "after": "ae5a00",
+      "reason": "wait_value"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "file": "file_04270.ev.lz1",
+  "map": "mcfr1200",
+  "source_file": "file_04193.ev",
+  "original_sha256": "07bd4942f87ee0853621f36965beb3ec67f670e5839b52bf3fc486258d7d8556",
+  "patched_sha256": "b116ddf49dba9f8f06e1316fbc3cc717ebf6cfc4f8e8bde86705b10ba86ca3d7",
+  "timings": [
+    {
+      "map": "mcfr1200",
+      "jp_file": "file_04193.ev",
+      "int_file": "file_04270.ev",
+      "worker": 0,
+      "function": 14,
+      "jp_worker": 0,
+      "jp_function": 14,
+      "voice_ids": [
+        "0x2863d504",
+        "0x28640504"
+      ],
+      "kind": "wait_value",
+      "offset": 12289,
+      "jp_offset": 12296,
+      "old": 40,
+      "new": 50,
+      "before": "ae2800",
+      "after": "ae3200"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 12289,
+      "before": "ae2800",
+      "after": "ae3200",
+      "reason": "wait_value"
+    }
+  ]
+}

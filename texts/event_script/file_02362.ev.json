@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "file": "file_02362.ev.lz1",
+  "map": "bsvr0100",
+  "source_file": "file_02285.ev",
+  "original_sha256": "39a27c4ed09cd6b8946def4fb0b67946e8f621058aa76fef96ef29d657408eda",
+  "patched_sha256": "4b1372337dfa0e7d83962b19c7855e7c0281534ec76e355ef3b210c462f0797f",
+  "timings": [
+    {
+      "map": "bsvr0100",
+      "jp_file": "file_02285.ev",
+      "int_file": "file_02362.ev",
+      "worker": 25,
+      "function": 2,
+      "jp_worker": 25,
+      "jp_function": 2,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 29217,
+      "jp_offset": 29217,
+      "old": 4,
+      "new": 18,
+      "before": "ae0400",
+      "after": "ae1200"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 29217,
+      "before": "ae0400",
+      "after": "ae1200",
+      "reason": "wait_value"
+    }
+  ]
+}

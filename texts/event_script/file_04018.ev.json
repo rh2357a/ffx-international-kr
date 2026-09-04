@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "file": "file_04018.ev.lz1",
+  "map": "maca0300",
+  "source_file": "file_03941.ev",
+  "original_sha256": "297118c13abf9b8b37e9177cc2601cf1fa9e2322f9d532884252b762f9c4ae3b",
+  "patched_sha256": "5fc356ed3ac84b0263947cdade87605aa354debe31569fa570671984bebf6168",
+  "timings": [
+    {
+      "map": "maca0300",
+      "jp_file": "file_03941.ev",
+      "int_file": "file_04018.ev",
+      "worker": 24,
+      "function": 1,
+      "jp_worker": 24,
+      "jp_function": 1,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 51720,
+      "jp_offset": 51720,
+      "old": 50,
+      "new": 60,
+      "before": "ae3200",
+      "after": "ae3c00"
+    },
+    {
+      "map": "maca0300",
+      "jp_file": "file_03941.ev",
+      "int_file": "file_04018.ev",
+      "worker": 24,
+      "function": 1,
+      "jp_worker": 24,
+      "jp_function": 1,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 51834,
+      "jp_offset": 51834,
+      "old": 30,
+      "new": 20,
+      "before": "ae1e00",
+      "after": "ae1400"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 51720,
+      "before": "ae3200",
+      "after": "ae3c00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 51834,
+      "before": "ae1e00",
+      "after": "ae1400",
+      "reason": "wait_value"
+    }
+  ]
+}

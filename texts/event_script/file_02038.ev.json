@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "file": "file_02038.ev.lz1",
+  "map": "djyt0100",
+  "source_file": "file_01961.ev",
+  "original_sha256": "1edef9d0b1517ff2ee794e7eec6accf9a1d3bcc9a83976cfb354c1ba928dd0a5",
+  "patched_sha256": "1b58eb6ac54c372201d50452d1ccf50499cca2505ed30a14db1a409eec7f9845",
+  "timings": [
+    {
+      "map": "djyt0100",
+      "jp_file": "file_01961.ev",
+      "int_file": "file_02038.ev",
+      "worker": 34,
+      "function": 3,
+      "jp_worker": 34,
+      "jp_function": 3,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 53403,
+      "jp_offset": 53345,
+      "old": 180,
+      "new": 210,
+      "before": "aeb400",
+      "after": "aed200"
+    },
+    {
+      "map": "djyt0100",
+      "jp_file": "file_01961.ev",
+      "int_file": "file_02038.ev",
+      "worker": 34,
+      "function": 3,
+      "jp_worker": 34,
+      "jp_function": 3,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 53475,
+      "jp_offset": 53417,
+      "old": 95,
+      "new": 110,
+      "before": "ae5f00",
+      "after": "ae6e00"
+    },
+    {
+      "map": "djyt0100",
+      "jp_file": "file_01961.ev",
+      "int_file": "file_02038.ev",
+      "worker": 34,
+      "function": 3,
+      "jp_worker": 34,
+      "jp_function": 3,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 53547,
+      "jp_offset": 53489,
+      "old": 60,
+      "new": 110,
+      "before": "ae3c00",
+      "after": "ae6e00"
+    },
+    {
+      "map": "djyt0100",
+      "jp_file": "file_01961.ev",
+      "int_file": "file_02038.ev",
+      "worker": 34,
+      "function": 3,
+      "jp_worker": 34,
+      "jp_function": 3,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 53619,
+      "jp_offset": 53561,
+      "old": 60,
+      "new": 74,
+      "before": "ae3c00",
+      "after": "ae4a00"
+    },
+    {
+      "map": "djyt0100",
+      "jp_file": "file_01961.ev",
+      "int_file": "file_02038.ev",
+      "worker": 34,
+      "function": 3,
+      "jp_worker": 34,
+      "jp_function": 3,
+      "voice_ids": [],
+      "kind": "remove_int_wait",
+      "offset": 53640,
+      "old": 95,
+      "new": 0,
+      "before": "ae5f00d80000",
+      "after": "000000000000"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 53403,
+      "before": "aeb400",
+      "after": "aed200",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 53475,
+      "before": "ae5f00",
+      "after": "ae6e00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 53547,
+      "before": "ae3c00",
+      "after": "ae6e00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 53619,
+      "before": "ae3c00",
+      "after": "ae4a00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 53640,
+      "before": "ae5f00d80000",
+      "after": "000000000000",
+      "reason": "remove_int_wait"
+    }
+  ]
+}

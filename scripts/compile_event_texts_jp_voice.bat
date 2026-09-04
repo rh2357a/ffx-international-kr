@@ -1,3 +1,7 @@
+echo compile Japanese event timing...
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts\compile_event_scripts.ps1 -FilesPath "!files!"
+if errorlevel 1 exit /b 1
+
 echo ev1 files...
 for %%i in (texts\event_jp_voice\*.ev1.txt) do (
   set "filename=%%~ni"

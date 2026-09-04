@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "file": "file_02164.ev.lz1",
+  "map": "lchb0500",
+  "source_file": "file_02087.ev",
+  "original_sha256": "a720740db9694b1645c0a4a534bcd91737fb9b6978de3801f6819bd941ff42d6",
+  "patched_sha256": "2335163314ca752cc01cb5e86fe29598abbeec4a9d71ecf51c29ab478fd3eada",
+  "timings": [
+    {
+      "map": "lchb0500",
+      "jp_file": "file_02087.ev",
+      "int_file": "file_02164.ev",
+      "worker": 21,
+      "function": 11,
+      "jp_worker": 21,
+      "jp_function": 11,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 35367,
+      "jp_offset": 33778,
+      "old": 25,
+      "new": 30,
+      "before": "ae1900",
+      "after": "ae1e00"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 35367,
+      "before": "ae1900",
+      "after": "ae1e00",
+      "reason": "wait_value"
+    }
+  ]
+}

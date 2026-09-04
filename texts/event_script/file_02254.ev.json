@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "file": "file_02254.ev.lz1",
+  "map": "swin0200",
+  "source_file": "file_02177.ev",
+  "original_sha256": "20739602980ba1d4d99120258b07a012e0747fb58ef38d3207494e49e08d0f61",
+  "patched_sha256": "31eaa25e342369d2b067897a0d9bb0a3460003ebafeb0a5c1b9cc31654ac61e1",
+  "timings": [
+    {
+      "map": "swin0200",
+      "jp_file": "file_02177.ev",
+      "int_file": "file_02254.ev",
+      "worker": 1,
+      "function": 61,
+      "jp_worker": 1,
+      "jp_function": 61,
+      "voice_ids": [],
+      "kind": "remove_int_wait",
+      "offset": 19985,
+      "old": 30,
+      "new": 0,
+      "before": "ae1e00d80000",
+      "after": "000000000000"
+    },
+    {
+      "map": "swin0200",
+      "jp_file": "file_02177.ev",
+      "int_file": "file_02254.ev",
+      "worker": 1,
+      "function": 61,
+      "jp_worker": 1,
+      "jp_function": 61,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 20120,
+      "jp_offset": 20106,
+      "old": 30,
+      "new": 1,
+      "before": "ae1e00",
+      "after": "ae0100"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 19985,
+      "before": "ae1e00d80000",
+      "after": "000000000000",
+      "reason": "remove_int_wait"
+    },
+    {
+      "offset": 20120,
+      "before": "ae1e00",
+      "after": "ae0100",
+      "reason": "wait_value"
+    }
+  ]
+}

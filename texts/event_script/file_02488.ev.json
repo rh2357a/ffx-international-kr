@@ -1,0 +1,196 @@
+{
+  "schema": 1,
+  "file": "file_02488.ev.lz1",
+  "map": "luca0600",
+  "source_file": "file_02411.ev",
+  "original_sha256": "8815745962a75717e7349e800f5cc852cee93f31e72c7372350367eb00727675",
+  "patched_sha256": "c1c28ad460ed2fa97afc618fe4eeb0c3d99ee0b9cc02438585fe8dffed2dfb7a",
+  "timings": [
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 13,
+      "function": 21,
+      "jp_worker": 13,
+      "jp_function": 21,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 24960,
+      "jp_offset": 24764,
+      "old": 1,
+      "new": 179,
+      "before": "ae0100",
+      "after": "aeb300"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 21,
+      "function": 11,
+      "jp_worker": 21,
+      "jp_function": 11,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 52283,
+      "jp_offset": 50421,
+      "old": 40,
+      "new": 18,
+      "before": "ae2800",
+      "after": "ae1200"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 21,
+      "function": 11,
+      "jp_worker": 21,
+      "jp_function": 11,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 52295,
+      "jp_offset": 50433,
+      "old": 1,
+      "new": 12,
+      "before": "ae0100",
+      "after": "ae0c00"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 21,
+      "function": 11,
+      "jp_worker": 21,
+      "jp_function": 11,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 52352,
+      "jp_offset": 50490,
+      "old": 115,
+      "new": 120,
+      "before": "ae7300",
+      "after": "ae7800"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 21,
+      "function": 11,
+      "jp_worker": 21,
+      "jp_function": 11,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 52364,
+      "jp_offset": 50502,
+      "old": 10,
+      "new": 12,
+      "before": "ae0a00",
+      "after": "ae0c00"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 21,
+      "function": 11,
+      "jp_worker": 21,
+      "jp_function": 11,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 52421,
+      "jp_offset": 50559,
+      "old": 85,
+      "new": 90,
+      "before": "ae5500",
+      "after": "ae5a00"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 30,
+      "function": 2,
+      "jp_worker": 30,
+      "jp_function": 2,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 59360,
+      "jp_offset": 57498,
+      "old": 50,
+      "new": 90,
+      "before": "ae3200",
+      "after": "ae5a00"
+    },
+    {
+      "map": "luca0600",
+      "jp_file": "file_02411.ev",
+      "int_file": "file_02488.ev",
+      "worker": 30,
+      "function": 2,
+      "jp_worker": 30,
+      "jp_function": 2,
+      "voice_ids": [],
+      "kind": "wait_value",
+      "offset": 59416,
+      "jp_offset": 57554,
+      "old": 20,
+      "new": 5,
+      "before": "ae1400",
+      "after": "ae0500"
+    }
+  ],
+  "operations": [
+    {
+      "offset": 24960,
+      "before": "ae0100",
+      "after": "aeb300",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 52283,
+      "before": "ae2800",
+      "after": "ae1200",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 52295,
+      "before": "ae0100",
+      "after": "ae0c00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 52352,
+      "before": "ae7300",
+      "after": "ae7800",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 52364,
+      "before": "ae0a00",
+      "after": "ae0c00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 52421,
+      "before": "ae5500",
+      "after": "ae5a00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 59360,
+      "before": "ae3200",
+      "after": "ae5a00",
+      "reason": "wait_value"
+    },
+    {
+      "offset": 59416,
+      "before": "ae1400",
+      "after": "ae0500",
+      "reason": "wait_value"
+    }
+  ]
+}
