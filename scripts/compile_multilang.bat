@@ -42,11 +42,11 @@ for %%_ in (1) do (
   del !mt_name!
 )
 
-echo.  - file_07928.mt1.txt
-for %%_ in (1) do (
-  set "filename=multilang\texts\menu\file_07928.mt1.txt"
-  set "mt_name=!files!\file_07928.mt1"
-  set "lz_name=!files!\file_07928.mt.lz1"
+for %%N in (file_07921 file_07928) do (
+  echo.  - %%N.mt1.txt
+  set "filename=multilang\texts\menu\%%N.mt1.txt"
+  set "mt_name=!files!\%%N.mt1"
+  set "lz_name=!files!\%%N.mt.lz1"
 
   tools\ffxcx -d !lz_name! !mt_name!
   tools\ffxmt -i -t tables\ko.tbs !mt_name! !filename!

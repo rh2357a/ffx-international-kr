@@ -17,6 +17,7 @@ inject_begin:
 .endif
 
 	.include "asm/variables.inject.asm"
+	.include "asm/naming.inject.asm"
 	.include "asm/battle.inject.asm"
 	.include "asm/font.inject.asm"
 	.include "asm/albhed.inject.asm"
