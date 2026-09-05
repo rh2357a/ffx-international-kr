@@ -137,7 +137,8 @@ namespace ffx::japanese_movie
     // Ending video also switches to International at that same audio transition.
     inline Bytes preserve_song(std::span<const uint8_t> international_index,
         std::istream &international_data, std::span<const uint8_t> japanese_index,
-        std::span<const uint8_t> japanese_data, std::ostream &output, bool kiss = false)
+        std::span<const uint8_t> japanese_data, std::ostream &output, bool kiss,
+        bool use_international_music)
     {
         const size_t index_size = kiss ? 16032 : 99448;
         const size_t frame_count = kiss ? 3975 : 24828, block_count = kiss ? 996 : 6216;
@@ -210,7 +211,7 @@ namespace ffx::japanese_movie
                 require(bool(international_data), "Could not read International credits video.");
                 video = std::span<const uint8_t>(original_video).first(src.extent.begin);
             }
-            if (ja.present && (blocks + 1) * 6400 > cut_sample)
+            if (use_international_music && ja.present && (blocks + 1) * 6400 > cut_sample)
             {
                 require(blocks < source.size(), "Too many Japanese movie audio blocks.");
                 const auto &src = source[blocks];

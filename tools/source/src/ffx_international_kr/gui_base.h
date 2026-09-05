@@ -23,6 +23,7 @@
 #include <wx/sizer.h>
 #include <wx/statbox.h>
 #include <wx/checkbox.h>
+#include <wx/choice.h>
 #include <wx/panel.h>
 #include <wx/gauge.h>
 #include <wx/frame.h>
@@ -49,6 +50,10 @@ class MainFrameBase : public wxFrame
 		wxCheckBox* m_jpnVoiceCheckBox;
 		wxTextCtrl* m_jpnIsoText;
 		wxButton* m_openJpnIsoButton;
+		wxStaticText* m_jpnMusicType1LabelText;
+		wxChoice* m_jpnMusicType1Choice;
+		wxStaticText* m_jpnMusicType2LabelText;
+		wxChoice* m_jpnMusicType2Choice;
 		wxStaticText* m_jpnIsoWarnText;
 		wxStaticText* m_jpnIsoWarn2Text;
 		wxButton* m_applyButton;
@@ -66,7 +71,7 @@ class MainFrameBase : public wxFrame
 
 	public:
 
-		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,390 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,453 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
 		~MainFrameBase();
 

@@ -43,6 +43,7 @@ namespace ffx
     public:
         std::filesystem::path basePath, targetPath, jpnPath;
         bool isJpnVoiceEnabled = false;
+        int musicType1 = 0, musicType2 = 0;
 
     public:
         ApplyPatchThread(MainFrame *handler)

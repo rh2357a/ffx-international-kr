@@ -112,6 +112,10 @@ void ffx::MainFrame::OnJpnVoiceCheckBox(wxCommandEvent &event)
         m_openJpnIsoButton->Enable();
         m_jpnIsoWarnText->Enable();
         m_jpnIsoWarn2Text->Enable();
+        m_jpnMusicType1LabelText->Enable();
+        m_jpnMusicType1Choice->Enable();
+        m_jpnMusicType2LabelText->Enable();
+        m_jpnMusicType2Choice->Enable();
     }
     else
     {
@@ -119,6 +123,10 @@ void ffx::MainFrame::OnJpnVoiceCheckBox(wxCommandEvent &event)
         m_openJpnIsoButton->Disable();
         m_jpnIsoWarnText->Disable();
         m_jpnIsoWarn2Text->Disable();
+        m_jpnMusicType1LabelText->Disable();
+        m_jpnMusicType1Choice->Disable();
+        m_jpnMusicType2LabelText->Disable();
+        m_jpnMusicType2Choice->Disable();
     }
 }
 
@@ -169,6 +177,8 @@ void ffx::MainFrame::OnApplyButtonClick(wxCommandEvent &event)
         applyPatchThread->targetPath = m_targetIsoText->GetValue().utf8_string();
         applyPatchThread->jpnPath = m_jpnIsoText->GetValue().utf8_string();
         applyPatchThread->isJpnVoiceEnabled = m_jpnVoiceCheckBox->IsChecked();
+        applyPatchThread->musicType1 = m_jpnMusicType1Choice->GetSelection();
+        applyPatchThread->musicType2 = m_jpnMusicType2Choice->GetSelection();
         applyPatchThread->Run();
     }
 }
@@ -464,8 +474,13 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
 
             UpdateGauge(++progress, wxString::Format(wxT("영상 교체... (%d/%d)"), ++replaceCnt, static_cast<int>(MOVIE_DATA.size())));
 
-            // Keep the existing Korean songs from decoded audio time 0:13 / 7:00.
-            if (inter_idx == 16229 || inter_idx == 16257)
+            const bool isKissMovie = inter_idx == 16229;
+            const bool isEndingMovie = inter_idx == 16257;
+            const bool useInternationalMusic = (isKissMovie && musicType1 == 0) || (isEndingMovie && musicType2 == 0);
+
+            // The ending always keeps the International credits video. The kiss scene
+            // only needs remuxing when the International (Korean) song was selected.
+            if (isEndingMovie || (isKissMovie && useInternationalMusic))
             {
                 const auto indexPath = workspacePath / "files" / files_json[inter_idx]["filename"].get<std::string>();
                 const auto dataPath = workspacePath / "files" / files_json[inter_idx + 1]["filename"].get<std::string>();
@@ -480,7 +495,7 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
                 std::ofstream output;
                 output.exceptions(std::ios::failbit | std::ios::badbit);
                 output.open(temporaryData, std::ios::binary | std::ios::trunc);
-                const auto rebuiltIndex = japanese_movie::preserve_song(originalIndex, originalData, japaneseIndex, japaneseData, output, inter_idx == 16229);
+                const auto rebuiltIndex = japanese_movie::preserve_song(originalIndex, originalData, japaneseIndex, japaneseData, output, isKissMovie, useInternationalMusic);
                 output.close();
                 originalData.close();
                 output.open(temporaryIndex, std::ios::binary | std::ios::trunc);

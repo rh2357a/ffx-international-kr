@@ -104,6 +104,46 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionBSizer, 1, wxALL|wxEXPAND, 5 );
 
+	wxBoxSizer* jpnMusicType1BSizer;
+	jpnMusicType1BSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	m_jpnMusicType1LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택："), wxDefaultPosition, wxSize( 100,-1 ), 0 );
+	m_jpnMusicType1LabelText->Wrap( -1 );
+	m_jpnMusicType1LabelText->Enable( false );
+
+	jpnMusicType1BSizer->Add( m_jpnMusicType1LabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
+
+	wxString m_jpnMusicType1ChoiceChoices[] = { wxT("얼마나 좋을까"), wxT("素敵だね") };
+	int m_jpnMusicType1ChoiceNChoices = sizeof( m_jpnMusicType1ChoiceChoices ) / sizeof( wxString );
+	m_jpnMusicType1Choice = new wxChoice( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxDefaultPosition, wxSize( 160,-1 ), m_jpnMusicType1ChoiceNChoices, m_jpnMusicType1ChoiceChoices, 0 );
+	m_jpnMusicType1Choice->SetSelection( 0 );
+	m_jpnMusicType1Choice->Enable( false );
+
+	jpnMusicType1BSizer->Add( m_jpnMusicType1Choice, 0, wxALL, 5 );
+
+
+	jpnVoiceOptionSbSizer->Add( jpnMusicType1BSizer, 1, wxEXPAND, 5 );
+
+	wxBoxSizer* jpnMusicType2BSizer;
+	jpnMusicType2BSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	m_jpnMusicType2LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택(엔딩)："), wxDefaultPosition, wxSize( 100,-1 ), 0 );
+	m_jpnMusicType2LabelText->Wrap( -1 );
+	m_jpnMusicType2LabelText->Enable( false );
+
+	jpnMusicType2BSizer->Add( m_jpnMusicType2LabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
+
+	wxString m_jpnMusicType2ChoiceChoices[] = { wxT("얼마나 좋을까"), wxT("素敵だね") };
+	int m_jpnMusicType2ChoiceNChoices = sizeof( m_jpnMusicType2ChoiceChoices ) / sizeof( wxString );
+	m_jpnMusicType2Choice = new wxChoice( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxDefaultPosition, wxSize( 160,-1 ), m_jpnMusicType2ChoiceNChoices, m_jpnMusicType2ChoiceChoices, 0 );
+	m_jpnMusicType2Choice->SetSelection( 0 );
+	m_jpnMusicType2Choice->Enable( false );
+
+	jpnMusicType2BSizer->Add( m_jpnMusicType2Choice, 0, wxALL, 5 );
+
+
+	jpnVoiceOptionSbSizer->Add( jpnMusicType2BSizer, 1, wxEXPAND, 5 );
+
 	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID: 오리지널 일본판 (SLPS-25050)"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_jpnIsoWarnText->Wrap( -1 );
 	m_jpnIsoWarnText->Enable( false );
