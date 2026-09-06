@@ -1,5 +1,5 @@
 {Tidus}
-{Font Italic}아버지?
+{Font Italic}아버지……
 --------------------------------------------------End--
 {Tidus}
 {Font Italic}이제 궁극 소환은 없어
