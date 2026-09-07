@@ -1,0 +1,69 @@
+echo bt1 files...
+for %%i in (texts\battle_jp_voice\*.bt1.txt) do (
+  set "filename=%%~ni"
+  set "filename=!filename:.bt1=!"
+  set "bt_name=!files!\!filename!.bt1"
+  set "lz_name=!files!\!filename!.bt.lz1"
+
+  echo.  - '%%i'
+  tools\ffxcx -d !lz_name! !bt_name!
+  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! %%i
+
+  del !lz_name!
+  tools\ffxcx -c1 !bt_name! !lz_name!
+  del !bt_name!
+)
+
+echo bt2 files...
+for %%i in (texts\battle_jp_voice\*.bt2.txt) do (
+  set "filename=%%~ni"
+  set "filename=!filename:.bt2=!"
+  set "bt_name=!files!\!filename!.bt2"
+  set "lz_name=!files!\!filename!.bt.lz2"
+
+  echo.  - '%%i'
+  tools\ffxcx -d !lz_name! !bt_name!
+  tools\ffxbt -i4 -t tables\ko.tbs !bt_name! %%i
+
+  del !lz_name!
+  tools\ffxcx -c2 !bt_name! !lz_name!
+  del !bt_name!
+)
+
+rem ============================================================
+
+echo bt list files...
+for %%b in (texts\battle2\*.list.txt) do (
+  set "origin_name=%%~nb"
+  set "origin_name=!origin_name:.list=!"
+  set "txt_name=texts\battle\!origin_name!.txt"
+
+  echo.  - '%%b'
+  for /f %%c in (%%b) do (
+    set "bt_name=!files!\%%c"
+    set "lz_name=%%c"
+    set "lz_name=!lz_name:.bt=.bt.lz!"
+    set "lz_name=!files!\!lz_name!"
+    set "lz_type=%%c"
+    set "lz_type=%lz_type:~0,-1%"
+
+    echo.    - '%%c'
+    tools\ffxcx -d !lz_name! !bt_name!
+    tools\ffxbt -i4 -t tables\ko.tbs !bt_name! !txt_name!
+    del !lz_name!
+    tools\ffxcx -c!lz_type! !bt_name! !lz_name!
+    del !bt_name!
+  )
+)
+
+rem ============================================================
+
+echo bts files...
+for %%i in (texts\battle3\*.bts.txt) do (
+  set "filename=%%~ni"
+  set "filename=!filename:.bts=!"
+  set "bt_name=!files!\!filename!.bts"
+
+  echo.  - '%%i'
+  tools\ffxbts -i2 -w -t tables\ko.tbs !bt_name! %%i
+)

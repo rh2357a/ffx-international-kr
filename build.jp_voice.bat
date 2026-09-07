@@ -15,9 +15,8 @@ set multilang=0
 
 call scripts\build_init.bat
 call scripts\compile_event_texts_jp_voice.bat
-if errorlevel 1 exit /b 1
 call scripts\compile_menu_texts.bat
-call scripts\compile_battle_texts.bat
+call scripts\compile_battle_texts_jp_voice.bat
 call scripts\compile_etc_texts.bat
 call scripts\compile_graphics.bat
 call scripts\build_iso.bat
