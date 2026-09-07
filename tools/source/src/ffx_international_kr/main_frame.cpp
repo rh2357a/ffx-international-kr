@@ -111,7 +111,6 @@ void ffx::MainFrame::OnJpnVoiceCheckBox(wxCommandEvent &event)
         m_jpnIsoText->Enable();
         m_openJpnIsoButton->Enable();
         m_jpnIsoWarnText->Enable();
-        m_jpnIsoWarn2Text->Enable();
         m_jpnMusicType1LabelText->Enable();
         m_jpnMusicType1Choice->Enable();
         m_jpnMusicType2LabelText->Enable();
@@ -122,7 +121,6 @@ void ffx::MainFrame::OnJpnVoiceCheckBox(wxCommandEvent &event)
         m_jpnIsoText->Disable();
         m_openJpnIsoButton->Disable();
         m_jpnIsoWarnText->Disable();
-        m_jpnIsoWarn2Text->Disable();
         m_jpnMusicType1LabelText->Disable();
         m_jpnMusicType1Choice->Disable();
         m_jpnMusicType2LabelText->Disable();

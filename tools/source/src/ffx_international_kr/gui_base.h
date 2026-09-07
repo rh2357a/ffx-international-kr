@@ -55,7 +55,6 @@ class MainFrameBase : public wxFrame
 		wxStaticText* m_jpnMusicType2LabelText;
 		wxChoice* m_jpnMusicType2Choice;
 		wxStaticText* m_jpnIsoWarnText;
-		wxStaticText* m_jpnIsoWarn2Text;
 		wxButton* m_applyButton;
 		wxGauge* m_applyGauge;
 		wxStaticText* m_applyPathProgressText;
@@ -71,7 +70,7 @@ class MainFrameBase : public wxFrame
 
 	public:
 
-		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 560,453 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 544,397 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
 		~MainFrameBase();
 

@@ -150,12 +150,6 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 
 	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxLEFT|wxRIGHT|wxTOP, 5 );
 
-	m_jpnIsoWarn2Text = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 베타 버전 주의\n　- 일부 장면에서 영문 음성이 나올 수 있습니다.\n　- 아직 불안정한 부분이 다소 있습니다."), wxDefaultPosition, wxDefaultSize, 0 );
-	m_jpnIsoWarn2Text->Wrap( -1 );
-	m_jpnIsoWarn2Text->Enable( false );
-
-	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarn2Text, 0, wxALL, 5 );
-
 
 	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxALL|wxEXPAND, 5 );
 
