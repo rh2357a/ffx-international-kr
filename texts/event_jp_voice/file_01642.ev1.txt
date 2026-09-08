@@ -1770,8 +1770,8 @@ HP/MP가 모두 회복됩니다!
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어를 학습했다!
-   『{OPurple}ㅜ{White}』→『{Pink}ㅏ{White}』
-   『{OPurple}ㅠ{White}』→『{Pink}ㅑ{White}』
+　　　『{OPurple}ㅜ{White}』→『{Pink}ㅏ{White}』
+　　　『{OPurple}ㅠ{White}』→『{Pink}ㅑ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}어 입문】{White}

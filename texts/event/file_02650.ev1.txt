@@ -94,7 +94,7 @@
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어를 학습했다!
-   『{OPurple}ㅇ{White}』→『{Pink}ㅁ{White}』
+　　　『{OPurple}ㅇ{White}』→『{Pink}ㅁ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}어 입문】{White}

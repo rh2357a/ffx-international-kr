@@ -1,6 +1,6 @@
 {WINDOW}
 {Yellow}【{Al Bhed} 구급 상자】{White}
-사막에서의 조난을 막기 위해 {Al Bhed2}가 설치한
+사막에서의 조난을 막기 위해 {Al Bhed2}이 설치한
 구급 상자
 --------------------------------------------------End--
 
@@ -38,8 +38,8 @@
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어를 학습했다!
-   『{OPurple}ㄷ{White}』→『{Pink}ㅈ{White}』
-   『{OPurple}ㄸ{White}』→『{Pink}ㅉ{White}』
+　　　『{OPurple}ㄷ{White}』→『{Pink}ㅈ{White}』
+　　　『{OPurple}ㄸ{White}』→『{Pink}ㅉ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}어 입문】{White}
