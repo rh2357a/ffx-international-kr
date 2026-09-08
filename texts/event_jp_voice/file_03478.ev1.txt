@@ -142,7 +142,7 @@
 --------------------------------------------------End--
 {Auron}
 아무튼 우선은
-{Blue}【{Macalania Temple}】{White}로 향한다
+{Blue}【{Macalania Temple}】{White}으로 향한다
 --------------------------------------------------End--
 {Auron}
 {Yuna}는 {Seymour}를 만나

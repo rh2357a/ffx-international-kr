@@ -113,7 +113,7 @@
 돌아갈 생각입니다
 {NEWPAGE}
 
-{Moonflow}를 건너 {Djose}와 {Mushroom Rock Road}
+{Moonflow}을 건너 {Djose}와 {Mushroom Rock Road}
 {Mi'ihen Highroad}를 지나 {S.S. Winno}로……
 {NEWPAGE}
 
@@ -124,7 +124,7 @@
 돌아갈 수 있을까요……
 --------------------------------------------------End--
 
-서둘러 {Bevelle}를 빠져나와
+서둘러 {Bevelle}을 빠져나와
 목숨을 건졌습니다
 {NEWPAGE}
 

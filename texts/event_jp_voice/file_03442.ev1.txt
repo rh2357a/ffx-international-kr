@@ -1,5 +1,5 @@
 
-이곳 {Temple of Yevon-Djose}는 {Crusader}의 창시자인
+이곳 {Temple of Yevon-Djose}은 {Crusader}의 창시자인
 {Mi'ihen} 님과 인연이 깊은 사원입니다
 {NEWPAGE}
 
@@ -11,14 +11,14 @@
 {NEWPAGE}
 
 수많은 {Crusader} 전사들이
-{Farplane}으로 떠났습니다
+{Farplane}로 떠났습니다
 --------------------------------------------------End--
 
 고요한 아침이군요
 {NEWPAGE}
 
 수많은 {Crusader} 전사들이
-{Farplane}으로 떠났습니다
+{Farplane}로 떠났습니다
 --------------------------------------------------End--
 
 {Mika} 님은 총노사로서 50년 동안이나
