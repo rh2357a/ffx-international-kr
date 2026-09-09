@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "file": "file_03874.ev.lz1",
+  "map": "lchb1200",
+  "source_file": "file_03797.ev",
+  "changes": [
+    {
+      "kind": "fmv_progress_value",
+      "offset": 21840,
+      "value": 1140
+    },
+    {
+      "kind": "fmv_progress_value",
+      "offset": 21931,
+      "value": 1200
+    }
+  ]
+}

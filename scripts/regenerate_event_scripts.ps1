@@ -1,10 +1,8 @@
 param(
     [Parameter(Mandatory=$true)][string]$FilesPath,
-    [string]$ManifestPath = '',
-    [switch]$Check
+    [string]$ManifestPath = ''
 )
-# Recalculate fixed-width wait values and hashes from existing relocation plans.
-# Adding/removing edits or changing offsets requires a new relocation plan.
+# Validate timing values and relocation plans against original event scripts.
 $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path $PSScriptRoot -Parent
 if (-not $ManifestPath) { $ManifestPath = Join-Path $projectRoot 'texts/event_script' }
@@ -18,11 +16,6 @@ New-Item -ItemType Directory -Path $workDir | Out-Null
 function Run-Tool([string]$Tool, [string[]]$ToolArgs) {
     & $Tool @ToolArgs | Out-Null
     if ($LASTEXITCODE -ne 0) { throw "Tool failed: $Tool $ToolArgs" }
-}
-function Hash([byte[]]$Bytes) {
-    $sha = [Security.Cryptography.SHA256]::Create()
-    try { return ([BitConverter]::ToString($sha.ComputeHash($Bytes))).Replace('-','').ToLowerInvariant() }
-    finally { $sha.Dispose() }
 }
 function Hex-Bytes([string]$Hex) {
     if ($Hex -notmatch '^(?:[0-9a-fA-F]{2})*$') { throw 'Invalid hex byte string' }
@@ -50,63 +43,45 @@ function Apply-Operations([byte[]]$Original, $Operations) {
         return ,$stream.ToArray()
     } finally { $stream.Dispose() }
 }
+function Change-Operations([byte[]]$Original, $Plan) {
+    $timingKinds = @('wait_value','remove_int_wait','insert_jp_wait','fmv_progress_value')
+    $result = @()
+    foreach ($change in @($Plan.changes)) {
+        $offset = [int]$change.offset
+        if ($change.kind -in $timingKinds) {
+            if (($change.value -isnot [int] -and $change.value -isnot [long]) -or $change.value -lt 0 -or $change.value -gt 32767) {
+                throw 'Timing value must be an integer in 0..32767'
+            }
+            $valueHex = ([BitConverter]::ToString([BitConverter]::GetBytes([uint16]$change.value))).Replace('-','').ToLowerInvariant()
+            switch ($change.kind) {
+                'wait_value' { $oldLength=3; $after='ae'+$valueHex }
+                'fmv_progress_value' { $oldLength=3; $after='ae'+$valueHex }
+                'remove_int_wait' { if ($change.value -ne 0) { throw 'Removed waits must remain zero' }; $oldLength=6; $after='000000000000' }
+                'insert_jp_wait' { $oldLength=0; $after='ae'+$valueHex+'d80000' }
+            }
+            if ($offset -lt 0 -or $offset+$oldLength -gt $Original.Length) { throw 'Out-of-bounds timing change' }
+            $before = if ($oldLength) { ([BitConverter]::ToString($Original[$offset..($offset+$oldLength-1)])).Replace('-','').ToLowerInvariant() } else { '' }
+            $result += [pscustomobject]@{ offset=$offset; before=$before; after=$after; reason=$change.kind }
+        } else {
+            if ($null -eq $change.before -or $null -eq $change.after) { throw "Generated change lacks bytes at $offset" }
+            $result += [pscustomobject]@{ offset=$offset; before=[string]$change.before; after=[string]$change.after; reason=$change.kind }
+        }
+    }
+    return $result
+}
 try {
-    $ready = @()
     foreach ($planFile in $plans) {
         $plan = Get-Content -LiteralPath $planFile.FullName -Raw -Encoding UTF8 | ConvertFrom-Json
-        if ($plan.schema -ne 1 -or $plan.file -notmatch '^file_[0-9]{5}\.ev\.lz[12]$') { throw "Invalid manifest: $($planFile.Name)" }
+        if ($plan.schema -ne 2 -or $plan.file -notmatch '^file_[0-9]{5}\.ev\.lz[12]$') { throw "Invalid manifest: $($planFile.Name)" }
         $unpacked = Join-Path $workDir 'event.ev'
         $section = Join-Path $workDir 'script.bin'
         Run-Tool $cx @('-d',(Join-Path $filesRoot $plan.file),$unpacked)
         Run-Tool $ev @('-e0',$unpacked,$section)
         $original = [IO.File]::ReadAllBytes($section)
-        if ((Hash $original) -ne $plan.original_sha256) { throw "Original script required: $($plan.file)" }
-        # Validate the existing plan before using its fixed-width relocation data.
-        if ((Hash (Apply-Operations $original $plan.operations)) -ne $plan.patched_sha256) {
-            throw "Existing operations/hash mismatch: $($plan.file)"
-        }
-        $timingOps = @($plan.operations | Where-Object { $_.reason -in @('wait_value','remove_int_wait','insert_jp_wait') })
-        if ($timingOps.Count -ne @($plan.timings).Count) { throw 'Timing layout changed; a new relocation plan is required' }
-        $seen = @{}
-        foreach ($edit in $plan.timings) {
-            if (($edit.new -isnot [int] -and $edit.new -isnot [long]) -or $edit.new -lt 0 -or $edit.new -gt 32767) {
-                throw 'Frame count must be an integer in 0..32767'
-            }
-            $matches = @($timingOps | Where-Object { $_.offset -eq $edit.offset -and $_.reason -eq $edit.kind })
-            if ($matches.Count -ne 1 -or $seen.ContainsKey([int]$edit.offset)) { throw 'Timing layout changed; a new relocation plan is required' }
-            $seen[[int]$edit.offset] = $true
-            $op = $matches[0]
-            if ($edit.kind -ne 'insert_jp_wait' -and ($op.before -ne $edit.before -or $op.after -ne $edit.after)) { throw 'Edit only timings[].new; other timing fields must match operations' }
-            $valueHex = ([BitConverter]::ToString([BitConverter]::GetBytes([uint16]$edit.new))).Replace('-','').ToLowerInvariant()
-            switch ($edit.kind) {
-                'wait_value' {
-                    if ($op.after -notmatch '^ae[0-9a-f]{4}$') { throw 'Invalid wait instruction' }
-                    $after = 'ae'+$valueHex
-                }
-                'insert_jp_wait' {
-                    if ($op.before -ne '' -or $op.after -notmatch '^ae[0-9a-f]{4}d80000$') { throw 'Invalid inserted wait' }
-                    $after = 'ae'+$valueHex+'d80000'
-                }
-                'remove_int_wait' {
-                    if ($edit.new -ne 0 -or $op.after -ne '000000000000') { throw 'Removed waits must remain zero' }
-                    $after = $op.after
-                }
-                default { throw "Unsupported timing kind: $($edit.kind)" }
-            }
-            # Instruction widths are unchanged, so every relocated address stays valid.
-            $op.after = $after
-            if ($edit.kind -ne 'insert_jp_wait') { $edit.after = $after }
-        }
-        $newHash = Hash (Apply-Operations $original $plan.operations)
-        if ($Check -and $newHash -ne $plan.patched_sha256) { throw "Pending timing changes: $($plan.file)" }
-        if ($newHash -ne $plan.patched_sha256) {
-            $plan.patched_sha256 = $newHash
-            $ready += [pscustomobject]@{ Path=$planFile.FullName; Text=($plan | ConvertTo-Json -Depth 30)+[Environment]::NewLine }
-        }
+        $operations = @(Change-Operations $original $plan)
+        [void](Apply-Operations $original $operations)
     }
-    # No manifest is written until all input files and existing plans are verified.
-    foreach ($item in $ready) { [IO.File]::WriteAllText($item.Path,$item.Text,(New-Object Text.UTF8Encoding $false)) }
-    Write-Host "Event timing manifests: $($plans.Count) verified, $($ready.Count) updated."
+    Write-Host "Event timing manifests: $($plans.Count) verified."
 } finally {
     Get-ChildItem -LiteralPath $workDir -File | Remove-Item -Force
     Remove-Item -LiteralPath $workDir

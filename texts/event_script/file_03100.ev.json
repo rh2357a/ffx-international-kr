@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "file": "file_03100.ev.lz1",
+  "map": "guad0400",
+  "source_file": "file_03023.ev",
+  "changes": [
+    {
+      "kind": "fmv_progress_value",
+      "offset": 27874,
+      "value": 960
+    },
+    {
+      "kind": "fmv_progress_value",
+      "offset": 27904,
+      "value": 990
+    }
+  ]
+}
