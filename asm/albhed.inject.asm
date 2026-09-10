@@ -15,6 +15,7 @@ albhed_to_korean:
 	nop
 
 	; 기존 일어 코드
+@@_copy_original:
 	sltiu t0, v0, 0x30
 	beq t0, zero, @@_end
 	sb v0, 0x0(s0)
@@ -40,6 +41,12 @@ albhed_to_korean:
 	; t1 = albhed_to_ko_table + t0
 	la t1, albhed_to_ko_table
 	addu t1, t1, t0
+
+	; albhed_dummy 처리
+	lbu t0, 0x0(t1)
+	xori t0, t0, 0xff
+	beq t0, zero, @@_copy_original
+	nop
 
 	li v0, 0
 	addi s0, s0, 1

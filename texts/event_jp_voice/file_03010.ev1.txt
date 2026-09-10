@@ -181,7 +181,7 @@
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어를 학습했다!
- 『{OPurple}ㅡ{White}』의 일부→『{Pink}ㅖ{White}』
+　『{OPurple}ㅡ{White}』의 일부→『{Pink}ㅖ{White}』
  『{OPurple}ㅡ{White}』의 일부→『{Pink}ㅒ{White}』
 --------------------------------------------------End--
 {WINDOW}

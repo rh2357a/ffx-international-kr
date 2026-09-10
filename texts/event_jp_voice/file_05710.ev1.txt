@@ -9,25 +9,25 @@
 미안
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}안미{CHOICE:FF} {CHOICE:31}조민{CHOICE:FF} {CHOICE:32}안코{CHOICE:FF}
-{CHOICE:33}문바{CHOICE:FF} {CHOICE:34}이미고{CHOICE:FF} {CHOICE:35}렌조{CHOICE:FF}
-{CHOICE:36}오안{CHOICE:FF} {CHOICE:37}미안{CHOICE:FF} {CHOICE:38}론조{CHOICE:FF}
+{CHOICE:30}안미{CHOICE:FF}　{CHOICE:31}지안{CHOICE:FF}　{CHOICE:32}안비{CHOICE:FF}
+{CHOICE:33}인미{CHOICE:FF}　{CHOICE:34}아미{CHOICE:FF}　{CHOICE:35}우지{CHOICE:FF}
+{CHOICE:36}리안{CHOICE:FF}　{CHOICE:37}미안{CHOICE:FF}　{CHOICE:38}아지{CHOICE:FF}
 --------------------------------------------------End--
 
 처음 뵙겠습니다
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}메지하테시마{CHOICE:FF} {CHOICE:31}지하메시마테{CHOICE:FF} {CHOICE:32}오야스미나사
-{CHOICE:33}마시테지메하{CHOICE:FF} {CHOICE:34}고키겐이카{CHOICE:FF} {CHOICE:35}처음 뵙겠습니다
-{CHOICE:36}마기레야키세{CHOICE:FF} {CHOICE:37}하지메테마시{CHOICE:FF} {CHOICE:38}마시지하메테
+{CHOICE:30}뵙음 처니습겠다{CHOICE:FF}　{CHOICE:31}음처 뵙습겠니다{CHOICE:FF}　{CHOICE:32}안녕 히주무세요
+{CHOICE:33}겠습 니음뵙처다{CHOICE:FF}　{CHOICE:34}기분 이어떻나요{CHOICE:FF}　{CHOICE:35}처음 뵙겠습니다
+{CHOICE:36}포케 지브게헤수{CHOICE:FF}　{CHOICE:37}처음 뵙니겠습다{CHOICE:FF}　{CHOICE:38}겠습 음처뵙니다
 --------------------------------------------------End--
 
 미안하다
 --------------------------------------------------End--
 {WINDOW}
-{CHOICE:30}마지나이{CHOICE:FF} {CHOICE:31}누야하미{CHOICE:FF} {CHOICE:32}미나사이
-{CHOICE:33}이나미스{CHOICE:FF} {CHOICE:34}미안하다{CHOICE:FF} {CHOICE:35}스메나이
-{CHOICE:36}카마나이{CHOICE:FF} {CHOICE:37}이나마스{CHOICE:FF} {CHOICE:38}이스나메
+{CHOICE:30}미다하안{CHOICE:FF}　{CHOICE:31}안미하다{CHOICE:FF}　{CHOICE:32}하안미다
+{CHOICE:33}하안다미{CHOICE:FF}　{CHOICE:34}미안하다{CHOICE:FF}　{CHOICE:35}다안미하
+{CHOICE:36}안하미다{CHOICE:FF}　{CHOICE:37}다하안미{CHOICE:FF}　{CHOICE:38}하미다안
 --------------------------------------------------End--
 꿈꾸는 보물상자
 나는 무엇일까?
@@ -42,7 +42,7 @@
 --------------------------------------------------End--
 {WINDOW}
 {Al Bhed}어를 학습했다!
- 『{OPurple}ㅔ{White}』의 일부→『{Pink}ㅣ{White}』
+　『{OPurple}ㅔ{White}』의 일부→『{Pink}ㅣ{White}』
 --------------------------------------------------End--
 {WINDOW}
 {Yellow}【{Al Bhed}어 입문】{White}
