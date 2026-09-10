@@ -1,0 +1,47 @@
+{
+  "schema": 2,
+  "file": "file_04972.ev.lz1",
+  "map": "djyt0900",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 6837,
+      "length": 49,
+      "value": 170,
+      "voice_ids": ["205301GA"],
+      "text": "우리는 오랫동안 잊고 있었다……\n앞으로 나아간다는 것을……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 6989,
+      "length": 49,
+      "value": 104,
+      "voice_ids": ["205302GA"],
+      "text": "그대 덕분에 떠올렸다……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 7141,
+      "length": 49,
+      "value": 95,
+      "voice_ids": ["205303GA"],
+      "text": "그래, 우리는 달려야 한다……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 7293,
+      "length": 49,
+      "value": 133,
+      "voice_ids": ["205304GA"],
+      "text": "가자, 같은 꿈을 꾸는 자여……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 7445,
+      "length": 49,
+      "value": 139,
+      "voice_ids": ["205305GA"],
+      "text": "그대를 태우고 꿈의 끝을 향해 달리자……"
+    }
+  ]
+}

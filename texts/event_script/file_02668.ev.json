@@ -1,0 +1,39 @@
+{
+  "schema": 2,
+  "file": "file_02668.ev.lz1",
+  "map": "bsyt0600",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 7920,
+      "length": 49,
+      "value": 270,
+      "voice_ids": ["205101GA"],
+      "text": "모든 『{Sin}』은 저주하며 바라지\n자신을 저주하며 사라지고 싶다고……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8072,
+      "length": 49,
+      "value": 188,
+      "voice_ids": ["205102GA"],
+      "text": "스스로의 멸망을 꿈꾸며\n『{Sin}』은 우리를 지켜보고 있어"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8224,
+      "length": 49,
+      "value": 170,
+      "voice_ids": ["205103GA"],
+      "text": "난폭하게 날뛰는 『{Sin}』에게 남겨진\n인간이던 시절의 희미한 마음……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8406,
+      "length": 49,
+      "value": 228,
+      "voice_ids": ["205104GA"],
+      "text": "유=에본에게서 해방시켜 줘……\n『{Sin}』이 된 기도자를……"
+    }
+  ]
+}

@@ -6,8 +6,81 @@
   "changes": [
     {
       "kind": "wait_value",
+      "offset": 32422,
+      "value": 110,
+      "text": "{Rikku}: 그러네…… 이제 안 되겠네……"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32500,
+      "value": 110,
+      "text": "{Rikku}: {Al Bhed2}에게는 / 고향이 없었어"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32572,
+      "value": 110,
+      "text": "{Rikku}: 『{Sin}』이 우리가 살던 섬을 / 파괴해 버려서"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32644,
+      "value": 120,
+      "text": "{Rikku}: 일족은 뿔뿔이 흩어져서 / 여기저기서 살았어"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32716,
+      "value": 110,
+      "text": "{Rikku}: 하지만 아빠가 일족을 / 다시 불러 모았어"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32788,
+      "value": 110,
+      "text": "{Rikku}: 힘을 합쳐 새로운 {Home}을 / 만들자고 했지"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32860,
+      "value": 115,
+      "text": "{Rikku}: 잘되어 가고 있었어 / 다들 열심히 했단 말이야"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 32938,
+      "value": 130,
+      "text": "{Rikku}: 그런데도…… 어째서 / 이렇게 된 걸까……"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 33011,
+      "value": 70,
+      "text": "{Tidus}: 난 아직 잘 모르겠는데"
+    },
+    {
+      "kind": "wait_value",
       "offset": 33083,
-      "value": 90
+      "value": 120,
+      "text": "{Tidus}: 여행하다 죽을지도 모른다고 / 납치까지 하는 건 너무한 거 아냐?"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 33155,
+      "value": 120,
+      "text": "{Tidus}: 소환사가 여행하지 않으면 / 『{Sin}』을 쓰러뜨릴 수 없잖아?"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 33228,
+      "value": 120,
+      "text": "{Tidus}: 걱정되는 건 알겠지만 / 가드도 붙어 있잖아"
+    },
+    {
+      "kind": "wait_value",
+      "offset": 33306,
+      "value": 110,
+      "text": "{Tidus}: 가드가 제대로 지켜 주면 / 소환사는 안 죽는다고!"
     }
   ]
 }

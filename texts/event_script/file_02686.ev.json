@@ -1,0 +1,31 @@
+{
+  "schema": 2,
+  "file": "file_02686.ev.lz1",
+  "map": "klyt1200",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 6614,
+      "length": 49,
+      "value": 221,
+      "voice_ids": ["205201GA"],
+      "text": "앞서 『{Sin}』은 자나르칸드의 바다를 헤엄쳤다\n꿈의 세계가 『{Sin}』을 치유했을지도 모른다"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 6785,
+      "length": 49,
+      "value": 201,
+      "voice_ids": ["205202GA"],
+      "text": "네 아버지는 그 『{Sin}』에 닿았다\n하룻밤 만에 현실이 되어 스피라의 바다에 나타났다"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 6967,
+      "length": 49,
+      "value": 203,
+      "voice_ids": ["205203GA"],
+      "text": "하지만 그는 지금 비극의 나선에 사로잡혀\n『{Sin}』이 되어 헤매고 있다……"
+    }
+  ]
+}

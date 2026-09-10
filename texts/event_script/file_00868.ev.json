@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "file": "file_00868.ev.lz1",
+  "map": "bsvr0000",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 95049,
+      "length": 49,
+      "value": 36,
+      "voice_ids": ["206101GA"],
+      "text": "반역자, {Yuna}!"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 95220,
+      "length": 49,
+      "value": 49,
+      "voice_ids": ["206102GA"],
+      "text": "돌격 준비!"
+    }
+  ]
+}

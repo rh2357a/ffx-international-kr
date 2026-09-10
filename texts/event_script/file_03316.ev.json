@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "file": "file_03316.ev.lz1",
+  "map": "mcyt0000",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 30019,
+      "length": 49,
+      "value": 164,
+      "voice_ids": ["205701GA"],
+      "text": "배고파요"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 30168,
+      "length": 25,
+      "value": 186,
+      "voice_ids": ["205702GA"],
+      "text": "어리석은……반역자의 몸으로\n{Macalania Temple}에 되돌아오다니"
+    }
+  ]
+}

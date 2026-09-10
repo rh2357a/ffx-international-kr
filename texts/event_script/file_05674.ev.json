@@ -1,0 +1,47 @@
+{
+  "schema": 2,
+  "file": "file_05674.ev.lz1",
+  "map": "mcyt0700",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 7926,
+      "length": 49,
+      "value": 254,
+      "voice_ids": ["205401GA"],
+      "text": "꿈이 끝나면 너도 사라질 거야……\n스피라의 바다로, 하늘로 녹아들겠지……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8078,
+      "length": 49,
+      "value": 106,
+      "voice_ids": ["205402GA"],
+      "text": "하지만 슬퍼하지 말아 줘……\n하지만 화내지 말아 줘……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8230,
+      "length": 49,
+      "value": 155,
+      "voice_ids": ["205403GA"],
+      "text": "우리도 본래는 인간이니까……\n꿈을 꾸지 않고는 견딜 수 없어……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8382,
+      "length": 49,
+      "value": 131,
+      "voice_ids": ["205404GA"],
+      "text": "새로운 꿈의 세계에 바다를 만들자……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 8534,
+      "length": 49,
+      "value": 93,
+      "voice_ids": ["205405GA"],
+      "text": "네가 헤엄칠 바다를 만들자……"
+    }
+  ]
+}

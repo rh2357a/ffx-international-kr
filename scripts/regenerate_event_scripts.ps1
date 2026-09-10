@@ -44,7 +44,7 @@ function Apply-Operations([byte[]]$Original, $Operations) {
     } finally { $stream.Dispose() }
 }
 function Change-Operations([byte[]]$Original, $Plan) {
-    $timingKinds = @('wait_value','remove_int_wait','insert_jp_wait','fmv_progress_value')
+    $timingKinds = @('wait_value','remove_int_wait','insert_jp_wait','fmv_progress_value','silent_voice_wait')
     $result = @()
     foreach ($change in @($Plan.changes)) {
         $offset = [int]$change.offset
@@ -58,6 +58,11 @@ function Change-Operations([byte[]]$Original, $Plan) {
                 'fmv_progress_value' { $oldLength=3; $after='ae'+$valueHex }
                 'remove_int_wait' { if ($change.value -ne 0) { throw 'Removed waits must remain zero' }; $oldLength=6; $after='000000000000' }
                 'insert_jp_wait' { $oldLength=0; $after='ae'+$valueHex+'d80000' }
+                'silent_voice_wait' {
+                    $oldLength = [int]$change.length
+                    if ($oldLength -lt 6) { throw 'Silent voice wait region must be at least 6 bytes' }
+                    $after = 'ae'+$valueHex+'d80000'+('00' * ($oldLength-6))
+                }
             }
             if ($offset -lt 0 -or $offset+$oldLength -gt $Original.Length) { throw 'Out-of-bounds timing change' }
             $before = if ($oldLength) { ([BitConverter]::ToString($Original[$offset..($offset+$oldLength-1)])).Replace('-','').ToLowerInvariant() } else { '' }

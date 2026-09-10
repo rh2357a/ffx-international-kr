@@ -1,0 +1,31 @@
+{
+  "schema": 2,
+  "file": "file_03478.ev.lz1",
+  "map": "kami0300",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 26155,
+      "length": 49,
+      "value": 49,
+      "voice_ids": ["207101GA"],
+      "text": "{WINDOW}\n\n반역자 놈!"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 49567,
+      "length": 49,
+      "value": 34,
+      "voice_ids": ["207102TD"],
+      "text": "{Tidus}\n뭔가 있어?"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 49720,
+      "length": 49,
+      "value": 27,
+      "voice_ids": ["207103RR"],
+      "text": "{Lulu}\n간다"
+    }
+  ]
+}

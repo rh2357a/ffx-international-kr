@@ -1,0 +1,31 @@
+{
+  "schema": 2,
+  "file": "file_05656.ev.lz1",
+  "map": "nagi0600",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 16416,
+      "length": 49,
+      "value": 159,
+      "voice_ids": ["205501GA"],
+      "text": "그대는 덧없는 꿈이나\n{Spira}의 진실에 닿은 꿈……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 16592,
+      "length": 49,
+      "value": 159,
+      "voice_ids": ["205502GA"],
+      "text": "{Spira}는 진실을 잊지 않는다\n진실을 구한 자를 잊지 않는다……"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 16768,
+      "length": 49,
+      "value": 245,
+      "voice_ids": ["205503GA"],
+      "text": "달려 나가는 한결같은 꿈이여……\n꿈의 끝을 넘어 진실이 되어라……"
+    }
+  ]
+}

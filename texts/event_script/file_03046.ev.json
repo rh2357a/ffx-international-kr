@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "file": "file_03046.ev.lz1",
+  "map": "bika0300",
+  "changes": [
+    {
+      "kind": "silent_voice_wait",
+      "offset": 22440,
+      "length": 49,
+      "value": 56,
+      "voice_ids": ["208102AN"],
+      "text": "{Auron}\n자…… 갈까"
+    },
+    {
+      "kind": "silent_voice_wait",
+      "offset": 24551,
+      "length": 49,
+      "value": 31,
+      "voice_ids": ["208101TD"],
+      "text": "{Tidus}\n우왓!"
+    }
+  ]
+}
