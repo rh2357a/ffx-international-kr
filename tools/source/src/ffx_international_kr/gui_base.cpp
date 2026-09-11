@@ -22,6 +22,8 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	mainPanelBSizer = new wxBoxSizer( wxVERTICAL );
 
 	m_workspacePanel = new wxPanel( m_mainPanel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL );
+	m_workspacePanel->SetBackgroundColour( wxColour( 255, 255, 255 ) );
+
 	wxBoxSizer* workspaceBSizer;
 	workspaceBSizer = new wxBoxSizer( wxVERTICAL );
 
@@ -157,7 +159,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_workspacePanel->SetSizer( workspaceBSizer );
 	m_workspacePanel->Layout();
 	workspaceBSizer->Fit( m_workspacePanel );
-	mainPanelBSizer->Add( m_workspacePanel, 0, wxALL|wxEXPAND, 0 );
+	mainPanelBSizer->Add( m_workspacePanel, 0, wxEXPAND, 5 );
 
 	wxBoxSizer* applyBSizer;
 	applyBSizer = new wxBoxSizer( wxHORIZONTAL );
@@ -183,13 +185,13 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	applyBSizer->Add( applyGagueBSizer, 7, wxALL|wxEXPAND, 4 );
 
 
-	mainPanelBSizer->Add( applyBSizer, 1, wxALL|wxEXPAND, 0 );
+	mainPanelBSizer->Add( applyBSizer, 1, wxALL|wxEXPAND, 5 );
 
 
 	m_mainPanel->SetSizer( mainPanelBSizer );
 	m_mainPanel->Layout();
 	mainPanelBSizer->Fit( m_mainPanel );
-	mainBSizer->Add( m_mainPanel, 1, wxALL|wxEXPAND, 5 );
+	mainBSizer->Add( m_mainPanel, 1, wxEXPAND, 0 );
 
 
 	this->SetSizer( mainBSizer );
