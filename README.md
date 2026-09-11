@@ -12,8 +12,6 @@ PS2용 **파이널 판타지 10 인터내셔널** 한국어 비공식 번역 프
 
 ![미리보기 0](./docs/preview_0.png)
 ![미리보기 1](./docs/preview_1.png)
-![미리보기 2](./docs/preview_2.png)
-![미리보기 3](./docs/preview_3.png)
 
 ## 패치 버전
 
