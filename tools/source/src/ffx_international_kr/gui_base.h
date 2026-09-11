@@ -24,8 +24,11 @@
 #include <wx/statbox.h>
 #include <wx/checkbox.h>
 #include <wx/choice.h>
-#include <wx/panel.h>
+#include <wx/scrolwin.h>
+#include <wx/statline.h>
 #include <wx/gauge.h>
+#include "size_grip.h"
+#include <wx/panel.h>
 #include <wx/frame.h>
 
 ///////////////////////////////////////////////////////////////////////////
@@ -39,7 +42,7 @@ class MainFrameBase : public wxFrame
 
 	protected:
 		wxPanel* m_mainPanel;
-		wxPanel* m_workspacePanel;
+		wxScrolledWindow* m_workspacePanel;
 		wxStaticText* m_baseIsoLabelText;
 		wxTextCtrl* m_baseIsoText;
 		wxButton* m_openBaseIsoButton;
@@ -48,6 +51,7 @@ class MainFrameBase : public wxFrame
 		wxButton* m_targetIsoButton;
 		wxStaticText* m_baseIsoWarnText;
 		wxCheckBox* m_jpnVoiceCheckBox;
+		wxStaticText* m_jpnIsoLabelText;
 		wxTextCtrl* m_jpnIsoText;
 		wxButton* m_openJpnIsoButton;
 		wxStaticText* m_jpnMusicType1LabelText;
@@ -70,7 +74,7 @@ class MainFrameBase : public wxFrame
 
 	public:
 
-		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 544,397 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
+		MainFrameBase( wxWindow* parent, wxWindowID id = wxID_ANY, const wxString& title = wxT("{title}"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize( 540,440 ), long style = wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxMAXIMIZE_BOX|wxMINIMIZE_BOX|wxRESIZE_BORDER|wxSYSTEM_MENU|wxTAB_TRAVERSAL );
 
 		~MainFrameBase();
 

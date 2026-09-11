@@ -15,6 +15,10 @@ add_executable(ffx_international_kr WIN32 ${SOURCES})
 target_include_directories(ffx_international_kr PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
 target_link_libraries(ffx_international_kr PRIVATE core cmrc xdelta3 wx::core)
 
+if(WIN32)
+    target_link_libraries(ffx_international_kr PRIVATE uxtheme)
+endif()
+
 if(MINGW)
     target_compile_options(ffx_international_kr PRIVATE
         -Wall

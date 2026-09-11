@@ -11,7 +11,7 @@
 
 MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& title, const wxPoint& pos, const wxSize& size, long style ) : wxFrame( parent, id, title, pos, size, style )
 {
-	this->SetSizeHints( wxDefaultSize, wxDefaultSize );
+	this->SetSizeHints( wxSize( 540,440 ), wxDefaultSize );
 	this->SetBackgroundColour( wxColour( 240, 240, 240 ) );
 
 	wxBoxSizer* mainBSizer;
@@ -21,7 +21,8 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	wxBoxSizer* mainPanelBSizer;
 	mainPanelBSizer = new wxBoxSizer( wxVERTICAL );
 
-	m_workspacePanel = new wxPanel( m_mainPanel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL );
+	m_workspacePanel = new wxScrolledWindow( m_mainPanel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxHSCROLL|wxVSCROLL );
+	m_workspacePanel->SetScrollRate( 5, 15 );
 	m_workspacePanel->SetBackgroundColour( wxColour( 255, 255, 255 ) );
 
 	wxBoxSizer* workspaceBSizer;
@@ -33,18 +34,18 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	wxBoxSizer* baseIsoBSizer;
 	baseIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_baseIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("ISO 위치："), wxDefaultPosition, wxSize( 64,-1 ), 0 );
+	m_baseIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("원본 ISO："), wxDefaultPosition, wxSize( 64,-1 ), 0 );
 	m_baseIsoLabelText->Wrap( -1 );
 	baseIsoBSizer->Add( m_baseIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
 
 	m_baseIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
-	baseIsoBSizer->Add( m_baseIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
+	baseIsoBSizer->Add( m_baseIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	baseIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
 
 	m_openBaseIsoButton = new wxButton( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
-	baseIsoBSizer->Add( m_openBaseIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
+	baseIsoBSizer->Add( m_openBaseIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	baseIsoSbSizer->Add( baseIsoBSizer, 1, wxEXPAND|wxLEFT|wxRIGHT|wxTOP, 5 );
@@ -57,13 +58,13 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	targetIsoBSizer->Add( m_targetIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
 
 	m_targetIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
-	targetIsoBSizer->Add( m_targetIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
+	targetIsoBSizer->Add( m_targetIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	targetIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
 
 	m_targetIsoButton = new wxButton( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
-	targetIsoBSizer->Add( m_targetIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
+	targetIsoBSizer->Add( m_targetIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	baseIsoSbSizer->Add( targetIsoBSizer, 1, wxALL|wxEXPAND, 5 );
@@ -73,7 +74,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	baseIsoSbSizer->Add( m_baseIsoWarnText, 0, wxALL, 5 );
 
 
-	workspaceBSizer->Add( baseIsoSbSizer, 0, wxALL|wxEXPAND, 5 );
+	workspaceBSizer->Add( baseIsoSbSizer, 0, wxALL|wxEXPAND, 8 );
 
 	wxStaticBoxSizer* jpnVoiceOptionSbSizer;
 	jpnVoiceOptionSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("일본어 음성 옵션 (beta)") ), wxVERTICAL );
@@ -87,10 +88,16 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	wxBoxSizer* jpnIsoBSizer;
 	jpnIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
 
+	m_jpnIsoLabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("오리지널판 ISO："), wxDefaultPosition, wxSize( 100,-1 ), 0 );
+	m_jpnIsoLabelText->Wrap( -1 );
+	m_jpnIsoLabelText->Enable( false );
+
+	jpnIsoBSizer->Add( m_jpnIsoLabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
+
 	m_jpnIsoText = new wxTextCtrl( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
 	m_jpnIsoText->Enable( false );
 
-	jpnIsoBSizer->Add( m_jpnIsoText, 12, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnIsoBSizer->Add( m_jpnIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	jpnIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
@@ -98,7 +105,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_openJpnIsoButton = new wxButton( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_openJpnIsoButton->Enable( false );
 
-	jpnIsoBSizer->Add( m_openJpnIsoButton, 3, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnIsoBSizer->Add( m_openJpnIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
 	jpnVoiceOptionBSizer->Add( jpnIsoBSizer, 1, wxEXPAND, 5 );
@@ -150,42 +157,65 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_jpnIsoWarnText->Wrap( -1 );
 	m_jpnIsoWarnText->Enable( false );
 
-	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxLEFT|wxRIGHT|wxTOP, 5 );
+	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxALL, 5 );
 
 
-	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxALL|wxEXPAND, 5 );
+	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxALL|wxEXPAND, 8 );
 
 
 	m_workspacePanel->SetSizer( workspaceBSizer );
 	m_workspacePanel->Layout();
 	workspaceBSizer->Fit( m_workspacePanel );
-	mainPanelBSizer->Add( m_workspacePanel, 0, wxEXPAND, 5 );
+	mainPanelBSizer->Add( m_workspacePanel, 1, wxEXPAND | wxALL, 0 );
+
+	wxStaticLine* contentSeparator;
+	contentSeparator = new wxStaticLine( m_mainPanel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxLI_HORIZONTAL );
+	mainPanelBSizer->Add( contentSeparator, 0, wxEXPAND | wxALL, 0 );
 
 	wxBoxSizer* applyBSizer;
 	applyBSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_applyButton = new wxButton( m_mainPanel, wxID_ANY, wxT("패치"), wxDefaultPosition, wxSize( -1,-1 ), 0 );
-	applyBSizer->Add( m_applyButton, 2, wxALL|wxEXPAND, 4 );
+	m_applyButton = new wxButton( m_mainPanel, wxID_ANY, wxT("패치"), wxDefaultPosition, wxSize( 100,56 ), 0 );
+	m_applyButton->SetFont( wxFont( 12, wxFONTFAMILY_MODERN, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, wxT("굴림") ) );
+
+	applyBSizer->Add( m_applyButton, 0, wxALL|wxEXPAND, 8 );
 
 	wxBoxSizer* applyGagueBSizer;
 	applyGagueBSizer = new wxBoxSizer( wxVERTICAL );
 
-	m_applyGauge = new wxGauge( m_mainPanel, wxID_ANY, 88, wxDefaultPosition, wxDefaultSize, wxGA_HORIZONTAL );
+
+	applyGagueBSizer->Add( 0, 6, 1, wxEXPAND, 5 );
+
+	m_applyGauge = new wxGauge( m_mainPanel, wxID_ANY, 88, wxDefaultPosition, wxSize( -1,20 ), wxGA_HORIZONTAL );
 	m_applyGauge->SetValue( 0 );
-	applyGagueBSizer->Add( m_applyGauge, 1, wxALL|wxEXPAND, 0 );
+	applyGagueBSizer->Add( m_applyGauge, 0, wxEXPAND|wxRIGHT, 8 );
 
 
 	applyGagueBSizer->Add( 0, 6, 0, wxEXPAND, 0 );
 
+	wxBoxSizer* sizeGripSizer;
+	sizeGripSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	sizeGripSizer->SetMinSize( wxSize( -1,16 ) );
 	m_applyPathProgressText = new wxStaticText( m_mainPanel, wxID_ANY, wxT("준비"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_applyPathProgressText->Wrap( -1 );
-	applyGagueBSizer->Add( m_applyPathProgressText, 0, wxALL, 0 );
+	sizeGripSizer->Add( m_applyPathProgressText, 0, wxALL, 0 );
 
 
-	applyBSizer->Add( applyGagueBSizer, 7, wxALL|wxEXPAND, 4 );
+	sizeGripSizer->Add( 0, 0, 1, wxEXPAND, 5 );
+
+	ffx::SizeGrip* sizeGrip;
+	sizeGrip = new ffx::SizeGrip( m_mainPanel, wxID_ANY, wxDefaultPosition, wxSize( 16,16 ), 0 );
+	sizeGripSizer->Add( sizeGrip, 0, wxALIGN_BOTTOM|wxALL, 2 );
 
 
-	mainPanelBSizer->Add( applyBSizer, 1, wxALL|wxEXPAND, 5 );
+	applyGagueBSizer->Add( sizeGripSizer, 2, wxEXPAND, 0 );
+
+
+	applyBSizer->Add( applyGagueBSizer, 1, wxEXPAND, 0 );
+
+
+	mainPanelBSizer->Add( applyBSizer, 0, wxEXPAND, 5 );
 
 
 	m_mainPanel->SetSizer( mainPanelBSizer );
