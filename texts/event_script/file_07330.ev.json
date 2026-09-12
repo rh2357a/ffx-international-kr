@@ -1,0 +1,20 @@
+{
+  "schema": 2,
+  "file": "file_07330.ev.lz1",
+  "map": "znkd1400",
+  "source_file": "file_07253.ev",
+  "changes": [
+    { "kind": "voice_sync_wait", "offset": 19198, "value": 119, "text": "내가 그 소식을 들은 건 세 번째 가출을 하던 때였다" },
+    { "kind": "voice_sync_wait", "offset": 19304, "value": 146, "text": "모두의 영웅 젝트가 연습 중 행방불명 / 수색은 중단되었다" },
+    { "kind": "voice_sync_group_start", "offset": 19410, "value": 93, "text": "우리 아버지는 젝트의 열렬한 팬이라서 말이야" },
+    { "kind": "voice_sync_group_end", "offset": 19516, "value": 203, "text": "아버지가 놀라겠지, 충격받겠지 / 그렇게 생각하니 왠지 눈물이 났다" },
+    { "kind": "voice_sync_group_start", "offset": 19622, "value": 141, "text": "그래서 황급히 집으로 돌아갔지 / 그리고 밤새도록 젝트 이야기를 나눴다" },
+    { "kind": "voice_sync_group_end", "offset": 19728, "value": 208, "text": "아버지와 그렇게 많이 이야기한 건 오랜만이었다 / 이런, 이런, 회상 장면이 되어 버렸군" },
+    { "kind": "voice_sync_group_start", "offset": 19834, "value": 172, "text": "자, 그로부터 10년 / 올해부터 시작된 젝트 기념 토너먼트" },
+    { "kind": "voice_sync_group_end", "offset": 19940, "value": 234, "text": "그 치열한 싸움에서 살아남은 건 / 그래, 동부 A지구 에이브스와 남부 C지구 더글스" },
+    { "kind": "voice_sync_wait", "offset": 20046, "value": 99, "text": "주목할 선수는 물론 / 에이브스의 에이스, 그 녀석" },
+    { "kind": "voice_sync_wait", "offset": 20152, "value": 111, "text": "작년의 신인이 올해는 단숨에 에이스다" },
+    { "kind": "voice_sync_group_start", "offset": 20258, "value": 179, "text": "그 젝트의 피를 이어받은 새로운 별 / 오늘은 어떤 움직임을 보여 줄 것인가" },
+    { "kind": "voice_sync_group_end", "offset": 20364, "value": 221, "text": "오늘이야말로 그 환상의 슛이 작렬할 것인가 / 기대하지 말라는 게 무리겠지" }
+  ]
+}
