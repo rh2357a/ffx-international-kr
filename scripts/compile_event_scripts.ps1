@@ -76,8 +76,8 @@ function Change-Operations([byte[]]$Original, $Plan) {
                 'insert_jp_wait' { $oldLength=0; $after='ae'+$valueHex+'d80000' }
                 'silent_voice_wait' {
                     $oldLength = [int]$change.length
-                    if ($oldLength -lt 6) { throw 'Silent voice wait region must be at least 6 bytes' }
-                    $after = 'ae'+$valueHex+'d80000'+('00' * ($oldLength-6))
+                    if ($oldLength -lt 9) { throw 'Silent voice wait region must be at least 9 bytes' }
+                    $after = 'd8d600ae'+$valueHex+'d80000'+('00' * ($oldLength-9))
                 }
                 { $_ -in @('voice_sync_wait','voice_sync_group_start','voice_sync_group_end') } {
                     $blockStart = $offset-73
