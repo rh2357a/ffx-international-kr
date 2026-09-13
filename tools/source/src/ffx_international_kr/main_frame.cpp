@@ -5,6 +5,7 @@
 #include <utils/binfile.h>
 #include <utils/json.hpp>
 #include <wx/filedlg.h>
+#include <wx/richtooltip.h>
 #include <wx/wx.h>
 #include <xdelta3_wrapper.h>
 
@@ -90,7 +91,7 @@ void ffx::MainFrame::OnOpenBaseIsoButtonClick(wxCommandEvent &event)
 
 void ffx::MainFrame::OnTargetIsoButtonClick(wxCommandEvent &event)
 {
-    wxFileDialog openDlg(this, wxT("ISO 패치 저장..."), "", "", wxT("ISO 파일|*.iso"), wxFD_SAVE | wxFD_OVERWRITE_PROMPT);
+    wxFileDialog openDlg(this, wxT("ISO 저장 위치 지정..."), "", "", wxT("ISO 파일|*.iso"), wxFD_SAVE | wxFD_OVERWRITE_PROMPT);
     if (openDlg.ShowModal() == wxID_CANCEL)
         return;
 
@@ -99,6 +100,15 @@ void ffx::MainFrame::OnTargetIsoButtonClick(wxCommandEvent &event)
     {
         wxMessageBox(wxT("원본 ISO 이름으로 저장할 수 없습니다!"), wxT("오류"), wxICON_ERROR);
         return;
+    }
+
+    if (m_jpnVoiceCheckBox->IsChecked())
+    {
+        if (std::filesystem::exists(path) && m_jpnIsoText->GetValue().utf8_string() == path)
+        {
+            wxMessageBox(wxT("오리지널 ISO 이름으로 저장할 수 없습니다!"), wxT("오류"), wxICON_ERROR);
+            return;
+        }
     }
 
     m_targetIsoText->SetValue(wxString::FromUTF8(path));
@@ -119,6 +129,9 @@ void ffx::MainFrame::OnJpnVoiceCheckBox(wxCommandEvent &event)
     }
     else
     {
+        // if (m_targetIsoText->GetValue().utf8_string() == m_jpnIsoText->GetValue().utf8_string())
+        //     m_targetIsoText->SetValue(wxT(""));
+
         m_jpnIsoLabelText->Disable();
         m_jpnIsoText->Disable();
         m_openJpnIsoButton->Disable();
@@ -238,6 +251,68 @@ void ffx::MainFrame::OnThreadUpdate(wxThreadEvent &event)
     {
         const auto message = event.GetString();
         wxMessageBox(message, wxT("오류"), wxICON_ERROR);
+
+        const int toolTipId = event.GetInt();
+        switch (toolTipId)
+        {
+        case 1:
+            {
+                wxRichToolTip tip(wxT("원본 ISO 선택"), wxT("패치 대상이 필요합니다.\n원본 ISO 파일을 선택해 주세요."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_openBaseIsoButton);
+            }
+            break;
+        case 2:
+            {
+                wxRichToolTip tip(wxT("원본 ISO 오류"), wxT("올바른 ISO 파일이 아닙니다."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_openBaseIsoButton);
+            }
+            break;
+        case 3:
+            {
+                wxRichToolTip tip(wxT("원본 ISO 오류"), wxT("이미 패치된 파일입니다.\n원본 ISO를 선택해 주세요."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_openBaseIsoButton);
+            }
+            break;
+        case 4:
+            {
+                wxRichToolTip tip(wxT("저장 위치 선택"), wxT("패치 적용 후 저장할 위치가 필요합니다.\n저장 위치를 선택해 주세요."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_targetIsoButton);
+            }
+            break;
+        case 5:
+            {
+                wxRichToolTip tip(wxT("저장 위치 이름 오류"), wxT("원본 ISO의 이름과 동일하게 저장할 수 없습니다.\n다른 이름으로 저장해 주세요."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_targetIsoButton);
+            }
+            break;
+        case 6:
+            {
+                wxRichToolTip tip(wxT("저장 위치 이름 오류"), wxT("오리지널판 ISO의 이름과 동일하게 저장할 수 없습니다.\n다른 이름으로 저장해 주세요."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_targetIsoButton);
+            }
+            break;
+        case 7:
+            {
+                wxRichToolTip tip(wxT("오리지널 ISO 선택"), wxT("일본어 음성 패치를 위해 오리지널판 ISO 파일이 필요합니다."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_openJpnIsoButton);
+            }
+            break;
+        case 8:
+            {
+                wxRichToolTip tip(wxT("오리지널 ISO 오류"), wxT("올바른 ISO 파일이 아닙니다."));
+                tip.SetIcon(wxICON_ERROR);
+                tip.ShowFor(m_openJpnIsoButton);
+            }
+            break;
+        }
+
         return;
     }
 
@@ -268,14 +343,14 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
 
     if (!std::filesystem::exists(basePath))
     {
-        ShowErrorMessageBox(wxT("지정된 경로에 파이널 판타지 10 인터내셔널 ISO 파일이 없습니다."));
+        ShowErrorMessageBox(wxT("원본 ISO를 선택해 주세요!!!"), 1);
         Cleanup(false);
         return 0;
     }
 
     if (!binfile::has_bytes(basePath, 0x82881, GAME_ID_KOREA))
     {
-        ShowErrorMessageBox(wxT("파이널 판타지 10 인터내셔널 ISO 파일이 아닙니다!"));
+        ShowErrorMessageBox(wxT("파이널 판타지 10 인터내셔널 ISO 파일이 아닙니다!"), 2);
         Cleanup(false);
         return 0;
     }
@@ -283,37 +358,44 @@ wxThread::ExitCode ffx::ApplyPatchThread::Entry()
     const auto &unusedAlbhedFile = ffxiso::get_file_bytes(basePath, 460);
     if (!binfile::has_bytes(unusedAlbhedFile, 0, PATCH_CHECK_DATA))
     {
-        ShowErrorMessageBox(wxT("이미 패치되어 있거나, 이전 버전이 패치되어 있습니다.\n원본 ISO 파일이 필요합니다!"));
+        ShowErrorMessageBox(wxT("이미 패치되어 있거나, 이전 버전이 패치되어 있습니다.\n원본 ISO 파일이 필요합니다!"), 3);
         Cleanup(false);
         return 0;
     }
 
     if (targetPath == "-")
     {
-        ShowErrorMessageBox(wxT("저장될 위치를 선택해 주세요!!"));
+        ShowErrorMessageBox(wxT("저장 위치를 선택해 주세요!!!"), 4);
         Cleanup(false);
         return 0;
     }
 
     if (std::filesystem::exists(targetPath) && targetPath == basePath)
     {
-        ShowErrorMessageBox(wxT("원본 ISO 이름으로 저장할 수 없습니다!"));
+        ShowErrorMessageBox(wxT("원본 ISO 이름으로 저장할 수 없습니다!"), 5);
         Cleanup(false);
         return 0;
     }
 
     if (isJpnVoiceEnabled)
     {
+        if (std::filesystem::exists(targetPath) && targetPath == jpnPath)
+        {
+            ShowErrorMessageBox(wxT("저장 위치를 오리지널 ISO 이름으로 선택할 수 없습니다!"), 6);
+            Cleanup(false);
+            return 0;
+        }
+
         if (!std::filesystem::exists(jpnPath))
         {
-            ShowErrorMessageBox(wxT("지정된 경로에 파이널 판타지 10 오리지널 ISO 파일이 없습니다."));
+            ShowErrorMessageBox(wxT("오리지널 ISO 파일을 선택해 주세요!!!!!!"), 7);
             Cleanup(false);
             return 0;
         }
 
         if (!binfile::has_bytes(jpnPath, 0x82881, GAME_ID_JAPAN))
         {
-            ShowErrorMessageBox(wxT("파이널 판타지 10 오리지널 ISO 파일이 아닙니다!"));
+            ShowErrorMessageBox(wxT("파이널 판타지 10 오리지널 ISO 파일이 아닙니다!"), 8);
             Cleanup(false);
             return 0;
         }
@@ -574,11 +656,12 @@ void ffx::ApplyPatchThread::ShowMessageBox(const wxString &message)
     wxQueueEvent(m_pHandler->GetEventHandler(), evt.Clone());
 }
 
-void ffx::ApplyPatchThread::ShowErrorMessageBox(const wxString &message)
+void ffx::ApplyPatchThread::ShowErrorMessageBox(const wxString &message, int toolTipId)
 {
     wxThreadEvent evt(wxEVT_THREAD);
     evt.SetPayload<ApplyPatchThreadEvent>(ApplyPatchThreadEvent::ERROR_MESSAGE_BOX);
     evt.SetString(message);
+    evt.SetInt(toolTipId);
     wxQueueEvent(m_pHandler->GetEventHandler(), evt.Clone());
 }
 

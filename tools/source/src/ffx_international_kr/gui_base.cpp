@@ -11,7 +11,7 @@
 
 MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& title, const wxPoint& pos, const wxSize& size, long style ) : wxFrame( parent, id, title, pos, size, style )
 {
-	this->SetSizeHints( wxSize( 540,440 ), wxDefaultSize );
+	this->SetSizeHints( wxSize( 550,422 ), wxDefaultSize );
 	this->SetBackgroundColour( wxColour( 240, 240, 240 ) );
 
 	wxBoxSizer* mainBSizer;
@@ -34,9 +34,18 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	wxBoxSizer* baseIsoBSizer;
 	baseIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_baseIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("원본 ISO："), wxDefaultPosition, wxSize( 64,-1 ), 0 );
+	wxStaticText* baseIsoRequired;
+	baseIsoRequired = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("*"), wxDefaultPosition, wxSize( 8,-1 ), 0 );
+	baseIsoRequired->Wrap( -1 );
+	baseIsoRequired->SetForegroundColour( wxColour( 255, 0, 0 ) );
+
+	baseIsoBSizer->Add( baseIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
+
+	m_baseIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("원본 ISO："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_baseIsoLabelText->Wrap( -1 );
-	baseIsoBSizer->Add( m_baseIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
+	m_baseIsoLabelText->SetMinSize( wxSize( 65,-1 ) );
+
+	baseIsoBSizer->Add( m_baseIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxBOTTOM|wxRIGHT|wxTOP, 5 );
 
 	m_baseIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
 	baseIsoBSizer->Add( m_baseIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
@@ -53,9 +62,18 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	wxBoxSizer* targetIsoBSizer;
 	targetIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_targetIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("저장 위치："), wxDefaultPosition, wxSize( 64,-1 ), 0 );
+	wxStaticText* targetIsoRequired;
+	targetIsoRequired = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("*"), wxDefaultPosition, wxSize( 8,-1 ), 0 );
+	targetIsoRequired->Wrap( -1 );
+	targetIsoRequired->SetForegroundColour( wxColour( 255, 0, 0 ) );
+
+	targetIsoBSizer->Add( targetIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
+
+	m_targetIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("저장 위치："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_targetIsoLabelText->Wrap( -1 );
-	targetIsoBSizer->Add( m_targetIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
+	m_targetIsoLabelText->SetMinSize( wxSize( 65,-1 ) );
+
+	targetIsoBSizer->Add( m_targetIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxBOTTOM|wxRIGHT|wxTOP, 5 );
 
 	m_targetIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
 	targetIsoBSizer->Add( m_targetIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
@@ -74,53 +92,66 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	baseIsoSbSizer->Add( m_baseIsoWarnText, 0, wxALL, 5 );
 
 
-	workspaceBSizer->Add( baseIsoSbSizer, 0, wxALL|wxEXPAND, 8 );
+	workspaceBSizer->Add( baseIsoSbSizer, 0, wxEXPAND|wxLEFT|wxRIGHT|wxTOP, 8 );
 
 	wxStaticBoxSizer* jpnVoiceOptionSbSizer;
-	jpnVoiceOptionSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("일본어 음성 옵션 (beta)") ), wxVERTICAL );
+	jpnVoiceOptionSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("일본어 음성 옵션") ), wxVERTICAL );
 
-	m_jpnVoiceCheckBox = new wxCheckBox( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("활성화 (ISO 파일 필요)"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_jpnVoiceCheckBox = new wxCheckBox( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("일본어 음성 활성화"), wxDefaultPosition, wxDefaultSize, 0 );
 	jpnVoiceOptionSbSizer->Add( m_jpnVoiceCheckBox, 0, wxALL, 5 );
 
+
+	jpnVoiceOptionSbSizer->Add( 0, 8, 0, 0, 0 );
+
 	wxBoxSizer* jpnVoiceOptionBSizer;
-	jpnVoiceOptionBSizer = new wxBoxSizer( wxVERTICAL );
+	jpnVoiceOptionBSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	wxBoxSizer* jpnIsoBSizer;
-	jpnIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
+	wxStaticText* jpnIsoRequired;
+	jpnIsoRequired = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("*"), wxDefaultPosition, wxSize( 8,-1 ), 0 );
+	jpnIsoRequired->Wrap( -1 );
+	jpnIsoRequired->SetForegroundColour( wxColour( 255, 0, 0 ) );
 
-	m_jpnIsoLabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("오리지널판 ISO："), wxDefaultPosition, wxSize( 100,-1 ), 0 );
+	jpnVoiceOptionBSizer->Add( jpnIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
+
+	m_jpnIsoLabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("오리지널판 ISO："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_jpnIsoLabelText->Wrap( -1 );
 	m_jpnIsoLabelText->Enable( false );
+	m_jpnIsoLabelText->SetMinSize( wxSize( 100,-1 ) );
 
-	jpnIsoBSizer->Add( m_jpnIsoLabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionBSizer->Add( m_jpnIsoLabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_jpnIsoText = new wxTextCtrl( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
 	m_jpnIsoText->Enable( false );
 
-	jpnIsoBSizer->Add( m_jpnIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionBSizer->Add( m_jpnIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	jpnIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
+	jpnVoiceOptionBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
 
 	m_openJpnIsoButton = new wxButton( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_openJpnIsoButton->Enable( false );
 
-	jpnIsoBSizer->Add( m_openJpnIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionBSizer->Add( m_openJpnIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	jpnVoiceOptionBSizer->Add( jpnIsoBSizer, 1, wxEXPAND, 5 );
-
-
-	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionBSizer, 1, wxALL|wxEXPAND, 5 );
+	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionBSizer, 1, wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT, 5 );
 
 	wxBoxSizer* jpnMusicType1BSizer;
 	jpnMusicType1BSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_jpnMusicType1LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택："), wxDefaultPosition, wxSize( 100,-1 ), 0 );
+	wxStaticText* jpnMusicType1Required;
+	jpnMusicType1Required = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize( 8,-1 ), 0 );
+	jpnMusicType1Required->Wrap( -1 );
+	jpnMusicType1Required->SetForegroundColour( wxColour( 255, 0, 0 ) );
+
+	jpnMusicType1BSizer->Add( jpnMusicType1Required, 0, wxALIGN_CENTER_VERTICAL, 5 );
+
+	m_jpnMusicType1LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_jpnMusicType1LabelText->Wrap( -1 );
 	m_jpnMusicType1LabelText->Enable( false );
+	m_jpnMusicType1LabelText->SetMinSize( wxSize( 100,-1 ) );
 
-	jpnMusicType1BSizer->Add( m_jpnMusicType1LabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
+	jpnMusicType1BSizer->Add( m_jpnMusicType1LabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	wxString m_jpnMusicType1ChoiceChoices[] = { wxT("얼마나 좋을까"), wxT("素敵だね") };
 	int m_jpnMusicType1ChoiceNChoices = sizeof( m_jpnMusicType1ChoiceChoices ) / sizeof( wxString );
@@ -128,19 +159,27 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_jpnMusicType1Choice->SetSelection( 0 );
 	m_jpnMusicType1Choice->Enable( false );
 
-	jpnMusicType1BSizer->Add( m_jpnMusicType1Choice, 0, wxALL, 5 );
+	jpnMusicType1BSizer->Add( m_jpnMusicType1Choice, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	jpnVoiceOptionSbSizer->Add( jpnMusicType1BSizer, 1, wxEXPAND, 5 );
+	jpnVoiceOptionSbSizer->Add( jpnMusicType1BSizer, 1, wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT, 5 );
 
 	wxBoxSizer* jpnMusicType2BSizer;
 	jpnMusicType2BSizer = new wxBoxSizer( wxHORIZONTAL );
 
-	m_jpnMusicType2LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택(엔딩)："), wxDefaultPosition, wxSize( 100,-1 ), 0 );
+	wxStaticText* jpnMusicType2Required;
+	jpnMusicType2Required = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize( 8,-1 ), 0 );
+	jpnMusicType2Required->Wrap( -1 );
+	jpnMusicType2Required->SetForegroundColour( wxColour( 255, 0, 0 ) );
+
+	jpnMusicType2BSizer->Add( jpnMusicType2Required, 0, wxALIGN_CENTER_VERTICAL, 5 );
+
+	m_jpnMusicType2LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택(엔딩)："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_jpnMusicType2LabelText->Wrap( -1 );
 	m_jpnMusicType2LabelText->Enable( false );
+	m_jpnMusicType2LabelText->SetMinSize( wxSize( 100,-1 ) );
 
-	jpnMusicType2BSizer->Add( m_jpnMusicType2LabelText, 0, wxALIGN_CENTER_VERTICAL|wxALL, 5 );
+	jpnMusicType2BSizer->Add( m_jpnMusicType2LabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	wxString m_jpnMusicType2ChoiceChoices[] = { wxT("얼마나 좋을까"), wxT("素敵だね") };
 	int m_jpnMusicType2ChoiceNChoices = sizeof( m_jpnMusicType2ChoiceChoices ) / sizeof( wxString );
@@ -148,10 +187,10 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_jpnMusicType2Choice->SetSelection( 0 );
 	m_jpnMusicType2Choice->Enable( false );
 
-	jpnMusicType2BSizer->Add( m_jpnMusicType2Choice, 0, wxALL, 5 );
+	jpnMusicType2BSizer->Add( m_jpnMusicType2Choice, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	jpnVoiceOptionSbSizer->Add( jpnMusicType2BSizer, 1, wxEXPAND, 5 );
+	jpnVoiceOptionSbSizer->Add( jpnMusicType2BSizer, 1, wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT, 5 );
 
 	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID: 오리지널 일본판 (SLPS-25050)"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_jpnIsoWarnText->Wrap( -1 );
@@ -160,7 +199,7 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	jpnVoiceOptionSbSizer->Add( m_jpnIsoWarnText, 0, wxALL, 5 );
 
 
-	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxALL|wxEXPAND, 8 );
+	workspaceBSizer->Add( jpnVoiceOptionSbSizer, 0, wxEXPAND|wxLEFT|wxRIGHT|wxTOP, 8 );
 
 
 	m_workspacePanel->SetSizer( workspaceBSizer );

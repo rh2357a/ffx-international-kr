@@ -57,7 +57,7 @@ namespace ffx
     private:
         void UpdateGauge(int value, const wxString &message);
         void ShowMessageBox(const wxString &message);
-        void ShowErrorMessageBox(const wxString &message);
+        void ShowErrorMessageBox(const wxString &message, int toolTipId = -1);
         void Cleanup(bool isCancel = true);
     };
 
