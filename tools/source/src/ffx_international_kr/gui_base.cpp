@@ -11,7 +11,7 @@
 
 MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& title, const wxPoint& pos, const wxSize& size, long style ) : wxFrame( parent, id, title, pos, size, style )
 {
-	this->SetSizeHints( wxSize( 550,422 ), wxDefaultSize );
+	this->SetSizeHints( wxSize( 550,414 ), wxDefaultSize );
 	this->SetBackgroundColour( wxColour( 240, 240, 240 ) );
 
 	wxBoxSizer* mainBSizer;
@@ -31,61 +31,54 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	wxStaticBoxSizer* baseIsoSbSizer;
 	baseIsoSbSizer = new wxStaticBoxSizer( new wxStaticBox( m_workspacePanel, wxID_ANY, wxT("패치 ISO 파일 선택") ), wxVERTICAL );
 
-	wxBoxSizer* baseIsoBSizer;
-	baseIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
+	wxFlexGridSizer* isoPathGrid;
+	isoPathGrid = new wxFlexGridSizer( 2, 5, 4, 0 );
+	isoPathGrid->AddGrowableCol( 2 );
+	isoPathGrid->SetFlexibleDirection( wxBOTH );
+	isoPathGrid->SetNonFlexibleGrowMode( wxFLEX_GROWMODE_SPECIFIED );
 
 	wxStaticText* baseIsoRequired;
 	baseIsoRequired = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("*"), wxDefaultPosition, wxSize( 8,-1 ), 0 );
 	baseIsoRequired->Wrap( -1 );
 	baseIsoRequired->SetForegroundColour( wxColour( 255, 0, 0 ) );
 
-	baseIsoBSizer->Add( baseIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	isoPathGrid->Add( baseIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_baseIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("원본 ISO："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_baseIsoLabelText->Wrap( -1 );
-	m_baseIsoLabelText->SetMinSize( wxSize( 65,-1 ) );
-
-	baseIsoBSizer->Add( m_baseIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxBOTTOM|wxRIGHT|wxTOP, 5 );
+	isoPathGrid->Add( m_baseIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxBOTTOM|wxRIGHT|wxTOP, 5 );
 
 	m_baseIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
-	baseIsoBSizer->Add( m_baseIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
+	isoPathGrid->Add( m_baseIsoText, 1, wxALIGN_CENTER_VERTICAL|wxEXPAND, 5 );
 
 
-	baseIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
+	isoPathGrid->Add( 8, 0, 0, 0, 5 );
 
 	m_openBaseIsoButton = new wxButton( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
-	baseIsoBSizer->Add( m_openBaseIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
-
-
-	baseIsoSbSizer->Add( baseIsoBSizer, 1, wxEXPAND|wxLEFT|wxRIGHT|wxTOP, 5 );
-
-	wxBoxSizer* targetIsoBSizer;
-	targetIsoBSizer = new wxBoxSizer( wxHORIZONTAL );
+	isoPathGrid->Add( m_openBaseIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	wxStaticText* targetIsoRequired;
 	targetIsoRequired = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("*"), wxDefaultPosition, wxSize( 8,-1 ), 0 );
 	targetIsoRequired->Wrap( -1 );
 	targetIsoRequired->SetForegroundColour( wxColour( 255, 0, 0 ) );
 
-	targetIsoBSizer->Add( targetIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	isoPathGrid->Add( targetIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_targetIsoLabelText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("저장 위치："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_targetIsoLabelText->Wrap( -1 );
-	m_targetIsoLabelText->SetMinSize( wxSize( 65,-1 ) );
-
-	targetIsoBSizer->Add( m_targetIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxBOTTOM|wxRIGHT|wxTOP, 5 );
+	isoPathGrid->Add( m_targetIsoLabelText, 0, wxALIGN_CENTER_VERTICAL|wxBOTTOM|wxRIGHT|wxTOP, 5 );
 
 	m_targetIsoText = new wxTextCtrl( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
-	targetIsoBSizer->Add( m_targetIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
+	isoPathGrid->Add( m_targetIsoText, 1, wxALIGN_CENTER_VERTICAL|wxEXPAND, 5 );
 
 
-	targetIsoBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
+	isoPathGrid->Add( 8, 0, 0, 0, 0 );
 
 	m_targetIsoButton = new wxButton( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
-	targetIsoBSizer->Add( m_targetIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	isoPathGrid->Add( m_targetIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	baseIsoSbSizer->Add( targetIsoBSizer, 1, wxALL|wxEXPAND, 5 );
+	baseIsoSbSizer->Add( isoPathGrid, 0, wxALL|wxEXPAND, 5 );
 
 	m_baseIsoWarnText = new wxStaticText( baseIsoSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID: 국내 정발판 (SLPM-67513)"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_baseIsoWarnText->Wrap( -1 );
@@ -101,57 +94,52 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	jpnVoiceOptionSbSizer->Add( m_jpnVoiceCheckBox, 0, wxALL, 5 );
 
 
-	jpnVoiceOptionSbSizer->Add( 0, 8, 0, 0, 0 );
+	jpnVoiceOptionSbSizer->Add( 0, 4, 0, 0, 0 );
 
-	wxBoxSizer* jpnVoiceOptionBSizer;
-	jpnVoiceOptionBSizer = new wxBoxSizer( wxHORIZONTAL );
+	wxFlexGridSizer* jpnVoiceOptionGrid;
+	jpnVoiceOptionGrid = new wxFlexGridSizer( 3, 5, 4, 0 );
+	jpnVoiceOptionGrid->AddGrowableCol( 2 );
+	jpnVoiceOptionGrid->SetFlexibleDirection( wxBOTH );
+	jpnVoiceOptionGrid->SetNonFlexibleGrowMode( wxFLEX_GROWMODE_SPECIFIED );
 
 	wxStaticText* jpnIsoRequired;
 	jpnIsoRequired = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("*"), wxDefaultPosition, wxSize( 8,-1 ), 0 );
 	jpnIsoRequired->Wrap( -1 );
 	jpnIsoRequired->SetForegroundColour( wxColour( 255, 0, 0 ) );
 
-	jpnVoiceOptionBSizer->Add( jpnIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( jpnIsoRequired, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_jpnIsoLabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("오리지널판 ISO："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_jpnIsoLabelText->Wrap( -1 );
 	m_jpnIsoLabelText->Enable( false );
-	m_jpnIsoLabelText->SetMinSize( wxSize( 100,-1 ) );
 
-	jpnVoiceOptionBSizer->Add( m_jpnIsoLabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( m_jpnIsoLabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_jpnIsoText = new wxTextCtrl( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("-"), wxDefaultPosition, wxDefaultSize, wxTE_READONLY );
 	m_jpnIsoText->Enable( false );
 
-	jpnVoiceOptionBSizer->Add( m_jpnIsoText, 1, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( m_jpnIsoText, 1, wxALIGN_CENTER_VERTICAL|wxEXPAND, 5 );
 
 
-	jpnVoiceOptionBSizer->Add( 8, 0, 0, wxEXPAND, 5 );
+	jpnVoiceOptionGrid->Add( 8, 0, 0, 0, 0 );
 
 	m_openJpnIsoButton = new wxButton( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("찾기"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_openJpnIsoButton->Enable( false );
 
-	jpnVoiceOptionBSizer->Add( m_openJpnIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
-
-
-	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionBSizer, 1, wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT, 5 );
-
-	wxBoxSizer* jpnMusicType1BSizer;
-	jpnMusicType1BSizer = new wxBoxSizer( wxHORIZONTAL );
+	jpnVoiceOptionGrid->Add( m_openJpnIsoButton, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	wxStaticText* jpnMusicType1Required;
 	jpnMusicType1Required = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize( 8,-1 ), 0 );
 	jpnMusicType1Required->Wrap( -1 );
 	jpnMusicType1Required->SetForegroundColour( wxColour( 255, 0, 0 ) );
 
-	jpnMusicType1BSizer->Add( jpnMusicType1Required, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( jpnMusicType1Required, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_jpnMusicType1LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_jpnMusicType1LabelText->Wrap( -1 );
 	m_jpnMusicType1LabelText->Enable( false );
-	m_jpnMusicType1LabelText->SetMinSize( wxSize( 100,-1 ) );
 
-	jpnMusicType1BSizer->Add( m_jpnMusicType1LabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( m_jpnMusicType1LabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	wxString m_jpnMusicType1ChoiceChoices[] = { wxT("얼마나 좋을까"), wxT("素敵だね") };
 	int m_jpnMusicType1ChoiceNChoices = sizeof( m_jpnMusicType1ChoiceChoices ) / sizeof( wxString );
@@ -159,27 +147,26 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_jpnMusicType1Choice->SetSelection( 0 );
 	m_jpnMusicType1Choice->Enable( false );
 
-	jpnMusicType1BSizer->Add( m_jpnMusicType1Choice, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( m_jpnMusicType1Choice, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	jpnVoiceOptionSbSizer->Add( jpnMusicType1BSizer, 1, wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT, 5 );
+	jpnVoiceOptionGrid->Add( 8, 0, 0, 0, 0 );
 
-	wxBoxSizer* jpnMusicType2BSizer;
-	jpnMusicType2BSizer = new wxBoxSizer( wxHORIZONTAL );
+
+	jpnVoiceOptionGrid->Add( 8, 0, 0, 0, 0 );
 
 	wxStaticText* jpnMusicType2Required;
 	jpnMusicType2Required = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize( 8,-1 ), 0 );
 	jpnMusicType2Required->Wrap( -1 );
 	jpnMusicType2Required->SetForegroundColour( wxColour( 255, 0, 0 ) );
 
-	jpnMusicType2BSizer->Add( jpnMusicType2Required, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( jpnMusicType2Required, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	m_jpnMusicType2LabelText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("노래 선택(엔딩)："), wxDefaultPosition, wxSize( -1,-1 ), 0 );
 	m_jpnMusicType2LabelText->Wrap( -1 );
 	m_jpnMusicType2LabelText->Enable( false );
-	m_jpnMusicType2LabelText->SetMinSize( wxSize( 100,-1 ) );
 
-	jpnMusicType2BSizer->Add( m_jpnMusicType2LabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( m_jpnMusicType2LabelText, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 	wxString m_jpnMusicType2ChoiceChoices[] = { wxT("얼마나 좋을까"), wxT("素敵だね") };
 	int m_jpnMusicType2ChoiceNChoices = sizeof( m_jpnMusicType2ChoiceChoices ) / sizeof( wxString );
@@ -187,10 +174,10 @@ MainFrameBase::MainFrameBase( wxWindow* parent, wxWindowID id, const wxString& t
 	m_jpnMusicType2Choice->SetSelection( 0 );
 	m_jpnMusicType2Choice->Enable( false );
 
-	jpnMusicType2BSizer->Add( m_jpnMusicType2Choice, 0, wxALIGN_CENTER_VERTICAL, 5 );
+	jpnVoiceOptionGrid->Add( m_jpnMusicType2Choice, 0, wxALIGN_CENTER_VERTICAL, 5 );
 
 
-	jpnVoiceOptionSbSizer->Add( jpnMusicType2BSizer, 1, wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT, 5 );
+	jpnVoiceOptionSbSizer->Add( jpnVoiceOptionGrid, 1, wxALL|wxEXPAND, 5 );
 
 	m_jpnIsoWarnText = new wxStaticText( jpnVoiceOptionSbSizer->GetStaticBox(), wxID_ANY, wxT("※ 게임 ID: 오리지널 일본판 (SLPS-25050)"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_jpnIsoWarnText->Wrap( -1 );

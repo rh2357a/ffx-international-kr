@@ -47,10 +47,10 @@
       <property name="hidden">0</property>
       <property name="id">wxID_ANY</property>
       <property name="maximum_size"></property>
-      <property name="minimum_size">550,422</property>
+      <property name="minimum_size">550,414</property>
       <property name="name">MainFrameBase</property>
       <property name="pos"></property>
-      <property name="size">550,422</property>
+      <property name="size">550,414</property>
       <property name="style">wxCAPTION|wxCLOSE_BOX|wxICONIZE|wxMAXIMIZE_BOX|wxMINIMIZE_BOX|wxRESIZE_BORDER|wxSYSTEM_MENU</property>
       <property name="subclass">; ; forward_declare</property>
       <property name="title">{title}</property>
@@ -190,11 +190,11 @@
                     <property name="name">workspaceBSizer</property>
                     <property name="orient">wxVERTICAL</property>
                     <property name="permission">none</property>
-                    <object class="sizeritem" expanded="false">
+                    <object class="sizeritem" expanded="true">
                       <property name="border">8</property>
                       <property name="flag">wxEXPAND|wxLEFT|wxRIGHT|wxTOP</property>
                       <property name="proportion">0</property>
-                      <object class="wxStaticBoxSizer" expanded="false">
+                      <object class="wxStaticBoxSizer" expanded="true">
                         <property name="id">wxID_ANY</property>
                         <property name="label">패치 ISO 파일 선택</property>
                         <property name="minimum_size"></property>
@@ -202,15 +202,22 @@
                         <property name="orient">wxVERTICAL</property>
                         <property name="parent">1</property>
                         <property name="permission">none</property>
-                        <object class="sizeritem" expanded="false">
+                        <object class="sizeritem" expanded="true">
                           <property name="border">5</property>
-                          <property name="flag">wxEXPAND|wxLEFT|wxRIGHT|wxTOP</property>
-                          <property name="proportion">1</property>
-                          <object class="wxBoxSizer" expanded="false">
+                          <property name="flag">wxALL|wxEXPAND</property>
+                          <property name="proportion">0</property>
+                          <object class="wxFlexGridSizer" expanded="false">
+                            <property name="cols">5</property>
+                            <property name="flexible_direction">wxBOTH</property>
+                            <property name="growablecols">2</property>
+                            <property name="growablerows"></property>
+                            <property name="hgap">0</property>
                             <property name="minimum_size"></property>
-                            <property name="name">baseIsoBSizer</property>
-                            <property name="orient">wxHORIZONTAL</property>
+                            <property name="name">isoPathGrid</property>
+                            <property name="non_flexible_grow_mode">wxFLEX_GROWMODE_SPECIFIED</property>
                             <property name="permission">none</property>
+                            <property name="rows">2</property>
+                            <property name="vgap">4</property>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
                               <property name="flag">wxALIGN_CENTER_VERTICAL</property>
@@ -313,7 +320,7 @@
                                 <property name="maximum_size"></property>
                                 <property name="min_size"></property>
                                 <property name="minimize_button">0</property>
-                                <property name="minimum_size">65,-1</property>
+                                <property name="minimum_size">-1,-1</property>
                                 <property name="moveable">1</property>
                                 <property name="name">m_baseIsoLabelText</property>
                                 <property name="pane_border">1</property>
@@ -337,7 +344,7 @@
                             </object>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
-                              <property name="flag">wxALIGN_CENTER_VERTICAL</property>
+                              <property name="flag">wxALIGN_CENTER_VERTICAL|wxEXPAND</property>
                               <property name="proportion">1</property>
                               <object class="wxTextCtrl" expanded="false">
                                 <property name="BottomDockable">1</property>
@@ -402,11 +409,11 @@
                             </object>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
-                              <property name="flag">wxEXPAND</property>
+                              <property name="flag"></property>
                               <property name="proportion">0</property>
                               <object class="spacer" expanded="false">
                                 <property name="height">0</property>
-                                <property name="permission">protected</property>
+                                <property name="permission">none</property>
                                 <property name="width">8</property>
                               </object>
                             </object>
@@ -485,17 +492,6 @@
                                 <event name="OnButtonClick">OnOpenBaseIsoButtonClick</event>
                               </object>
                             </object>
-                          </object>
-                        </object>
-                        <object class="sizeritem" expanded="false">
-                          <property name="border">5</property>
-                          <property name="flag">wxALL|wxEXPAND</property>
-                          <property name="proportion">1</property>
-                          <object class="wxBoxSizer" expanded="false">
-                            <property name="minimum_size"></property>
-                            <property name="name">targetIsoBSizer</property>
-                            <property name="orient">wxHORIZONTAL</property>
-                            <property name="permission">none</property>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
                               <property name="flag">wxALIGN_CENTER_VERTICAL</property>
@@ -598,7 +594,7 @@
                                 <property name="maximum_size"></property>
                                 <property name="min_size"></property>
                                 <property name="minimize_button">0</property>
-                                <property name="minimum_size">65,-1</property>
+                                <property name="minimum_size">-1,-1</property>
                                 <property name="moveable">1</property>
                                 <property name="name">m_targetIsoLabelText</property>
                                 <property name="pane_border">1</property>
@@ -622,7 +618,7 @@
                             </object>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
-                              <property name="flag">wxALIGN_CENTER_VERTICAL</property>
+                              <property name="flag">wxALIGN_CENTER_VERTICAL|wxEXPAND</property>
                               <property name="proportion">1</property>
                               <object class="wxTextCtrl" expanded="false">
                                 <property name="BottomDockable">1</property>
@@ -686,12 +682,12 @@
                               </object>
                             </object>
                             <object class="sizeritem" expanded="false">
-                              <property name="border">5</property>
-                              <property name="flag">wxEXPAND</property>
+                              <property name="border">0</property>
+                              <property name="flag"></property>
                               <property name="proportion">0</property>
                               <object class="spacer" expanded="false">
                                 <property name="height">0</property>
-                                <property name="permission">protected</property>
+                                <property name="permission">none</property>
                                 <property name="width">8</property>
                               </object>
                             </object>
@@ -919,20 +915,27 @@
                           <property name="flag"></property>
                           <property name="proportion">0</property>
                           <object class="spacer" expanded="false">
-                            <property name="height">8</property>
+                            <property name="height">4</property>
                             <property name="permission">protected</property>
                             <property name="width">0</property>
                           </object>
                         </object>
                         <object class="sizeritem" expanded="true">
                           <property name="border">5</property>
-                          <property name="flag">wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT</property>
+                          <property name="flag">wxALL|wxEXPAND</property>
                           <property name="proportion">1</property>
-                          <object class="wxBoxSizer" expanded="true">
+                          <object class="wxFlexGridSizer" expanded="false">
+                            <property name="cols">5</property>
+                            <property name="flexible_direction">wxBOTH</property>
+                            <property name="growablecols">2</property>
+                            <property name="growablerows"></property>
+                            <property name="hgap">0</property>
                             <property name="minimum_size"></property>
-                            <property name="name">jpnVoiceOptionBSizer</property>
-                            <property name="orient">wxHORIZONTAL</property>
+                            <property name="name">jpnVoiceOptionGrid</property>
+                            <property name="non_flexible_grow_mode">wxFLEX_GROWMODE_SPECIFIED</property>
                             <property name="permission">none</property>
+                            <property name="rows">3</property>
+                            <property name="vgap">4</property>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
                               <property name="flag">wxALIGN_CENTER_VERTICAL</property>
@@ -1035,7 +1038,7 @@
                                 <property name="maximum_size"></property>
                                 <property name="min_size"></property>
                                 <property name="minimize_button">0</property>
-                                <property name="minimum_size">100,-1</property>
+                                <property name="minimum_size">-1,-1</property>
                                 <property name="moveable">1</property>
                                 <property name="name">m_jpnIsoLabelText</property>
                                 <property name="pane_border">1</property>
@@ -1059,7 +1062,7 @@
                             </object>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
-                              <property name="flag">wxALIGN_CENTER_VERTICAL</property>
+                              <property name="flag">wxALIGN_CENTER_VERTICAL|wxEXPAND</property>
                               <property name="proportion">1</property>
                               <object class="wxTextCtrl" expanded="false">
                                 <property name="BottomDockable">1</property>
@@ -1123,12 +1126,12 @@
                               </object>
                             </object>
                             <object class="sizeritem" expanded="false">
-                              <property name="border">5</property>
-                              <property name="flag">wxEXPAND</property>
+                              <property name="border">0</property>
+                              <property name="flag"></property>
                               <property name="proportion">0</property>
                               <object class="spacer" expanded="false">
                                 <property name="height">0</property>
-                                <property name="permission">protected</property>
+                                <property name="permission">none</property>
                                 <property name="width">8</property>
                               </object>
                             </object>
@@ -1207,17 +1210,6 @@
                                 <event name="OnButtonClick">OnOpenJpnIsoButtonClick</event>
                               </object>
                             </object>
-                          </object>
-                        </object>
-                        <object class="sizeritem" expanded="false">
-                          <property name="border">5</property>
-                          <property name="flag">wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT</property>
-                          <property name="proportion">1</property>
-                          <object class="wxBoxSizer" expanded="false">
-                            <property name="minimum_size"></property>
-                            <property name="name">jpnMusicType1BSizer</property>
-                            <property name="orient">wxHORIZONTAL</property>
-                            <property name="permission">none</property>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
                               <property name="flag">wxALIGN_CENTER_VERTICAL</property>
@@ -1320,7 +1312,7 @@
                                 <property name="maximum_size"></property>
                                 <property name="min_size"></property>
                                 <property name="minimize_button">0</property>
-                                <property name="minimum_size">100,-1</property>
+                                <property name="minimum_size">-1,-1</property>
                                 <property name="moveable">1</property>
                                 <property name="name">m_jpnMusicType1LabelText</property>
                                 <property name="pane_border">1</property>
@@ -1407,17 +1399,26 @@
                                 <property name="window_style"></property>
                               </object>
                             </object>
-                          </object>
-                        </object>
-                        <object class="sizeritem" expanded="false">
-                          <property name="border">5</property>
-                          <property name="flag">wxBOTTOM|wxEXPAND|wxLEFT|wxRIGHT</property>
-                          <property name="proportion">1</property>
-                          <object class="wxBoxSizer" expanded="false">
-                            <property name="minimum_size"></property>
-                            <property name="name">jpnMusicType2BSizer</property>
-                            <property name="orient">wxHORIZONTAL</property>
-                            <property name="permission">none</property>
+                            <object class="sizeritem" expanded="false">
+                              <property name="border">0</property>
+                              <property name="flag"></property>
+                              <property name="proportion">0</property>
+                              <object class="spacer" expanded="false">
+                                <property name="height">0</property>
+                                <property name="permission">none</property>
+                                <property name="width">8</property>
+                              </object>
+                            </object>
+                            <object class="sizeritem" expanded="false">
+                              <property name="border">0</property>
+                              <property name="flag"></property>
+                              <property name="proportion">0</property>
+                              <object class="spacer" expanded="false">
+                                <property name="height">0</property>
+                                <property name="permission">none</property>
+                                <property name="width">8</property>
+                              </object>
+                            </object>
                             <object class="sizeritem" expanded="false">
                               <property name="border">5</property>
                               <property name="flag">wxALIGN_CENTER_VERTICAL</property>
@@ -1520,7 +1521,7 @@
                                 <property name="maximum_size"></property>
                                 <property name="min_size"></property>
                                 <property name="minimize_button">0</property>
-                                <property name="minimum_size">100,-1</property>
+                                <property name="minimum_size">-1,-1</property>
                                 <property name="moveable">1</property>
                                 <property name="name">m_jpnMusicType2LabelText</property>
                                 <property name="pane_border">1</property>
